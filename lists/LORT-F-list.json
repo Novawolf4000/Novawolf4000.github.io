@@ -1,0 +1,42 @@
+﻿[
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Elise",
+        "number": 120,
+        "shape": "transform double faced",
+        "set": "LORT-F",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "Draven",
+        "number": 183,
+        "shape": "transform double faced",
+        "set": "LORT-F",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

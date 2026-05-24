@@ -1,4 +1,353 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+War Chefs removed.
+Vanguard Squire removed.
+Vanguard Sergeant removed.
+Vanguard Redeemer removed.
+Vanguard Lookout removed.
+Vanguard Firstblade removed.
+Vanguard Defender removed.
+Vanguard Cavalry removed.
+Vanguard Bannerman removed.
+Tianna Crownguard removed.
+Swiftwing Lancer removed.
+Succession removed.
+Stand Alone removed.
+Single Combat removed.
+Silverwing Vanguard removed.
+Silverwing Diver removed.
+Riposte removed.
+Remembrance removed.
+Relentless Pursuit removed.
+Reinforcements removed.
+Redoubled Valor removed.
+Radiant Strike removed.
+Radiant Guardian removed.
+Purify removed.
+Prismatic Barrier removed.
+Plucky Poro removed.
+Mobilize removed.
+Mageseeker Persuader removed.
+Mageseeker Investigator removed.
+Mageseeker Inciter removed.
+Mageseeker Conservator removed.
+Lux, The Unseen Light removed.
+Lucian removed.
+Laurent Protege removed.
+Laurent Duelist removed.
+Laurent Chevalier removed.
+Laurent Bladekeeper removed.
+Judgment removed.
+Garen, The King's Sword removed.
+For Demacia! removed.
+Fleetfeather Tracker removed.
+Fiora removed.
+En Garde removed.
+Detain removed.
+Dawnspeakers removed.
+Dauntless Vanguard removed.
+Cithria the Bold removed.
+Cithria of Cloudfield removed.
+Chain Vest removed.
+Brightsteel Protector removed.
+Brightsteel Formation removed.
+Battlesmith removed.
+Back to Back removed.
+Wraithcaller removed.
+Withering Wail removed.
+Warden's Prey removed.
+Vile Feast removed.
+Vengeance removed.
+Tortured Prodigy removed.
+Thresh, The Torturer removed.
+The Undying removed.
+The Ruination removed.
+The Rekindler removed.
+The Harrowing removed.
+The Box removed.
+Stirred Spirits removed.
+Splinter Soul removed.
+Spectral Matron removed.
+Soulgorger removed.
+Soul Shepherd removed.
+Sinister Poro removed.
+Shark Chariot removed.
+Senna, The Redeemer removed.
+Scuttlegeist removed.
+Scribe of Sorrows removed.
+Rhasa the Sunderer removed.
+Possession removed.
+Phantom Prankster removed.
+Onslaught of Shadows removed.
+Oblivious Islander removed.
+Mistwraith removed.
+Mist's Call removed.
+Mark of the Isles removed.
+Kalista removed.
+Iron Harbinger removed.
+Hecarim removed.
+Haunted Relic removed.
+Hapless Aristocrat removed.
+Grasp of the Undying removed.
+Glimpse Beyond removed.
+Fresh Offerings removed.
+Frenzied Skitterer removed.
+Ethereal Remitter removed.
+Darkwater Scourge removed.
+Cursed Keeper removed.
+Crawling Sensation removed.
+Commander Ledros removed.
+Chronicler of Ruin removed.
+Brood Awakening removed.
+Black Spear removed.
+Atrocity removed.
+Arachnoid Horror removed.
+Ancient Crocolith removed.
+Absorb Soul removed.
+Spiderling removed.
+Vilemaw removed.
+Unleashed Spirit removed.
+Spectral Rider removed.
+Ravenous Butcher removed.
+Fading Memories removed.
+Affectionate Poro removed.
+Arachnoid Host removed.
+Arachnoid Sentry removed.
+Arena Battlecaster removed.
+Arena Bookie removed.
+Basilisk Rider removed.
+Battering Ram removed.
+Blood for Blood removed.
+Brothers' Bond removed.
+Captain Farron removed.
+Crimson Aristocrat removed.
+Crimson Awakener removed.
+Crimson Curator removed.
+Crimson Disciple removed.
+Crowd Favorite removed.
+Culling Strike removed.
+Darius removed.
+Death Lotus removed.
+Decimate removed.
+Decisive Maneuver removed.
+Draven's Biggest Fan removed.
+Elixir of Wrath removed.
+Guile removed.
+House Spider removed.
+Intimidating Roar removed.
+Katarina removed.
+Kato The Arm removed.
+Legion Drummer removed.
+Legion General removed.
+Legion Grenadier removed.
+Legion Marauder removed.
+Legion Rearguard removed.
+Legion Saboteur removed.
+Legion Veteran removed.
+Might removed.
+Minotaur Reckoner removed.
+Noxian Guillotine removed.
+Precious Pet removed.
+Reckless Trifarian removed.
+Reckoning removed.
+Savage Reckoner removed.
+Shiraza the Blade removed.
+Shunpo removed.
+Transfusion removed.
+Trifarian Assessor removed.
+Trifarian Gloryseeker removed.
+Trifarian Hopeful removed.
+Trifarian Shieldbreaker removed.
+Vision removed.
+Vladimir removed.
+Whirling Death removed.
+Blade's Edge removed.
+Darkness removed.
+Spinning Axe removed.
+Alpha Wildclaw removed.
+Ancient Yeti removed.
+Anivia removed.
+Ashe removed.
+Avalanche removed.
+Avarosan Hearthguard removed.
+Avarosan Marksman removed.
+Avarosan Outriders removed.
+Avarosan Sentry removed.
+Avarosan Trapper removed.
+Babbling Bjerg removed.
+Battle Fury removed.
+Bloodsworn Pledge removed.
+Braum removed.
+Brittle Steel removed.
+Bull Elnuk removed.
+Elixir of Iron removed.
+Entreat removed.
+Feral Mystic removed.
+Flash Freeze removed.
+Harsh Winds removed.
+Heart of the Fluft removed.
+Iceborn Legacy removed.
+Icevale Archer removed.
+Icy Yeti removed.
+Kindly Tavernkeeper removed.
+Lonely Poro removed.
+Mighty Poro removed.
+Omen Hawk removed.
+Pack Mentality removed.
+Poro Herder removed.
+Poro Snax removed.
+Rimefang Wolf removed.
+Rimetusk Shaman removed.
+Scarmaiden Reaver removed.
+Scarmother Vrynna removed.
+Scarthane Steffen removed.
+Shatter removed.
+She Who Wanders removed.
+Stalking Wolf removed.
+Starlit Seer removed.
+Take Heart removed.
+Tall Tales removed.
+Tarkaz the Tribeless removed.
+They Who Endure removed.
+Troop of Elnuks removed.
+Tryndamere removed.
+Unscarred Reaver removed.
+Warmother's Call removed.
+Winter's Breath removed.
+Yeti Yearling removed.
+Catalyst of Aeons removed.
+Wyrding Stones removed.
+Zephyr Sage removed.
+Zed removed.
+Yusari removed.
+Yone removed.
+Yasuo, The Wanderer removed.
+Windfarer Hatchling removed.
+Will of Ionia removed.
+Twin Disciplines removed.
+The Empyrean removed.
+Steel Tempest removed.
+Stand United removed.
+Spirit's Refuge removed.
+Sparring Student removed.
+Sown Seeds removed.
+Solitary Monk removed.
+Silent Shadowseer removed.
+Shadowshift removed.
+Shadow Flare removed.
+Shadow Fiend removed.
+Shadow Assassin removed.
+Scaled Snapper removed.
+Rush removed.
+Rivershaper removed.
+Ritual of Renewal removed.
+Ren Shadowblade removed.
+Recall removed.
+Nimble Poro removed.
+Navori Highwayman removed.
+Navori Conspirator removed.
+Navori Bladescout removed.
+Minah Swiftfoot removed.
+Master Shen removed.
+Living Shadow removed.
+Kinkou Wayfinder removed.
+Kinkou Lifeblade removed.
+Ki Guardian removed.
+Keeper of Masks removed.
+Karma removed.
+Jeweled Protector removed.
+Inspiring Mentor removed.
+Insight of Ages removed.
+Herald of Spring removed.
+Health Potion removed.
+Greenglade Lookout removed.
+Greenglade Elder removed.
+Greenglade Duo removed.
+Greenglade Caretaker removed.
+Ghost removed.
+Fae Bladetwirler removed.
+Emerald Awakener removed.
+Deny removed.
+Death Mark removed.
+Dawn and Dusk removed.
+Cloud Drinker removed.
+Navori Brigand removed.
+Assembly Bot removed.
+Flame Chompers! removed.
+Golden Crushbot removed.
+Parade Electrorig removed.
+Plaza Guardian removed.
+Sump Dredger removed.
+Academy Prodigy removed.
+Amateur Aeronaut removed.
+Astute Academic removed.
+Augmented Experimenter removed.
+Back Alley Barkeep removed.
+Boomcrew Rookie removed.
+Chempunk Pickpocket removed.
+Chempunk Shredder removed.
+Chump Whump removed.
+Clump of Whumps removed.
+Corina Veraza removed.
+Counterfeit Copies removed.
+Daring Poro removed.
+Eager Apprentice removed.
+Eminent Benefactor removed.
+Ezreal removed.
+Flash of Brilliance removed.
+Funsmith removed.
+Get Excited! removed.
+Hextech Transmogulator removed.
+Intrepid Mariner removed.
+Jae Medarda removed.
+Jinx removed.
+Jury-Rig removed.
+Midenstokke Henchmen removed.
+Mushroom Cloud removed.
+Mystic Shot removed.
+Professor Heimerdinger removed.
+Professor Von Yipp removed.
+Progress Day! removed.
+Puffcap Peddler removed.
+Purrsuit of Perfection removed.
+Rising Spell Force removed.
+Rummage removed.
+Scrapdash Assembly removed.
+Shady Character removed.
+Statikk Shock removed.
+Sumpsnipe Scavenger removed.
+Sumpworks Map removed.
+Teemo removed.
+Thermogenic Beam removed.
+Trueshot Barrage removed.
+Unlicensed Innovation removed.
+Unstable Voltician removed.
+Used Cask Salesman removed.
+Zaunite Urchin removed.
+Caustic Cask removed.
+Mk0: Windup Shredder removed.
+Mk1: Wrenchbot removed.
+Mk2: Evolution Turret removed.
+Mk3: Apex Turret removed.
+Mk4: Stormlobber removed.
+Mk5: Rocket Blaster removed.
+Mk6: Floor-B-Gone removed.
+Mk7: Armored Stomper removed.
+T-Hex removed.
+Puffcap removed.
+Hecarim, The Shadow of War removed.
+Mistwraith removed.
+Avarosan Hearthguard removed.
+Poro Snax removed.
+Warmother's Call removed.
+Snow Hare removed.
+Catastrophe removed.
+Illegal Contraption removed.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

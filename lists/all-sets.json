@@ -1,3 +1,9 @@
 ﻿{
-    "sets": []
+    "sets": [
+        {
+            "set_code": "LORT-F",
+            "set_name": "Legends Of Runeterra Converted: Foundations",
+            "formats": ""
+        }
+    ]
 }

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>LORT-F</name>
+			<longname>Legends Of Runeterra Converted: Foundations</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Elise</name>
+			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
+When Elise attacks, create a tapped and attacking Spiderling token.
+At the beginning of your upkeep, if you control three or more other spider creatures, transform Elise.
+Partner
+---
+(Back): Spider Queen Elise</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/93_front.png" num="120a">LORT-F</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Spider Queen Elise</related>
+		</card>
+		<card>
+			<name>Spider Queen Elise</name>
+			<text>Fearsome, Challenger (Creatures with Fearsome cannot be blocked by creatures with power 2 or less. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
+Other spiders your control have Fearsome and Challenger.
+---
+(Front): Elise</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/93_back.png" num="120b">LORT-F</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Elise</related>
+		</card>
+		<card>
+			<name>Draven</name>
+			<text>First strike
+When Draven enters, or whenever Draven deals combat damage, create a Spinning Axe token.
+At the end of combat, if Draven attacked and was not destroyed while equipped with a Spinning Axe, put a Glory counter on Draven. At the end of any phase on your turn, if Draven has two or more Glory counters, remove all Glory counters from Draven, then transform him.
+Partner
+---
+(Back): Draven, The Glorious Executioner</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/131_front.png" num="183a">LORT-F</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Draven, The Glorious Executioner</related>
+		</card>
+		<card>
+			<name>Draven, The Glorious Executioner</name>
+			<text>First strike, Trample
+When Draven transforms, or whenever Draven deals combat damage, create a Spinning Axe token.
+---
+(Front): Draven</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/131_back.png" num="183b">LORT-F</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Draven</related>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
