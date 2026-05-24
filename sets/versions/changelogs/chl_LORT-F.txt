@@ -1,4 +1,105 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Shark Chariot
+rules_text: Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+Shark Chariot can't block.
+If Shark Chariot is in the graveyard, whenever a creature with Ephemeral you control attacks, Shark Chariot enters the battlefield from the graveyard tapped and attacking. => Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+Shark Chariot can't block.
+If Shark Chariot is in the graveyard, whenever a creature with Ephemeral you control attacks, Shark Chariot enters from the graveyard tapped and attacking.
+
+Rhasa the Sunderer
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+[i]Morbid[/i] — When Rhasa the Sunderer enters the battlefield, if a creature you control died this turn, target opponent sacrifices two creatures with the lowest power among creatures they control. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+[i]Morbid[/i] — When Rhasa the Sunderer enters, if a creature you control died this turn, target opponent sacrifices two creatures with the lowest power among creatures they control.
+
+
+Commander Ledros
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Commander Ledros enters the battlefield target opponent loses half their life rounded down.
+When Commander Ledros is destroyed, return Commander Ledros to its owners hand instead of the graveyard. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Commander Ledros enters target opponent loses half their life rounded down.
+When Commander Ledros is destroyed, return Commander Ledros to its owners hand instead of the graveyard.
+
+Chronicler of Ruin
+rules_text: When Chronicler of Ruin enters the battlefield sacrifice a creature you control, then return the sacrificed creature from the graveyard to the battlefield. => When Chronicler of Ruin enters, sacrifice a creature you control, then return the sacrificed creature from the graveyard to the battlefield.
+
+Fading Memories
+rules_text: Create an exiled copy of target creature. You may cast that copy from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy.
+When the exiled copy enters the battlefield it enters with Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Create an exiled copy of target creature. You may cast that copy from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy.
+When the exiled copy enters it enters with Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+
+Crimson Curator
+rules_text: When Crimson Curator is dealt damage and is not destroyed, search your library for a nonlegendary human warlock creature, reveal it and add it to your hand, then shuffle your library. => When Crimson Curator is dealt damage and is not destroyed, search your library for a nonlegendary human warlock creature, reveal it and add it to your hand, then shuffle.
+
+Draven's Biggest Fan
+rules_text: When Draven's Biggest Fan enters the battlefield, if you don't control a legendary creature named Draven or Draven, The Glorious Executioner, you may search your library and/or graveyard for a card named Draven, reveal it, and put it into your hand. If you search your library this way, shuffle. => When Draven's Biggest Fan enters, if you don't control a legendary creature named Draven or Draven, The Glorious Executioner, you may search your library and/or graveyard for a card named Draven, reveal it, and put it into your hand. If you search your library this way, shuffle.
+
+Babbling Bjerg
+rules_text: When Babbling Bjerg enters, search your library for a creature with power 5 or greater, reveal it, put it into your hand, then shuffle your library. => When Babbling Bjerg enters, search your library for a creature with power 5 or greater, reveal it, put it into your hand, then shuffle.
+
+Entreat
+rules_text: Search your library for a legendary creature, reveal it, add it to your hand, then shuffle your library. => Search your library for a legendary creature, reveal it, add it to your hand, then shuffle.
+
+Omen Hawk
+rules_text: Flying
+When Omen Hawk enters, the next two creatures that enters the battlefield under your control enter with a +1/+1 counter. => Flying
+When Omen Hawk enters, the next two creatures that you control enters with a +1/+1 counter.
+
+Poro Herder
+rules_text: When Poro Herder enters you may behold a poro. If you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle your library. [i](To behold a poro., choose a poro. you control or reveal a poro. card from your hand.)[/i] => When Poro Herder enters you may behold a poro. If you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle. [i](To behold a poro., choose a poro. you control or reveal a poro. card from your hand.)[/i]
+
+Navori Highwayman
+rules_text: When Navori Highwayman enters the battlefield create Navori Brigand token with the same power and toughness as Navori Highwayman. => When Navori Highwayman enters create Navori Brigand token with the same power and toughness as Navori Highwayman.
+
+Minah Swiftfoot
+rules_text: First strike
+When Minah Swiftfoot enters the battlefield recall three creatures an opponent controls. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i] => First strike
+When Minah Swiftfoot enters recall three creatures an opponent controls. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]
+
+Master Shen
+rules_text: Master Shen enters the battlefield with a shield counter.
+When Master Shen attacks, other target attacking creature you control gets a shield counter.
+Whenever a shield counter is put onto a creature you control, put a Twilight counter onto Master Shen. At the end of any phase on your turn, if Master Shen has five or more Twilight counters, remove all Twilight counters from Master Shen, then transform him.
+Partner => Master Shen enters with a shield counter.
+When Master Shen attacks, other target attacking creature you control gets a shield counter.
+Whenever a shield counter is put onto a creature you control, put a Twilight counter onto Master Shen. At the end of any phase on your turn, if Master Shen has five or more Twilight counters, remove all Twilight counters from Master Shen, then transform him.
+Partner
+
+Kinkou Wayfinder
+rules_text: Allegiance: search your library for a creture with a mana value {1}, put it onto the battlefield, then shuffle your library. [i](When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then search your library for a creture with a mana value 1, put it onto the battlefield, then shuffle your library)[/i] => Allegiance: search your library for a creature with mana value 1, put it onto the battlefield, then shuffle. [i](When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then search your library for a creature with a mana value 1, put it onto the battlefield, then shuffle)[/i]
+
+Karma
+rules_text: At the end of your turn search your library for an instant or sorcery, reveal it, add it to your hand then shuffle your library.
+At the end of any phase on your turn, if you are Enlightened, transform Karma. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i]
+Partner => At the end of your turn search your library for an instant or sorcery, reveal it, add it to your hand then shuffle.
+At the end of any phase on your turn, if you are Enlightened, transform Karma. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i]
+Partner
+
+Insight of Ages
+rules_text: Search your library for an instant or sorcery, reveal it, add it to your hand then shuffle your library.
+If you are Enlightened, you may search for an additional instant or sorcery. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i] => Search your library for an instant or sorcery, reveal it, add it to your hand then shuffle.
+If you are Enlightened, you may search for an additional instant or sorcery. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i]
+
+Greenglade Duo
+rules_text: Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+Whenever a creature you control enters the battlefield, Greenglade Duo gets +1/+0 until end of turn. => Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+Whenever a creature you control enters, Greenglade Duo gets +1/+0 until end of turn.
+
+Professor Heimerdinger
+rules_text: Whenever you cast an instant or sorcery you may search your library for an artifact creature with mana value X where X is the mana value of the cast instant or sorcery and put it onto the battlefield, then shuffle.
+Whenever an artifact creature enters the battlefield under your control, put X Innovation counters on Professor Heimerdinger where X is that artifact creatures mana value. At the end of any phase on your turn, if Professor Heimerdinger has twelve or more Innovation counters, remove all Innovation counters from Professor Heimerdinger and transform Professor Heimerdinger.
+Partner => Whenever you cast an instant or sorcery you may search your library for an artifact creature with mana value X where X is the mana value of that spell, put it onto the battlefield, then shuffle.
+Whenever an artifact creature you control enters, put X Innovation counters on Professor Heimerdinger where X is that creatures mana value. At the end of any phase on your turn, if Professor Heimerdinger has twelve or more Innovation counters, remove all Innovation counters from Professor Heimerdinger and transform him.
+Partner
+
+Shady Character
+rules_text: You may have Shady Character enter the battlefield as a copy of target creature on the battlefield. => You may have Shady Character enter as a copy of target creature on the battlefield.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

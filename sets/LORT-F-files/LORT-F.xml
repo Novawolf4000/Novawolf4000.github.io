@@ -3,7 +3,7 @@
 	<sets>
 		<set>
 			<name>LORT-F</name>
-			<longname>Legends Of Runeterra Conversion Reforged Foundations (Recosted)</longname>
+			<longname>Legends Of Runeterra Converted: Foundations</longname>
 			<settype>Custom</settype>
 			<releasedate>2026-05-24</releasedate>
 		</set>
@@ -1341,7 +1341,7 @@ When Spectral Matron enters, choose a creature from your hand and reveal it, cre
 			<name>Shark Chariot</name>
 			<text>Ephemeral (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)
 Shark Chariot can&apos;t block.
-If Shark Chariot is in the graveyard, whenever a creature with Ephemeral you control attacks, Shark Chariot enters the battlefield from the graveyard tapped and attacking.</text>
+If Shark Chariot is in the graveyard, whenever a creature with Ephemeral you control attacks, Shark Chariot enters from the graveyard tapped and attacking.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/71.png" num="147">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -1440,7 +1440,7 @@ Scuttlegeist costs {1} less to cast for each creature in your graveyard.</text>
 		<card>
 			<name>Rhasa the Sunderer</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-Morbid — When Rhasa the Sunderer enters the battlefield, if a creature you control died this turn, target opponent sacrifices two creatures with the lowest power among creatures they control.</text>
+Morbid — When Rhasa the Sunderer enters, if a creature you control died this turn, target opponent sacrifices two creatures with the lowest power among creatures they control.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/75.png" num="142">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -1919,7 +1919,7 @@ Create two Spiderling tokens.</text>
 		<card>
 			<name>Commander Ledros</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-When Commander Ledros enters the battlefield target opponent loses half their life rounded down.
+When Commander Ledros enters target opponent loses half their life rounded down.
 When Commander Ledros is destroyed, return Commander Ledros to its owners hand instead of the graveyard.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/97.png" num="116">LORT-F</set>
 			<prop>
@@ -1937,7 +1937,7 @@ When Commander Ledros is destroyed, return Commander Ledros to its owners hand i
 		</card>
 		<card>
 			<name>Chronicler of Ruin</name>
-			<text>When Chronicler of Ruin enters the battlefield sacrifice a creature you control, then return the sacrificed creature from the graveyard to the battlefield.</text>
+			<text>When Chronicler of Ruin enters, sacrifice a creature you control, then return the sacrificed creature from the graveyard to the battlefield.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/98.png" num="115">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -2145,7 +2145,7 @@ Other Fearsome creatures you control get +1/+0.</text>
 		<card>
 			<name>Fading Memories</name>
 			<text>Create an exiled copy of target creature. You may cast that copy from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy.
-When the exiled copy enters the battlefield it enters with Ephemeral. (That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
+When the exiled copy enters it enters with Ephemeral. (That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/110.png" num="122">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -2365,7 +2365,7 @@ When Captain Farron enters, search your library and/or graveyard for two cards n
 		</card>
 		<card>
 			<name>Crimson Curator</name>
-			<text>When Crimson Curator is dealt damage and is not destroyed, search your library for a nonlegendary human warlock creature, reveal it and add it to your hand, then shuffle your library.</text>
+			<text>When Crimson Curator is dealt damage and is not destroyed, search your library for a nonlegendary human warlock creature, reveal it and add it to your hand, then shuffle.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/123.png" num="175">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -2569,7 +2569,7 @@ When Draven transforms, or whenever Draven deals combat damage, create a Spinnin
 		</card>
 		<card>
 			<name>Draven&apos;s Biggest Fan</name>
-			<text>When Draven&apos;s Biggest Fan enters the battlefield, if you don&apos;t control a legendary creature named Draven or Draven, The Glorious Executioner, you may search your library and/or graveyard for a card named Draven, reveal it, and put it into your hand. If you search your library this way, shuffle.</text>
+			<text>When Draven&apos;s Biggest Fan enters, if you don&apos;t control a legendary creature named Draven or Draven, The Glorious Executioner, you may search your library and/or graveyard for a card named Draven, reveal it, and put it into your hand. If you search your library this way, shuffle.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/132.png" num="184">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -3419,7 +3419,7 @@ When this creature enters, reveal the card on the top of your library, if the re
 		</card>
 		<card>
 			<name>Babbling Bjerg</name>
-			<text>When Babbling Bjerg enters, search your library for a creature with power 5 or greater, reveal it, put it into your hand, then shuffle your library.</text>
+			<text>When Babbling Bjerg enters, search your library for a creature with power 5 or greater, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/176.png" num="225">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -3561,7 +3561,7 @@ Whenever Braum is dealt damage and is not destroyed, create a Mighty Poro token.
 		</card>
 		<card>
 			<name>Entreat</name>
-			<text>Search your library for a legendary creature, reveal it, add it to your hand, then shuffle your library.</text>
+			<text>Search your library for a legendary creature, reveal it, add it to your hand, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/183.png" num="233">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -3747,7 +3747,7 @@ Enchanted creature you control gets +2/+2. Each other creature you control with 
 		<card>
 			<name>Omen Hawk</name>
 			<text>Flying
-When Omen Hawk enters, the next two creatures that enters the battlefield under your control enter with a +1/+1 counter.</text>
+When Omen Hawk enters, the next two creatures that you control enters with a +1/+1 counter.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/194.png" num="244">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -3780,7 +3780,7 @@ When Omen Hawk enters, the next two creatures that enters the battlefield under 
 		</card>
 		<card>
 			<name>Poro Herder</name>
-			<text>When Poro Herder enters you may behold a poro. If you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle your library. (To behold a poro., choose a poro. you control or reveal a poro. card from your hand.)</text>
+			<text>When Poro Herder enters you may behold a poro. If you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle. (To behold a poro., choose a poro. you control or reveal a poro. card from your hand.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/196.png" num="246">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -4710,7 +4710,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Navori Highwayman</name>
-			<text>When Navori Highwayman enters the battlefield create Navori Brigand token with the same power and toughness as Navori Highwayman.</text>
+			<text>When Navori Highwayman enters create Navori Brigand token with the same power and toughness as Navori Highwayman.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/246.png" num="81">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -4763,7 +4763,7 @@ Shadow (This creature can block or be blocked by only creatures with shadow.)</t
 		<card>
 			<name>Minah Swiftfoot</name>
 			<text>First strike
-When Minah Swiftfoot enters the battlefield recall three creatures an opponent controls. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
+When Minah Swiftfoot enters recall three creatures an opponent controls. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/249.png" num="78">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -4780,7 +4780,7 @@ When Minah Swiftfoot enters the battlefield recall three creatures an opponent c
 		</card>
 		<card>
 			<name>Master Shen</name>
-			<text>Master Shen enters the battlefield with a shield counter.
+			<text>Master Shen enters with a shield counter.
 When Master Shen attacks, other target attacking creature you control gets a shield counter.
 Whenever a shield counter is put onto a creature you control, put a Twilight counter onto Master Shen. At the end of any phase on your turn, if Master Shen has five or more Twilight counters, remove all Twilight counters from Master Shen, then transform him.
 Partner
@@ -4842,7 +4842,7 @@ Whenever a shield counter is put onto a creature you control, that creature gets
 		</card>
 		<card>
 			<name>Kinkou Wayfinder</name>
-			<text>Allegiance: search your library for a creture with a mana value {1}, put it onto the battlefield, then shuffle your library. (When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then search your library for a creture with a mana value 1, put it onto the battlefield, then shuffle your library)</text>
+			<text>Allegiance: search your library for a creature with mana value 1, put it onto the battlefield, then shuffle. (When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then search your library for a creature with a mana value 1, put it onto the battlefield, then shuffle)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/252.png" num="75">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -4911,7 +4911,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Karma</name>
-			<text>At the end of your turn search your library for an instant or sorcery, reveal it, add it to your hand then shuffle your library.
+			<text>At the end of your turn search your library for an instant or sorcery, reveal it, add it to your hand then shuffle.
 At the end of any phase on your turn, if you are Enlightened, transform Karma. (The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)
 Partner
 ---
@@ -4933,7 +4933,7 @@ Partner
 		</card>
 		<card>
 			<name>Karma, The Enlightened One</name>
-			<text>At the end of your turn search your library for an instant or sorcery, reveal it, add it to your hand then shuffle your library.
+			<text>At the end of your turn search your library for an instant or sorcery, reveal it, add it to your hand then shuffle.
 Whenever you cast an instant or sorcery, copy it targeting the same targets.
 ---
 (Front): Karma</text>
@@ -4988,7 +4988,7 @@ Whenever you cast an instant or sorcery, copy it targeting the same targets.
 		</card>
 		<card>
 			<name>Insight of Ages</name>
-			<text>Search your library for an instant or sorcery, reveal it, add it to your hand then shuffle your library.
+			<text>Search your library for an instant or sorcery, reveal it, add it to your hand then shuffle.
 If you are Enlightened, you may search for an additional instant or sorcery. (The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/259.png" num="68">LORT-F</set>
 			<prop>
@@ -5075,7 +5075,7 @@ If you are Enlightened, you may search for an additional instant or sorcery. (Th
 		<card>
 			<name>Greenglade Duo</name>
 			<text>Shadow (This creature can block or be blocked by only creatures with shadow.)
-Whenever a creature you control enters the battlefield, Greenglade Duo gets +1/+0 until end of turn.</text>
+Whenever a creature you control enters, Greenglade Duo gets +1/+0 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/264.png" num="63">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -5855,8 +5855,8 @@ At the beginning of your draw step, draw and additional card.
 		</card>
 		<card>
 			<name>Professor Heimerdinger</name>
-			<text>Whenever you cast an instant or sorcery you may search your library for an artifact creature with mana value X where X is the mana value of the cast instant or sorcery and put it onto the battlefield, then shuffle.
-Whenever an artifact creature enters the battlefield under your control, put X Innovation counters on Professor Heimerdinger where X is that artifact creatures mana value. At the end of any phase on your turn, if Professor Heimerdinger has twelve or more Innovation counters, remove all Innovation counters from Professor Heimerdinger and transform Professor Heimerdinger.
+			<text>Whenever you cast an instant or sorcery you may search your library for an artifact creature with mana value X where X is the mana value of that spell, put it onto the battlefield, then shuffle.
+Whenever an artifact creature you control enters, put X Innovation counters on Professor Heimerdinger where X is that creatures mana value. At the end of any phase on your turn, if Professor Heimerdinger has twelve or more Innovation counters, remove all Innovation counters from Professor Heimerdinger and transform him.
 Partner
 ---
 (Back): Heimerdinger, The Revered Inventor</text>
@@ -5877,7 +5877,7 @@ Partner
 		</card>
 		<card>
 			<name>Heimerdinger, The Revered Inventor</name>
-			<text>Whenever you cast an instant or sorcery you may search your library for an artifact creature with mana value X where X is the mana value of the cast instant or sorcery and put it onto the battlefield, then shuffle. That creature enters with a +1/+1 counter.
+			<text>Whenever you cast an instant or sorcery you may search your library for an artifact creature with mana value X where X is the mana value of that spell, put it onto the battlefield, then shuffle. That creature enters with a +1/+1 counter.
 ---
 (Front): Professor Heimerdinger</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/307_back.png" num="315b">LORT-F</set>
@@ -6012,7 +6012,7 @@ Create a Catastrophe token.</text>
 		</card>
 		<card>
 			<name>Shady Character</name>
-			<text>You may have Shady Character enter the battlefield as a copy of target creature on the battlefield.</text>
+			<text>You may have Shady Character enter as a copy of target creature on the battlefield.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/315.png" num="298">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
