@@ -1,4 +1,353 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+War Chefs added.
+Vanguard Squire added.
+Vanguard Sergeant added.
+Vanguard Redeemer added.
+Vanguard Lookout added.
+Vanguard Firstblade added.
+Vanguard Defender added.
+Vanguard Cavalry added.
+Vanguard Bannerman added.
+Tianna Crownguard added.
+Swiftwing Lancer added.
+Succession added.
+Stand Alone added.
+Single Combat added.
+Silverwing Vanguard added.
+Silverwing Diver added.
+Riposte added.
+Remembrance added.
+Relentless Pursuit added.
+Reinforcements added.
+Redoubled Valor added.
+Radiant Strike added.
+Radiant Guardian added.
+Purify added.
+Prismatic Barrier added.
+Plucky Poro added.
+Mobilize added.
+Mageseeker Persuader added.
+Mageseeker Investigator added.
+Mageseeker Inciter added.
+Mageseeker Conservator added.
+Lux, The Unseen Light added.
+Lucian added.
+Laurent Protege added.
+Laurent Duelist added.
+Laurent Chevalier added.
+Laurent Bladekeeper added.
+Judgment added.
+Garen, The King's Sword added.
+For Demacia! added.
+Fleetfeather Tracker added.
+Fiora added.
+En Garde added.
+Detain added.
+Dawnspeakers added.
+Dauntless Vanguard added.
+Cithria the Bold added.
+Cithria of Cloudfield added.
+Chain Vest added.
+Brightsteel Protector added.
+Brightsteel Formation added.
+Battlesmith added.
+Back to Back added.
+Wraithcaller added.
+Withering Wail added.
+Warden's Prey added.
+Vile Feast added.
+Vengeance added.
+Tortured Prodigy added.
+Thresh, The Torturer added.
+The Undying added.
+The Ruination added.
+The Rekindler added.
+The Harrowing added.
+The Box added.
+Stirred Spirits added.
+Splinter Soul added.
+Spectral Matron added.
+Soulgorger added.
+Soul Shepherd added.
+Sinister Poro added.
+Shark Chariot added.
+Senna, The Redeemer added.
+Scuttlegeist added.
+Scribe of Sorrows added.
+Rhasa the Sunderer added.
+Possession added.
+Phantom Prankster added.
+Onslaught of Shadows added.
+Oblivious Islander added.
+Mistwraith added.
+Mist's Call added.
+Mark of the Isles added.
+Kalista added.
+Iron Harbinger added.
+Hecarim added.
+Haunted Relic added.
+Hapless Aristocrat added.
+Grasp of the Undying added.
+Glimpse Beyond added.
+Fresh Offerings added.
+Frenzied Skitterer added.
+Ethereal Remitter added.
+Darkwater Scourge added.
+Cursed Keeper added.
+Crawling Sensation added.
+Commander Ledros added.
+Chronicler of Ruin added.
+Brood Awakening added.
+Black Spear added.
+Atrocity added.
+Arachnoid Horror added.
+Ancient Crocolith added.
+Absorb Soul added.
+Spiderling added.
+Vilemaw added.
+Unleashed Spirit added.
+Spectral Rider added.
+Ravenous Butcher added.
+Fading Memories added.
+Affectionate Poro added.
+Arachnoid Host added.
+Arachnoid Sentry added.
+Arena Battlecaster added.
+Arena Bookie added.
+Basilisk Rider added.
+Battering Ram added.
+Blood for Blood added.
+Brothers' Bond added.
+Captain Farron added.
+Crimson Aristocrat added.
+Crimson Awakener added.
+Crimson Curator added.
+Crimson Disciple added.
+Crowd Favorite added.
+Culling Strike added.
+Darius added.
+Death Lotus added.
+Decimate added.
+Decisive Maneuver added.
+Draven's Biggest Fan added.
+Elixir of Wrath added.
+Guile added.
+House Spider added.
+Intimidating Roar added.
+Katarina added.
+Kato The Arm added.
+Legion Drummer added.
+Legion General added.
+Legion Grenadier added.
+Legion Marauder added.
+Legion Rearguard added.
+Legion Saboteur added.
+Legion Veteran added.
+Might added.
+Minotaur Reckoner added.
+Noxian Guillotine added.
+Precious Pet added.
+Reckless Trifarian added.
+Reckoning added.
+Savage Reckoner added.
+Shiraza the Blade added.
+Shunpo added.
+Transfusion added.
+Trifarian Assessor added.
+Trifarian Gloryseeker added.
+Trifarian Hopeful added.
+Trifarian Shieldbreaker added.
+Vision added.
+Vladimir added.
+Whirling Death added.
+Blade's Edge added.
+Darkness added.
+Spinning Axe added.
+Alpha Wildclaw added.
+Ancient Yeti added.
+Anivia added.
+Ashe added.
+Avalanche added.
+Avarosan Hearthguard added.
+Avarosan Marksman added.
+Avarosan Outriders added.
+Avarosan Sentry added.
+Avarosan Trapper added.
+Babbling Bjerg added.
+Battle Fury added.
+Bloodsworn Pledge added.
+Braum added.
+Brittle Steel added.
+Bull Elnuk added.
+Elixir of Iron added.
+Entreat added.
+Feral Mystic added.
+Flash Freeze added.
+Harsh Winds added.
+Heart of the Fluft added.
+Iceborn Legacy added.
+Icevale Archer added.
+Icy Yeti added.
+Kindly Tavernkeeper added.
+Lonely Poro added.
+Mighty Poro added.
+Omen Hawk added.
+Pack Mentality added.
+Poro Herder added.
+Poro Snax added.
+Rimefang Wolf added.
+Rimetusk Shaman added.
+Scarmaiden Reaver added.
+Scarmother Vrynna added.
+Scarthane Steffen added.
+Shatter added.
+She Who Wanders added.
+Stalking Wolf added.
+Starlit Seer added.
+Take Heart added.
+Tall Tales added.
+Tarkaz the Tribeless added.
+They Who Endure added.
+Troop of Elnuks added.
+Tryndamere added.
+Unscarred Reaver added.
+Warmother's Call added.
+Winter's Breath added.
+Yeti Yearling added.
+Catalyst of Aeons added.
+Wyrding Stones added.
+Zephyr Sage added.
+Zed added.
+Yusari added.
+Yone added.
+Yasuo, The Wanderer added.
+Windfarer Hatchling added.
+Will of Ionia added.
+Twin Disciplines added.
+The Empyrean added.
+Steel Tempest added.
+Stand United added.
+Spirit's Refuge added.
+Sparring Student added.
+Sown Seeds added.
+Solitary Monk added.
+Silent Shadowseer added.
+Shadowshift added.
+Shadow Flare added.
+Shadow Fiend added.
+Shadow Assassin added.
+Scaled Snapper added.
+Rush added.
+Rivershaper added.
+Ritual of Renewal added.
+Ren Shadowblade added.
+Recall added.
+Nimble Poro added.
+Navori Highwayman added.
+Navori Conspirator added.
+Navori Bladescout added.
+Minah Swiftfoot added.
+Master Shen added.
+Living Shadow added.
+Kinkou Wayfinder added.
+Kinkou Lifeblade added.
+Ki Guardian added.
+Keeper of Masks added.
+Karma added.
+Jeweled Protector added.
+Inspiring Mentor added.
+Insight of Ages added.
+Herald of Spring added.
+Health Potion added.
+Greenglade Lookout added.
+Greenglade Elder added.
+Greenglade Duo added.
+Greenglade Caretaker added.
+Ghost added.
+Fae Bladetwirler added.
+Emerald Awakener added.
+Deny added.
+Death Mark added.
+Dawn and Dusk added.
+Cloud Drinker added.
+Navori Brigand added.
+Assembly Bot added.
+Flame Chompers! added.
+Golden Crushbot added.
+Parade Electrorig added.
+Plaza Guardian added.
+Sump Dredger added.
+Academy Prodigy added.
+Amateur Aeronaut added.
+Astute Academic added.
+Augmented Experimenter added.
+Back Alley Barkeep added.
+Boomcrew Rookie added.
+Chempunk Pickpocket added.
+Chempunk Shredder added.
+Chump Whump added.
+Clump of Whumps added.
+Corina Veraza added.
+Counterfeit Copies added.
+Daring Poro added.
+Eager Apprentice added.
+Eminent Benefactor added.
+Ezreal added.
+Flash of Brilliance added.
+Funsmith added.
+Get Excited! added.
+Hextech Transmogulator added.
+Intrepid Mariner added.
+Jae Medarda added.
+Jinx added.
+Jury-Rig added.
+Midenstokke Henchmen added.
+Mushroom Cloud added.
+Mystic Shot added.
+Professor Heimerdinger added.
+Professor Von Yipp added.
+Progress Day! added.
+Puffcap Peddler added.
+Purrsuit of Perfection added.
+Rising Spell Force added.
+Rummage added.
+Scrapdash Assembly added.
+Shady Character added.
+Statikk Shock added.
+Sumpsnipe Scavenger added.
+Sumpworks Map added.
+Teemo added.
+Thermogenic Beam added.
+Trueshot Barrage added.
+Unlicensed Innovation added.
+Unstable Voltician added.
+Used Cask Salesman added.
+Zaunite Urchin added.
+Caustic Cask added.
+Mk0: Windup Shredder added.
+Mk1: Wrenchbot added.
+Mk2: Evolution Turret added.
+Mk3: Apex Turret added.
+Mk4: Stormlobber added.
+Mk5: Rocket Blaster added.
+Mk6: Floor-B-Gone added.
+Mk7: Armored Stomper added.
+T-Hex added.
+Puffcap added.
+Hecarim, The Shadow of War added.
+Mistwraith added.
+Avarosan Hearthguard added.
+Poro Snax added.
+Warmother's Call added.
+Snow Hare added.
+Catastrophe added.
+Illegal Contraption added.
+
+
+
+VERSION 6 CHANGELOG
 ====================
 
 No changes.
