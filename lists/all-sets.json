@@ -4,6 +4,11 @@
             "set_code": "LORT-F",
             "set_name": "Legends Of Runeterra Converted: Foundations",
             "formats": ""
+        },
+        {
+            "set_code": "LORT-RT",
+            "set_name": "Legends Of Runeterra Converted: Rising Tides",
+            "formats": ""
         }
     ]
 }
