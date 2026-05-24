@@ -1,17 +1,10 @@
 ﻿{
-    "name": "Legends Of Runeterra Conversion Reforged Foundations (Recosted)",
-    "formats": "",
-    "image_type": "png",
-    "draft_structure": "none",
-    "unpreviewed": "card back",
-    "image_name": "position",
-    "v_mana": "",
     "cards": [
         {
             "card_name": "War Chefs",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 53,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -26,13 +19,15 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vanguard Squire",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 52,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
@@ -47,13 +42,15 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vanguard Sergeant",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 51,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -68,17 +65,19 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vanguard Redeemer",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 50,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "[i]Morbid[/i] \u2014 When Vanguard Redeemer enters, if another creature you control died this turn, reveal cards from the top of your library until you reveal a creature, add it to your hand, then shuffle all other revealed cards into your library.",
+            "rules_text": "[i]Morbid[/i] \u2013 When Vanguard Redeemer enters, if another creature you control died this turn, reveal cards from the top of your library until you reveal a creature, add it to your hand, then shuffle all other revealed cards into your library.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -89,13 +88,15 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vanguard Lookout",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 49,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -110,13 +111,15 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vanguard Firstblade",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 48,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -131,13 +134,15 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vanguard Defender",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 47,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -152,13 +157,15 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vanguard Cavalry",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 46,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -173,13 +180,15 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vanguard Bannerman",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 45,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -194,13 +203,15 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tianna Crownguard",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Knight Noble",
+            "type": "Creature \u2013 Human Knight Noble",
             "number": 44,
             "color_identity": "W",
             "cost": "{3}{W}{W}{W}",
@@ -215,13 +226,15 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swiftwing Lancer",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 43,
             "color_identity": "W",
             "cost": "{2}{W}{W}{W}",
@@ -236,7 +249,9 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Succession",
@@ -257,7 +272,9 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stand Alone",
@@ -278,7 +295,9 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Single Combat",
@@ -299,13 +318,15 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Silverwing Vanguard",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2013 Bird",
             "number": 39,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -320,13 +341,15 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Silverwing Diver",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2013 Bird",
             "number": 38,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -341,7 +364,9 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Riposte",
@@ -362,7 +387,9 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Remembrance",
@@ -383,7 +410,9 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Relentless Pursuit",
@@ -404,7 +433,9 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reinforcements",
@@ -425,7 +456,9 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Redoubled Valor",
@@ -446,7 +479,9 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Radiant Strike",
@@ -467,17 +502,19 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Radiant Guardian",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 31,
             "color_identity": "W",
             "cost": "{2}{W}{W}{W}",
-            "rules_text": "[i]Morbid[/i] \u2014 Radiant Guardian enters with Lifelink and Absorb 1, if a creature you control died this turn. [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i]",
+            "rules_text": "[i]Morbid[/i] \u2013 Radiant Guardian enters with Lifelink and Absorb 1, if a creature you control died this turn. [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -488,7 +525,9 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Purify",
@@ -509,7 +548,9 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prismatic Barrier",
@@ -530,13 +571,15 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plucky Poro",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Poro",
+            "type": "Creature \u2013 Poro",
             "number": 28,
             "color_identity": "W",
             "cost": "{W}",
@@ -551,7 +594,9 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mobilize",
@@ -572,13 +617,15 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mageseeker Persuader",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Inquisitor",
+            "type": "Creature \u2013 Human Inquisitor",
             "number": 26,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -593,13 +640,15 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mageseeker Investigator",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Inquisitor",
+            "type": "Creature \u2013 Human Inquisitor",
             "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
@@ -614,13 +663,15 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mageseeker Inciter",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Inquisitor",
+            "type": "Creature \u2013 Human Inquisitor",
             "number": 24,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -635,13 +686,15 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mageseeker Conservator",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Inquisitor",
+            "type": "Creature \u2013 Human Inquisitor",
             "number": 23,
             "color_identity": "W",
             "cost": "{W}",
@@ -656,13 +709,15 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lux, The Unseen Light",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Wizard Noble",
+            "type": "Legendary Creature \u2013 Human Wizard Noble",
             "number": 22,
             "color_identity": "W",
             "cost": "{2}{W}{W}{W}",
@@ -678,7 +733,7 @@
             "position": "31",
             "card_name2": "Lux, The Lady of Luminosity",
             "color2": "W",
-            "type2": "Legendary Creature \u2014 Human Wizard Noble",
+            "type2": "Legendary Creature \u2013 Human Wizard Noble",
             "cost2": "",
             "rules_text2": "When Lux is transformed, put a shield counter on Lux. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]\nWhenever you cast an instant or sorcery with mana value six or greater, Lux deals 4 damage to up to one target creature. Excess damage dealt this way is dealt to that creatures controller.",
             "flavor_text2": "[i][/i]",
@@ -689,13 +744,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lucian",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Ranger",
+            "type": "Legendary Creature \u2013 Human Ranger",
             "number": 21,
             "color_identity": "W",
             "cost": "{W}",
@@ -711,7 +768,7 @@
             "position": "32",
             "card_name2": "Lucian, The Purifier",
             "color2": "W",
-            "type2": "Legendary Creature \u2014 Human Ranger",
+            "type2": "Legendary Creature \u2013 Human Ranger",
             "cost2": "",
             "rules_text2": "Double strike\nThe first time another creature you control is destroyed on your turn, untap all creatures you control. After this phase, there is an additional combat phase.",
             "flavor_text2": "[i][/i]",
@@ -722,13 +779,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Laurent Protege",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 20,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -743,13 +802,15 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Laurent Duelist",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 19,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -764,13 +825,15 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Laurent Chevalier",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 18,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -785,13 +848,15 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Laurent Bladekeeper",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 17,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -806,7 +871,9 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Judgment",
@@ -827,13 +894,15 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Garen, The King's Sword",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Knight Noble",
+            "type": "Legendary Creature \u2013 Human Knight Noble",
             "number": 15,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -849,7 +918,7 @@
             "position": "38",
             "card_name2": "Garen, The Might of Demacia",
             "color2": "W",
-            "type2": "Legendary Creature \u2014 Human Knight Noble",
+            "type2": "Legendary Creature \u2013 Human Knight Noble",
             "cost2": "",
             "rules_text2": "Juggernaut [i](After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i]\nWhen Garen transforms, all other creatures you control gain +1/+1 until the end of turn.\nWhenever Garen attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.",
             "flavor_text2": "[i][/i]",
@@ -860,7 +929,9 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "For Demacia!",
@@ -881,13 +952,15 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fleetfeather Tracker",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2013 Bird",
             "number": 13,
             "color_identity": "W",
             "cost": "{W}",
@@ -902,13 +975,15 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fiora",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Knight",
+            "type": "Legendary Creature \u2013 Human Knight",
             "number": 12,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -924,7 +999,7 @@
             "position": "41",
             "card_name2": "Fiora, The Grand Duelist",
             "color2": "W",
-            "type2": "Legendary Creature \u2014 Human Knight",
+            "type2": "Legendary Creature \u2013 Human Knight",
             "cost2": "",
             "rules_text2": "Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]\nWhenever Fiora destroys a creature an opponent controls, place one Vital counter on Fiora. Vital counters cannot be proliferated or copied.\nAt the end of combat, if Fiora has not been destroyed and has four Vital counters you win the game.",
             "flavor_text2": "[i][/i]",
@@ -935,7 +1010,9 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "En Garde",
@@ -956,7 +1033,9 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Detain",
@@ -977,13 +1056,15 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dawnspeakers",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 9,
             "color_identity": "W",
             "cost": "{W}{W}{W}",
@@ -998,13 +1079,15 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dauntless Vanguard",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 8,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -1019,13 +1102,15 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cithria the Bold",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 7,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -1040,13 +1125,15 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cithria of Cloudfield",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 6,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1061,7 +1148,9 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chain Vest",
@@ -1082,13 +1171,15 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brightsteel Protector",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 4,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1103,13 +1194,15 @@
             "alias": "",
             "position": "49",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brightsteel Formation",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 3,
             "color_identity": "W",
             "cost": "{4}{W}{W}{W}",
@@ -1124,13 +1217,15 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Battlesmith",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Artificer",
+            "type": "Creature \u2013 Human Artificer",
             "number": 2,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1145,7 +1240,9 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Back to Back",
@@ -1166,13 +1263,15 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wraithcaller",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 162,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -1187,7 +1286,9 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Withering Wail",
@@ -1208,13 +1309,15 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Warden's Prey",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 160,
             "color_identity": "B",
             "cost": "{B}",
@@ -1229,7 +1332,9 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vile Feast",
@@ -1250,7 +1355,9 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vengeance",
@@ -1271,13 +1378,15 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tortured Prodigy",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 156,
             "color_identity": "B",
             "cost": "{2}{B}{B}{B}",
@@ -1292,13 +1401,15 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thresh, The Torturer",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Wraith",
+            "type": "Legendary Creature \u2013 Wraith",
             "number": 155,
             "color_identity": "B",
             "cost": "{2}{B}{B}{B}",
@@ -1314,7 +1425,7 @@
             "position": "59",
             "card_name2": "Thresh, The Chain Warden",
             "color2": "B",
-            "type2": "Legendary Creature \u2014 Wraith",
+            "type2": "Legendary Creature \u2013 Wraith",
             "cost2": "",
             "rules_text2": "Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]\nThe first time Thresh attacks each turn, search your library for a legendary creature not named Thresh, then put that creature onto the battlefield tapped and attacking, then shuffle.",
             "flavor_text2": "[i][/i]",
@@ -1325,13 +1436,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Undying",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 157,
             "color_identity": "B",
             "cost": "{B}{B}{B}",
@@ -1346,7 +1459,9 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Ruination",
@@ -1367,13 +1482,15 @@
             "alias": "Damnation",
             "position": "61",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Rekindler",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 141,
             "color_identity": "B",
             "cost": "{3}{B}{B}{B}",
@@ -1388,7 +1505,9 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Harrowing",
@@ -1409,7 +1528,9 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Box",
@@ -1430,13 +1551,15 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stirred Spirits",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 154,
             "color_identity": "B",
             "cost": "{B}{B}",
@@ -1451,7 +1574,9 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Splinter Soul",
@@ -1472,13 +1597,15 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spectral Matron",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 151,
             "color_identity": "B",
             "cost": "{4}{B}{B}{B}",
@@ -1493,13 +1620,15 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soulgorger",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 150,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -1514,13 +1643,15 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soul Shepherd",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 149,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1535,13 +1666,15 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sinister Poro",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Poro",
+            "type": "Creature \u2013 Poro",
             "number": 148,
             "color_identity": "B",
             "cost": "{B}",
@@ -1556,13 +1689,15 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shark Chariot",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 147,
             "color_identity": "B",
             "cost": "{B}{B}",
@@ -1577,13 +1712,15 @@
             "alias": "",
             "position": "71",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Senna, The Redeemer",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Spirit",
+            "type": "Legendary Creature \u2013 Human Spirit",
             "number": 146,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -1599,7 +1736,7 @@
             "position": "72",
             "card_name2": "Senna, Sentinel of Light",
             "color2": "B",
-            "type2": "Legendary Creature \u2014 Human Spirit",
+            "type2": "Legendary Creature \u2013 Human Spirit",
             "cost2": "",
             "rules_text2": "First strike\nWhen Senna transforms or attacks, create a Darkness token if you don't have one.\nSorcery spells you control cost {1} less to cast, and you may cast sorcery spells as though is had flash.",
             "flavor_text2": "[i][/i]",
@@ -1610,13 +1747,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scuttlegeist",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wraith Crab",
+            "type": "Creature \u2013 Wraith Crab",
             "number": 145,
             "color_identity": "B",
             "cost": "{9}{B}",
@@ -1631,13 +1770,15 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scribe of Sorrows",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 144,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -1652,17 +1793,19 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rhasa the Sunderer",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 142,
             "color_identity": "B",
             "cost": "{5}{B}{B}{B}",
-            "rules_text": "Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]\n[i]Morbid[/i] \u2014 When Rhasa the Sunderer enters the battlefield, if a creature you control died this turn, target opponent sacrifices two creatures with the lowest power among creatures they control.",
+            "rules_text": "Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]\n[i]Morbid[/i] \u2013 When Rhasa the Sunderer enters the battlefield, if a creature you control died this turn, target opponent sacrifices two creatures with the lowest power among creatures they control.",
             "flavor_text": "[i][/i]",
             "pt": "8/6",
             "special_text": "",
@@ -1673,7 +1816,9 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Possession",
@@ -1694,13 +1839,15 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Phantom Prankster",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 138,
             "color_identity": "B",
             "cost": "{B}{B}{B}",
@@ -1715,7 +1862,9 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Onslaught of Shadows",
@@ -1736,13 +1885,15 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Oblivious Islander",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 136,
             "color_identity": "B",
             "cost": "{B}",
@@ -1757,13 +1908,15 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mistwraith",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 135,
             "color_identity": "B",
             "cost": "{B}{B}",
@@ -1778,7 +1931,9 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mist's Call",
@@ -1799,7 +1954,9 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mark of the Isles",
@@ -1820,13 +1977,15 @@
             "alias": "",
             "position": "82",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kalista",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Wraith",
+            "type": "Legendary Creature \u2013 Wraith",
             "number": 132,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -1842,7 +2001,7 @@
             "position": "83",
             "card_name2": "Kalista, The Spear of Vengeance",
             "color2": "B",
-            "type2": "Legendary Creature \u2014 Wraith",
+            "type2": "Legendary Creature \u2013 Wraith",
             "cost2": "",
             "rules_text2": "Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]\nWhenever Kalista attacks for the first time each turn, put the creature with the highest power among cards in your graveyard onto the battlefield tapped, attacking, and soulbond to Kalista. It gets decayed. [i](You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)[/i]\nAs long as Kalista is soulbond with another creature, she has Hexproof and Indestructible.",
             "flavor_text2": "[i][/i]",
@@ -1853,13 +2012,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Iron Harbinger",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 131,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -1874,13 +2035,15 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hecarim",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Wraith",
+            "type": "Legendary Creature \u2013 Wraith",
             "number": 130,
             "color_identity": "B",
             "cost": "{3}{B}{B}{B}",
@@ -1896,7 +2059,7 @@
             "position": "85",
             "card_name2": "Hecarim, The Shadow of War",
             "color2": "B",
-            "type2": "Legendary Creature \u2014 Wraith",
+            "type2": "Legendary Creature \u2013 Wraith",
             "cost2": "",
             "rules_text2": "Trample\nWhen Hecarim transforms, you get an emblem with \u201cEphemeral creatures you control get +3/+0.\u201d\nWhen Hecarim attacks, create two tapped and attacking Spectral Rider tokens.",
             "flavor_text2": "[i][/i]",
@@ -1907,7 +2070,9 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Haunted Relic",
@@ -1928,13 +2093,15 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hapless Aristocrat",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 127,
             "color_identity": "B",
             "cost": "{B}",
@@ -1949,7 +2116,9 @@
             "alias": "",
             "position": "87",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grasp of the Undying",
@@ -1970,7 +2139,9 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glimpse Beyond",
@@ -1991,7 +2162,9 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fresh Offerings",
@@ -2012,13 +2185,15 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Frenzied Skitterer",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Spider",
+            "type": "Creature \u2013 Spider",
             "number": 123,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -2033,13 +2208,15 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ethereal Remitter",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 121,
             "color_identity": "B",
             "cost": "{2}{B}{B}{B}",
@@ -2054,13 +2231,15 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elise",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Spider",
+            "type": "Legendary Creature \u2013 Human Spider",
             "number": 120,
             "color_identity": "B",
             "cost": "{B}{B}",
@@ -2076,7 +2255,7 @@
             "position": "93",
             "card_name2": "Spider Queen Elise",
             "color2": "B",
-            "type2": "Legendary Creature \u2014 Spider",
+            "type2": "Legendary Creature \u2013 Spider",
             "cost2": "",
             "rules_text2": "Fearsome, Challenger [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]\nOther spiders your control have Fearsome and Challenger.",
             "flavor_text2": "[i][/i]",
@@ -2087,13 +2266,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Darkwater Scourge",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 119,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -2108,13 +2289,15 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cursed Keeper",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 118,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -2130,7 +2313,7 @@
             "position": "95",
             "card_name2": "Escaped Abomination",
             "color2": "B",
-            "type2": "Token Creature \u2014 Wraith",
+            "type2": "Token Creature \u2013 Wraith",
             "cost2": "",
             "rules_text2": "",
             "flavor_text2": "[i]Time may have stopped, but madness remains.[/i]",
@@ -2141,7 +2324,9 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crawling Sensation",
@@ -2162,13 +2347,15 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Commander Ledros",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 116,
             "color_identity": "B",
             "cost": "{5}{B}{B}{B}",
@@ -2183,13 +2370,15 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chronicler of Ruin",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 115,
             "color_identity": "B",
             "cost": "{1}{B}{B}{B}",
@@ -2204,7 +2393,9 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brood Awakening",
@@ -2225,7 +2416,9 @@
             "alias": "",
             "position": "99",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Black Spear",
@@ -2246,7 +2439,9 @@
             "alias": "",
             "position": "100",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Atrocity",
@@ -2267,13 +2462,15 @@
             "alias": "",
             "position": "101",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arachnoid Horror",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Spider",
+            "type": "Creature \u2013 Spider",
             "number": 110,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -2288,13 +2485,15 @@
             "alias": "",
             "position": "102",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ancient Crocolith",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Mutant Crocodile",
+            "type": "Creature \u2013 Mutant Crocodile",
             "number": 109,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -2309,7 +2508,9 @@
             "alias": "",
             "position": "103",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Absorb Soul",
@@ -2330,13 +2531,15 @@
             "alias": "",
             "position": "104",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spiderling",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Spider",
+            "type": "Creature \u2013 Spider",
             "number": 152,
             "color_identity": "B",
             "cost": "{B}",
@@ -2351,13 +2554,15 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vilemaw",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2014 Spider",
+            "type": "Token Creature \u2013 Spider",
             "number": 6,
             "color_identity": "B",
             "cost": "{B}",
@@ -2372,13 +2577,15 @@
             "alias": "",
             "position": "106",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unleashed Spirit",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2014 Spirit",
+            "type": "Token Creature \u2013 Spirit",
             "number": 5,
             "color_identity": "B",
             "cost": "{B}",
@@ -2393,13 +2600,15 @@
             "alias": "",
             "position": "107",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spectral Rider",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2014 Wraith",
+            "type": "Token Creature \u2013 Wraith",
             "number": 4,
             "color_identity": "B",
             "cost": "{B}",
@@ -2414,13 +2623,15 @@
             "alias": "",
             "position": "108",
             "rotated": false,
-            "notes": "Spectral Rider cannot be added to the library during deck building."
+            "notes": "Spectral Rider cannot be added to the library during deck building.",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ravenous Butcher",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Wraith",
+            "type": "Creature \u2013 Wraith",
             "number": 140,
             "color_identity": "B",
             "cost": "{0}",
@@ -2435,7 +2646,9 @@
             "alias": "",
             "position": "109",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fading Memories",
@@ -2456,13 +2669,15 @@
             "alias": "",
             "position": "110",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Affectionate Poro",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Poro",
+            "type": "Creature \u2013 Poro",
             "number": 163,
             "color_identity": "R",
             "cost": "{R}",
@@ -2477,13 +2692,15 @@
             "alias": "",
             "position": "111",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arachnoid Host",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spider",
+            "type": "Creature \u2013 Spider",
             "number": 164,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -2498,13 +2715,15 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arachnoid Sentry",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Spider",
+            "type": "Creature \u2013 Spider",
             "number": 165,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2519,13 +2738,15 @@
             "alias": "",
             "position": "113",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arena Battlecaster",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Performer",
+            "type": "Creature \u2013 Human Performer",
             "number": 166,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2540,13 +2761,15 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Arena Bookie",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Yordle",
+            "type": "Creature \u2013 Yordle",
             "number": 167,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2561,13 +2784,15 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Basilisk Rider",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 168,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -2582,13 +2807,15 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Battering Ram",
             "color": "R",
             "rarity": "rare",
-            "type": "Artifact Creature \u2014 Construct Warrior",
+            "type": "Artifact Creature \u2013 Construct Warrior",
             "number": 169,
             "color_identity": "R",
             "cost": "{3}{R}{R}{R}",
@@ -2603,7 +2830,9 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blood for Blood",
@@ -2624,7 +2853,9 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brothers' Bond",
@@ -2645,13 +2876,15 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Captain Farron",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 172,
             "color_identity": "R",
             "cost": "{4}{R}{R}{R}",
@@ -2666,13 +2899,15 @@
             "alias": "",
             "position": "120",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crimson Aristocrat",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 173,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2687,13 +2922,15 @@
             "alias": "",
             "position": "121",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crimson Awakener",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 174,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -2708,13 +2945,15 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crimson Curator",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 175,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
@@ -2729,13 +2968,15 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crimson Disciple",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 176,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2750,13 +2991,15 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Crowd Favorite",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 177,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -2771,7 +3014,9 @@
             "alias": "",
             "position": "125",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Culling Strike",
@@ -2792,13 +3037,15 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Darius",
             "color": "R",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Warrior",
+            "type": "Legendary Creature \u2013 Human Warrior",
             "number": 179,
             "color_identity": "R",
             "cost": "{3}{R}{R}{R}",
@@ -2814,7 +3061,7 @@
             "position": "127",
             "card_name2": "Darius, The Hand of Noxus",
             "color2": "R",
-            "type2": "Legendary Creature \u2014 Human Warrior",
+            "type2": "Legendary Creature \u2013 Human Warrior",
             "cost2": "",
             "rules_text2": "Trample",
             "flavor_text2": "[i][/i]",
@@ -2825,7 +3072,9 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Death Lotus",
@@ -2846,7 +3095,9 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Decimate",
@@ -2867,7 +3118,9 @@
             "alias": "",
             "position": "129",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Decisive Maneuver",
@@ -2888,13 +3141,15 @@
             "alias": "",
             "position": "130",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Draven",
             "color": "R",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Warrior",
+            "type": "Legendary Creature \u2013 Human Warrior",
             "number": 183,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -2910,7 +3165,7 @@
             "position": "131",
             "card_name2": "Draven, The Glorious Executioner",
             "color2": "R",
-            "type2": "Legendary Creature \u2014 Human Warrior",
+            "type2": "Legendary Creature \u2013 Human Warrior",
             "cost2": "",
             "rules_text2": "First strike, Trample\nWhen Draven transforms, or whenever Draven deals combat damage, create a Spinning Axe token.",
             "flavor_text2": "[i]\u201cThe best is wherever I decide to set the bar each day.\u201d \u2014 Draven[/i]",
@@ -2921,13 +3176,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Draven's Biggest Fan",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 184,
             "color_identity": "R",
             "cost": "{R}",
@@ -2942,7 +3199,9 @@
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elixir of Wrath",
@@ -2963,7 +3222,9 @@
             "alias": "",
             "position": "133",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Guile",
@@ -2984,13 +3245,15 @@
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "House Spider",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Spider",
+            "type": "Creature \u2013 Spider",
             "number": 187,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3005,7 +3268,9 @@
             "alias": "",
             "position": "135",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Intimidating Roar",
@@ -3026,13 +3291,15 @@
             "alias": "",
             "position": "136",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Katarina",
             "color": "R",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Assassin",
+            "type": "Legendary Creature \u2013 Human Assassin",
             "number": 189,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
@@ -3048,7 +3315,7 @@
             "position": "137",
             "card_name2": "Katarina, The Sinister Blade",
             "color2": "R",
-            "type2": "Legendary Creature \u2014 Human Assassin",
+            "type2": "Legendary Creature \u2013 Human Assassin",
             "cost2": "",
             "rules_text2": "First strike\nIf Katarina is in exile with an assassin counter, Katarina can be cast from exile transformed for {1}{R}{R}.\nWhen Katarina enters, create a Blade's Edge token. The activation cost for all cards named Blade's Edge you control costs {0} instead.\nAt the end of combat, if Katarina attacked and was not destroyed, exile Katarina with an assassin counter.",
             "flavor_text2": "[i][/i]",
@@ -3059,13 +3326,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kato The Arm",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 190,
             "color_identity": "R",
             "cost": "{2}{R}{R}{R}",
@@ -3080,13 +3349,15 @@
             "alias": "",
             "position": "138",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Legion Drummer",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 191,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3101,13 +3372,15 @@
             "alias": "",
             "position": "139",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Legion General",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 192,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -3122,13 +3395,15 @@
             "alias": "",
             "position": "140",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Legion Grenadier",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 193,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3143,13 +3418,15 @@
             "alias": "",
             "position": "141",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Legion Marauder",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 194,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
@@ -3164,13 +3441,15 @@
             "alias": "",
             "position": "142",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Legion Rearguard",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 195,
             "color_identity": "R",
             "cost": "{R}",
@@ -3185,13 +3464,15 @@
             "alias": "",
             "position": "143",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Legion Saboteur",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Rogue",
+            "type": "Creature \u2013 Human Rogue",
             "number": 196,
             "color_identity": "R",
             "cost": "{R}",
@@ -3206,13 +3487,15 @@
             "alias": "",
             "position": "144",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Legion Veteran",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 197,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -3227,7 +3510,9 @@
             "alias": "",
             "position": "145",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Might",
@@ -3248,13 +3533,15 @@
             "alias": "",
             "position": "146",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Minotaur Reckoner",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Minotaur Warrior",
+            "type": "Creature \u2013 Minotaur Warrior",
             "number": 199,
             "color_identity": "R",
             "cost": "{3}{R}{R}{R}",
@@ -3269,7 +3556,9 @@
             "alias": "",
             "position": "147",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Noxian Guillotine",
@@ -3290,13 +3579,15 @@
             "alias": "",
             "position": "148",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Precious Pet",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Spider",
+            "type": "Creature \u2013 Spider",
             "number": 201,
             "color_identity": "R",
             "cost": "{R}",
@@ -3311,13 +3602,15 @@
             "alias": "",
             "position": "149",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reckless Trifarian",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 202,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
@@ -3332,7 +3625,9 @@
             "alias": "",
             "position": "150",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reckoning",
@@ -3353,13 +3648,15 @@
             "alias": "",
             "position": "151",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Savage Reckoner",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 204,
             "color_identity": "R",
             "cost": "{5}{R}{R}",
@@ -3374,13 +3671,15 @@
             "alias": "",
             "position": "152",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shiraza the Blade",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 205,
             "color_identity": "R",
             "cost": "{1}{R}{R}{R}",
@@ -3395,7 +3694,9 @@
             "alias": "",
             "position": "153",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shunpo",
@@ -3416,7 +3717,9 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Transfusion",
@@ -3437,13 +3740,15 @@
             "alias": "",
             "position": "155",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Trifarian Assessor",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 208,
             "color_identity": "R",
             "cost": "{2}{R}{R}{R}",
@@ -3458,13 +3763,15 @@
             "alias": "",
             "position": "156",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Trifarian Gloryseeker",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 209,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3479,13 +3786,15 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Trifarian Hopeful",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 210,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3500,13 +3809,15 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Trifarian Shieldbreaker",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 211,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -3521,7 +3832,9 @@
             "alias": "",
             "position": "159",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vision",
@@ -3542,13 +3855,15 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vladimir",
             "color": "R",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Warlock",
+            "type": "Legendary Creature \u2013 Human Warlock",
             "number": 213,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -3564,7 +3879,7 @@
             "position": "161",
             "card_name2": "Vladimir, The Crimson Reaper",
             "color2": "R",
-            "type2": "Legendary Creature \u2014 Human Warlock",
+            "type2": "Legendary Creature \u2013 Human Warlock",
             "cost2": "",
             "rules_text2": "Fearsome, Juggernaut [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less. After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i]\nWhenever Vladimir attacks, Vladimir deals 1 damage to all other attacking creatures you control to deal X damage to any target where X is equal to the number of creatures damaged this way.",
             "flavor_text2": "[i][/i]",
@@ -3575,7 +3890,9 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whirling Death",
@@ -3596,7 +3913,9 @@
             "alias": "",
             "position": "162",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blade's Edge",
@@ -3617,7 +3936,9 @@
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Darkness",
@@ -3638,13 +3959,15 @@
             "alias": "",
             "position": "164",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spinning Axe",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2014 Equipment",
+            "type": "Token Artifact \u2013 Equipment",
             "number": 16,
             "color_identity": "C",
             "cost": "",
@@ -3659,13 +3982,15 @@
             "alias": "",
             "position": "165",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Alpha Wildclaw",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Cat Beast",
+            "type": "Creature \u2013 Cat Beast",
             "number": 215,
             "color_identity": "G",
             "cost": "{3}{G}{G}{G}",
@@ -3680,13 +4005,15 @@
             "alias": "",
             "position": "166",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ancient Yeti",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Yeti",
+            "type": "Creature \u2013 Yeti",
             "number": 216,
             "color_identity": "G",
             "cost": "{6}{G}{G}{G}",
@@ -3701,13 +4028,15 @@
             "alias": "",
             "position": "167",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Anivia",
             "color": "G",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Phoenix Demigod",
+            "type": "Legendary Creature \u2013 Phoenix Demigod",
             "number": 217,
             "color_identity": "G",
             "cost": "{3}{G}{G}{G}",
@@ -3723,7 +4052,7 @@
             "position": "168",
             "card_name2": "Anivia, The Cryophoenix",
             "color2": "G",
-            "type2": "Legendary Creature \u2014 Phoenix Demigod",
+            "type2": "Legendary Creature \u2013 Phoenix Demigod",
             "cost2": "",
             "rules_text2": "Whenever Anivia attacks, after blockers have been declared, Anivia deals 2 damage to each opponent and each blocking creature opponents control.\nWhenever Anivia leaves the battlefield you may choose to exile Anivia instead of putting Anivia into the graveyard. The first time each turn you spend 10 or more mana, put Anivia, The Cryophoenix onto the battlefield from exile.",
             "flavor_text2": "[i][/i]",
@@ -3734,13 +4063,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ashe",
             "color": "G",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Nomad Noble Archer",
+            "type": "Legendary Creature \u2013 Human Nomad Noble Archer",
             "number": 218,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
@@ -3756,7 +4087,7 @@
             "position": "169",
             "card_name2": "Ashe, The Frost Archer",
             "color2": "G",
-            "type2": "Legendary Creature \u2014 Human Nomad Noble Archer",
+            "type2": "Legendary Creature \u2013 Human Nomad Noble Archer",
             "cost2": "",
             "rules_text2": "When Ashe transforms, Frostbite target creature you don't control, and all creatures you don't control with toughness 3 or less, then draw a card.\nWhenever Ashe attacks, frostbite the creature with the highest power among creatures target opponent controls. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i]\nCreatures your opponents control with power 0 can't block.",
             "flavor_text2": "[i][/i]",
@@ -3767,7 +4098,9 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avalanche",
@@ -3788,13 +4121,15 @@
             "alias": "",
             "position": "170",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avarosan Hearthguard",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Nomad Warrior",
+            "type": "Creature \u2013 Human Nomad Warrior",
             "number": 220,
             "color_identity": "G",
             "cost": "{1}{G}{G}{G}{G}",
@@ -3809,13 +4144,15 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avarosan Marksman",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Nomad Archer",
+            "type": "Creature \u2013 Human Nomad Archer",
             "number": 221,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
@@ -3830,13 +4167,15 @@
             "alias": "",
             "position": "172",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avarosan Outriders",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Nomad Warrior",
+            "type": "Creature \u2013 Human Nomad Warrior",
             "number": 222,
             "color_identity": "G",
             "cost": "{1}{G}{G}{G}",
@@ -3851,13 +4190,15 @@
             "alias": "",
             "position": "173",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avarosan Sentry",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Nomad",
+            "type": "Creature \u2013 Human Nomad",
             "number": 223,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -3872,13 +4213,15 @@
             "alias": "",
             "position": "174",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avarosan Trapper",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Nomad",
+            "type": "Creature \u2013 Human Nomad",
             "number": 224,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
@@ -3893,13 +4236,15 @@
             "alias": "",
             "position": "175",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Babbling Bjerg",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Nomad",
+            "type": "Creature \u2013 Human Nomad",
             "number": 225,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
@@ -3914,7 +4259,9 @@
             "alias": "",
             "position": "176",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Battle Fury",
@@ -3935,7 +4282,9 @@
             "alias": "",
             "position": "177",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bloodsworn Pledge",
@@ -3956,13 +4305,15 @@
             "alias": "",
             "position": "178",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Braum",
             "color": "G",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Nomad Juggernaut",
+            "type": "Legendary Creature \u2013 Human Nomad Juggernaut",
             "number": 228,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
@@ -3978,7 +4329,7 @@
             "position": "179",
             "card_name2": "Braum, The Heart Of The Freljord",
             "color2": "G",
-            "type2": "Legendary Creature \u2014 Human Nomad Juggernaut",
+            "type2": "Legendary Creature \u2013 Human Nomad Juggernaut",
             "cost2": "",
             "rules_text2": "Challenger, Juggernaut [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature. After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i]\nWhenever Braum is dealt damage and is not destroyed, create a Mighty Poro token.",
             "flavor_text2": "[i][/i]",
@@ -3989,7 +4340,9 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brittle Steel",
@@ -4010,13 +4363,15 @@
             "alias": "",
             "position": "180",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bull Elnuk",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Elnuk",
+            "type": "Creature \u2013 Elnuk",
             "number": 230,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
@@ -4031,7 +4386,9 @@
             "alias": "",
             "position": "181",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elixir of Iron",
@@ -4052,7 +4409,9 @@
             "alias": "",
             "position": "182",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Entreat",
@@ -4073,13 +4432,15 @@
             "alias": "",
             "position": "183",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Feral Mystic",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Shaman",
+            "type": "Creature \u2013 Human Shaman",
             "number": 234,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -4094,7 +4455,9 @@
             "alias": "",
             "position": "184",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flash Freeze",
@@ -4115,7 +4478,9 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Harsh Winds",
@@ -4136,13 +4501,15 @@
             "alias": "",
             "position": "186",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heart of the Fluft",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Poro",
+            "type": "Creature \u2013 Poro",
             "number": 237,
             "color_identity": "G",
             "cost": "{3}{G}{G}{G}",
@@ -4157,7 +4524,9 @@
             "alias": "",
             "position": "187",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Iceborn Legacy",
@@ -4178,13 +4547,15 @@
             "alias": "",
             "position": "188",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Icevale Archer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Nomad Archer",
+            "type": "Creature \u2013 Human Nomad Archer",
             "number": 239,
             "color_identity": "G",
             "cost": "{G}{G}",
@@ -4199,13 +4570,15 @@
             "alias": "",
             "position": "189",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Icy Yeti",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Yeti",
+            "type": "Creature \u2013 Yeti",
             "number": 240,
             "color_identity": "G",
             "cost": "{4}{G}{G}{G}",
@@ -4220,13 +4593,15 @@
             "alias": "",
             "position": "190",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kindly Tavernkeeper",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Nomad",
+            "type": "Creature \u2013 Human Nomad",
             "number": 241,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -4241,13 +4616,15 @@
             "alias": "",
             "position": "191",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lonely Poro",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Poro",
+            "type": "Creature \u2013 Poro",
             "number": 242,
             "color_identity": "G",
             "cost": "{G}",
@@ -4262,13 +4639,15 @@
             "alias": "",
             "position": "192",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mighty Poro",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Poro",
+            "type": "Creature \u2013 Poro",
             "number": 243,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
@@ -4283,13 +4662,15 @@
             "alias": "",
             "position": "193",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Omen Hawk",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2013 Bird",
             "number": 244,
             "color_identity": "G",
             "cost": "{G}",
@@ -4304,7 +4685,9 @@
             "alias": "",
             "position": "194",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Pack Mentality",
@@ -4325,13 +4708,15 @@
             "alias": "",
             "position": "195",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Poro Herder",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 246,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -4346,7 +4731,9 @@
             "alias": "",
             "position": "196",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Poro Snax",
@@ -4367,13 +4754,15 @@
             "alias": "",
             "position": "197",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rimefang Wolf",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wolf",
+            "type": "Creature \u2013 Wolf",
             "number": 248,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -4388,13 +4777,15 @@
             "alias": "",
             "position": "198",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rimetusk Shaman",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Nomad Shaman",
+            "type": "Creature \u2013 Human Nomad Shaman",
             "number": 249,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -4409,13 +4800,15 @@
             "alias": "",
             "position": "199",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scarmaiden Reaver",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Nomad Warrior",
+            "type": "Creature \u2013 Human Nomad Warrior",
             "number": 250,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -4430,13 +4823,15 @@
             "alias": "",
             "position": "200",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scarmother Vrynna",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Nomad Warrior",
+            "type": "Creature \u2013 Human Nomad Warrior",
             "number": 251,
             "color_identity": "G",
             "cost": "{3}{G}{G}{G}",
@@ -4451,13 +4846,15 @@
             "alias": "",
             "position": "201",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scarthane Steffen",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Nomad Warrior",
+            "type": "Creature \u2013 Human Nomad Warrior",
             "number": 252,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -4472,7 +4869,9 @@
             "alias": "",
             "position": "202",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shatter",
@@ -4493,13 +4892,15 @@
             "alias": "",
             "position": "203",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "She Who Wanders",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2014 Horror",
+            "type": "Creature \u2013 Horror",
             "number": 254,
             "color_identity": "G",
             "cost": "{5}{G}{G}{G}",
@@ -4514,13 +4915,15 @@
             "alias": "",
             "position": "204",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stalking Wolf",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Wolf",
+            "type": "Creature \u2013 Wolf",
             "number": 255,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -4535,13 +4938,15 @@
             "alias": "",
             "position": "205",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Starlit Seer",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Nomad Shaman",
+            "type": "Creature \u2013 Human Nomad Shaman",
             "number": 256,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -4556,7 +4961,9 @@
             "alias": "",
             "position": "206",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Take Heart",
@@ -4577,7 +4984,9 @@
             "alias": "",
             "position": "207",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tall Tales",
@@ -4598,13 +5007,15 @@
             "alias": "",
             "position": "208",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tarkaz the Tribeless",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2014 Troll Warrior",
+            "type": "Creature \u2013 Troll Warrior",
             "number": 259,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
@@ -4619,13 +5030,15 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "They Who Endure",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Horror",
+            "type": "Creature \u2013 Horror",
             "number": 260,
             "color_identity": "G",
             "cost": "{3}{G}{G}{G}",
@@ -4640,13 +5053,15 @@
             "alias": "",
             "position": "210",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Troop of Elnuks",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Elnuk",
+            "type": "Creature \u2013 Elnuk",
             "number": 261,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -4661,13 +5076,15 @@
             "alias": "",
             "position": "211",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tryndamere",
             "color": "G",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Warrior Noble",
+            "type": "Legendary Creature \u2013 Human Warrior Noble",
             "number": 262,
             "color_identity": "G",
             "cost": "{4}{G}{G}{G}",
@@ -4683,7 +5100,7 @@
             "position": "212",
             "card_name2": "Tryndamere, The Barbarian King",
             "color2": "G",
-            "type2": "Legendary Creature \u2014 Human Berserker Noble",
+            "type2": "Legendary Creature \u2013 Human Berserker Noble",
             "cost2": "",
             "rules_text2": "Trample, Fearsome, Absorb 1 [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less. If a source would deal damage to this creature, prevent 1 of that damage.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -4694,13 +5111,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unscarred Reaver",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 263,
             "color_identity": "G",
             "cost": "{G}",
@@ -4715,7 +5134,9 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Warmother's Call",
@@ -4736,7 +5157,9 @@
             "alias": "",
             "position": "214",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Winter's Breath",
@@ -4757,13 +5180,15 @@
             "alias": "",
             "position": "215",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yeti Yearling",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Yeti",
+            "type": "Creature \u2013 Yeti",
             "number": 267,
             "color_identity": "G",
             "cost": "{G}",
@@ -4778,7 +5203,9 @@
             "alias": "",
             "position": "216",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Catalyst of Aeons",
@@ -4799,13 +5226,15 @@
             "alias": "",
             "position": "217",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wyrding Stones",
             "color": "G",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Mystic Construct",
+            "type": "Artifact Creature \u2013 Mystic Construct",
             "number": 266,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
@@ -4820,13 +5249,15 @@
             "alias": "",
             "position": "218",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zephyr Sage",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2013 Bird",
             "number": 107,
             "color_identity": "U",
             "cost": "{3}{U}{U}{U}",
@@ -4841,13 +5272,15 @@
             "alias": "",
             "position": "219",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zed",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Ninja Assassin",
+            "type": "Legendary Creature \u2013 Human Ninja Assassin",
             "number": 106,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -4863,7 +5296,7 @@
             "position": "220",
             "card_name2": "Zed, The Master of Shadows",
             "color2": "U",
-            "type2": "Legendary Creature \u2014 Human Ninja Assassin",
+            "type2": "Legendary Creature \u2013 Human Ninja Assassin",
             "cost2": "",
             "rules_text2": "First strike\nWhen Zed attacks, create a tapped and attacking Living Shadow token with the same power, toughness, and abilities as Zed. [i](This creature can block or be blocked by only creatures with shadow.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -4874,13 +5307,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yusari",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Vastayan Ninja",
+            "type": "Creature \u2013 Vastayan Ninja",
             "number": 105,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -4895,13 +5330,15 @@
             "alias": "",
             "position": "221",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yone",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Samurai",
+            "type": "Creature \u2013 Human Samurai",
             "number": 104,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
@@ -4916,13 +5353,15 @@
             "alias": "",
             "position": "222",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Yasuo, The Wanderer",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Samurai",
+            "type": "Legendary Creature \u2013 Human Samurai",
             "number": 103,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
@@ -4938,7 +5377,7 @@
             "position": "223",
             "card_name2": "Yasuo, The Unforgiven",
             "color2": "U",
-            "type2": "Legendary Creature \u2014 Human Samurai",
+            "type2": "Legendary Creature \u2013 Human Samurai",
             "cost2": "",
             "rules_text2": "First strike\nWhenever a creature you don't control is recalled or a stun counter is put on it, Yasuo deals damage equal to his power to that creature. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -4949,13 +5388,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Windfarer Hatchling",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Beast",
+            "type": "Creature \u2013 Beast",
             "number": 102,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -4970,7 +5411,9 @@
             "alias": "",
             "position": "224",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Will of Ionia",
@@ -4991,7 +5434,9 @@
             "alias": "",
             "position": "225",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Twin Disciplines",
@@ -5012,13 +5457,15 @@
             "alias": "",
             "position": "226",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Empyrean",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Dragon",
+            "type": "Creature \u2013 Dragon",
             "number": 59,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -5033,7 +5480,9 @@
             "alias": "",
             "position": "227",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Steel Tempest",
@@ -5054,7 +5503,9 @@
             "alias": "",
             "position": "228",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stand United",
@@ -5075,7 +5526,9 @@
             "alias": "",
             "position": "229",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spirit's Refuge",
@@ -5096,13 +5549,15 @@
             "alias": "",
             "position": "230",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sparring Student",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Monk",
+            "type": "Creature \u2013 Human Monk",
             "number": 96,
             "color_identity": "U",
             "cost": "{U}",
@@ -5117,7 +5572,9 @@
             "alias": "",
             "position": "231",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sown Seeds",
@@ -5138,13 +5595,15 @@
             "alias": "",
             "position": "232",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Solitary Monk",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Monk",
+            "type": "Creature \u2013 Human Monk",
             "number": 94,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -5159,13 +5618,15 @@
             "alias": "",
             "position": "233",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Silent Shadowseer",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Assassin",
+            "type": "Creature \u2013 Human Assassin",
             "number": 93,
             "color_identity": "U",
             "cost": "{U}{U}",
@@ -5180,7 +5641,9 @@
             "alias": "",
             "position": "234",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shadowshift",
@@ -5201,7 +5664,9 @@
             "alias": "",
             "position": "235",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shadow Flare",
@@ -5222,13 +5687,15 @@
             "alias": "",
             "position": "236",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shadow Fiend",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Shade Assassin",
+            "type": "Creature \u2013 Shade Assassin",
             "number": 90,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -5243,13 +5710,15 @@
             "alias": "",
             "position": "237",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shadow Assassin",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Assassin",
+            "type": "Creature \u2013 Human Assassin",
             "number": 89,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -5264,13 +5733,15 @@
             "alias": "",
             "position": "238",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scaled Snapper",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Lizard",
+            "type": "Creature \u2013 Lizard",
             "number": 88,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -5285,7 +5756,9 @@
             "alias": "",
             "position": "239",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rush",
@@ -5306,13 +5779,15 @@
             "alias": "",
             "position": "240",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rivershaper",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Merfolk Mystic",
+            "type": "Creature \u2013 Merfolk Mystic",
             "number": 86,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
@@ -5327,7 +5802,9 @@
             "alias": "",
             "position": "241",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ritual of Renewal",
@@ -5348,13 +5825,15 @@
             "alias": "",
             "position": "242",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ren Shadowblade",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Assassin",
+            "type": "Creature \u2013 Human Assassin",
             "number": 84,
             "color_identity": "U",
             "cost": "{1}{U}{U}{U}",
@@ -5369,7 +5848,9 @@
             "alias": "",
             "position": "243",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Recall",
@@ -5390,13 +5871,15 @@
             "alias": "",
             "position": "244",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nimble Poro",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Poro",
+            "type": "Creature \u2013 Poro",
             "number": 82,
             "color_identity": "U",
             "cost": "{U}",
@@ -5411,13 +5894,15 @@
             "alias": "",
             "position": "245",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Navori Highwayman",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Rogue",
+            "type": "Creature \u2013 Human Rogue",
             "number": 81,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -5432,13 +5917,15 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Navori Conspirator",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Ninja",
+            "type": "Creature \u2013 Human Ninja",
             "number": 80,
             "color_identity": "U",
             "cost": "{U}",
@@ -5453,13 +5940,15 @@
             "alias": "",
             "position": "247",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Navori Bladescout",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Yordle Ninja",
+            "type": "Creature \u2013 Yordle Ninja",
             "number": 79,
             "color_identity": "U",
             "cost": "{U}",
@@ -5474,13 +5963,15 @@
             "alias": "",
             "position": "248",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Minah Swiftfoot",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Monk",
+            "type": "Creature \u2013 Human Monk",
             "number": 78,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
@@ -5495,13 +5986,15 @@
             "alias": "",
             "position": "249",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Master Shen",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Ninja",
+            "type": "Legendary Creature \u2013 Human Ninja",
             "number": 77,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -5517,7 +6010,7 @@
             "position": "250",
             "card_name2": "Shen, The Eye of Twilight",
             "color2": "U",
-            "type2": "Legendary Creature \u2014 Human Ninja",
+            "type2": "Legendary Creature \u2013 Human Ninja",
             "cost2": "",
             "rules_text2": "When Shen is transformed, put a shield counter on him.\nWhen Shen attacks, other target creature you control gets a shield counter until end of turn.\nWhenever a shield counter is put onto a creature you control, that creature gets +3/+0 until end of the turn.",
             "flavor_text2": "[i][/i]",
@@ -5528,13 +6021,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Living Shadow",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Shade Assassin",
+            "type": "Creature \u2013 Shade Assassin",
             "number": 76,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -5549,13 +6044,15 @@
             "alias": "",
             "position": "251",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kinkou Wayfinder",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Ninja",
+            "type": "Creature \u2013 Human Ninja",
             "number": 75,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -5570,13 +6067,15 @@
             "alias": "",
             "position": "252",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kinkou Lifeblade",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Assassin",
+            "type": "Creature \u2013 Human Assassin",
             "number": 74,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -5591,7 +6090,9 @@
             "alias": "",
             "position": "253",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ki Guardian",
@@ -5612,13 +6113,15 @@
             "alias": "",
             "position": "254",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Keeper of Masks",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Ninja",
+            "type": "Creature \u2013 Human Ninja",
             "number": 72,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -5633,13 +6136,15 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Karma",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Mystic",
+            "type": "Legendary Creature \u2013 Human Mystic",
             "number": 71,
             "color_identity": "U",
             "cost": "{2}{U}{U}{U}",
@@ -5655,7 +6160,7 @@
             "position": "256",
             "card_name2": "Karma, The Enlightened One",
             "color2": "U",
-            "type2": "Legendary Creature \u2014 Human Mystic",
+            "type2": "Legendary Creature \u2013 Human Mystic",
             "cost2": "",
             "rules_text2": "At the end of your turn search your library for an instant or sorcery, reveal it, add it to your hand then shuffle your library.\nWhenever you cast an instant or sorcery, copy it targeting the same targets.",
             "flavor_text2": "[i][/i]",
@@ -5666,13 +6171,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jeweled Protector",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit Beast",
+            "type": "Creature \u2013 Spirit Beast",
             "number": 70,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -5687,13 +6194,15 @@
             "alias": "",
             "position": "257",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Inspiring Mentor",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Mystic",
+            "type": "Creature \u2013 Human Mystic",
             "number": 69,
             "color_identity": "U",
             "cost": "{U}",
@@ -5708,7 +6217,9 @@
             "alias": "",
             "position": "258",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Insight of Ages",
@@ -5729,13 +6240,15 @@
             "alias": "",
             "position": "259",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Herald of Spring",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit Elk",
+            "type": "Creature \u2013 Spirit Elk",
             "number": 67,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -5750,7 +6263,9 @@
             "alias": "",
             "position": "260",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Health Potion",
@@ -5771,13 +6286,15 @@
             "alias": "",
             "position": "261",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Greenglade Lookout",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Yordle Scout",
+            "type": "Creature \u2013 Yordle Scout",
             "number": 65,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -5792,13 +6309,15 @@
             "alias": "",
             "position": "262",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Greenglade Elder",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Mystic",
+            "type": "Creature \u2013 Human Mystic",
             "number": 64,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -5813,13 +6332,15 @@
             "alias": "",
             "position": "263",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Greenglade Duo",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Yordle Ninja",
+            "type": "Creature \u2013 Human Yordle Ninja",
             "number": 63,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -5834,13 +6355,15 @@
             "alias": "",
             "position": "264",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Greenglade Caretaker",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Vastayan Mystic",
+            "type": "Creature \u2013 Vastayan Mystic",
             "number": 62,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -5855,7 +6378,9 @@
             "alias": "",
             "position": "265",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ghost",
@@ -5876,13 +6401,15 @@
             "alias": "",
             "position": "266",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fae Bladetwirler",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Yordle Samurai",
+            "type": "Creature \u2013 Yordle Samurai",
             "number": 60,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -5897,13 +6424,15 @@
             "alias": "",
             "position": "267",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Emerald Awakener",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Mystic",
+            "type": "Creature \u2013 Human Mystic",
             "number": 58,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
@@ -5918,7 +6447,9 @@
             "alias": "",
             "position": "268",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Deny",
@@ -5939,7 +6470,9 @@
             "alias": "",
             "position": "269",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Death Mark",
@@ -5960,7 +6493,9 @@
             "alias": "",
             "position": "270",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dawn and Dusk",
@@ -5981,13 +6516,15 @@
             "alias": "",
             "position": "271",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cloud Drinker",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Whale",
+            "type": "Creature \u2013 Whale",
             "number": 54,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -6002,13 +6539,15 @@
             "alias": "",
             "position": "272",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Navori Brigand",
             "color": "U",
             "rarity": "common",
-            "type": "Token Creature \u2014 Human Rogue",
+            "type": "Token Creature \u2013 Human Rogue",
             "number": 1,
             "color_identity": "U",
             "cost": "",
@@ -6023,17 +6562,19 @@
             "alias": "",
             "position": "273",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Assembly Bot",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 270,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "[i]Magecraft[/i] \u2014 Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on Assembly Bot.",
+            "rules_text": "[i]Magecraft[/i] \u2013 Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on Assembly Bot.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -6044,13 +6585,15 @@
             "alias": "",
             "position": "274",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flame Chompers!",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 310,
             "color_identity": "UR",
             "cost": "{UR}",
@@ -6065,13 +6608,15 @@
             "alias": "",
             "position": "275",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Golden Crushbot",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 311,
             "color_identity": "UR",
             "cost": "{2}{UR}",
@@ -6086,13 +6631,15 @@
             "alias": "",
             "position": "276",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Parade Electrorig",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 292,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -6107,13 +6654,15 @@
             "alias": "",
             "position": "277",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plaza Guardian",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 293,
             "color_identity": "UR",
             "cost": "{8}{U}{R}",
@@ -6128,13 +6677,15 @@
             "alias": "",
             "position": "278",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sump Dredger",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 300,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -6149,13 +6700,15 @@
             "alias": "",
             "position": "279",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Academy Prodigy",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 Human Artificer",
+            "type": "Creature \u2013 Human Artificer",
             "number": 268,
             "color_identity": "UR",
             "cost": "{U}{R}",
@@ -6170,13 +6723,15 @@
             "alias": "",
             "position": "280",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Amateur Aeronaut",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 Human Artificer",
+            "type": "Creature \u2013 Human Artificer",
             "number": 269,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -6191,17 +6746,19 @@
             "alias": "",
             "position": "281",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Astute Academic",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 Human Artificer Scientist",
+            "type": "Creature \u2013 Human Artificer Scientist",
             "number": 307,
             "color_identity": "UR",
             "cost": "{UR}",
-            "rules_text": "[i]Magecraft[/i] \u2014 Whenever you cast or copy an instant or sorcery spell, Astute Academic gets +1/+0 until end of turn.",
+            "rules_text": "[i]Magecraft[/i] \u2013 Whenever you cast or copy an instant or sorcery spell, Astute Academic gets +1/+0 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -6212,13 +6769,15 @@
             "alias": "",
             "position": "282",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Augmented Experimenter",
             "color": "UR",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Artificer",
+            "type": "Creature \u2013 Human Artificer",
             "number": 271,
             "color_identity": "UR",
             "cost": "{2}{U}{U}{R}",
@@ -6233,13 +6792,15 @@
             "alias": "",
             "position": "283",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Back Alley Barkeep",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 272,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -6254,13 +6815,15 @@
             "alias": "",
             "position": "284",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Boomcrew Rookie",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 Human Rogue",
+            "type": "Creature \u2013 Human Rogue",
             "number": 308,
             "color_identity": "UR",
             "cost": "{1}{UR}",
@@ -6275,13 +6838,15 @@
             "alias": "",
             "position": "285",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chempunk Pickpocket",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Rogue",
+            "type": "Creature \u2013 Human Rogue",
             "number": 274,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -6296,13 +6861,15 @@
             "alias": "",
             "position": "286",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chempunk Shredder",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Bard",
+            "type": "Creature \u2013 Human Bard",
             "number": 275,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
@@ -6317,13 +6884,15 @@
             "alias": "",
             "position": "287",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chump Whump",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Yordle",
+            "type": "Creature \u2013 Yordle",
             "number": 276,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -6338,13 +6907,15 @@
             "alias": "",
             "position": "288",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Clump of Whumps",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 Rat",
+            "type": "Creature \u2013 Rat",
             "number": 277,
             "color_identity": "UR",
             "cost": "{U}{R}",
@@ -6359,13 +6930,15 @@
             "alias": "",
             "position": "289",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Corina Veraza",
             "color": "UR",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Artificer Scientist",
+            "type": "Creature \u2013 Human Artificer Scientist",
             "number": 278,
             "color_identity": "UR",
             "cost": "{5}{U}{R}",
@@ -6380,7 +6953,9 @@
             "alias": "",
             "position": "290",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Counterfeit Copies",
@@ -6401,13 +6976,15 @@
             "alias": "",
             "position": "291",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Daring Poro",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 Poro",
+            "type": "Creature \u2013 Poro",
             "number": 309,
             "color_identity": "UR",
             "cost": "{UR}",
@@ -6422,13 +6999,15 @@
             "alias": "",
             "position": "292",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eager Apprentice",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 Human Artificer",
+            "type": "Creature \u2013 Human Artificer",
             "number": 280,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -6443,13 +7022,15 @@
             "alias": "",
             "position": "293",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Eminent Benefactor",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Artificer",
+            "type": "Creature \u2013 Human Artificer",
             "number": 281,
             "color_identity": "UR",
             "cost": "{1}{U}{U}{R}",
@@ -6464,13 +7045,15 @@
             "alias": "",
             "position": "294",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ezreal",
             "color": "UR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Scout",
+            "type": "Legendary Creature \u2013 Human Scout",
             "number": 282,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -6486,7 +7069,7 @@
             "position": "295",
             "card_name2": "Ezreal, The Prodigal Explorer",
             "color2": "UR",
-            "type2": "Legendary Creature \u2014 Piltovan Human",
+            "type2": "Legendary Creature \u2013 Piltovan Human",
             "cost2": "",
             "rules_text2": "Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]\nWhenever Ezreal deals combat damage to an opponent you may have Ezreal deal 2 damage to target creature or opponent.\nWhenever you cast an instant or sorcery that targets an opponent, Ezreal deals 1 damage to each opponent. If you cast an instant or sorcery that targets a creature, Ezreal deals 2 damage to each opponent instead.",
             "flavor_text2": "[i][/i]",
@@ -6497,7 +7080,9 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flash of Brilliance",
@@ -6518,13 +7103,15 @@
             "alias": "",
             "position": "296",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Funsmith",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Artificer",
+            "type": "Creature \u2013 Human Artificer",
             "number": 284,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -6539,7 +7126,9 @@
             "alias": "",
             "position": "297",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Get Excited!",
@@ -6560,7 +7149,9 @@
             "alias": "",
             "position": "298",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hextech Transmogulator",
@@ -6581,13 +7172,15 @@
             "alias": "",
             "position": "299",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Intrepid Mariner",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Scout",
+            "type": "Creature \u2013 Human Scout",
             "number": 287,
             "color_identity": "UR",
             "cost": "{U}{R}",
@@ -6602,13 +7195,15 @@
             "alias": "",
             "position": "300",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jae Medarda",
             "color": "UR",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Scout",
+            "type": "Creature \u2013 Human Scout",
             "number": 288,
             "color_identity": "UR",
             "cost": "{4}{U}{R}",
@@ -6623,13 +7218,15 @@
             "alias": "",
             "position": "301",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jinx",
             "color": "UR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Artificer Rogue",
+            "type": "Legendary Creature \u2013 Human Artificer Rogue",
             "number": 312,
             "color_identity": "UR",
             "cost": "{U}{R}{UR}{UR}",
@@ -6645,7 +7242,7 @@
             "position": "302",
             "card_name2": "Jinx, The Demolition Diva",
             "color2": "UR",
-            "type2": "Legendary Creature \u2014 Human Artificer Rogue",
+            "type2": "Legendary Creature \u2013 Human Artificer Rogue",
             "cost2": "",
             "rules_text2": "First strike\nThe first time you have no cards in hand on your turn, Jinx deals 3 damage to target opponent and 1 damage to each creature and planeswalkers they control.\nAt the beginning of your draw step, draw and additional card.",
             "flavor_text2": "[i][/i]",
@@ -6656,7 +7253,9 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Jury-Rig",
@@ -6677,13 +7276,15 @@
             "alias": "",
             "position": "303",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Midenstokke Henchmen",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 289,
             "color_identity": "UR",
             "cost": "{2}{U}{R}{R}",
@@ -6698,7 +7299,9 @@
             "alias": "",
             "position": "304",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mushroom Cloud",
@@ -6719,7 +7322,9 @@
             "alias": "",
             "position": "305",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mystic Shot",
@@ -6740,13 +7345,15 @@
             "alias": "",
             "position": "306",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Professor Heimerdinger",
             "color": "UR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Yordle Artificer",
+            "type": "Legendary Creature \u2013 Yordle Artificer",
             "number": 315,
             "color_identity": "UR",
             "cost": "{U}{U}{U}{UR}{UR}",
@@ -6762,7 +7369,7 @@
             "position": "307",
             "card_name2": "Heimerdinger, The Revered Inventor",
             "color2": "UR",
-            "type2": "Legendary Creature \u2014 Yordle Artificer",
+            "type2": "Legendary Creature \u2013 Yordle Artificer",
             "cost2": "",
             "rules_text2": "Whenever you cast an instant or sorcery you may search your library for an artifact creature with mana value X where X is the mana value of the cast instant or sorcery and put it onto the battlefield, then shuffle. That creature enters with a +1/+1 counter.",
             "flavor_text2": "[i][/i]",
@@ -6773,13 +7380,15 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Professor Von Yipp",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Artificer Scientist",
+            "type": "Creature \u2013 Human Artificer Scientist",
             "number": 294,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -6794,7 +7403,9 @@
             "alias": "",
             "position": "308",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Progress Day!",
@@ -6815,13 +7426,15 @@
             "alias": "",
             "position": "309",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Puffcap Peddler",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 295,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -6836,7 +7449,9 @@
             "alias": "",
             "position": "310",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Purrsuit of Perfection",
@@ -6857,7 +7472,9 @@
             "alias": "",
             "position": "311",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rising Spell Force",
@@ -6878,7 +7495,9 @@
             "alias": "",
             "position": "312",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rummage",
@@ -6899,7 +7518,9 @@
             "alias": "",
             "position": "313",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scrapdash Assembly",
@@ -6920,13 +7541,15 @@
             "alias": "",
             "position": "314",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shady Character",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Yordle Shapeshifter",
+            "type": "Creature \u2013 Yordle Shapeshifter",
             "number": 298,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -6941,7 +7564,9 @@
             "alias": "",
             "position": "315",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Statikk Shock",
@@ -6962,13 +7587,15 @@
             "alias": "",
             "position": "316",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sumpsnipe Scavenger",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 301,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -6983,7 +7610,9 @@
             "alias": "",
             "position": "317",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sumpworks Map",
@@ -7004,13 +7633,15 @@
             "alias": "",
             "position": "318",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Teemo",
             "color": "UR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Yordle Scout",
+            "type": "Legendary Creature \u2013 Yordle Scout",
             "number": 319,
             "color_identity": "UR",
             "cost": "{UR}",
@@ -7026,7 +7657,7 @@
             "position": "319",
             "card_name2": "Teemo, The Swift Scout",
             "color2": "UR",
-            "type2": "Legendary Creature \u2014 Yordle Scout",
+            "type2": "Legendary Creature \u2013 Yordle Scout",
             "cost2": "",
             "rules_text2": "Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]\nWhenever Teemo deals damage to an opponent, that opponent doubles the number of Puffcap tokens they control.",
             "flavor_text2": "[i][/i]",
@@ -7037,7 +7668,9 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thermogenic Beam",
@@ -7058,7 +7691,9 @@
             "alias": "",
             "position": "320",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Trueshot Barrage",
@@ -7079,7 +7714,9 @@
             "alias": "",
             "position": "321",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unlicensed Innovation",
@@ -7100,13 +7737,15 @@
             "alias": "",
             "position": "322",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unstable Voltician",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 Human Artificer",
+            "type": "Creature \u2013 Human Artificer",
             "number": 305,
             "color_identity": "UR",
             "cost": "{U}{U}{U}{R}{R}",
@@ -7121,13 +7760,15 @@
             "alias": "",
             "position": "323",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Used Cask Salesman",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 Human Rogue",
+            "type": "Creature \u2013 Human Rogue",
             "number": 306,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -7142,13 +7783,15 @@
             "alias": "",
             "position": "324",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Zaunite Urchin",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 321,
             "color_identity": "UR",
             "cost": "{UR}",
@@ -7163,13 +7806,15 @@
             "alias": "",
             "position": "325",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Caustic Cask",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 273,
             "color_identity": "UR",
             "cost": "{0}",
@@ -7184,13 +7829,15 @@
             "alias": "",
             "position": "326",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mk0: Windup Shredder",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 290,
             "color_identity": "UR",
             "cost": "{0}",
@@ -7205,13 +7852,15 @@
             "alias": "",
             "position": "327",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mk1: Wrenchbot",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 322,
             "color_identity": "UR",
             "cost": "{1}",
@@ -7226,13 +7875,15 @@
             "alias": "",
             "position": "328",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mk2: Evolution Turret",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 323,
             "color_identity": "UR",
             "cost": "{2}",
@@ -7247,13 +7898,15 @@
             "alias": "",
             "position": "329",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mk3: Apex Turret",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 324,
             "color_identity": "UR",
             "cost": "{3}",
@@ -7268,13 +7921,15 @@
             "alias": "",
             "position": "330",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mk4: Stormlobber",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 325,
             "color_identity": "UR",
             "cost": "{4}",
@@ -7289,13 +7944,15 @@
             "alias": "",
             "position": "331",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mk5: Rocket Blaster",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 326,
             "color_identity": "UR",
             "cost": "{5}",
@@ -7310,13 +7967,15 @@
             "alias": "",
             "position": "332",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mk6: Floor-B-Gone",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 327,
             "color_identity": "UR",
             "cost": "{6}",
@@ -7331,13 +7990,15 @@
             "alias": "",
             "position": "333",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mk7: Armored Stomper",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 328,
             "color_identity": "UR",
             "cost": "{7}",
@@ -7352,13 +8013,15 @@
             "alias": "",
             "position": "334",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "T-Hex",
             "color": "UR",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 329,
             "color_identity": "UR",
             "cost": "{8}",
@@ -7373,13 +8036,15 @@
             "alias": "",
             "position": "335",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Plains",
+            "type": "Basic Land \u2013 Plains",
             "number": 330,
             "color_identity": "W",
             "cost": "",
@@ -7394,13 +8059,15 @@
             "alias": "",
             "position": "336",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Island",
+            "type": "Basic Land \u2013 Island",
             "number": 331,
             "color_identity": "U",
             "cost": "",
@@ -7415,13 +8082,15 @@
             "alias": "",
             "position": "337",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Swamp",
+            "type": "Basic Land \u2013 Swamp",
             "number": 332,
             "color_identity": "B",
             "cost": "",
@@ -7436,13 +8105,15 @@
             "alias": "",
             "position": "338",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Mountain",
+            "type": "Basic Land \u2013 Mountain",
             "number": 333,
             "color_identity": "R",
             "cost": "",
@@ -7457,13 +8128,15 @@
             "alias": "",
             "position": "339",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Forest",
+            "type": "Basic Land \u2013 Forest",
             "number": 334,
             "color_identity": "G",
             "cost": "",
@@ -7478,13 +8151,15 @@
             "alias": "",
             "position": "340",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Puffcap",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2014 Puffcap",
+            "type": "Token Artifact \u2013 Puffcap",
             "number": 15,
             "color_identity": "C",
             "cost": "",
@@ -7499,13 +8174,15 @@
             "alias": "",
             "position": "341",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hecarim, The Shadow of War",
             "color": "B",
             "rarity": "common",
-            "type": "Emblem \u2014 Hecarim",
+            "type": "Emblem \u2013 Hecarim",
             "number": 2,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -7520,13 +8197,15 @@
             "alias": "",
             "position": "342",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mistwraith",
             "color": "B",
             "rarity": "common",
-            "type": "Emblem \u2014 Mistwraith",
+            "type": "Emblem \u2013 Mistwraith",
             "number": 3,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -7541,7 +8220,9 @@
             "alias": "",
             "position": "343",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Avarosan Hearthguard",
@@ -7562,7 +8243,9 @@
             "alias": "",
             "position": "344",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Poro Snax",
@@ -7583,7 +8266,9 @@
             "alias": "",
             "position": "345",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Warmother's Call",
@@ -7604,13 +8289,15 @@
             "alias": "",
             "position": "346",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Snow Hare",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Rabbit",
+            "type": "Creature \u2013 Rabbit",
             "number": 9,
             "color_identity": "G",
             "cost": "{G}",
@@ -7625,13 +8312,15 @@
             "alias": "",
             "position": "347",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Catastrophe",
             "color": "UR",
             "rarity": "rare",
-            "type": "Token Creature \u2014 Cat Construct",
+            "type": "Token Creature \u2013 Cat Construct",
             "number": 11,
             "color_identity": "UR",
             "cost": "{U}{R}",
@@ -7646,13 +8335,15 @@
             "alias": "",
             "position": "348",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Illegal Contraption",
             "color": "UR",
             "rarity": "rare",
-            "type": "Token Artifact Creature \u2014 Construct",
+            "type": "Token Artifact Creature \u2013 Construct",
             "number": 12,
             "color_identity": "UR",
             "cost": "{U}{R}",
@@ -7667,8 +8358,9 @@
             "alias": "",
             "position": "349",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
         }
-    ],
-    "version": 2
+    ]
 }

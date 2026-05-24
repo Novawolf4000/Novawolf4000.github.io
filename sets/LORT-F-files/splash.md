@@ -1,1 +1,0 @@
-﻿An attempt to create a playable set of MTG cards using the Legends of Runeterra cards whilst maintaining the original flavour where possible.
