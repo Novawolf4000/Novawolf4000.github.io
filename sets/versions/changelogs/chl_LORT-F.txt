@@ -1,4 +1,16 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Brittle Steel
+rules_text: Frostbite target creature an opponent controls that has toughness 3 or less. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i] => Frostbite target creature an opponent controls with toughness 3 or less. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i]
+
+Chump Whump
+rules_text: When Chump Whump enters, target opponent creates five Puffcap tokens, then target opponent creates five Puffcap tokens. => When Chump Whump enters, target opponent creates five Puffcap tokens. Repeat this process once.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 War Chefs added.

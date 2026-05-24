@@ -3512,7 +3512,7 @@ Whenever Braum is dealt damage and is not destroyed, create a Mighty Poro token.
 		</card>
 		<card>
 			<name>Brittle Steel</name>
-			<text>Frostbite target creature an opponent controls that has toughness 3 or less. (A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)</text>
+			<text>Frostbite target creature an opponent controls with toughness 3 or less. (A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/180.png" num="229">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -5482,7 +5482,7 @@ Plaza Guardian costs {1} less to cast for each instant and sorcery in your grave
 		</card>
 		<card>
 			<name>Chump Whump</name>
-			<text>When Chump Whump enters, target opponent creates five Puffcap tokens, then target opponent creates five Puffcap tokens.</text>
+			<text>When Chump Whump enters, target opponent creates five Puffcap tokens. Repeat this process once.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/288.png" num="276">LORT-F</set>
 			<prop>
 				<layout>normal</layout>

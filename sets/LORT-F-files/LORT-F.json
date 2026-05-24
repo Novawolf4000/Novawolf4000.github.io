@@ -3999,7 +3999,7 @@
             "number": 229,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Frostbite target creature an opponent controls that has toughness 3 or less. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i]",
+            "rules_text": "Frostbite target creature an opponent controls with toughness 3 or less. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6327,7 +6327,7 @@
             "number": 276,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "When Chump Whump enters, target opponent creates five Puffcap tokens, then target opponent creates five Puffcap tokens.",
+            "rules_text": "When Chump Whump enters, target opponent creates five Puffcap tokens. Repeat this process once.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -7670,5 +7670,5 @@
             "notes": ""
         }
     ],
-    "version": 7
+    "version": 8
 }
