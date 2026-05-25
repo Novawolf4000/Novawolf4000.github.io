@@ -1,4 +1,14 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Steam Vents added.
+Izzet Boilerworks added.
+Ferrous Lake added.
+Volcanic Island added.
+
+
+
+VERSION 9 CHANGELOG
 ====================
 
 No changes.

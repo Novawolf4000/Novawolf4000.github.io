@@ -5,7 +5,7 @@
 			<name>LORT-F</name>
 			<longname>Legends Of Runeterra Converted: Foundations</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-24</releasedate>
+			<releasedate>2026-05-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -6394,7 +6394,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/336.png" num="330">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/336.png" num="334">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6409,7 +6409,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/337.png" num="331">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/337.png" num="335">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6424,7 +6424,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/338.png" num="332">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/338.png" num="336">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6439,7 +6439,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/339.png" num="333">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/339.png" num="337">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6454,7 +6454,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/340.png" num="334">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/340.png" num="338">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6620,6 +6620,69 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Steam Vents</name>
+			<text>({T}: Add {R} or {U}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/350.png" num="332">LORT-F</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Izzet Boilerworks</name>
+			<text>This land enters tapped.
+When this land enters, return a land you control to its owner&apos;s hand.
+{T}: Add {U}{R}.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/351.png" num="331">LORT-F</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ferrous Lake</name>
+			<text>{1}, {T}: Add {U}{R}.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/352.png" num="330">LORT-F</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Volcanic Island</name>
+			<text>({T}: Add {R} or {U}.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/353.png" num="333">LORT-F</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
