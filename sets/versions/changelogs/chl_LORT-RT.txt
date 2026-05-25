@@ -1,4 +1,16 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Subpurrsible
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When Subpurrsible enters, draw a card. Then if you have ten cards with different names in your graveyard, Subpurrsible gets +4/+0.
+ => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When Subpurrsible enters, draw a card. Then if you have ten cards with different names in your graveyard, Subpurrsible gets +4/+0.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

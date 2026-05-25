@@ -1746,7 +1746,7 @@
             "number": 94,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
-            "rules_text": "Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]\nWhen Subpurrsible enters, draw a card. Then if you have ten cards with different names in your graveyard, Subpurrsible gets +4/+0.\n",
+            "rules_text": "Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]\nWhen Subpurrsible enters, draw a card. Then if you have ten cards with different names in your graveyard, Subpurrsible gets +4/+0.",
             "flavor_text": "[i][/i]",
             "pt": "1/5",
             "special_text": "",
@@ -2945,5 +2945,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }
