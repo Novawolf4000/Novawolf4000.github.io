@@ -1,4 +1,45 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Badlands added.
+Blood Crypt added.
+Rakdos Carnarium added.
+Shadowblood Ridge added.
+
+
+Tail of the Dragon
+type: Token Creature — Tail-of-the-Dragon => Token Creature — Human Monk
+cost: {B}{R} => {U}
+
+Dragonling
+cost: {B}{R} => {U}
+
+The Syren
+rules_text: Scout [i](Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i]
+When this creature enters, search your library and/or graveyard for a card named Captain Fortune, reveal it, and put it into your hand. If you search your library this way, shuffle.
+Whenever The Syren attacks, until the end of turn, whenever a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead. => Scout [i](Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i]
+When this creature enters, search your library and/or graveyard for a card named Captain Fortune, reveal it, and put it into your hand. If you search your library this way, shuffle.
+Whenever a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.
+
+Powder Keg
+type: Token Artifact Creature — Powder Keg => Token Artifact Creature — Construct
+
+Jagged Butcher
+rules_text: Plunder: Jagged Butcher gets a +1/+1 counter. [i](If an opponent was dealt damage this turn, when this creature enters Jagged Butcher gets a +1/+1 counter.)[/i] => Plunder: put a +1/+1 counter on Jagged Butcher. [i](If an opponent was dealt damage this turn, when this creature enters put a +1/+1 counter on Jagged Butcher.)[/i]
+
+Hunting Fleet
+rules_text: When Hunting Fleet enters, gift a Golden Narwhal token. => Gift a Golden Narwhal token.
+
+Terror of the Tides
+rules_text: Deep [i](The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)[/i]
+Leviathan creatures you control have Fearsome. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Whenever Terror of the Tides attacks, creatures your opponents control get -2/-0 until the end of the turn. => Deep [i](The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)[/i]
+Leviathan creatures you control have Fearsome. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Whenever Terror of the Tides attacks, creatures your opponents control get -2/-0 until the end of the turn.
+
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

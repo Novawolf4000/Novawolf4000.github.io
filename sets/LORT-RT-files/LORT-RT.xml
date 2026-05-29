@@ -5,7 +5,7 @@
 			<name>LORT-RT</name>
 			<longname>Legends Of Runeterra Converted: Rising Tides</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-24</releasedate>
+			<releasedate>2026-05-29</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -29,16 +29,16 @@
 		<card>
 			<name>Tail of the Dragon LORT-RT</name>
 			<text>If Tail of the Dragon is recalled, you may put a card named Concussive Palm from your graveyard into your hand. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/1.png" num="7">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/1.png" num="2">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Token Creature — Tail-of-the-Dragon</type>
+				<type>Token Creature — Human Monk</type>
 				<maintype>Creature</maintype>
-				<manacost>BR</manacost>
-				<cmc>2</cmc>
-				<colors>UBR</colors>
-				<coloridentity>UBR</coloridentity>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -47,16 +47,16 @@
 		<card>
 			<name>Dragonling LORT-RT</name>
 			<text>Lifelink, Ephemeral (This creature can attack and T as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/2.png" num="2">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/2.png" num="1">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Token Creature — Dragon Spirit</type>
 				<maintype>Creature</maintype>
-				<manacost>BR</manacost>
-				<cmc>2</cmc>
-				<colors>UBR</colors>
-				<coloridentity>UBR</coloridentity>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -200,7 +200,7 @@ The first time you cast a spell each turn add {C} and draw a card. The second ti
 			<name>The Syren</name>
 			<text>Scout (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)
 When this creature enters, search your library and/or graveyard for a card named Captain Fortune, reveal it, and put it into your hand. If you search your library this way, shuffle.
-Whenever The Syren attacks, until the end of turn, whenever a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.</text>
+Whenever a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/9.png" num="96">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -495,7 +495,7 @@ When Razorscale Hunter enters, target creature you don&apos;t control gets Vulne
 			<name>Powder Monkey LORT-RT</name>
 			<text>Ephemeral (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)
 When Powder Monkey leaves the battlefield, Powder Monkey deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/26.png" num="6">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/26.png" num="7">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -516,11 +516,11 @@ When Powder Monkey leaves the battlefield, Powder Monkey deals 1 damage to each 
 Powder Keg cannot attack or block.
 If you would create a Powder Keg while you already have one, add a Keg counter onto your Powder Keg instead.
 If a noncombat source you control would deal damage to a permanent or player, sacrifice your Powder Keg. The noncombat source you control deals that much damage plus 1+X where X is the number of Keg counters on the sacrificed Powder Keg.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/27.png" num="5">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/27.png" num="6">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Token Artifact Creature — Powder Keg</type>
+				<type>Token Artifact Creature — Construct</type>
 				<maintype>Creature</maintype>
 				<manacost>BR</manacost>
 				<cmc>2</cmc>
@@ -773,7 +773,7 @@ At the start of your upkeep, create a Powder Monkey token.</text>
 		<card>
 			<name>Keelbreaker LORT-RT</name>
 			<text>{5}: Sacrifice Keelbreaker. Keelbreaker deals 5 damage to all creatures. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/42.png" num="3">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/42.png" num="4">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -856,7 +856,7 @@ When Jaull Hunters enters, reveal cards from the top of your library until you r
 		</card>
 		<card>
 			<name>Jagged Butcher</name>
-			<text>Plunder: Jagged Butcher gets a +1/+1 counter. (If an opponent was dealt damage this turn, when this creature enters Jagged Butcher gets a +1/+1 counter.)</text>
+			<text>Plunder: put a +1/+1 counter on Jagged Butcher. (If an opponent was dealt damage this turn, when this creature enters put a +1/+1 counter on Jagged Butcher.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/47.png" num="109">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -891,7 +891,7 @@ When Island Navigator enters, reveal cards from the top of your library until yo
 		</card>
 		<card>
 			<name>Hunting Fleet</name>
-			<text>When Hunting Fleet enters, gift a Golden Narwhal token.</text>
+			<text>Gift a Golden Narwhal token.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/49.png" num="69">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2584,7 +2584,7 @@ When Genevieve Elmheart enters, each other creature you control gets +1/+1 until
 		<card>
 			<name>Aurora Porealis LORT-RT</name>
 			<text>Poro creatures you control get +2/+2.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/131.png" num="1">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/131.png" num="3">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2601,7 +2601,7 @@ When Genevieve Elmheart enters, each other creature you control gets +1/+1 until
 		<card>
 			<name>Lure of the Depths LORT-RT</name>
 			<text>Leviathan creatures you control cost {1} less to cast.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/132.png" num="4">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/132.png" num="5">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2614,6 +2614,69 @@ When Genevieve Elmheart enters, each other creature you control gets +1/+1 until
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Badlands</name>
+			<text>({T}: Add {B} or {R}.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/133.png" num="125">LORT-RT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blood Crypt</name>
+			<text>({T}: Add {B} or {R}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/134.png" num="126">LORT-RT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rakdos Carnarium</name>
+			<text>This land enters tapped.
+When this land enters, return a land you control to its owner&apos;s hand.
+{T}: Add {B}{R}.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/135.png" num="127">LORT-RT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shadowblood Ridge</name>
+			<text>{1}, {T}: Add {B}{R}.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/136.png" num="128">LORT-RT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

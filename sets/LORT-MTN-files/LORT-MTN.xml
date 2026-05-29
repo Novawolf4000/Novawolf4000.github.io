@@ -5,7 +5,7 @@
 			<name>LORT-MTN</name>
 			<longname>Legends Of Runeterra Converted: Call of the Mountain</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-25</releasedate>
+			<releasedate>2026-05-29</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1315,7 +1315,6 @@ Nightfall: create an exiled copy of Evershade Stalker. You may cast this copy fr
 			<name>Go Hard</name>
 			<text>Drain 1 from target creature an opponent controls. You get an experience counter. (Go Hard deals 1 damage. You gain that much life.)
 Create two exiled copies of Go Hard. You may cast the copies exiled this way from exile for as long as they remain exiled.
-
 ---
 (Back): Pack Your Bags</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/72_front.png" num="38a">LORT-MTN</set>
@@ -2186,7 +2185,6 @@ Partner
 When Aurelion Sol transforms, put a spellshield counter on him. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
 When Aurelion Sol transforms, and at the start of your upkeep, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
 You may cast Celestial cards without paying it&apos;s mana cost.
-
 ---
 (Front): Aurelion Sol</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/116_back.png" num="88b">LORT-MTN</set>
@@ -3901,7 +3899,6 @@ Partner
 			<text>Upgrade (Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)
 Artifacts you control cost {UR} less to cast.
 {UR}, {T}: Randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Viktor gets the chosen ability. Activate only as a sorcery.
-
 ---
 (Front): Viktor, The Machinist</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/207_back.png" num="180b">LORT-MTN</set>
@@ -4300,7 +4297,7 @@ When this land enters, return a land you control to its owner&apos;s hand.
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Plains Island</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4315,7 +4312,7 @@ When this land enters, return a land you control to its owner&apos;s hand.
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land — Plains Island</type>
+				<type>Land</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
