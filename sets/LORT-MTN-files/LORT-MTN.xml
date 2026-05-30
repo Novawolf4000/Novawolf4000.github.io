@@ -5,7 +5,7 @@
 			<name>LORT-MTN</name>
 			<longname>Legends Of Runeterra Converted: Call of the Mountain</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-29</releasedate>
+			<releasedate>2026-05-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -224,14 +224,14 @@ Equip {3}</text>
 		<card>
 			<name>Gem LORT-MTN</name>
 			<text>{1}: Sacrifice Gem, remove 1 damage from target creature and give it +1/+0.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/12.png" num="7">LORT-MTN</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/12.png" num="5">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Token Artifact — Gem</type>
 				<maintype>Artifact</maintype>
-				<manacost>7</manacost>
-				<cmc>7</cmc>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
 			</prop>
@@ -546,14 +546,14 @@ Whenever The Scourge attacks, all other attacking creatures you control get +2/+
 		<card>
 			<name>The Silver Sister LORT-MTN</name>
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/30.png" num="1">LORT-MTN</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/30.png" num="6">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Token Creature — Celestial</type>
 				<maintype>Creature</maintype>
-				<manacost>6</manacost>
-				<cmc>6</cmc>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
 				<pt>4/3</pt>
@@ -648,7 +648,7 @@ When Captain Arrika enters, you may exile target creature an opponent controls u
 		</card>
 		<card>
 			<name>Dragonguard Lieutenant</name>
-			<text>When Dragonguard Lieutenant enters, you may behold a Dragon, if you do Dragonguard Lieutenant gets Challenger. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+			<text>When Dragonguard Lieutenant enters, you may behold a Dragon, if you do Dragonguard Lieutenant gets Challenger. (To behold a Dragon, if you do Dragonguard Lieutenant gets Challenger., choose a Dragon, if you do Dragonguard Lieutenant gets Challenger. you control or reveal a Dragon, if you do Dragonguard Lieutenant gets Challenger. card from your hand.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/36.png" num="3">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -665,7 +665,7 @@ When Captain Arrika enters, you may exile target creature an opponent controls u
 		</card>
 		<card>
 			<name>Dragonguard Lookout</name>
-			<text>When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap all creatures you control. After this phase, there is an additional combat phase. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)</text>
+			<text>When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap all creatures you control. After this phase, there is an additional combat phase. (To behold a Dragon, if you do, untap all creatures you control., choose a Dragon, if you do, untap all creatures you control. you control or reveal a Dragon, if you do, untap all creatures you control. card from your hand.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/37.png" num="4">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1056,7 +1056,7 @@ Whenever Lulu attacks, other attacking target creature you control has base powe
 			<name>Mumblesprite LORT-MTN</name>
 			<text>Shadow, Ephemeral (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)
 When Mumblesprite enters, its power and toughness equals the power and toughness of target other creature you control.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/57.png" num="2">LORT-MTN</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/57.png" num="1">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2503,7 +2503,7 @@ Fury. (When this creature destroys another creature, put a +1/+1 counter on it.)
 		</card>
 		<card>
 			<name>Giddy Sparkleologist</name>
-			<text>When Giddy Sparkleologist enters, if you behold a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. (To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand. The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<text>When Giddy Sparkleologist enters, if you behold a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. (To behold a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter., choose a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. you control or reveal a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. card from your hand.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/131.png" num="113">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3210,7 +3210,7 @@ At the start of your upkeep, if Star Spring has twenty two or more Spring counte
 		</card>
 		<card>
 			<name>Starbone</name>
-			<text>As an additional cost to cast this card, Behold a celestial. (To behold a celestial, choose a celestial you control or reveal a celestial card from your hand.)
+			<text>As an additional cost to cast this card, Behold a celestial. (To behold a celestial., choose a celestial. you control or reveal a celestial. card from your hand.)
 Search your library and/or graveyard for a card named The Messenger, then exile it. If you search your library this way, shuffle. You may cast the creature exiled this way from exile for as long as it remains exiled. When the exiled creature enters from exile, put a +1/+1 counter on it.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/171.png" num="215">LORT-MTN</set>
 			<prop>
@@ -3244,7 +3244,7 @@ Search your library and/or graveyard for a card named The Messenger, then exile 
 		</card>
 		<card>
 			<name>Starry Scamp</name>
-			<text>At the start of your pre-combat main phase, you may Behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. (To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand.)</text>
+			<text>At the start of your pre-combat main phase, you may Behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. (To behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn., choose a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. you control or reveal a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. card from your hand.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/173.png" num="216">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4243,7 +4243,7 @@ Activated abilities of Luna Equipment cards you control cost {1} less.
 		<card>
 			<name>Encroaching Shadows LORT-MTN</name>
 			<text>Creatures you cast get +2/+2 and Ephemeral. (That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/224.png" num="3">LORT-MTN</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/224.png" num="2">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4323,7 +4323,7 @@ When this land enters, return a land you control to its owner&apos;s hand.
 		<card>
 			<name>Zoe, The Aspect of Twilight LORT-MTN</name>
 			<text>Whenever a creature you control enters, if it has first strike, each other creature you control gets first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/229.png" num="6">LORT-MTN</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/229.png" num="7">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4340,7 +4340,7 @@ When this land enters, return a land you control to its owner&apos;s hand.
 		<card>
 			<name>Emblem LORT-MTN</name>
 			<text>The base power of creatures you control is equal to the creature with the highest power you control. The base toughness of creatures you control is equal to the creature with the highest toughness you control.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/230.png" num="4">LORT-MTN</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/230.png" num="3">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4357,7 +4357,7 @@ When this land enters, return a land you control to its owner&apos;s hand.
 		<card>
 			<name>Emblem LORT-MTN</name>
 			<text>Creatures you control have first strike if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/231.png" num="5">LORT-MTN</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/231.png" num="4">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

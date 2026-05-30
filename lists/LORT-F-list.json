@@ -3578,40 +3578,8 @@
     },
     "a->token",
     {
-        "card_name": "Blade's Edge",
-        "number": 13,
-        "shape": "token",
-        "set": "LORT-F",
-        "rotated": false,
-        "position": "163"
-    },
-    {
-        "card_name": "Darkness",
-        "number": 14,
-        "shape": "token",
-        "set": "LORT-F",
-        "rotated": false,
-        "position": "164"
-    },
-    {
-        "card_name": "Puffcap",
-        "number": 15,
-        "shape": "token",
-        "set": "LORT-F",
-        "rotated": false,
-        "position": "341"
-    },
-    {
-        "card_name": "Spinning Axe",
-        "number": 16,
-        "shape": "token",
-        "set": "LORT-F",
-        "rotated": false,
-        "position": "165"
-    },
-    {
         "card_name": "Snow Hare",
-        "number": 9,
+        "number": 12,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
@@ -3626,8 +3594,16 @@
         "position": "273"
     },
     {
-        "card_name": "Hecarim, The Shadow of War",
+        "card_name": "Darkness",
         "number": 2,
+        "shape": "token",
+        "set": "LORT-F",
+        "rotated": false,
+        "position": "164"
+    },
+    {
+        "card_name": "Hecarim, The Shadow of War",
+        "number": 3,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
@@ -3635,7 +3611,7 @@
     },
     {
         "card_name": "Mistwraith",
-        "number": 3,
+        "number": 4,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
@@ -3643,7 +3619,7 @@
     },
     {
         "card_name": "Spectral Rider",
-        "number": 4,
+        "number": 5,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
@@ -3651,7 +3627,7 @@
     },
     {
         "card_name": "Unleashed Spirit",
-        "number": 5,
+        "number": 6,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
@@ -3659,15 +3635,31 @@
     },
     {
         "card_name": "Vilemaw",
-        "number": 6,
+        "number": 7,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
         "position": "106"
     },
     {
+        "card_name": "Blade's Edge",
+        "number": 8,
+        "shape": "token",
+        "set": "LORT-F",
+        "rotated": false,
+        "position": "163"
+    },
+    {
+        "card_name": "Spinning Axe",
+        "number": 9,
+        "shape": "token",
+        "set": "LORT-F",
+        "rotated": false,
+        "position": "165"
+    },
+    {
         "card_name": "Avarosan Hearthguard",
-        "number": 7,
+        "number": 10,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
@@ -3675,7 +3667,7 @@
     },
     {
         "card_name": "Poro Snax",
-        "number": 8,
+        "number": 11,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
@@ -3683,7 +3675,7 @@
     },
     {
         "card_name": "Warmother's Call",
-        "number": 10,
+        "number": 13,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
@@ -3691,7 +3683,7 @@
     },
     {
         "card_name": "Catastrophe",
-        "number": 11,
+        "number": 14,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
@@ -3699,11 +3691,19 @@
     },
     {
         "card_name": "Illegal Contraption",
-        "number": 12,
+        "number": 15,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
         "position": "349"
+    },
+    {
+        "card_name": "Puffcap",
+        "number": 16,
+        "shape": "token",
+        "set": "LORT-F",
+        "rotated": false,
+        "position": "341"
     },
     {
         "card_name": "e"

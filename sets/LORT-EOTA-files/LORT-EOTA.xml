@@ -5,7 +5,7 @@
 			<name>LORT-EOTA</name>
 			<longname>Legends Of Runeterra Conversion: Empires of the Ascended</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-29</releasedate>
+			<releasedate>2026-05-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -884,7 +884,6 @@ Partner
 			<text>Trample, Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
 When Rek&apos;Sai transforms, search your library for up to three creatures with Lurk, reveal them, add them to your hand, then shuffle.
 When Rek&apos;Sai attacks you gain a Lurk counter.
-
 ---
 (Front): Rek&apos;Sai, The Void Burrower</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/44_back.png" num="147b">LORT-EOTA</set>
@@ -2565,7 +2564,7 @@ After this phase, there is an additional combat phase.</text>
 		</card>
 		<card>
 			<name>Penitent Squire</name>
-			<text>When Penitent Squire enters, you may Behold a Knight, if you do, the next creature you cast enters with Challenger. (To behold a Knight, choose a Knight you control or reveal a Knight card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+			<text>When Penitent Squire enters, you may Behold a Knight, if you do, the next creature you cast enters with Challenger. (To behold a Knight, if you do, the next creature you cast enters with Challenger., choose a Knight, if you do, the next creature you cast enters with Challenger. you control or reveal a Knight, if you do, the next creature you cast enters with Challenger. card from your hand.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/133.png" num="14">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2696,7 +2695,8 @@ When King Jarvan III enters, you may search your library for a card named King J
 		</card>
 		<card>
 			<name>Production Surge</name>
-			<text>Reveal cards from the top of your library until you reveal X artifact creature cards. Then put any number of those artifact creature cards onto the battlefield with total mana value X, then put the rest of the revealed cards on the bottom of your library in a random order.</text>
+			<text>X can&apos;t be 0.
+Reveal cards from the top of your library until you reveal X artifact creature cards. Put any number of artifact creature cards with total mana value X or less from among them onto the battlefield and the rest on the bottom of your library in a random order.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/139.png" num="208">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4636,8 +4636,8 @@ When Invasive Hydravine enters and at the beginning of your upkeep, create an En
 				<maintype>Creature</maintype>
 				<manacost>U</manacost>
 				<cmc>1</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>

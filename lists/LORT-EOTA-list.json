@@ -3324,6 +3324,14 @@
     },
     "a->token",
     {
+        "card_name": "Blade",
+        "number": 1,
+        "shape": "token",
+        "set": "LORT-EOTA",
+        "rotated": false,
+        "position": "236"
+    },
+    {
         "card_name": "Encroaching Mist",
         "number": 2,
         "shape": "token",
@@ -3362,14 +3370,6 @@
         "set": "LORT-EOTA",
         "rotated": false,
         "position": "238"
-    },
-    {
-        "card_name": "Blade",
-        "number": 1,
-        "shape": "token",
-        "set": "LORT-EOTA",
-        "rotated": false,
-        "position": "236"
     },
     {
         "card_name": "Clockling",

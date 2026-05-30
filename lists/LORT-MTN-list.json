@@ -3415,7 +3415,7 @@
     "a->token",
     {
         "card_name": "Mumblesprite",
-        "number": 2,
+        "number": 1,
         "shape": "token",
         "set": "LORT-MTN",
         "rotated": false,
@@ -3423,23 +3423,15 @@
     },
     {
         "card_name": "Encroaching Shadows",
-        "number": 3,
+        "number": 2,
         "shape": "token",
         "set": "LORT-MTN",
         "rotated": false,
         "position": "224"
     },
     {
-        "card_name": "The Silver Sister",
-        "number": 1,
-        "shape": "token",
-        "set": "LORT-MTN",
-        "rotated": false,
-        "position": "30"
-    },
-    {
         "card_name": "Emblem",
-        "number": 4,
+        "number": 3,
         "shape": "token",
         "set": "LORT-MTN",
         "rotated": false,
@@ -3447,27 +3439,35 @@
     },
     {
         "card_name": "Emblem",
-        "number": 5,
+        "number": 4,
         "shape": "token",
         "set": "LORT-MTN",
         "rotated": false,
         "position": "231"
     },
     {
-        "card_name": "Zoe, The Aspect of Twilight",
-        "number": 6,
-        "shape": "token",
-        "set": "LORT-MTN",
-        "rotated": false,
-        "position": "229"
-    },
-    {
         "card_name": "Gem",
-        "number": 7,
+        "number": 5,
         "shape": "token",
         "set": "LORT-MTN",
         "rotated": false,
         "position": "12"
+    },
+    {
+        "card_name": "The Silver Sister",
+        "number": 6,
+        "shape": "token",
+        "set": "LORT-MTN",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Zoe, The Aspect of Twilight",
+        "number": 7,
+        "shape": "token",
+        "set": "LORT-MTN",
+        "rotated": false,
+        "position": "229"
     },
     {
         "card_name": "e"

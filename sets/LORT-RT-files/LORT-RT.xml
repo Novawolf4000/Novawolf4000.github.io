@@ -5,7 +5,7 @@
 			<name>LORT-RT</name>
 			<longname>Legends Of Runeterra Converted: Rising Tides</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-29</releasedate>
+			<releasedate>2026-05-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -66,7 +66,7 @@
 			<name>Zap Sprayfin</name>
 			<text>Skulk, Attune: {C} (This creature can&apos;t be blocked by creatures with greater power. When this creature enters, add {C}. This mana can only be used used to cast instants and sorceries.)
 When Zap Sprayfin enters, reveal cards from the top of your library until you reveal an instant or sorcery with mana value 3 or less, add it to your hand and shuffle all other revealed cards into your library.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/3.png" num="101">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/3.png" num="100">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -84,7 +84,7 @@ When Zap Sprayfin enters, reveal cards from the top of your library until you re
 			<name>Yordle Grifter</name>
 			<text>When Yordle Grifter enters, reveal the card on top of your library, if the revealed card has the same colour identity as Yordle Grifter, then exile the card from the bottom of target opponents library. You may cast the card exiled this way for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. Then put a charge counter on Yordle Grifter.
 {T}: Remove a charge counter from Yordle Grifter. Yordle Grifter deals 1 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/4.png" num="124">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/4.png" num="123">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -101,7 +101,7 @@ When Zap Sprayfin enters, reveal cards from the top of your library until you re
 		<card>
 			<name>Ye Been Warned</name>
 			<text>Target creature gets Vulnerable until end of turn. If the target creature is destroyed this turn, draw a card. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/5.png" num="123">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/5.png" num="122">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -117,7 +117,7 @@ When Zap Sprayfin enters, reveal cards from the top of your library until you re
 		<card>
 			<name>Vicious Platewyrm LORT-RT</name>
 			<text>Fearsome, Deep (Creatures with Fearsome cannot be blocked by creatures with power 2 or less. The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/6.png" num="9">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/6.png" num="10">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -143,7 +143,7 @@ Whenever you draw a card, put a Swindler counter on Twisted Fate. At the end of 
 Partner
 ---
 (Back): Twisted Fate, The Card Master</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/7_front.png" num="98a">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/7_front.png" num="97a">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -164,7 +164,7 @@ Partner
 The first time you cast a spell each turn add {C} and draw a card. The second time you cast a spell each turn, Twisted Fate deals 1 damage to each opponent and each creature they control. The third time you cast a spell each turn, Twisted Fate deals 2 damage to the creature with the highest power among creatures target opponent controls, then put a stun counter on it.
 ---
 (Front): Twisted Fate</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/7_back.png" num="98b">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/7_back.png" num="97b">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -182,7 +182,7 @@ The first time you cast a spell each turn add {C} and draw a card. The second ti
 		<card>
 			<name>Treasure Trove LORT-RT</name>
 			<text>{5}: Sacrifice Treasure Trove. Exile the top five cards of your library. You may play cards exiled this way for as long as they remain exiled without paying their mana cost. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/8.png" num="8">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/8.png" num="9">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -201,7 +201,7 @@ The first time you cast a spell each turn add {C} and draw a card. The second ti
 			<text>Scout (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)
 When this creature enters, search your library and/or graveyard for a card named Captain Fortune, reveal it, and put it into your hand. If you search your library this way, shuffle.
 Whenever a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/9.png" num="96">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/9.png" num="95">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -219,7 +219,7 @@ Whenever a source you control would deal noncombat damage to an opponent or a pe
 			<name>The Dreadway</name>
 			<text>When this creature enters, search your library and/or graveyard for a card named Captain Gangplank, reveal it, and put it into your hand. If you search your library this way, shuffle.
 If a noncombat source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/10.png" num="65">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/10.png" num="64">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -236,7 +236,7 @@ If a noncombat source you control would deal damage to a permanent or player, it
 		<card>
 			<name>The Beast Below</name>
 			<text>Deep (The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/11.png" num="55">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/11.png" num="54">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -253,7 +253,7 @@ If a noncombat source you control would deal damage to a permanent or player, it
 		<card>
 			<name>Strong-arm</name>
 			<text>Plunder: return a creature to its owners hand. (If an opponent was dealt damage this turn, when this spell is cast return a creature to its owners hand.)</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/12.png" num="93">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/12.png" num="92">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -270,7 +270,7 @@ If a noncombat source you control would deal damage to a permanent or player, it
 			<name>Smooth Soloist</name>
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
 Plunder: exile any number of creature cards from your hand. You may cast a card exiled this way for as long as it remains exiled and costs {2} less to cast. (If an opponent was dealt damage this turn, when this creature enters exile any number of creature cards from your hand. You may cast a card exiled this way for as long as it remains exiled and costs {2} less to cast.)</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/13.png" num="92">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/13.png" num="91">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -287,7 +287,7 @@ Plunder: exile any number of creature cards from your hand. You may cast a card 
 		<card>
 			<name>Slotbot</name>
 			<text>When Slotbot enters and at the start of your pre-combat main phase, Slotbot gets +0/+1 for each card in hand, then swap Slotbots power and toughness.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/14.png" num="91">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/14.png" num="90">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -304,7 +304,7 @@ Plunder: exile any number of creature cards from your hand. You may cast a card 
 		<card>
 			<name>Slippery Waverider</name>
 			<text>Skulk, Attune: {C} (When this creature enters, add {C}. This mana can only be used used to cast instants and sorceries.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/15.png" num="90">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/15.png" num="89">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -321,7 +321,7 @@ Plunder: exile any number of creature cards from your hand. You may cast a card 
 		<card>
 			<name>Sleight of Hand</name>
 			<text>Randomly choose a card from among cards in target opponents hand, reveal it, if it is a nonlegendry creature, exile it. You may cast that card from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/16.png" num="89">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/16.png" num="88">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -341,7 +341,7 @@ When Shipwreck Hoarder enters, Toss 1, then roll a d20. Repeat this process once
 [b]1-7 [/b]| Create a Treasure Trove token.
 [b]8-14 [/b]| Create a Keelbreaker Token.
 [b]15-20 [/b]| Create three Vicious Platewyrm tokens.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/17.png" num="88">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/17.png" num="87">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -358,7 +358,7 @@ When Shipwreck Hoarder enters, Toss 1, then roll a d20. Repeat this process once
 		<card>
 			<name>Sheriff Lariette Rose</name>
 			<text>When Sheriff Lariette Rose enters, each creature your opponents control get Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/18.png" num="87">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/18.png" num="86">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -375,7 +375,7 @@ When Shipwreck Hoarder enters, Toss 1, then roll a d20. Repeat this process once
 		<card>
 			<name>Shellshocker</name>
 			<text>Attune: {C} (When this creature enters, add {C}. This mana can only be used used to cast instants and sorceries.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/19.png" num="120">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/19.png" num="119">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -393,7 +393,7 @@ When Shipwreck Hoarder enters, Toss 1, then roll a d20. Repeat this process once
 			<name>Scrapshot</name>
 			<text>Toss 3 (Exile three cards from the bottom of your library.)
 Scrapshot deals 7 damage to target creature.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/20.png" num="86">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/20.png" num="85">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -409,7 +409,7 @@ Scrapshot deals 7 damage to target creature.</text>
 		<card>
 			<name>Salvage</name>
 			<text>Toss 2, then draw two cards. (Exile two cards from the bottom of your library.)</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/21.png" num="85">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/21.png" num="84">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -425,7 +425,7 @@ Scrapshot deals 7 damage to target creature.</text>
 		<card>
 			<name>Riptide Rex</name>
 			<text>Plunder: Riptide Rex deals 2 damage to a random creature a random opponent controls. If an opponent has no creatures, Riptide Rex deals 1 damage to that opponent instead. Repeat this process six times. (If an opponent was dealt damage this turn, when this creature enters Riptide Rex deals 2 damage to a random creature a random opponent controls. If an opponent has no creatures, Riptide Rex deals 1 damage to that opponent instead. Repeat this process six times.)</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/22.png" num="84">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/22.png" num="83">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -460,7 +460,7 @@ Put a stun counter onto target creature an opponent controls. If this card was k
 			<name>Razorscale Hunter</name>
 			<text>Scout. (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)
 When Razorscale Hunter enters, target creature you don&apos;t control gets Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/24.png" num="83">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/24.png" num="82">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -477,7 +477,7 @@ When Razorscale Hunter enters, target creature you don&apos;t control gets Vulne
 		<card>
 			<name>Prowling Cutthroat</name>
 			<text>Skulk, Fearsome (This creature can&apos;t be blocked by creatures with greater power. Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/25.png" num="119">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/25.png" num="118">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -495,7 +495,7 @@ When Razorscale Hunter enters, target creature you don&apos;t control gets Vulne
 			<name>Powder Monkey LORT-RT</name>
 			<text>Ephemeral (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)
 When Powder Monkey leaves the battlefield, Powder Monkey deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/26.png" num="7">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/26.png" num="8">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -516,7 +516,7 @@ When Powder Monkey leaves the battlefield, Powder Monkey deals 1 damage to each 
 Powder Keg cannot attack or block.
 If you would create a Powder Keg while you already have one, add a Keg counter onto your Powder Keg instead.
 If a noncombat source you control would deal damage to a permanent or player, sacrifice your Powder Keg. The noncombat source you control deals that much damage plus 1+X where X is the number of Keg counters on the sacrificed Powder Keg.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/27.png" num="6">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/27.png" num="7">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -535,7 +535,7 @@ If a noncombat source you control would deal damage to a permanent or player, sa
 			<name>Pool Shark</name>
 			<text>When Pool Shark enters, put a charge counter on Pool Shark.
 At the start of your draw step, remove a charge counter from Pool Shark and exile the top card of your library. You may cast that card from exile until the end of your next turn.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/28.png" num="118">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/28.png" num="117">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -553,7 +553,7 @@ At the start of your draw step, remove a charge counter from Pool Shark and exil
 			<name>Pocket Aces</name>
 			<text>Target creature you control gets +2/+1.
 Miracle {1}{BR} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/29.png" num="117">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/29.png" num="116">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -569,7 +569,7 @@ Miracle {1}{BR} (You may cast this card for its miracle cost when you draw it if
 		<card>
 			<name>Plunder Poro</name>
 			<text>Plunder: randomly choose two abilities from among first strike, vigilance, menace, lifelink, flying, haste, reach, hexproof, and trample. Plunder Poro has each of the chosen abilities. (If an opponent was dealt damage this turn, when this creature enters randomly choose two abilities from among first strike, vigilance, menace, lifelink, flying, haste, reach, hexproof, and trample. Plunder Poro has each of the chosen abilities.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/30.png" num="116">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/30.png" num="115">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -587,7 +587,7 @@ Miracle {1}{BR} (You may cast this card for its miracle cost when you draw it if
 			<name>Playful Trickster</name>
 			<text>As an additional cost to cast this spell, Recall an attacking or blocking creature you control. (A recalled permanent is put back into its owners hand from the battlefield.)
 After this phase, there is an additional combat phase.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/31.png" num="82">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/31.png" num="81">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -604,7 +604,7 @@ After this phase, there is an additional combat phase.</text>
 			<name>Pilfered Goods</name>
 			<text>Nab 1 (Exile a card from the bottom of target opponents library. You may cast cards exiled this way for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. )
 Plunder: Nab 1 (If an opponent was dealt damage this turn, when this spell is cast Nab 1.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/32.png" num="81">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/32.png" num="80">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -621,7 +621,7 @@ Plunder: Nab 1 (If an opponent was dealt damage this turn, when this spell is ca
 			<name>Pick a Card</name>
 			<text>As an additional cost to cast this spell, shuffle one card from your hand into your library.
 At the start of your next upkeep, exile the top two cards of your library. You may cast these cards from exile until the end of turn.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/33.png" num="80">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/33.png" num="79">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -639,7 +639,7 @@ At the start of your next upkeep, exile the top two cards of your library. You m
 			<text>When Petty Officer enters, choose one —
 • Create a Powder Keg token.
 • Reveal cards from the top of your library until you reveal three creatures with mana value 1, randomly choose one, put it onto the battlefield, then shuffle all other revealed cards into your library.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/34.png" num="79">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/34.png" num="78">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -656,7 +656,7 @@ At the start of your next upkeep, exile the top two cards of your library. You m
 		<card>
 			<name>Parrrley</name>
 			<text>Parrrley deals 1 damage to any target. If Parrrley destroys a creature, Parrrley deals 1 damage to that creatures controller.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/35.png" num="114">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/35.png" num="113">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -673,7 +673,7 @@ At the start of your next upkeep, exile the top two cards of your library. You m
 			<name>Mystifying Magician</name>
 			<text>As an additional cost to cast this spell, put a nontoken creature you control to the bottom of your library.
 When Mystifying Magician enters, reveal cards from the top of your library until you reveal a creature card with mana value 5, put it onto the battlefield, then shuffle all other revealed cards into your library.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/36.png" num="77">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/36.png" num="76">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -690,7 +690,7 @@ When Mystifying Magician enters, reveal cards from the top of your library until
 		<card>
 			<name>More Powder!</name>
 			<text>Create two Powder Keg tokens.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/37.png" num="113">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/37.png" num="112">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -708,7 +708,7 @@ When Mystifying Magician enters, reveal cards from the top of your library until
 			<text>Vanishing 3 (This creature enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 Monkey Idol cannot attack or block.
 At the start of your upkeep, create a Powder Monkey token.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/38.png" num="76">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/38.png" num="75">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -725,7 +725,7 @@ At the start of your upkeep, create a Powder Monkey token.</text>
 		<card>
 			<name>Mind Meld</name>
 			<text>Until the end of your turn, creatures you control get +X/+X where X is the number of instants and sorcery spells you cast this turn.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/39.png" num="75">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/39.png" num="74">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -741,7 +741,7 @@ At the start of your upkeep, create a Powder Monkey token.</text>
 		<card>
 			<name>Make it Rain</name>
 			<text>Make it Rain randomly deals 1 damage to an opponent or creature they control. Repeat this process two times.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/40.png" num="112">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/40.png" num="111">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -757,7 +757,7 @@ At the start of your upkeep, create a Powder Monkey token.</text>
 		<card>
 			<name>Lure of the Depths</name>
 			<text>You get an emblem with &quot;Leviathan creatures you control cost {1} less to cast&quot;. Reveal cards from the top of your library until you reveal a Leviathan creature, add it to your hand, then shuffle all other revealed cards into your library.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/41.png" num="74">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/41.png" num="73">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -773,7 +773,7 @@ At the start of your upkeep, create a Powder Monkey token.</text>
 		<card>
 			<name>Keelbreaker LORT-RT</name>
 			<text>{5}: Sacrifice Keelbreaker. Keelbreaker deals 5 damage to all creatures. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/42.png" num="4">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/42.png" num="5">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -790,7 +790,7 @@ At the start of your upkeep, create a Powder Monkey token.</text>
 		<card>
 			<name>Jettison</name>
 			<text>Toss 4 (Exile four cards from the bottom of your library.)</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/43.png" num="111">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/43.png" num="110">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -807,7 +807,7 @@ At the start of your upkeep, create a Powder Monkey token.</text>
 			<name>Jaull Hunters</name>
 			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
 When Jaull Hunters enters, reveal cards from the top of your library until you reveal three leviathan creatures, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/44.png" num="73">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/44.png" num="72">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -824,7 +824,7 @@ When Jaull Hunters enters, reveal cards from the top of your library until you r
 		<card>
 			<name>Jailbreak</name>
 			<text>Reveal cards from the top of your library until you reveal a creature with mana value 1, put it onto the battlefield, then shuffle all other revealed cards into your library.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/45.png" num="110">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/45.png" num="109">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -840,7 +840,7 @@ When Jaull Hunters enters, reveal cards from the top of your library until you r
 		<card>
 			<name>Jagged Taskmaster</name>
 			<text>Plunder: Jagged Taskmaster gets &quot;creatures you control with mana value 1 have +1/+0&quot; (If an opponent was dealt damage this turn, when this creature enters Jagged Taskmaster gets &quot;creatures you control with mana value 1 have +1/+0&quot;.)</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/46.png" num="72">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/46.png" num="71">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -857,7 +857,7 @@ When Jaull Hunters enters, reveal cards from the top of your library until you r
 		<card>
 			<name>Jagged Butcher</name>
 			<text>Plunder: put a +1/+1 counter on Jagged Butcher. (If an opponent was dealt damage this turn, when this creature enters put a +1/+1 counter on Jagged Butcher.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/47.png" num="109">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/47.png" num="108">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -875,7 +875,7 @@ When Jaull Hunters enters, reveal cards from the top of your library until you r
 			<name>Island Navigator</name>
 			<text>Scout (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)
 When Island Navigator enters, reveal cards from the top of your library until you reveal a creature with mana value 1, put that creature onto the battlefield under your control and give it Scout, then shuffle all other revealed cards into your library.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/48.png" num="71">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/48.png" num="70">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -892,7 +892,7 @@ When Island Navigator enters, reveal cards from the top of your library until yo
 		<card>
 			<name>Hunting Fleet</name>
 			<text>Gift a Golden Narwhal token.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/49.png" num="69">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/49.png" num="68">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -909,7 +909,7 @@ When Island Navigator enters, reveal cards from the top of your library until yo
 		<card>
 			<name>Hired Gun</name>
 			<text>When Hired Gun enters, the creature with the highest power among creatures target opponent controls gets Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/50.png" num="68">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/50.png" num="67">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -926,7 +926,7 @@ When Island Navigator enters, reveal cards from the top of your library until yo
 		<card>
 			<name>Golden Narwhal</name>
 			<text>Skulk, Vulnerable (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/51.png" num="108">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/51.png" num="107">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -948,7 +948,7 @@ At the end of any phase, if you have six or more experience counters, transform 
 Partner
 ---
 (Back): Fizz, The Tidal Trickster</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/52_front.png" num="107a">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/52_front.png" num="106a">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -969,7 +969,7 @@ Partner
 When Fizz, The Tidal Trickster deals combat damage to an opponent, target creature an opponent controls gets Vulnerable, then create Longtooth token. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)
 ---
 (Front): Fizz</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/52_back.png" num="107b">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/52_back.png" num="106b">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -987,7 +987,7 @@ When Fizz, The Tidal Trickster deals combat damage to an opponent, target creatu
 		<card>
 			<name>Dreg Dredgers</name>
 			<text>When Dreg Dredgers enters, Toss 3 (Exile three cards from the bottom of your library.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/53.png" num="106">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/53.png" num="105">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1004,7 +1004,7 @@ When Fizz, The Tidal Trickster deals combat damage to an opponent, target creatu
 		<card>
 			<name>Dreadway Deckhand</name>
 			<text>When Dreadway Deckhand enters, create a Powder Keg token.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/54.png" num="66">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/54.png" num="65">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1021,7 +1021,7 @@ When Fizz, The Tidal Trickster deals combat damage to an opponent, target creatu
 		<card>
 			<name>Double Up</name>
 			<text>Double Up deals 2 damage to target creature an opponent controls. If Double Up destroys that creature, Double Up deals 4 damage to that creatures controller.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/55.png" num="64">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/55.png" num="63">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1037,7 +1037,7 @@ When Fizz, The Tidal Trickster deals combat damage to an opponent, target creatu
 		<card>
 			<name>Double Trouble</name>
 			<text>Reveal cards from the top of your library until you reveal two creatures with mana value 1, put them onto the battlefield, then shuffle all other revealed cards into your library.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/56.png" num="63">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/56.png" num="62">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1054,7 +1054,7 @@ When Fizz, The Tidal Trickster deals combat damage to an opponent, target creatu
 			<name>Devourer of the Depths</name>
 			<text>Deep (The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)
 When Devourer of the Depths enters, you may exile target creature an opponent controls with less toughness than Devourer of the Depths.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/57.png" num="62">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/57.png" num="61">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1071,7 +1071,7 @@ When Devourer of the Depths enters, you may exile target creature an opponent co
 		<card>
 			<name>Crackshot Corsair</name>
 			<text>Whenever one or more creatures you control attack, Crackshot Corsair deals 1 damage to target opponent.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/58.png" num="105">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/58.png" num="104">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1089,7 +1089,7 @@ When Devourer of the Depths enters, you may exile target creature an opponent co
 			<name>Coral Creatures</name>
 			<text>Attune: {C} (When this creature enters, add {C}. This mana can only be used used to cast instants and sorceries.)
 When Coral Creatures enters, reveal cards from the top of your library until you reveal three instant and/or sorcery cards with mana value 1, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/59.png" num="104">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/59.png" num="103">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1106,7 +1106,7 @@ When Coral Creatures enters, reveal cards from the top of your library until you
 		<card>
 			<name>Citrus Courier</name>
 			<text>Plunder: remove all damage from each creature you control, then you gain 3 life. After this phase, there is an additional combat phase. (If an opponent was dealt damage this turn, when this creature enters remove all damage from each creature you control, then you gain 3 life. After this phase, there is an additional combat phase.)</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/60.png" num="61">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/60.png" num="60">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1123,7 +1123,7 @@ When Coral Creatures enters, reveal cards from the top of your library until you
 		<card>
 			<name>Chum the Waters</name>
 			<text>Target creature an opponent controls gets Vulnerable. Create a Longtooth token. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/61.png" num="60">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/61.png" num="59">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1145,7 +1145,7 @@ At the end of any phase on your turn, if Captain Gangplank has five or more Citr
 Partner
 ---
 (Back): Gangplank, The Saltwater Scourge</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/62_front.png" num="59a">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/62_front.png" num="58a">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1154,7 +1154,7 @@ Partner
 				<manacost>BBBRR</manacost>
 				<cmc>5</cmc>
 				<colors>BR</colors>
-				<coloridentity>UBR</coloridentity>
+				<coloridentity>BR</coloridentity>
 				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -1167,7 +1167,7 @@ When Gangplank transforms and at the start of your upkeep, create a Powder Keg t
 Whenever one or more creatures you control attack, Gangplank deals 1 damage to all opponents and creatures they control.
 ---
 (Front): Captain Gangplank</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/62_back.png" num="59b">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/62_back.png" num="58b">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1176,7 +1176,7 @@ Whenever one or more creatures you control attack, Gangplank deals 1 damage to a
 				<manacost></manacost>
 				<cmc>0</cmc>
 				<colors>BR</colors>
-				<coloridentity>UBR</coloridentity>
+				<coloridentity>BR</coloridentity>
 				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -1189,7 +1189,7 @@ At the beginning of the combat damage step of each combat during your turn, Capt
 Partner
 ---
 (Back): Miss Fortune, The Queen of Bilgewater</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/63_front.png" num="58a">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/63_front.png" num="57a">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1210,7 +1210,7 @@ Partner
 At the beginning of the combat damage step of each combat during your turn, Miss Fortune deals 1 damage to each player and each blocking creature they control. Repeat this process two times.
 ---
 (Front): Captain Fortune</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/63_back.png" num="58b">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/63_back.png" num="57b">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1228,7 +1228,7 @@ At the beginning of the combat damage step of each combat during your turn, Miss
 		<card>
 			<name>Bubble Bear</name>
 			<text>Skulk, Attune: {C} (When this creature enters, add {C}. This mana can only be used used to cast instants and sorceries.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/64.png" num="102">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/64.png" num="101">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1247,7 +1247,7 @@ At the beginning of the combat damage step of each combat during your turn, Miss
 			<text>As an additional cost to cast this spell, discard two cards from your hand.
 Brash (Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)
 When Brash Gambler attacks, exile two cards from the top of your library. You may cast these cards from exile until the end of your next turn.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/65.png" num="57">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/65.png" num="56">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1265,7 +1265,7 @@ When Brash Gambler attacks, exile two cards from the top of your library. You ma
 			<name>Black Market Merchant</name>
 			<text>Plunder: exile a card from the bottom of target opponents library. You may cast cards exiled this way for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. (If an opponent was dealt damage this turn, when this creature enters exile a card from the bottom of target opponents library. You may cast cards exiled this way for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy.)
 Casting cards from exile costs {1} less to cast.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/66.png" num="56">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/66.png" num="55">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1283,7 +1283,7 @@ Casting cards from exile costs {1} less to cast.</text>
 			<name>Abyssal Eye</name>
 			<text>Skulk, Deep (This creature can&apos;t be blocked by creatures with greater power. The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)
 Whenever Abyssal Eye deals combat damage to an opponent, draw a card.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/67.png" num="54">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/67.png" num="53">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1304,7 +1304,7 @@ At the end of any phase on your turn, if you are Deep, transform Nautilus. (The 
 Partner
 ---
 (Back): Nautilus, The Titan of the Depths</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/68_front.png" num="78a">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/68_front.png" num="77a">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1326,7 +1326,7 @@ When Nautilus transforms, all creatures with mana value 4 or greater in your exi
 Leviathan and Giant creatures you control cost {4} less to cast.
 ---
 (Front): Nautilus</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/68_back.png" num="78b">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/68_back.png" num="77b">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1342,9 +1342,9 @@ Leviathan and Giant creatures you control cost {4} less to cast.
 			<related attach="transform">Nautilus</related>
 		</card>
 		<card>
-			<name>Sapling</name>
-			<text>Ephemeral, Challenger (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/69.png" num="30">LORT-RT</set>
+			<name>Sapling LORT-RT</name>
+			<text>Ephemeral, Challenger (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/69.png" num="3">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1357,6 +1357,7 @@ Leviathan and Giant creatures you control cost {4} less to cast.
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>Vi, The Piltover Enforcer</name>
@@ -1366,7 +1367,7 @@ At the start of your post-combat main phase, if Vi attacked and dealt 10 or more
 Partner
 ---
 (Back): Vi, Piltover&apos;s Finest</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/70_front.png" num="99a">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/70_front.png" num="98a">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1386,7 +1387,7 @@ Partner
 			<text>Challenger, Absorb 1, Afflict 5 (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
 ---
 (Front): Vi, The Piltover Enforcer</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/70_back.png" num="99b">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/70_back.png" num="98b">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1404,7 +1405,7 @@ Partner
 		<card>
 			<name>Veteran Investigator</name>
 			<text>Whenever Veteran Investigator enters, each player draws a card.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/71.png" num="122">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/71.png" num="121">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1422,7 +1423,7 @@ Partner
 			<name>Vault Breaker</name>
 			<text>Multikicker {1}{UR} (You may pay an additional {1}{UR} any number of times as you cast this spell.)
 Choose target creature, then choose another target creature for each time this spell was kicked. Each creature gets +2/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/72.png" num="121">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/72.png" num="120">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1438,7 +1439,7 @@ Choose target creature, then choose another target creature for each time this s
 		<card>
 			<name>Trail of Evidence</name>
 			<text>Reveal cards from the top of your library until you reveal a card with mana value 2, exile that card and then shuffle all other revealed cards into your library. You may cast the card exiled this way for as long as it remains exiled without paying its mana cost.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/73.png" num="97">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/73.png" num="96">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1455,7 +1456,7 @@ Choose target creature, then choose another target creature for each time this s
 			<name>Suit Up!</name>
 			<text>Target creatures base power and toughness becomes 4/4.
 Miracle {U}{R} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/74.png" num="95">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/74.png" num="94">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1471,7 +1472,7 @@ Miracle {U}{R} (You may cast this card for its miracle cost when you draw it if 
 		<card>
 			<name>Patrol Wardens</name>
 			<text>Miracle {1}{UR} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/75.png" num="115">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/75.png" num="114">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1488,7 +1489,7 @@ Miracle {U}{R} (You may cast this card for its miracle cost when you draw it if 
 		<card>
 			<name>Insightful Investigator</name>
 			<text>Whenever you cast a spell with mana value 2, exile the top card of your library. You may cast cards exiled this way from exile until the end of turn.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/76.png" num="70">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/76.png" num="69">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1506,7 +1507,7 @@ Miracle {U}{R} (You may cast this card for its miracle cost when you draw it if 
 			<name>Gotcha!</name>
 			<text>Gotcha! deals 3 damage to target creature.
 Miracle {U}{R} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/77.png" num="67">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/77.png" num="66">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1522,7 +1523,7 @@ Miracle {U}{R} (You may cast this card for its miracle cost when you draw it if 
 		<card>
 			<name>Chief Mechanist Zevi</name>
 			<text>Whenever you draw a card, reveal it and create an exiled copy of that card. You may cast copies created this way from exile until the end of turn.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/78.png" num="103">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/78.png" num="102">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1540,7 +1541,7 @@ Miracle {U}{R} (You may cast this card for its miracle cost when you draw it if 
 			<name>Subpurrsible</name>
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
 When Subpurrsible enters, draw a card. Then if you have ten cards with different names in your graveyard, Subpurrsible gets +4/+0.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/79.png" num="94">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/79.png" num="93">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1558,7 +1559,7 @@ When Subpurrsible enters, draw a card. Then if you have ten cards with different
 			<name>Wolfrider</name>
 			<text>Trample
 Plunder: add one mana of any color. (If an opponent was dealt damage this turn, when this creature enters add one mana of any color.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/80.png" num="53">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/80.png" num="52">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1580,7 +1581,7 @@ The first time each turn a source you control deals damage to an opponent, put a
 Partner
 ---
 (Back): Sejuani, The Fury of the North</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/81_front.png" num="52a">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/81_front.png" num="51a">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1602,7 +1603,7 @@ When Sejuani, The Fury of the North transforms, target creature an opponent cont
 The first time each turn a source you control deals damage to an opponent, Frostbite each creature they control. (A creature with frostbite gains -X/-0 where X is that creatures power until the end of the turn.)
 ---
 (Front): Warmother Sejuani</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/81_back.png" num="52b">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/81_back.png" num="51b">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1622,7 +1623,7 @@ The first time each turn a source you control deals damage to an opponent, Frost
 			<text>Plunder: transform Ursine Spiritwalker. (If an opponent was dealt damage this turn, when this creature enters transform Ursine Spiritwalker.)
 ---
 (Back): Stormclaw Ursine</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/82_front.png" num="51a">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/82_front.png" num="50a">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1643,7 +1644,7 @@ The first time each turn a source you control deals damage to an opponent, Frost
 Other creatures you control with power 5 or greater have Trample.
 ---
 (Front): Ursine Spiritwalker</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/82_back.png" num="51b">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/82_back.png" num="50b">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1662,7 +1663,7 @@ Other creatures you control with power 5 or greater have Trample.
 			<name>The Tuskraider</name>
 			<text>When The Tuskraider enters, search your library and/or graveyard for a card named Warmother Sejuani, reveal it, and put it into your hand. If you search your library this way, shuffle.
 Plunder: The Tuskraider gets the ability &quot;Double the power and touchness of all cratures you control&quot;. (If an opponent was dealt damage this turn, when this creature enters The Tuskraider gets the ability &quot;Double the power and touchness of all cratures you control&quot;.)</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/83.png" num="50">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/83.png" num="49">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1680,7 +1681,7 @@ Plunder: The Tuskraider gets the ability &quot;Double the power and touchness of
 			<name>Shared Spoils</name>
 			<text>The next three creatures that enters under your control enter with a +1/+1 counter.
 Plunder: reveal cards from the top of your library until you reveal a creature, add it to your hand and shuffle all other revealed cards into your library. (If an opponent was dealt damage this turn, when this spell is cast reveal cards from the top of your library until you reveal a creature, add it to your hand and shuffle all other revealed cards into your library.)</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/84.png" num="49">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/84.png" num="48">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1696,7 +1697,7 @@ Plunder: reveal cards from the top of your library until you reveal a creature, 
 		<card>
 			<name>Ruthless Raider</name>
 			<text>Trample, Absorb 1</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/85.png" num="48">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/85.png" num="47">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1713,7 +1714,7 @@ Plunder: reveal cards from the top of your library until you reveal a creature, 
 		<card>
 			<name>Fury of the North</name>
 			<text>Target creature you control gets +3/+4 until the end of turn.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/86.png" num="47">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/86.png" num="46">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1729,7 +1730,7 @@ Plunder: reveal cards from the top of your library until you reveal a creature, 
 		<card>
 			<name>Ember Maiden</name>
 			<text>At the start of your upkeep, Ember Maiden deals 1 damage to each player and each creature and planeswalker they control. Put a -1/-1 counter on Ember Maiden.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/87.png" num="46">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/87.png" num="45">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1746,7 +1747,7 @@ Plunder: reveal cards from the top of your library until you reveal a creature, 
 		<card>
 			<name>Caught in the Cold</name>
 			<text>Target creature an opponent controls gets Frostbite and Vulnerable until the end of turn. (A creature with frostbite gains -X/-0 where X is that creatures power until the end of the turn. When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/88.png" num="45">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/88.png" num="44">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1763,7 +1764,7 @@ Plunder: reveal cards from the top of your library until you reveal a creature, 
 			<name>Aurora Porealis</name>
 			<text>Search your library for two poro creatures with mana value 1 and put them onto the battlefield under your control, then shuffle.
 You get an emblem with &quot;Poro creatures you control get +2/+2&quot;</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/89.png" num="44">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/89.png" num="43">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1780,7 +1781,7 @@ You get an emblem with &quot;Poro creatures you control get +2/+2&quot;</text>
 			<name>The Leviathan</name>
 			<text>When The Leviathan enters, search your library and/or graveyard for a card named Swain, The Master Tactician, reveal it, and put it into your hand. If you search your library this way, shuffle.
 At the start of your upkeep, The Leviathan deals 1 damage to each opponent. Repeat this process once.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/90.png" num="40">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/90.png" num="39">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1802,7 +1803,7 @@ Whenever an opponent takes noncombat damage from a source you control, put a Cro
 Partner
 ---
 (Back): Swain, The Noxian Grand General</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/91_front.png" num="43a">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/91_front.png" num="42a">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1824,7 +1825,7 @@ Whenever an opponent takes noncombat damage from a source you control, put a stu
 Whenever Swain deals combat damage to an opponent, Swain deals 3 damage to that opponent and each creature they control.
 ---
 (Front): Swain, The Master Tactician</text>
-			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/91_back.png" num="43b">LORT-RT</set>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/91_back.png" num="42b">LORT-RT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1842,7 +1843,7 @@ Whenever Swain deals combat damage to an opponent, Swain deals 3 damage to that 
 		<card>
 			<name>Ravenous Flock</name>
 			<text>Ravenous Flock deals 4 damage to target creature that is damaged or has a stun counter.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/92.png" num="42">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/92.png" num="41">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1858,7 +1859,7 @@ Whenever Swain deals combat damage to an opponent, Swain deals 3 damage to that 
 		<card>
 			<name>Noxian Fervor</name>
 			<text>Noxian Fervor deals 3 damage to target creature you control to deal 3 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/93.png" num="41">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/93.png" num="40">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1874,7 +1875,7 @@ Whenever Swain deals combat damage to an opponent, Swain deals 3 damage to that 
 		<card>
 			<name>Iron Ballista</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/94.png" num="39">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/94.png" num="38">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1891,7 +1892,7 @@ Whenever Swain deals combat damage to an opponent, Swain deals 3 damage to that 
 		<card>
 			<name>Imperial Demolitionist</name>
 			<text>When Imperial Demolitionist enters, Imperial Demolitionist deals 1 damage to other target creature you control to deal 2 damage to target opponent.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/95.png" num="38">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/95.png" num="37">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1908,7 +1909,7 @@ Whenever Swain deals combat damage to an opponent, Swain deals 3 damage to that 
 		<card>
 			<name>Death&apos;s Hand</name>
 			<text>Death&apos;s Hand deals 2 damage to target opponent, then deals 1 damage to target creature they control.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/96.png" num="37">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/96.png" num="36">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1924,7 +1925,7 @@ Whenever Swain deals combat damage to an opponent, Swain deals 3 damage to that 
 		<card>
 			<name>Citybreaker</name>
 			<text>At the start of your upkeep, Citybreaker deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/97.png" num="36">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/97.png" num="35">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1941,7 +1942,7 @@ Whenever Swain deals combat damage to an opponent, Swain deals 3 damage to that 
 		<card>
 			<name>Aurok Glinthorn</name>
 			<text>Whenever Aurok Glinthorn attacks, put a stun counter on all damaged creatures the defending opponent controls.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/98.png" num="35">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/98.png" num="34">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1959,7 +1960,7 @@ Whenever Swain deals combat damage to an opponent, Swain deals 3 damage to that 
 			<name>Armored Tuskrider</name>
 			<text>Trample
 Armored Tuskrider has protection from creatures with power 4 or less.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/99.png" num="34">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/99.png" num="33">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1976,7 +1977,7 @@ Armored Tuskrider has protection from creatures with power 4 or less.</text>
 		<card>
 			<name>Thorny Toad</name>
 			<text>When Thorny Toad is destroyed, you gain 2 life and Toss 2. (Exile two cards from the bottom of your library.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/100.png" num="33">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/100.png" num="32">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1995,7 +1996,7 @@ Armored Tuskrider has protection from creatures with power 4 or less.</text>
 			<text>Deep (The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)
 Leviathan creatures you control have Fearsome. (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
 Whenever Terror of the Tides attacks, creatures your opponents control get -2/-0 until the end of the turn.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/101.png" num="32">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/101.png" num="31">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2012,7 +2013,7 @@ Whenever Terror of the Tides attacks, creatures your opponents control get -2/-0
 		<card>
 			<name>Sapling Toss</name>
 			<text>At the start of your next upkeep, create a Sapling token.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/102.png" num="31">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/102.png" num="30">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2568,7 +2569,7 @@ When Genevieve Elmheart enters, each other creature you control gets +1/+1 until
 		<card>
 			<name>Warning Shot</name>
 			<text>Warning Shot deals 1 damage to target opponent.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/130.png" num="100">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/130.png" num="99">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2584,7 +2585,7 @@ When Genevieve Elmheart enters, each other creature you control gets +1/+1 until
 		<card>
 			<name>Aurora Porealis LORT-RT</name>
 			<text>Poro creatures you control get +2/+2.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/131.png" num="3">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/131.png" num="4">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2601,7 +2602,7 @@ When Genevieve Elmheart enters, each other creature you control gets +1/+1 until
 		<card>
 			<name>Lure of the Depths LORT-RT</name>
 			<text>Leviathan creatures you control cost {1} less to cast.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/132.png" num="5">LORT-RT</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/132.png" num="6">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2618,7 +2619,7 @@ When Genevieve Elmheart enters, each other creature you control gets +1/+1 until
 		<card>
 			<name>Badlands</name>
 			<text>({T}: Add {B} or {R}.)</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/133.png" num="125">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/133.png" num="124">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2634,7 +2635,7 @@ When Genevieve Elmheart enters, each other creature you control gets +1/+1 until
 			<name>Blood Crypt</name>
 			<text>({T}: Add {B} or {R}.)
 As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/134.png" num="126">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/134.png" num="125">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2651,7 +2652,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 			<text>This land enters tapped.
 When this land enters, return a land you control to its owner&apos;s hand.
 {T}: Add {B}{R}.</text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/135.png" num="127">LORT-RT</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/135.png" num="126">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2666,7 +2667,7 @@ When this land enters, return a land you control to its owner&apos;s hand.
 		<card>
 			<name>Shadowblood Ridge</name>
 			<text>{1}, {T}: Add {B}{R}.</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/136.png" num="128">LORT-RT</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/136.png" num="127">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

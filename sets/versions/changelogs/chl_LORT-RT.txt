@@ -1,4 +1,37 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Sapling
+rules_text: Ephemeral, Challenger [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Ephemeral, Challenger [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+
+
+VERSION 5 CHANGELOG
+====================
+
+
+
+Captain Gangplank
+
+
+VERSION 4 CHANGELOG
+====================
+
+
+
+Sapling
+
+Terror of the Tides
+rules_text: Deep [i](The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)[/i]
+Leviathan creatures you control have Fearsome. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Whenever Terror of the Tides attacks, creatures your opponents control get -2/-0 until the end of the turn.
+ => Deep [i](The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)[/i]
+Leviathan creatures you control have Fearsome. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Whenever Terror of the Tides attacks, creatures your opponents control get -2/-0 until the end of the turn.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Badlands added.

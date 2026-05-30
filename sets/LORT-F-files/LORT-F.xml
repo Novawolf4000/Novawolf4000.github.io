@@ -5,7 +5,7 @@
 			<name>LORT-F</name>
 			<longname>Legends Of Runeterra Converted: Foundations</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-25</releasedate>
+			<releasedate>2026-05-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1888,7 +1888,7 @@ When Cursed Keeper is destroyed, regenerate, then transform Cursed Keeper. (The 
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
-				<type>Token Creature — Wraith</type>
+				<type>Creature — Wraith</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -2074,7 +2074,7 @@ Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or
 			<name>Vilemaw LORT-F</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
 Other Fearsome creatures you control get +1/+0.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/106.png" num="6">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/106.png" num="7">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2092,7 +2092,7 @@ Other Fearsome creatures you control get +1/+0.</text>
 		<card>
 			<name>Unleashed Spirit LORT-F</name>
 			<text>Ephemeral (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/107.png" num="5">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/107.png" num="6">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2110,7 +2110,7 @@ Other Fearsome creatures you control get +1/+0.</text>
 		<card>
 			<name>Spectral Rider LORT-F</name>
 			<text>Ephemeral (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/108.png" num="4">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/108.png" num="5">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3148,14 +3148,15 @@ Target attacking creature you control and target blocking creature an opponent c
 		<card>
 			<name>Blade&apos;s Edge LORT-F</name>
 			<text>{R}: Sacrifice Blade&apos;s Edge. Blade&apos;s Edge deals 1 damage to any target.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/163.png" num="13">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/163.png" num="8">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Token Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
@@ -3164,14 +3165,16 @@ Target attacking creature you control and target blocking creature an opponent c
 		<card>
 			<name>Darkness LORT-F</name>
 			<text>{3}: Sacrifice Darkness. Darkness deals 2 to a target creature. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/164.png" num="14">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/164.png" num="2">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Token Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
@@ -3181,14 +3184,16 @@ Target attacking creature you control and target blocking creature an opponent c
 			<text>Equipped creature gets +1/+0.
 When Spinning Axe is equipped, discard a card.
 Equip {0}</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/165.png" num="16">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/165.png" num="9">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Token Artifact — Equipment</type>
 				<maintype>Artifact</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
@@ -5231,8 +5236,8 @@ Whenever a creature you control enters, Greenglade Duo gets +1/+0 until end of t
 				<side>front</side>
 				<type>Token Creature — Human Rogue</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>*/*</pt>
@@ -6470,14 +6475,16 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 			<name>Puffcap LORT-F</name>
 			<text>When this token is sacrificed, you lose 1 life.
 (If you would draw a card while you control one or more Puffcap tokens, flip a coin. If you win the flip, draw the card. If you lose the flip, reveal the card as you draw it, then sacrifice Puffcap tokens equal to its mana value.)</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/341.png" num="15">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/341.png" num="16">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Token Artifact — Puffcap</type>
 				<maintype>Artifact</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
@@ -6485,7 +6492,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Hecarim, The Shadow of War LORT-F</name>
 			<text>Ephemeral creatures you control get +3/+0.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/342.png" num="2">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/342.png" num="3">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6502,7 +6509,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Mistwraith LORT-F</name>
 			<text>Creatures named Mistwraith you control get +1/+0.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/343.png" num="3">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/343.png" num="4">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6519,7 +6526,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Avarosan Hearthguard LORT-F</name>
 			<text>Creatures you control enter with a +1/+1 counter.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/344.png" num="7">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/344.png" num="10">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6536,7 +6543,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Poro Snax LORT-F</name>
 			<text>Poro creatures you control enter with a +1/+1 counter.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/345.png" num="8">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/345.png" num="11">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6553,7 +6560,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Warmother&apos;s Call LORT-F</name>
 			<text>At the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature, put that creature onto the battlefield, then shuffle all other revealed cards into your library.</text>
-			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/346.png" num="10">LORT-F</set>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/346.png" num="13">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6570,7 +6577,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Snow Hare LORT-F</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/347.png" num="9">LORT-F</set>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/347.png" num="12">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6588,7 +6595,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Catastrophe LORT-F</name>
 			<text>Trample</text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/348.png" num="11">LORT-F</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/348.png" num="14">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6606,7 +6613,7 @@ When Caustic Cask dies, Caustic Cask deals 1 damage to each player.</text>
 		<card>
 			<name>Illegal Contraption LORT-F</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/349.png" num="12">LORT-F</set>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/349.png" num="15">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

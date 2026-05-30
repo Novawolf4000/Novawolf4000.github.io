@@ -1,4 +1,33 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Gem
+cost: {7} => {W}{U}
+
+The Silver Sister
+cost: {6} => {W}{U}
+
+Dragonguard Lieutenant
+rules_text: When Dragonguard Lieutenant enters, you may behold a Dragon, if you do Dragonguard Lieutenant gets Challenger. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => When Dragonguard Lieutenant enters, you may behold a Dragon, if you do Dragonguard Lieutenant gets Challenger. [i](To behold a Dragon, if you do Dragonguard Lieutenant gets Challenger., choose a Dragon, if you do Dragonguard Lieutenant gets Challenger. you control or reveal a Dragon, if you do Dragonguard Lieutenant gets Challenger. card from your hand.)[/i]
+
+Dragonguard Lookout
+rules_text: When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap all creatures you control. After this phase, there is an additional combat phase. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i] => When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap all creatures you control. After this phase, there is an additional combat phase. [i](To behold a Dragon, if you do, untap all creatures you control., choose a Dragon, if you do, untap all creatures you control. you control or reveal a Dragon, if you do, untap all creatures you control. card from your hand.)[/i]
+
+Giddy Sparkleologist
+rules_text: When Giddy Sparkleologist enters, if you behold a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. [i](To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand. The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i] => When Giddy Sparkleologist enters, if you behold a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. [i](To behold a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter., choose a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. you control or reveal a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. card from your hand.)[/i]
+
+Starbone
+rules_text: As an additional cost to cast this card, Behold a celestial. [i](To behold a celestial, choose a celestial you control or reveal a celestial card from your hand.)[/i]
+Search your library and/or graveyard for a card named The Messenger, then exile it. If you search your library this way, shuffle. You may cast the creature exiled this way from exile for as long as it remains exiled. When the exiled creature enters from exile, put a +1/+1 counter on it. => As an additional cost to cast this card, Behold a celestial. [i](To behold a celestial., choose a celestial. you control or reveal a celestial. card from your hand.)[/i]
+Search your library and/or graveyard for a card named The Messenger, then exile it. If you search your library this way, shuffle. You may cast the creature exiled this way from exile for as long as it remains exiled. When the exiled creature enters from exile, put a +1/+1 counter on it.
+
+Starry Scamp
+rules_text: At the start of your pre-combat main phase, you may Behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. [i](To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand.)[/i] => At the start of your pre-combat main phase, you may Behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. [i](To behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn., choose a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. you control or reveal a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. card from your hand.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

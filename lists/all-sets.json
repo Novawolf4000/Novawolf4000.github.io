@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "LORT-BTB",
+            "set_name": "Legends Of Runeterra Conversion: Beyond the Bandlewood",
+            "formats": ""
+        },
+        {
             "set_code": "LORT-EOTA",
             "set_name": "Legends Of Runeterra Conversion: Empires of the Ascended",
             "formats": ""

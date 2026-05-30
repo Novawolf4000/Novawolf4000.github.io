@@ -1,4 +1,29 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Cursed Keeper
+
+Spectral Rider
+
+Blade's Edge
+cost:  => {R}
+
+Darkness
+cost:  => {B}
+
+Spinning Axe
+cost:  => {R}
+
+Navori Brigand
+cost:  => {U}
+
+Puffcap
+cost:  => {U}{R}
+
+
+VERSION 11 CHANGELOG
 ====================
 
 No changes.

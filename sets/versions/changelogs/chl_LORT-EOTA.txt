@@ -1,4 +1,33 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Rek'Sai, The Void Burrower
+
+Xerxa'Reth, The Undertitan
+rules_text: Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+Whenever Xerxa'Reth attacks, if Xerxa'Reth has power 8 or greater, Xerxa'Reth gets Fearsome and Trample until the end of the turn, then put a shield counter on Xerxa'Reth. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+ => Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+Whenever Xerxa'Reth attacks, if Xerxa'Reth has power 8 or greater, Xerxa'Reth gets Fearsome and Trample until the end of the turn, then put a shield counter on Xerxa'Reth. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+
+Penitent Squire
+rules_text: When Penitent Squire enters, you may Behold a Knight, if you do, the next creature you cast enters with Challenger. [i](To behold a Knight, choose a Knight you control or reveal a Knight card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => When Penitent Squire enters, you may Behold a Knight, if you do, the next creature you cast enters with Challenger. [i](To behold a Knight, if you do, the next creature you cast enters with Challenger., choose a Knight, if you do, the next creature you cast enters with Challenger. you control or reveal a Knight, if you do, the next creature you cast enters with Challenger. card from your hand.)[/i]
+
+Production Surge
+rules_text: Reveal cards from the top of your library until you reveal X artifact creature cards. Then put any number of those artifact creature cards onto the battlefield with total mana value X, then put the rest of the revealed cards on the bottom of your library in a random order. => X can't be 0.
+Reveal cards from the top of your library until you reveal X artifact creature cards. Put any number of artifact creature cards with total mana value X or less from among them onto the battlefield and the rest on the bottom of your library in a random order.
+
+Jaull-fish
+rules_text: Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+When Jaull-fish enters, each creature you control with Lurk randomly attacks an opponent. [i](Randomly choose a target for each creature.)[/i]
+ => Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+When Jaull-fish enters, each creature you control with Lurk randomly attacks an opponent. [i](Randomly choose a target for each creature.)[/i]
+
+Blade
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
