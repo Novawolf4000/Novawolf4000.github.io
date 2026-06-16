@@ -993,7 +993,7 @@
             "number": 71,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "Plunder: Jagged Taskmaster gets \u201ccreatures you control with mana value 1 have +1/+0\u201d [i](If an opponent was dealt damage this turn, when this creature enters Jagged Taskmaster gets \u201ccreatures you control with mana value 1 have +1/+0\u201d.)[/i]",
+            "rules_text": "Plunder: Jagged Taskmaster gets \u201ccreatures you control with mana value 1 gets +1/+0\u201d [i](If an opponent was dealt damage this turn, when this creature enters Jagged Taskmaster gets \u201ccreatures you control with mana value 1 gets +1/+0\u201d.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1545,7 +1545,7 @@
             "number": 98,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
-            "rules_text": "Challenger, Absorb 1 [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]\n[i]Magecraft[/i] \u2014 Whenever you cast or copy an instant or sorcery spell, Vi gets +1/+0.\nAt the start of your post-combat main phase, if Vi attacked and dealt 10 or more combat damage, remove all counters from Vi and transform her.\nPartner",
+            "rules_text": "Challenger, Absorb 1 [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]\n[i]Magecraft[/i] \u2014 Whenever you cast or copy an instant or sorcery spell, Vi gets a +1/+0 counter.\nAt the start of your post-combat main phase, if Vi attacked and dealt 10 or more combat damage, remove all counters from Vi and transform her.\nPartner",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -3029,5 +3029,5 @@
             "notes": ""
         }
     ],
-    "version": 6
+    "version": 8
 }

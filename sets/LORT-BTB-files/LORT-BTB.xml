@@ -5,7 +5,7 @@
 			<name>LORT-BTB</name>
 			<longname>Legends Of Runeterra Conversion: Beyond the Bandlewood</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-30</releasedate>
+			<releasedate>2026-06-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2070,7 +2070,7 @@ Whenever another source you control modifies a creature you control, put a +1/+1
 		</card>
 		<card>
 			<name>Gorlith the Unscalable</name>
-			<text>Absorb 1, Formidable
+			<text>Absorb 1, Formidable (This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)
 When Gorlith enters, exchange your life total with this creature&apos;s toughness.
 Gorlith can&apos;t be blocked by creatures with less toughness than Gorlith.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-BTB-files/img/102.png" num="5">LORT-BTB</set>
@@ -2106,7 +2106,7 @@ Gorlith can&apos;t be blocked by creatures with less toughness than Gorlith.</te
 		</card>
 		<card>
 			<name>Petricite Broadwing</name>
-			<text>Formidable
+			<text>Formidable (This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)
 Whenever another creature you control enters, Petricite Broadwing gets Challenger until end of turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-BTB-files/img/104.png" num="8">LORT-BTB</set>
 			<prop>
@@ -2141,7 +2141,7 @@ Whenever another creature you control enters, Petricite Broadwing gets Challenge
 		</card>
 		<card>
 			<name>Mountain Drake</name>
-			<text>Fury, Formidable (When this creature destroys another creature, put a +1/+1 counter on it.)
+			<text>Fury, Formidable (When this creature destroys another creature, put a +1/+1 counter on it. This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)
 If a +1/+1 counter would be put onto Mountain Drake, it gets +0/+2 instead.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-BTB-files/img/106.png" num="7">LORT-BTB</set>
 			<prop>
@@ -2175,7 +2175,7 @@ If a +1/+1 counter would be put onto Mountain Drake, it gets +0/+2 instead.</tex
 		</card>
 		<card>
 			<name>Petricite Hound</name>
-			<text>Formidable</text>
+			<text>Formidable (This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-BTB-files/img/108.png" num="9">LORT-BTB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2225,7 +2225,7 @@ Create a Dauntless Vanguard token, its base power and toughness is equal to X. I
 		</card>
 		<card>
 			<name>Galio</name>
-			<text>Formidable
+			<text>Formidable (This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)
 Galio enters with a Spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
 When Galio enters, each other creature you control gets +0/+3.
 At the beginning of your end step, if you have a total of 25 or more toughness among creature you control, transform Galio. 
@@ -2249,7 +2249,7 @@ Partner
 		</card>
 		<card>
 			<name>Galio</name>
-			<text>Formidable
+			<text>Formidable (This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)
 When Galio transforms, put a spellshield counter on him. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
 The first time on your turn a creature you control is dealt damage, untap each creature you control, there is an additional combat phase after this one.
 ---
@@ -2271,7 +2271,7 @@ The first time on your turn a creature you control is dealt damage, untap each c
 		</card>
 		<card>
 			<name>Durand Architect</name>
-			<text>When Durand Architect attacks, other attacking target creature you control gets +0/+2 and Formidable until the end of turn.</text>
+			<text>When Durand Architect attacks, other attacking target creature you control gets +0/+2 and Formidable until the end of turn. (This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-BTB-files/img/112.png" num="1">LORT-BTB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2466,7 +2466,7 @@ The first time each turn you cast your second spell, put a +1/+1 counter on each
 		<card>
 			<name>Nami</name>
 			<text>Attune: {C} (When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)
-Magecraft — Whenever you cast an instant or sorcery, the creature with the lowest power among creatures you control gets +1/+0.
+Magecraft — Whenever you cast an instant or sorcery, the creature with the lowest power among creatures you control gets a +1/+0 counter.
 Whenever you cast an instant or sorcery, put a Marai counter on Nami. At the end of any phase on your turn, if Nami has five or more Marai counter, remove all Marai counters from Nami, then transform her.
 Partner
 ---
@@ -2489,7 +2489,7 @@ Partner
 		<card>
 			<name>Nami, The Tidecaller</name>
 			<text>When Nami transforms, Attune: {C}. (When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)
-Magecraft — Whenever you cast an instant or sorcery, the creature with the lowest power among creatures you control gets +2/+1.
+Magecraft — Whenever you cast an instant or sorcery, the creature with the lowest power among creatures you control gets a +2/+1 counter.
 ---
 (Front): Nami</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-BTB-files/img/123_back.png" num="122b">LORT-BTB</set>
@@ -3213,7 +3213,7 @@ Whenever Kennen enters, blocks, or attacks, put a Tempest counter on target crea
 		</card>
 		<card>
 			<name>Tornado Warrior</name>
-			<text>When Tornado Warrior enters, randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Tornado Warrior gets the chosen ability and +1/+0.</text>
+			<text>When Tornado Warrior enters, randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Tornado Warrior gets the chosen ability and a +1/+0 counter.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-BTB-files/img/154.png" num="234">LORT-BTB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3657,7 +3657,7 @@ Bandle Gunners costs {1} less to cast for each multicolored creature you control
 		</card>
 		<card>
 			<name>Yordle Explorer</name>
-			<text>Whenever another Yordle creature you controls enters, it enters with +1/+0.</text>
+			<text>Whenever another Yordle creature you controls enters, it enters with a +1/+0 counter.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-BTB-files/img/178.png" num="164">LORT-BTB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3908,7 +3908,7 @@ Buster Shot deals 3 damage to target creature.</text>
 			<name>Tristana</name>
 			<text>First strike, Afflict 1 (Whenever this creature becomes blocked, defending player loses 1 life.)
 Tristana gets +1/+0 for each other multicolored creature you control.
-Whenever a multicolored creature you control enters, it gets +1/+0, and Tristana gets a Boom counter. At the end of any phase on your turn, if Tristana has five or more Boom counters, remove all Boom counters from Tristana, then transform her.
+Whenever a multicolored creature you control enters, it gets a +1/+0 counter, and Tristana gets a Boom counter. At the end of any phase on your turn, if Tristana has five or more Boom counters, remove all Boom counters from Tristana, then transform her.
 Partner
 ---
 (Back): Tristana, The Yordle Gunner</text>
@@ -3931,7 +3931,7 @@ Partner
 			<name>Tristana, The Yordle Gunner</name>
 			<text>First strike, Afflict 1
 Tristana has +1/+0 for each other multicolored creature you control.
-Whenever a multicolored creature you control enters, it gets +1/+0 and afflict 1.
+Whenever a multicolored creature you control enters, it gets a +1/+0 counter and afflict 1.
 ---
 (Front): Tristana</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-BTB-files/img/191_back.png" num="154b">LORT-BTB</set>
@@ -4020,8 +4020,8 @@ When Poro Sled attacks, reveal cards from the top of your library until you reve
 		<card>
 			<name>Yordle Squire</name>
 			<text>When you cast Yordle Squire, choose one —
-• When Yordle Squire enters, may pay {GW}, if you do target other creature gets +1/+0.
-• When Yordle Squire enters, may pay {GW}, if you do target other creature gets +0/+1.</text>
+• When Yordle Squire enters, you may pay {GW}, if you do target other creature gets a +1/+0 counter.
+• When Yordle Squire enters, you may pay {GW}, if you do target other creature gets a +0/+1 counter.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-BTB-files/img/196.png" num="242">LORT-BTB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4319,7 +4319,7 @@ When Giga Gromp transforms, Giga Gromp deals 1 damage to each opponent and each 
 		</card>
 		<card>
 			<name>Prowling Projectile</name>
-			<text>Target creature you control gets +1/+0.
+			<text>Target creature you control gets a +1/+0 counter.
 Prowling Projectile deals 1 damage to target creature an opponent controls.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-BTB-files/img/210.png" num="218">LORT-BTB</set>
 			<prop>
@@ -4423,7 +4423,7 @@ Lightning Rush deals 2 damage to any target.</text>
 		<card>
 			<name>Grandfather Fae</name>
 			<text>When Grandfather Fae enters, create a Hungry Owlcat token.
-Whenever another Faerie you control enters, it gets +1/+0.</text>
+Whenever another Faerie you control enters, it gets a +1/+0 counter.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-BTB-files/img/216.png" num="196">LORT-BTB</set>
 			<prop>
 				<layout>normal</layout>

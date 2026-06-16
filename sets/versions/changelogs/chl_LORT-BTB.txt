@@ -1,4 +1,90 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Gorlith the Unscalable
+rules_text: Absorb 1, [i]Formidable[/i]
+When Gorlith enters, exchange your life total with this creature's toughness.
+Gorlith can't be blocked by creatures with less toughness than Gorlith. => Absorb 1, Formidable [i](This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)[/i]
+When Gorlith enters, exchange your life total with this creature's toughness.
+Gorlith can't be blocked by creatures with less toughness than Gorlith.
+
+Petricite Broadwing
+rules_text: [i]Formidable[/i]
+Whenever another creature you control enters, Petricite Broadwing gets Challenger until end of turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Formidable [i](This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)[/i]
+Whenever another creature you control enters, Petricite Broadwing gets Challenger until end of turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+
+Mountain Drake
+rules_text: Fury, [i]Formidable[/i] [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i]
+If a +1/+1 counter would be put onto Mountain Drake, it gets +0/+2 instead. => Fury, Formidable [i](When this creature destroys another creature, put a +1/+1 counter on it. This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)[/i]
+If a +1/+1 counter would be put onto Mountain Drake, it gets +0/+2 instead.
+
+Petricite Hound
+rules_text: [i]Formidable[/i] => Formidable [i](This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)[/i]
+
+Galio
+rules_text: [i]Formidable[/i]
+Galio enters with a Spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+When Galio enters, each other creature you control gets +0/+3.
+At the beginning of your end step, if you have a total of 25 or more toughness among creature you control, transform Galio. 
+Partner => Formidable [i](This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)[/i]
+Galio enters with a Spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+When Galio enters, each other creature you control gets +0/+3.
+At the beginning of your end step, if you have a total of 25 or more toughness among creature you control, transform Galio. 
+Partner
+
+Durand Architect
+rules_text: When Durand Architect attacks, other attacking target creature you control gets +0/+2 and [i]Formidable[/i] until the end of turn. => When Durand Architect attacks, other attacking target creature you control gets +0/+2 and Formidable until the end of turn. [i](This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)[/i]
+
+Nami
+rules_text: Attune: {C} [i](When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)[/i]
+[i]Magecraft[/i] — Whenever you cast an instant or sorcery, the creature with the lowest power among creatures you control gets +1/+0.
+Whenever you cast an instant or sorcery, put a Marai counter on Nami. At the end of any phase on your turn, if Nami has five or more Marai counter, remove all Marai counters from Nami, then transform her.
+Partner => Attune: {C} [i](When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)[/i]
+[i]Magecraft[/i] — Whenever you cast an instant or sorcery, the creature with the lowest power among creatures you control gets a +1/+0 counter.
+Whenever you cast an instant or sorcery, put a Marai counter on Nami. At the end of any phase on your turn, if Nami has five or more Marai counter, remove all Marai counters from Nami, then transform her.
+Partner
+
+Tornado Warrior
+rules_text: When Tornado Warrior enters, randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Tornado Warrior gets the chosen ability and +1/+0. => When Tornado Warrior enters, randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Tornado Warrior gets the chosen ability and a +1/+0 counter.
+
+Yordle Explorer
+rules_text: Whenever another Yordle creature you controls enters, it enters with +1/+0. => Whenever another Yordle creature you controls enters, it enters with a +1/+0 counter.
+
+Tristana
+rules_text: First strike, Afflict 1 [i](Whenever this creature becomes blocked, defending player loses 1 life.)[/i]
+Tristana gets +1/+0 for each other multicolored creature you control.
+Whenever a multicolored creature you control enters, it gets +1/+0, and Tristana gets a Boom counter. At the end of any phase on your turn, if Tristana has five or more Boom counters, remove all Boom counters from Tristana, then transform her.
+Partner => First strike, Afflict 1 [i](Whenever this creature becomes blocked, defending player loses 1 life.)[/i]
+Tristana gets +1/+0 for each other multicolored creature you control.
+Whenever a multicolored creature you control enters, it gets a +1/+0 counter, and Tristana gets a Boom counter. At the end of any phase on your turn, if Tristana has five or more Boom counters, remove all Boom counters from Tristana, then transform her.
+Partner
+
+Yordle Squire
+rules_text: When you cast Yordle Squire, choose one —
+• When Yordle Squire enters, may pay {GW}, if you do target other creature gets +1/+0.
+• When Yordle Squire enters, may pay {GW}, if you do target other creature gets +0/+1. => When you cast Yordle Squire, choose one —
+• When Yordle Squire enters, you may pay {GW}, if you do target other creature gets a +1/+0 counter.
+• When Yordle Squire enters, you may pay {GW}, if you do target other creature gets a +0/+1 counter.
+
+Prowling Projectile
+rules_text: Target creature you control gets +1/+0.
+Prowling Projectile deals 1 damage to target creature an opponent controls. => Target creature you control gets a +1/+0 counter.
+Prowling Projectile deals 1 damage to target creature an opponent controls.
+
+Grandfather Fae
+rules_text: When Grandfather Fae enters, create a Hungry Owlcat token.
+Whenever another Faerie you control enters, it gets +1/+0. => When Grandfather Fae enters, create a Hungry Owlcat token.
+Whenever another Faerie you control enters, it gets a +1/+0 counter.
+
+
+VERSION 2 CHANGELOG
+====================
+
+No changes.
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

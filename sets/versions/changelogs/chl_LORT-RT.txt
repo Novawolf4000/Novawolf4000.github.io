@@ -1,4 +1,27 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Jagged Taskmaster
+rules_text: Plunder: Jagged Taskmaster gets “creatures you control with mana value 1 have +1/+0” [i](If an opponent was dealt damage this turn, when this creature enters Jagged Taskmaster gets “creatures you control with mana value 1 have +1/+0”.)[/i] => Plunder: Jagged Taskmaster gets “creatures you control with mana value 1 gets +1/+0” [i](If an opponent was dealt damage this turn, when this creature enters Jagged Taskmaster gets “creatures you control with mana value 1 gets +1/+0”.)[/i]
+
+Vi, The Piltover Enforcer
+rules_text: Challenger, Absorb 1 [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, Vi gets +1/+0.
+At the start of your post-combat main phase, if Vi attacked and dealt 10 or more combat damage, remove all counters from Vi and transform her.
+Partner => Challenger, Absorb 1 [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, Vi gets a +1/+0 counter.
+At the start of your post-combat main phase, if Vi attacked and dealt 10 or more combat damage, remove all counters from Vi and transform her.
+Partner
+
+
+VERSION 7 CHANGELOG
+====================
+
+No changes.
+
+VERSION 6 CHANGELOG
 ====================
 
 

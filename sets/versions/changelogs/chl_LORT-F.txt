@@ -1,4 +1,50 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+Frenzied Skitterer
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Frenzied Skitterer enters, all other spiders you control gain +1/+0 and all creatures you don't control gain -1/-0 until end of turn. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Frenzied Skitterer enters, all other spiders you control gets +1/+0 and all creatures you don't control gain -1/-0 until end of turn.
+
+Brood Awakening
+rules_text: Create three Spiderling tokens, then each spider creature you control gets +1/+0. => Create three Spiderling tokens, then each spider creature you control gets a +1/+0 counter.
+
+Vilemaw
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Other Fearsome creatures you control get +1/+0. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Other creatures with Fearsome you control get +1/+0.
+
+Arena Battlecaster
+rules_text: When Arena Battlecaster attacks, each other attacking creature you control get +1/+0 this turn. => When Arena Battlecaster attacks, each other attacking creature you control gets +1/+0 until the end of this turn.
+
+Crimson Aristocrat
+rules_text: When Crimson Aristocrat enters, Crimson Aristocrat deals 1 damage to target other creature you control, if the target creature is not destroyed, it gets +1/+0 and trample. => When Crimson Aristocrat enters, Crimson Aristocrat deals 1 damage to target other creature you control, if the target creature is not destroyed, it gets a +1/+0 counter and trample.
+
+Legion Veteran
+rules_text: Whenever a creature you control is dealt damage and is not destroyed, it gets +1/+0. => Whenever a creature you control is dealt damage and is not destroyed, it gets a +1/+0 counter.
+
+Vision
+rules_text: When Vision is cast or discarded, each creature you control gets +1/+0. => When Vision is cast or discarded, each creature you control gets a +1/+0 counter.
+
+Sown Seeds
+rules_text: The first time a creature you control enters the same turn you cast Sown Seeds, that creature enters with +1/+0. => The first time a creature you control enters the same turn you cast Sown Seeds, that creature enters with a +1/+0 counter.
+
+Inspiring Mentor
+rules_text: Creatures you control that enters the same turn Inspiring Mentor entered, enter with +1/+0. => Creatures you control that enters the same turn Inspiring Mentor entered, enter with a +1/+0 counter.
+
+
+VERSION 13 CHANGELOG
+====================
+
+
+
+She Who Wanders
+rules_text: When She Who Wanders enters, each player reveals their hand, then each creature with power 4 or less in each players hand and on the battlefield is put into the graveyard and cannot be regenerated. => When She Who Wanders enters, each player sacrifices each creature they control with power 4 or less, then reveals their hand and discards each creature card with power 4 or less.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

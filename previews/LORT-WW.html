@@ -1,0 +1,1190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/LORT-WW-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>LORT-WW visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/LORT-WW-files/logo.png" />
+	<img class="preload-hidden" src="../sets/LORT-BTB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LORT-EOTA-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LORT-F-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LORT-RT-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LORT-WW-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="../sets/LORT-WW-files/bg.png" />
+
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/LORT-WW"><img src="../sets/LORT-WW-files/icon.png">Legends Of Runeterra Conversion: Worldwalker</a>
+	
+		<a class="set-bar inactive" href="../previews/LORT-BTB"><img src="../sets/LORT-BTB-files/icon.png">Legends Of Runeterra Conversion: Beyond the Bandlewood</a>
+	
+		<a class="set-bar inactive" href="../previews/LORT-EOTA"><img src="../sets/LORT-EOTA-files/icon.png">Legends Of Runeterra Conversion: Empires of the Ascended</a>
+	
+		<a class="set-bar inactive" href="../previews/LORT-F"><img src="../sets/LORT-F-files/icon.png">Legends Of Runeterra Converted: Foundations</a>
+	
+		<a class="set-bar inactive" href="../previews/LORT-RT"><img src="../sets/LORT-RT-files/icon.png">Legends Of Runeterra Converted: Rising Tides</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/LORT-WW-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\16_back.png" alt="sets\LORT-WW-files\img\16_front.png" id="LORT-WW_16" data-flag="@XD" onclick="openSidebar('LORT-WW_16',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_16')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\17_back.png" alt="sets\LORT-WW-files\img\17_front.png" id="LORT-WW_17" data-flag="@XD" onclick="openSidebar('LORT-WW_17',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_17')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\18_back.png" alt="sets\LORT-WW-files\img\18_front.png" id="LORT-WW_18" data-flag="@XD" onclick="openSidebar('LORT-WW_18',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_18')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\187_back.png" alt="sets\LORT-WW-files\img\187_front.png" id="LORT-WW_187" data-flag="@XD" onclick="openSidebar('LORT-WW_187',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_187')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\24_back.png" alt="sets\LORT-WW-files\img\24_front.png" id="LORT-WW_24" data-flag="@XD" onclick="openSidebar('LORT-WW_24',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_24')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\83_back.png" alt="sets\LORT-WW-files\img\83_front.png" id="LORT-WW_83" data-flag="@XD" onclick="openSidebar('LORT-WW_83',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_83')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\134_back.png" alt="sets\LORT-WW-files\img\134_front.png" id="LORT-WW_134" data-flag="@XD" onclick="openSidebar('LORT-WW_134',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_134')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\263_back.png" alt="sets\LORT-WW-files\img\263_front.png" id="LORT-WW_263" data-flag="@XD" onclick="openSidebar('LORT-WW_263',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_263')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\19_back.png" alt="sets\LORT-WW-files\img\19_front.png" id="LORT-WW_19" data-flag="@XD" onclick="openSidebar('LORT-WW_19',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_19')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\22_back.png" alt="sets\LORT-WW-files\img\22_front.png" id="LORT-WW_22" data-flag="@XD" onclick="openSidebar('LORT-WW_22',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_22')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\89.png" id="LORT-WW_89" data-flag="@X" onclick="openSidebar('LORT-WW_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\142.png" id="LORT-WW_142" data-flag="@X" onclick="openSidebar('LORT-WW_142',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\313_back.png" alt="sets\LORT-WW-files\img\313_front.png" id="LORT-WW_313" data-flag="@XD" onclick="openSidebar('LORT-WW_313',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_313')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\211.png" id="LORT-WW_211" data-flag="@X" onclick="openSidebar('LORT-WW_211',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\118.png" id="LORT-WW_118" data-flag="@X" onclick="openSidebar('LORT-WW_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\101.png" id="LORT-WW_101" data-flag="@X" onclick="openSidebar('LORT-WW_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\157.png" id="LORT-WW_157" data-flag="@X" onclick="openSidebar('LORT-WW_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\314.png" id="LORT-WW_314" data-flag="@X" onclick="openSidebar('LORT-WW_314',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\193.png" id="LORT-WW_193" data-flag="@X" onclick="openSidebar('LORT-WW_193',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\120.png" id="LORT-WW_120" data-flag="@X" onclick="openSidebar('LORT-WW_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\98.png" id="LORT-WW_98" data-flag="@X" onclick="openSidebar('LORT-WW_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\149.png" id="LORT-WW_149" data-flag="@X" onclick="openSidebar('LORT-WW_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\336.png" id="LORT-WW_336" data-flag="@X" onclick="openSidebar('LORT-WW_336',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\185.png" id="LORT-WW_185" data-flag="@X" onclick="openSidebar('LORT-WW_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\117.png" id="LORT-WW_117" data-flag="@X" onclick="openSidebar('LORT-WW_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\96.png" id="LORT-WW_96" data-flag="@X" onclick="openSidebar('LORT-WW_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\140.png" id="LORT-WW_140" data-flag="@X" onclick="openSidebar('LORT-WW_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\331.png" id="LORT-WW_331" data-flag="@X" onclick="openSidebar('LORT-WW_331',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\197.png" id="LORT-WW_197" data-flag="@X" onclick="openSidebar('LORT-WW_197',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\128.png" id="LORT-WW_128" data-flag="@X" onclick="openSidebar('LORT-WW_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\102.png" id="LORT-WW_102" data-flag="@X" onclick="openSidebar('LORT-WW_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\152.png" id="LORT-WW_152" data-flag="@X" onclick="openSidebar('LORT-WW_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\318.png" id="LORT-WW_318" data-flag="@X" onclick="openSidebar('LORT-WW_318',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\206.png" id="LORT-WW_206" data-flag="@X" onclick="openSidebar('LORT-WW_206',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\124.png" id="LORT-WW_124" data-flag="@X" onclick="openSidebar('LORT-WW_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\97.png" id="LORT-WW_97" data-flag="@X" onclick="openSidebar('LORT-WW_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\137.png" id="LORT-WW_137" data-flag="@X" onclick="openSidebar('LORT-WW_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\323.png" id="LORT-WW_323" data-flag="@X" onclick="openSidebar('LORT-WW_323',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\202.png" id="LORT-WW_202" data-flag="@X" onclick="openSidebar('LORT-WW_202',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\129.png" id="LORT-WW_129" data-flag="@X" onclick="openSidebar('LORT-WW_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\85.png" id="LORT-WW_85" data-flag="@X" onclick="openSidebar('LORT-WW_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\151.png" id="LORT-WW_151" data-flag="@X" onclick="openSidebar('LORT-WW_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\264.png" id="LORT-WW_264" data-flag="@X" onclick="openSidebar('LORT-WW_264',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\195.png" id="LORT-WW_195" data-flag="@X" onclick="openSidebar('LORT-WW_195',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\114.png" id="LORT-WW_114" data-flag="@X" onclick="openSidebar('LORT-WW_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\86.png" id="LORT-WW_86" data-flag="@X" onclick="openSidebar('LORT-WW_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\132.png" id="LORT-WW_132" data-flag="@X" onclick="openSidebar('LORT-WW_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\338.png" id="LORT-WW_338" data-flag="@X" onclick="openSidebar('LORT-WW_338',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\208.png" id="LORT-WW_208" data-flag="@X" onclick="openSidebar('LORT-WW_208',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\20.png" id="LORT-WW_20" data-flag="@X" onclick="openSidebar('LORT-WW_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\104.png" id="LORT-WW_104" data-flag="@X" onclick="openSidebar('LORT-WW_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\150.png" id="LORT-WW_150" data-flag="@X" onclick="openSidebar('LORT-WW_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\329.png" id="LORT-WW_329" data-flag="@X" onclick="openSidebar('LORT-WW_329',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\205.png" id="LORT-WW_205" data-flag="@X" onclick="openSidebar('LORT-WW_205',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\112.png" id="LORT-WW_112" data-flag="@X" onclick="openSidebar('LORT-WW_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\79.png" id="LORT-WW_79" data-flag="@X" onclick="openSidebar('LORT-WW_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\156.png" id="LORT-WW_156" data-flag="@X" onclick="openSidebar('LORT-WW_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\334.png" id="LORT-WW_334" data-flag="@X" onclick="openSidebar('LORT-WW_334',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\186.png" id="LORT-WW_186" data-flag="@X" onclick="openSidebar('LORT-WW_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\111.png" id="LORT-WW_111" data-flag="@X" onclick="openSidebar('LORT-WW_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\99.png" id="LORT-WW_99" data-flag="@X" onclick="openSidebar('LORT-WW_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\148.png" id="LORT-WW_148" data-flag="@X" onclick="openSidebar('LORT-WW_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\333.png" id="LORT-WW_333" data-flag="@X" onclick="openSidebar('LORT-WW_333',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\203.png" id="LORT-WW_203" data-flag="@X" onclick="openSidebar('LORT-WW_203',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\127.png" id="LORT-WW_127" data-flag="@X" onclick="openSidebar('LORT-WW_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\88.png" id="LORT-WW_88" data-flag="@X" onclick="openSidebar('LORT-WW_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\130.png" id="LORT-WW_130" data-flag="@X" onclick="openSidebar('LORT-WW_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\340.png" id="LORT-WW_340" data-flag="@X" onclick="openSidebar('LORT-WW_340',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\265.png" id="LORT-WW_265" data-flag="@X" onclick="openSidebar('LORT-WW_265',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\126.png" id="LORT-WW_126" data-flag="@X" onclick="openSidebar('LORT-WW_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\91.png" id="LORT-WW_91" data-flag="@X" onclick="openSidebar('LORT-WW_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\135.png" id="LORT-WW_135" data-flag="@X" onclick="openSidebar('LORT-WW_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\320.png" id="LORT-WW_320" data-flag="@X" onclick="openSidebar('LORT-WW_320',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\190.png" id="LORT-WW_190" data-flag="@X" onclick="openSidebar('LORT-WW_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\116.png" id="LORT-WW_116" data-flag="@X" onclick="openSidebar('LORT-WW_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\106.png" id="LORT-WW_106" data-flag="@X" onclick="openSidebar('LORT-WW_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\274.png" id="LORT-WW_274" data-flag="@X" onclick="openSidebar('LORT-WW_274',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\332.png" id="LORT-WW_332" data-flag="@X" onclick="openSidebar('LORT-WW_332',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\196.png" id="LORT-WW_196" data-flag="@X" onclick="openSidebar('LORT-WW_196',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\108.png" id="LORT-WW_108" data-flag="@X" onclick="openSidebar('LORT-WW_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\92.png" id="LORT-WW_92" data-flag="@X" onclick="openSidebar('LORT-WW_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\133.png" id="LORT-WW_133" data-flag="@X" onclick="openSidebar('LORT-WW_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\319.png" id="LORT-WW_319" data-flag="@X" onclick="openSidebar('LORT-WW_319',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\191.png" id="LORT-WW_191" data-flag="@X" onclick="openSidebar('LORT-WW_191',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\115.png" id="LORT-WW_115" data-flag="@X" onclick="openSidebar('LORT-WW_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\94.png" id="LORT-WW_94" data-flag="@X" onclick="openSidebar('LORT-WW_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\138.png" id="LORT-WW_138" data-flag="@X" onclick="openSidebar('LORT-WW_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\341.png" id="LORT-WW_341" data-flag="@X" onclick="openSidebar('LORT-WW_341',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\192.png" id="LORT-WW_192" data-flag="@X" onclick="openSidebar('LORT-WW_192',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\125.png" id="LORT-WW_125" data-flag="@X" onclick="openSidebar('LORT-WW_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\80.png" id="LORT-WW_80" data-flag="@X" onclick="openSidebar('LORT-WW_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\154.png" id="LORT-WW_154" data-flag="@X" onclick="openSidebar('LORT-WW_154',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\327.png" id="LORT-WW_327" data-flag="@X" onclick="openSidebar('LORT-WW_327',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\204.png" id="LORT-WW_204" data-flag="@X" onclick="openSidebar('LORT-WW_204',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\110.png" id="LORT-WW_110" data-flag="@X" onclick="openSidebar('LORT-WW_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\273.png" id="LORT-WW_273" data-flag="@X" onclick="openSidebar('LORT-WW_273',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\155.png" id="LORT-WW_155" data-flag="@X" onclick="openSidebar('LORT-WW_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\322.png" id="LORT-WW_322" data-flag="@X" onclick="openSidebar('LORT-WW_322',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\209.png" id="LORT-WW_209" data-flag="@X" onclick="openSidebar('LORT-WW_209',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\119.png" id="LORT-WW_119" data-flag="@X" onclick="openSidebar('LORT-WW_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\105.png" id="LORT-WW_105" data-flag="@X" onclick="openSidebar('LORT-WW_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\143.png" id="LORT-WW_143" data-flag="@X" onclick="openSidebar('LORT-WW_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\321.png" id="LORT-WW_321" data-flag="@X" onclick="openSidebar('LORT-WW_321',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\207.png" id="LORT-WW_207" data-flag="@X" onclick="openSidebar('LORT-WW_207',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\107.png" id="LORT-WW_107" data-flag="@X" onclick="openSidebar('LORT-WW_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\281.png" id="LORT-WW_281" data-flag="@X" onclick="openSidebar('LORT-WW_281',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\147.png" id="LORT-WW_147" data-flag="@X" onclick="openSidebar('LORT-WW_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\269.png" id="LORT-WW_269" data-flag="@X" onclick="openSidebar('LORT-WW_269',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\212.png" id="LORT-WW_212" data-flag="@X" onclick="openSidebar('LORT-WW_212',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\123.png" id="LORT-WW_123" data-flag="@X" onclick="openSidebar('LORT-WW_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\93.png" id="LORT-WW_93" data-flag="@X" onclick="openSidebar('LORT-WW_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\145.png" id="LORT-WW_145" data-flag="@X" onclick="openSidebar('LORT-WW_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\312.png" id="LORT-WW_312" data-flag="@X" onclick="openSidebar('LORT-WW_312',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\189.png" id="LORT-WW_189" data-flag="@X" onclick="openSidebar('LORT-WW_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\121.png" id="LORT-WW_121" data-flag="@X" onclick="openSidebar('LORT-WW_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\90.png" id="LORT-WW_90" data-flag="@X" onclick="openSidebar('LORT-WW_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\131.png" id="LORT-WW_131" data-flag="@X" onclick="openSidebar('LORT-WW_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\326.png" id="LORT-WW_326" data-flag="@X" onclick="openSidebar('LORT-WW_326',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\113.png" id="LORT-WW_113" data-flag="@X" onclick="openSidebar('LORT-WW_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\100.png" id="LORT-WW_100" data-flag="@X" onclick="openSidebar('LORT-WW_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\141.png" id="LORT-WW_141" data-flag="@X" onclick="openSidebar('LORT-WW_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\337.png" id="LORT-WW_337" data-flag="@X" onclick="openSidebar('LORT-WW_337',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\266.png" id="LORT-WW_266" data-flag="@X" onclick="openSidebar('LORT-WW_266',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\103.png" id="LORT-WW_103" data-flag="@X" onclick="openSidebar('LORT-WW_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\139.png" id="LORT-WW_139" data-flag="@X" onclick="openSidebar('LORT-WW_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\325.png" id="LORT-WW_325" data-flag="@X" onclick="openSidebar('LORT-WW_325',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\122.png" id="LORT-WW_122" data-flag="@X" onclick="openSidebar('LORT-WW_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\81.png" id="LORT-WW_81" data-flag="@X" onclick="openSidebar('LORT-WW_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\335.png" id="LORT-WW_335" data-flag="@X" onclick="openSidebar('LORT-WW_335',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\23.png" id="LORT-WW_23" data-flag="@X" onclick="openSidebar('LORT-WW_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\82.png" id="LORT-WW_82" data-flag="@X" onclick="openSidebar('LORT-WW_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\317.png" id="LORT-WW_317" data-flag="@X" onclick="openSidebar('LORT-WW_317',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\324.png" id="LORT-WW_324" data-flag="@X" onclick="openSidebar('LORT-WW_324',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\339.png" id="LORT-WW_339" data-flag="@X" onclick="openSidebar('LORT-WW_339',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\25_back.png" alt="sets\LORT-WW-files\img\25_front.png" id="LORT-WW_25" data-flag="@XD" onclick="openSidebar('LORT-WW_25',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_25')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\255_back.png" alt="sets\LORT-WW-files\img\255_front.png" id="LORT-WW_255" data-flag="@XD" onclick="openSidebar('LORT-WW_255',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_255')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\28_back.png" alt="sets\LORT-WW-files\img\28_front.png" id="LORT-WW_28" data-flag="@XD" onclick="openSidebar('LORT-WW_28',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_28')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\239_back.png" alt="sets\LORT-WW-files\img\239_front.png" id="LORT-WW_239" data-flag="@XD" onclick="openSidebar('LORT-WW_239',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_239')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\160_back.png" alt="sets\LORT-WW-files\img\160_front.png" id="LORT-WW_160" data-flag="@XD" onclick="openSidebar('LORT-WW_160',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_160')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\286_back.png" alt="sets\LORT-WW-files\img\286_front.png" id="LORT-WW_286" data-flag="@XD" onclick="openSidebar('LORT-WW_286',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_286')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\48_back.png" alt="sets\LORT-WW-files\img\48_front.png" id="LORT-WW_48" data-flag="@XD" onclick="openSidebar('LORT-WW_48',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_48')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\0_back.png" alt="sets\LORT-WW-files\img\0_front.png" id="LORT-WW_0" data-flag="@XD" onclick="openSidebar('LORT-WW_0',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_0')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\171.png" id="LORT-WW_171" data-flag="@X" onclick="openSidebar('LORT-WW_171',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\26_back.png" alt="sets\LORT-WW-files\img\26_front.png" id="LORT-WW_26" data-flag="@XD" onclick="openSidebar('LORT-WW_26',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_26')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\73.png" id="LORT-WW_73" data-flag="@X" onclick="openSidebar('LORT-WW_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\14_back.png" alt="sets\LORT-WW-files\img\14_front.png" id="LORT-WW_14" data-flag="@XD" onclick="openSidebar('LORT-WW_14',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_14')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\167.png" id="LORT-WW_167" data-flag="@X" onclick="openSidebar('LORT-WW_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\297.png" id="LORT-WW_297" data-flag="@X" onclick="openSidebar('LORT-WW_297',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\52.png" id="LORT-WW_52" data-flag="@X" onclick="openSidebar('LORT-WW_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\34.png" id="LORT-WW_34" data-flag="@X" onclick="openSidebar('LORT-WW_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\184.png" id="LORT-WW_184" data-flag="@X" onclick="openSidebar('LORT-WW_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\302.png" id="LORT-WW_302" data-flag="@X" onclick="openSidebar('LORT-WW_302',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\57.png" id="LORT-WW_57" data-flag="@X" onclick="openSidebar('LORT-WW_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\45.png" id="LORT-WW_45" data-flag="@X" onclick="openSidebar('LORT-WW_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\170.png" id="LORT-WW_170" data-flag="@X" onclick="openSidebar('LORT-WW_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\309.png" id="LORT-WW_309" data-flag="@X" onclick="openSidebar('LORT-WW_309',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\67.png" id="LORT-WW_67" data-flag="@X" onclick="openSidebar('LORT-WW_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\37.png" id="LORT-WW_37" data-flag="@X" onclick="openSidebar('LORT-WW_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\180.png" id="LORT-WW_180" data-flag="@X" onclick="openSidebar('LORT-WW_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\289.png" id="LORT-WW_289" data-flag="@X" onclick="openSidebar('LORT-WW_289',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\68.png" id="LORT-WW_68" data-flag="@X" onclick="openSidebar('LORT-WW_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\46.png" id="LORT-WW_46" data-flag="@X" onclick="openSidebar('LORT-WW_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\161.png" id="LORT-WW_161" data-flag="@X" onclick="openSidebar('LORT-WW_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\311.png" id="LORT-WW_311" data-flag="@X" onclick="openSidebar('LORT-WW_311',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\275.png" id="LORT-WW_275" data-flag="@X" onclick="openSidebar('LORT-WW_275',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\40.png" id="LORT-WW_40" data-flag="@X" onclick="openSidebar('LORT-WW_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\175.png" id="LORT-WW_175" data-flag="@X" onclick="openSidebar('LORT-WW_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\292.png" id="LORT-WW_292" data-flag="@X" onclick="openSidebar('LORT-WW_292',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\74.png" id="LORT-WW_74" data-flag="@X" onclick="openSidebar('LORT-WW_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\33.png" id="LORT-WW_33" data-flag="@X" onclick="openSidebar('LORT-WW_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\182.png" id="LORT-WW_182" data-flag="@X" onclick="openSidebar('LORT-WW_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\310.png" id="LORT-WW_310" data-flag="@X" onclick="openSidebar('LORT-WW_310',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\51.png" id="LORT-WW_51" data-flag="@X" onclick="openSidebar('LORT-WW_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\6.png" id="LORT-WW_6" data-flag="@X" onclick="openSidebar('LORT-WW_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\162.png" id="LORT-WW_162" data-flag="@X" onclick="openSidebar('LORT-WW_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\296.png" id="LORT-WW_296" data-flag="@X" onclick="openSidebar('LORT-WW_296',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\65.png" id="LORT-WW_65" data-flag="@X" onclick="openSidebar('LORT-WW_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\10.png" id="LORT-WW_10" data-flag="@X" onclick="openSidebar('LORT-WW_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\172.png" id="LORT-WW_172" data-flag="@X" onclick="openSidebar('LORT-WW_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\290.png" id="LORT-WW_290" data-flag="@X" onclick="openSidebar('LORT-WW_290',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\77.png" id="LORT-WW_77" data-flag="@X" onclick="openSidebar('LORT-WW_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\11.png" id="LORT-WW_11" data-flag="@X" onclick="openSidebar('LORT-WW_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\159.png" id="LORT-WW_159" data-flag="@X" onclick="openSidebar('LORT-WW_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\257.png" id="LORT-WW_257" data-flag="@X" onclick="openSidebar('LORT-WW_257',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\66.png" id="LORT-WW_66" data-flag="@X" onclick="openSidebar('LORT-WW_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\38.png" id="LORT-WW_38" data-flag="@X" onclick="openSidebar('LORT-WW_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\178.png" id="LORT-WW_178" data-flag="@X" onclick="openSidebar('LORT-WW_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\307.png" id="LORT-WW_307" data-flag="@X" onclick="openSidebar('LORT-WW_307',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\70.png" id="LORT-WW_70" data-flag="@X" onclick="openSidebar('LORT-WW_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\84.png" id="LORT-WW_84" data-flag="@X" onclick="openSidebar('LORT-WW_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\177.png" id="LORT-WW_177" data-flag="@X" onclick="openSidebar('LORT-WW_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\303.png" id="LORT-WW_303" data-flag="@X" onclick="openSidebar('LORT-WW_303',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\71.png" id="LORT-WW_71" data-flag="@X" onclick="openSidebar('LORT-WW_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\44.png" id="LORT-WW_44" data-flag="@X" onclick="openSidebar('LORT-WW_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\164.png" id="LORT-WW_164" data-flag="@X" onclick="openSidebar('LORT-WW_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\328.png" id="LORT-WW_328" data-flag="@X" onclick="openSidebar('LORT-WW_328',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\72.png" id="LORT-WW_72" data-flag="@X" onclick="openSidebar('LORT-WW_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\8.png" id="LORT-WW_8" data-flag="@X" onclick="openSidebar('LORT-WW_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\169.png" id="LORT-WW_169" data-flag="@X" onclick="openSidebar('LORT-WW_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\306.png" id="LORT-WW_306" data-flag="@X" onclick="openSidebar('LORT-WW_306',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\62.png" id="LORT-WW_62" data-flag="@X" onclick="openSidebar('LORT-WW_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\242.png" id="LORT-WW_242" data-flag="@X" onclick="openSidebar('LORT-WW_242',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\166.png" id="LORT-WW_166" data-flag="@X" onclick="openSidebar('LORT-WW_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\308.png" id="LORT-WW_308" data-flag="@X" onclick="openSidebar('LORT-WW_308',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\47.png" id="LORT-WW_47" data-flag="@X" onclick="openSidebar('LORT-WW_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\78.png" id="LORT-WW_78" data-flag="@X" onclick="openSidebar('LORT-WW_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\165.png" id="LORT-WW_165" data-flag="@X" onclick="openSidebar('LORT-WW_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\291.png" id="LORT-WW_291" data-flag="@X" onclick="openSidebar('LORT-WW_291',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\76.png" id="LORT-WW_76" data-flag="@X" onclick="openSidebar('LORT-WW_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\42.png" id="LORT-WW_42" data-flag="@X" onclick="openSidebar('LORT-WW_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\168.png" id="LORT-WW_168" data-flag="@X" onclick="openSidebar('LORT-WW_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\300.png" id="LORT-WW_300" data-flag="@X" onclick="openSidebar('LORT-WW_300',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\55.png" id="LORT-WW_55" data-flag="@X" onclick="openSidebar('LORT-WW_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\9.png" id="LORT-WW_9" data-flag="@X" onclick="openSidebar('LORT-WW_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\279.png" id="LORT-WW_279" data-flag="@X" onclick="openSidebar('LORT-WW_279',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\285.png" id="LORT-WW_285" data-flag="@X" onclick="openSidebar('LORT-WW_285',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\64.png" id="LORT-WW_64" data-flag="@X" onclick="openSidebar('LORT-WW_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\5.png" id="LORT-WW_5" data-flag="@X" onclick="openSidebar('LORT-WW_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\179.png" id="LORT-WW_179" data-flag="@X" onclick="openSidebar('LORT-WW_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\288.png" id="LORT-WW_288" data-flag="@X" onclick="openSidebar('LORT-WW_288',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\54.png" id="LORT-WW_54" data-flag="@X" onclick="openSidebar('LORT-WW_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\4.png" id="LORT-WW_4" data-flag="@X" onclick="openSidebar('LORT-WW_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\176.png" id="LORT-WW_176" data-flag="@X" onclick="openSidebar('LORT-WW_176',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\276.png" id="LORT-WW_276" data-flag="@X" onclick="openSidebar('LORT-WW_276',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\56.png" id="LORT-WW_56" data-flag="@X" onclick="openSidebar('LORT-WW_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\35.png" id="LORT-WW_35" data-flag="@X" onclick="openSidebar('LORT-WW_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\173.png" id="LORT-WW_173" data-flag="@X" onclick="openSidebar('LORT-WW_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\301.png" id="LORT-WW_301" data-flag="@X" onclick="openSidebar('LORT-WW_301',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\75.png" id="LORT-WW_75" data-flag="@X" onclick="openSidebar('LORT-WW_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\7.png" id="LORT-WW_7" data-flag="@X" onclick="openSidebar('LORT-WW_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\163.png" id="LORT-WW_163" data-flag="@X" onclick="openSidebar('LORT-WW_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\278.png" id="LORT-WW_278" data-flag="@X" onclick="openSidebar('LORT-WW_278',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\59.png" id="LORT-WW_59" data-flag="@X" onclick="openSidebar('LORT-WW_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\12.png" id="LORT-WW_12" data-flag="@X" onclick="openSidebar('LORT-WW_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\183.png" id="LORT-WW_183" data-flag="@X" onclick="openSidebar('LORT-WW_183',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\287.png" id="LORT-WW_287" data-flag="@X" onclick="openSidebar('LORT-WW_287',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\58.png" id="LORT-WW_58" data-flag="@X" onclick="openSidebar('LORT-WW_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\32.png" id="LORT-WW_32" data-flag="@X" onclick="openSidebar('LORT-WW_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\271.png" id="LORT-WW_271" data-flag="@X" onclick="openSidebar('LORT-WW_271',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\283.png" id="LORT-WW_283" data-flag="@X" onclick="openSidebar('LORT-WW_283',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\69.png" id="LORT-WW_69" data-flag="@X" onclick="openSidebar('LORT-WW_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\39.png" id="LORT-WW_39" data-flag="@X" onclick="openSidebar('LORT-WW_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\305.png" id="LORT-WW_305" data-flag="@X" onclick="openSidebar('LORT-WW_305',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\272.png" id="LORT-WW_272" data-flag="@X" onclick="openSidebar('LORT-WW_272',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\43.png" id="LORT-WW_43" data-flag="@X" onclick="openSidebar('LORT-WW_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\284.png" id="LORT-WW_284" data-flag="@X" onclick="openSidebar('LORT-WW_284',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\50.png" id="LORT-WW_50" data-flag="@X" onclick="openSidebar('LORT-WW_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\262.png" id="LORT-WW_262" data-flag="@X" onclick="openSidebar('LORT-WW_262',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\270.png" id="LORT-WW_270" data-flag="@X" onclick="openSidebar('LORT-WW_270',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\31.png" id="LORT-WW_31" data-flag="@X" onclick="openSidebar('LORT-WW_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\267.png" id="LORT-WW_267" data-flag="@X" onclick="openSidebar('LORT-WW_267',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\27_back.png" alt="sets\LORT-WW-files\img\27_front.png" id="LORT-WW_27" data-flag="@XD" onclick="openSidebar('LORT-WW_27',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_27')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\240_back.png" alt="sets\LORT-WW-files\img\240_front.png" id="LORT-WW_240" data-flag="@XD" onclick="openSidebar('LORT-WW_240',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_240')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\221_back.png" alt="sets\LORT-WW-files\img\221_front.png" id="LORT-WW_221" data-flag="@XD" onclick="openSidebar('LORT-WW_221',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_221')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\216.png" id="LORT-WW_216" data-flag="@X" onclick="openSidebar('LORT-WW_216',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\237.png" id="LORT-WW_237" data-flag="@X" onclick="openSidebar('LORT-WW_237',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\230.png" id="LORT-WW_230" data-flag="@X" onclick="openSidebar('LORT-WW_230',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\220.png" id="LORT-WW_220" data-flag="@X" onclick="openSidebar('LORT-WW_220',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\241.png" id="LORT-WW_241" data-flag="@X" onclick="openSidebar('LORT-WW_241',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\223.png" id="LORT-WW_223" data-flag="@X" onclick="openSidebar('LORT-WW_223',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\213.png" id="LORT-WW_213" data-flag="@X" onclick="openSidebar('LORT-WW_213',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\217.png" id="LORT-WW_217" data-flag="@X" onclick="openSidebar('LORT-WW_217',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\227.png" id="LORT-WW_227" data-flag="@X" onclick="openSidebar('LORT-WW_227',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\226.png" id="LORT-WW_226" data-flag="@X" onclick="openSidebar('LORT-WW_226',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\238.png" id="LORT-WW_238" data-flag="@X" onclick="openSidebar('LORT-WW_238',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\232.png" id="LORT-WW_232" data-flag="@X" onclick="openSidebar('LORT-WW_232',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\228.png" id="LORT-WW_228" data-flag="@X" onclick="openSidebar('LORT-WW_228',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\215.png" id="LORT-WW_215" data-flag="@X" onclick="openSidebar('LORT-WW_215',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\144.png" id="LORT-WW_144" data-flag="@X" onclick="openSidebar('LORT-WW_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\218.png" id="LORT-WW_218" data-flag="@X" onclick="openSidebar('LORT-WW_218',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\234.png" id="LORT-WW_234" data-flag="@X" onclick="openSidebar('LORT-WW_234',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\214.png" id="LORT-WW_214" data-flag="@X" onclick="openSidebar('LORT-WW_214',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\225.png" id="LORT-WW_225" data-flag="@X" onclick="openSidebar('LORT-WW_225',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\224.png" id="LORT-WW_224" data-flag="@X" onclick="openSidebar('LORT-WW_224',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\222.png" id="LORT-WW_222" data-flag="@X" onclick="openSidebar('LORT-WW_222',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\229.png" id="LORT-WW_229" data-flag="@X" onclick="openSidebar('LORT-WW_229',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\231.png" id="LORT-WW_231" data-flag="@X" onclick="openSidebar('LORT-WW_231',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\219.png" id="LORT-WW_219" data-flag="@X" onclick="openSidebar('LORT-WW_219',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\268.png" id="LORT-WW_268" data-flag="@X" onclick="openSidebar('LORT-WW_268',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\280.png" id="LORT-WW_280" data-flag="@X" onclick="openSidebar('LORT-WW_280',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\236.png" id="LORT-WW_236" data-flag="@X" onclick="openSidebar('LORT-WW_236',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\277.png" id="LORT-WW_277" data-flag="@X" onclick="openSidebar('LORT-WW_277',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\194.png" id="LORT-WW_194" data-flag="@X" onclick="openSidebar('LORT-WW_194',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\233.png" id="LORT-WW_233" data-flag="@X" onclick="openSidebar('LORT-WW_233',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\258_back.png" alt="sets\LORT-WW-files\img\258_front.png" id="LORT-WW_258" data-flag="@XD" onclick="openSidebar('LORT-WW_258',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_258')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\243_back.png" alt="sets\LORT-WW-files\img\243_front.png" id="LORT-WW_243" data-flag="@XD" onclick="openSidebar('LORT-WW_243',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_243')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\1.png" id="LORT-WW_1" data-flag="@X" onclick="openSidebar('LORT-WW_1',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\30_back.png" alt="sets\LORT-WW-files\img\30_front.png" id="LORT-WW_30" data-flag="@XD" onclick="openSidebar('LORT-WW_30',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_30')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\246.png" id="LORT-WW_246" data-flag="@X" onclick="openSidebar('LORT-WW_246',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\158.png" id="LORT-WW_158" data-flag="@X" onclick="openSidebar('LORT-WW_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\254.png" id="LORT-WW_254" data-flag="@X" onclick="openSidebar('LORT-WW_254',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\261.png" id="LORT-WW_261" data-flag="@X" onclick="openSidebar('LORT-WW_261',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\260.png" id="LORT-WW_260" data-flag="@X" onclick="openSidebar('LORT-WW_260',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\63.png" id="LORT-WW_63" data-flag="@X" onclick="openSidebar('LORT-WW_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\29_back.png" alt="sets\LORT-WW-files\img\29_front.png" id="LORT-WW_29" data-flag="@XD" onclick="openSidebar('LORT-WW_29',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_29')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\LORT-WW-files\img\247_back.png" alt="sets\LORT-WW-files\img\247_front.png" id="LORT-WW_247" data-flag="@XD" onclick="openSidebar('LORT-WW_247',false)"><button class="flip-btn" onclick="imgFlip('LORT-WW_247')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\95.png" id="LORT-WW_95" data-flag="@X" onclick="openSidebar('LORT-WW_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\153.png" id="LORT-WW_153" data-flag="@X" onclick="openSidebar('LORT-WW_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\330.png" id="LORT-WW_330" data-flag="@X" onclick="openSidebar('LORT-WW_330',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\201.png" id="LORT-WW_201" data-flag="@X" onclick="openSidebar('LORT-WW_201',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\21.png" id="LORT-WW_21" data-flag="@X" onclick="openSidebar('LORT-WW_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\136.png" id="LORT-WW_136" data-flag="@X" onclick="openSidebar('LORT-WW_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\315.png" id="LORT-WW_315" data-flag="@X" onclick="openSidebar('LORT-WW_315',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\210.png" id="LORT-WW_210" data-flag="@X" onclick="openSidebar('LORT-WW_210',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\146.png" id="LORT-WW_146" data-flag="@X" onclick="openSidebar('LORT-WW_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\198.png" id="LORT-WW_198" data-flag="@X" onclick="openSidebar('LORT-WW_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\174.png" id="LORT-WW_174" data-flag="@X" onclick="openSidebar('LORT-WW_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\248.png" id="LORT-WW_248" data-flag="@X" onclick="openSidebar('LORT-WW_248',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\250.png" id="LORT-WW_250" data-flag="@X" onclick="openSidebar('LORT-WW_250',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\252.png" id="LORT-WW_252" data-flag="@X" onclick="openSidebar('LORT-WW_252',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\251.png" id="LORT-WW_251" data-flag="@X" onclick="openSidebar('LORT-WW_251',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\181.png" id="LORT-WW_181" data-flag="@X" onclick="openSidebar('LORT-WW_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\293.png" id="LORT-WW_293" data-flag="@X" onclick="openSidebar('LORT-WW_293',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\36.png" id="LORT-WW_36" data-flag="@X" onclick="openSidebar('LORT-WW_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\299.png" id="LORT-WW_299" data-flag="@X" onclick="openSidebar('LORT-WW_299',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\41.png" id="LORT-WW_41" data-flag="@X" onclick="openSidebar('LORT-WW_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\304.png" id="LORT-WW_304" data-flag="@X" onclick="openSidebar('LORT-WW_304',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\298.png" id="LORT-WW_298" data-flag="@X" onclick="openSidebar('LORT-WW_298',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\294.png" id="LORT-WW_294" data-flag="@X" onclick="openSidebar('LORT-WW_294',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\249.png" id="LORT-WW_249" data-flag="@X" onclick="openSidebar('LORT-WW_249',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\235.png" id="LORT-WW_235" data-flag="@X" onclick="openSidebar('LORT-WW_235',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="LORT-WW_e" data-flag="@E" onclick="openSidebar('LORT-WW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\87.png" id="LORT-WW_87" data-flag="@X" onclick="openSidebar('LORT-WW_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\316.png" id="LORT-WW_316" data-flag="@X" onclick="openSidebar('LORT-WW_316',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\188.png" id="LORT-WW_188" data-flag="@X" onclick="openSidebar('LORT-WW_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\199.png" id="LORT-WW_199" data-flag="@X" onclick="openSidebar('LORT-WW_199',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\200.png" id="LORT-WW_200" data-flag="@X" onclick="openSidebar('LORT-WW_200',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\109.png" id="LORT-WW_109" data-flag="@X" onclick="openSidebar('LORT-WW_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\3.png" id="LORT-WW_3" data-flag="@X" onclick="openSidebar('LORT-WW_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\282.png" id="LORT-WW_282" data-flag="@X" onclick="openSidebar('LORT-WW_282',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\61.png" id="LORT-WW_61" data-flag="@X" onclick="openSidebar('LORT-WW_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\256.png" id="LORT-WW_256" data-flag="@X" onclick="openSidebar('LORT-WW_256',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\2.png" id="LORT-WW_2" data-flag="@X" onclick="openSidebar('LORT-WW_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\53.png" id="LORT-WW_53" data-flag="@X" onclick="openSidebar('LORT-WW_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\49.png" id="LORT-WW_49" data-flag="@X" onclick="openSidebar('LORT-WW_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\295.png" id="LORT-WW_295" data-flag="@X" onclick="openSidebar('LORT-WW_295',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\259.png" id="LORT-WW_259" data-flag="@X" onclick="openSidebar('LORT-WW_259',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\245.png" id="LORT-WW_245" data-flag="@X" onclick="openSidebar('LORT-WW_245',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\244.png" id="LORT-WW_244" data-flag="@X" onclick="openSidebar('LORT-WW_244',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\13.png" id="LORT-WW_13" data-flag="@X" onclick="openSidebar('LORT-WW_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\15.png" id="LORT-WW_15" data-flag="@X" onclick="openSidebar('LORT-WW_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\LORT-WW-files\img\253.png" id="LORT-WW_253" data-flag="@X" onclick="openSidebar('LORT-WW_253',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="LORT-WW_er" data-flag="@E" onclick="openSidebar('LORT-WW_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		document.body.style.backgroundImage = 'url(' + document.getElementById("bg").src + ')';
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

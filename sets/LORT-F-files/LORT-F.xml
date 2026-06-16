@@ -5,7 +5,7 @@
 			<name>LORT-F</name>
 			<longname>Legends Of Runeterra Converted: Foundations</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-30</releasedate>
+			<releasedate>2026-06-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1765,7 +1765,7 @@ Create a Vilemaw token.</text>
 		<card>
 			<name>Frenzied Skitterer</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-When Frenzied Skitterer enters, all other spiders you control gain +1/+0 and all creatures you don&apos;t control gain -1/-0 until end of turn.</text>
+When Frenzied Skitterer enters, all other spiders you control gets +1/+0 and all creatures you don&apos;t control gain -1/-0 until end of turn.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/91.png" num="123">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -1954,7 +1954,7 @@ When Commander Ledros is destroyed, return Commander Ledros to its owners hand i
 		</card>
 		<card>
 			<name>Brood Awakening</name>
-			<text>Create three Spiderling tokens, then each spider creature you control gets +1/+0.</text>
+			<text>Create three Spiderling tokens, then each spider creature you control gets a +1/+0 counter.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/99.png" num="114">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -2073,7 +2073,7 @@ Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or
 		<card>
 			<name>Vilemaw LORT-F</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-Other Fearsome creatures you control get +1/+0.</text>
+Other creatures with Fearsome you control get +1/+0.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/106.png" num="7">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -2212,7 +2212,7 @@ When the exiled copy enters it enters with Ephemeral. (That creature can attack 
 		</card>
 		<card>
 			<name>Arena Battlecaster</name>
-			<text>When Arena Battlecaster attacks, each other attacking creature you control get +1/+0 this turn.</text>
+			<text>When Arena Battlecaster attacks, each other attacking creature you control gets +1/+0 until the end of this turn.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/114.png" num="166">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -2331,7 +2331,7 @@ When Captain Farron enters, search your library and/or graveyard for two cards n
 		</card>
 		<card>
 			<name>Crimson Aristocrat</name>
-			<text>When Crimson Aristocrat enters, Crimson Aristocrat deals 1 damage to target other creature you control, if the target creature is not destroyed, it gets +1/+0 and trample.</text>
+			<text>When Crimson Aristocrat enters, Crimson Aristocrat deals 1 damage to target other creature you control, if the target creature is not destroyed, it gets a +1/+0 counter and trample.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/121.png" num="173">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -2817,7 +2817,7 @@ When Legion General enters, put a +1/+1 counter on it for each creature that has
 		</card>
 		<card>
 			<name>Legion Veteran</name>
-			<text>Whenever a creature you control is dealt damage and is not destroyed, it gets +1/+0.</text>
+			<text>Whenever a creature you control is dealt damage and is not destroyed, it gets a +1/+0 counter.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/145.png" num="197">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -3070,7 +3070,7 @@ Trifarian Gloryseeker can&apos;t block.</text>
 		</card>
 		<card>
 			<name>Vision</name>
-			<text>When Vision is cast or discarded, each creature you control gets +1/+0.</text>
+			<text>When Vision is cast or discarded, each creature you control gets a +1/+0 counter.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/160.png" num="212">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -3921,7 +3921,7 @@ Whenever Scarmother Vrynna is dealt damage and is not destroyed, Scarmother Vryn
 		</card>
 		<card>
 			<name>She Who Wanders</name>
-			<text>When She Who Wanders enters, each player reveals their hand, then each creature with power 4 or less in each players hand and on the battlefield is put into the graveyard and cannot be regenerated.</text>
+			<text>When She Who Wanders enters, each player sacrifices each creature they control with power 4 or less, then reveals their hand and discards each creature card with power 4 or less.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/204.png" num="254">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -4474,7 +4474,7 @@ When Windfarer Hatchling enters, all other creatures you control get +2/+2 until
 		</card>
 		<card>
 			<name>Sown Seeds</name>
-			<text>The first time a creature you control enters the same turn you cast Sown Seeds, that creature enters with +1/+0.</text>
+			<text>The first time a creature you control enters the same turn you cast Sown Seeds, that creature enters with a +1/+0 counter.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/232.png" num="95">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -4976,7 +4976,7 @@ Whenever you cast an instant or sorcery, copy it targeting the same targets.
 		</card>
 		<card>
 			<name>Inspiring Mentor</name>
-			<text>Creatures you control that enters the same turn Inspiring Mentor entered, enter with +1/+0.</text>
+			<text>Creatures you control that enters the same turn Inspiring Mentor entered, enter with a +1/+0 counter.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/258.png" num="69">LORT-F</set>
 			<prop>
 				<layout>normal</layout>

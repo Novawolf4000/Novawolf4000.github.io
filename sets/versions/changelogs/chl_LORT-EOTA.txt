@@ -1,4 +1,266 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Baccai Reaper
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Whenever a source you control destroys a creature or planeswalker, Baccai Reaper gets +1/+0. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Whenever a source you control destroys a creature or planeswalker, Baccai Reaper gets a +1/+0 counter.
+
+Penitent Squire
+rules_text: When Penitent Squire enters, you may Behold a Knight, if you do, the next creature you cast enters with Challenger. [i](To behold a Knight, choose a Knight you control or reveal a Knight card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => When Penitent Squire enters, you may Behold a Knight, if you do, the next creature you cast enters with Challenger. [i](To behold a Knight, if you do, the next creature you cast enters with Challenger., choose a Knight, if you do, the next creature you cast enters with Challenger. you control or reveal a Knight, if you do, the next creature you cast enters with Challenger. card from your hand.)[/i]
+
+Retired Reckoner
+rules_text: Trample
+Whenever a source you control targets Retired Reckoner, Retired Reckoner gets +1/+0. => Trample
+Whenever a source you control targets Retired Reckoner, Retired Reckoner gets a +1/+0 counter.
+
+Warlord's Palace
+rules_text: Vanishing 8
+When Warlord's Palace is sacrificed with no time counters, choose one:
+• Predict, then draw a card. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+• Create a Sandstone Charger token.
+• All creatures you control gets +1/+0. => Vanishing 8
+When Warlord's Palace is sacrificed with no time counters, choose one:
+• Predict, then draw a card. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+• Create a Sandstone Charger token.
+• All creatures you control gets a +1/+0 counter.
+
+Rimefang Pack
+rules_text: Rimefang Pack has +1/+0 for each creature with power 0 opponents control. => Rimefang Pack has +1/+0 for each creature opponents control with power 0.
+
+
+VERSION 3 CHANGELOG
+====================
+
+
+Gallant Rider removed.
+
+Penitent Squire
+rules_text: When Penitent Squire enters, you may Behold a Knight, if you do, the next creature you cast enters with Challenger. [i](To behold a Knight, if you do, the next creature you cast enters with Challenger., choose a Knight, if you do, the next creature you cast enters with Challenger. you control or reveal a Knight, if you do, the next creature you cast enters with Challenger. card from your hand.)[/i] => When Penitent Squire enters, you may Behold a Knight, if you do, the next creature you cast enters with Challenger. [i](To behold a Knight, choose a Knight you control or reveal a Knight card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+
+King Jarvan III
+
+Towering Stonehorn
+
+Dragon Chow
+
+Production Surge
+
+Concurrent Timelines
+
+Ancestral Boon
+
+Spoils of War
+
+Blighted Ravine
+
+Cold Resistance
+
+Three Sisters
+
+Ice Shard
+
+Entomb
+
+Draklorn Inquisitor
+
+Frozen Thrall
+
+Lissandra, The Ice Witch
+
+Bone Skewer
+
+Monster Harpoon
+
+Ardent Tracker
+
+Cithria, Lady of Clouds
+
+Succumb to the Cold
+
+Buried in Ice
+
+Incisive Tactician
+
+Thrashing Snapper
+
+Chirean Sumpworker
+
+Adaptatron 3000
+
+First Wave
+
+Zinneia, Steel Crescendo
+
+Vanguard's Edge
+
+Blossoming Blade
+
+Coastal Defender
+
+Syncopation
+
+Ribbon Dancer
+
+Lead and Follow
+
+Shadows of the Past
+
+Dancing Droplet
+
+Irelia, The Blade Dancer
+
+Rockfall Path
+
+Stonebreaker
+
+Terra Elemental
+
+Blue Sentinel
+
+Chip
+
+Ground Slam
+
+Eye of the Ra-Horak
+
+Solari Sunhawk
+
+Spiral Stairs
+
+Malphite
+
+Redfin Hammersnout
+
+Snapjaw Swarm
+
+Pyke
+
+The List
+
+Jaull-fish
+
+Ripper's Bay
+
+Reaver's Row
+
+Line 'Em Up
+
+Sharkling
+
+Field Promotion
+
+Swiftwing Flight
+
+Fabled Poro
+
+Abominable Guardian
+
+Defiant Dance
+
+Sacred Protector
+
+Starlit Epiphany
+
+Heavens Aligned
+
+Thorned Blade
+
+Atakhan, Bringer of Ruin
+
+The Twisted Treeline
+
+Astral Fox
+
+Glorious Evolution
+
+Boom Baboon
+
+Volunteer Elnuk
+
+Practical Perfectionist
+
+Called Shot
+
+Time Trick
+
+Dropboarder
+
+Timewinder
+
+Fallen Feline
+
+Ekko, The Boy Savior
+
+Ruined Rex
+
+Kadregrin the Ruined
+
+Ruined Dragonguard
+
+Rimefang Denmother
+
+Scattered Pod
+
+Frightened Ibex
+
+Retired Reckoner
+
+Ruined Reckoner
+
+Defective Swapbot
+
+Akshan's Grappling Hook
+
+Thrumming Swarm
+
+The Absolver
+
+Akshan the Vigilante
+
+Warlord's Palace
+
+Crawling Viperwyrm
+
+Camavoran Dragon
+
+Viego's Despair
+
+Withering Mist
+
+Viego the Resurrected
+
+Encroaching Mist
+
+Camavoran Soldier
+
+Invasive Hydravine
+
+Gallant Rider
+rules_text: The first time Gallant Rider is blocked, Gallant Rider has base power and toughness 5/5 and gets Absorb 1. [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i] => The first time Gallant Rider is blocked, transform Gallant Rider.
+
+Blade
+
+Frostguard Thrall
+
+The Watcher
+
+Rimefang Pack
+
+Watery Grave
+
+Underground Sea
+
+Dimir Aqueduct
+
+Darkwater Catacombs
+
+Crest of Insight
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
