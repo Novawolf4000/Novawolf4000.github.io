@@ -1,4 +1,62 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Gem
+rules_text: {1}: Sacrifice Gem, remove 1 damage from target creature and give it +1/+0. => {1}: Sacrifice Gem, remove 1 damage from target creature, it gets a +1/+0 counter.
+
+The Destroyer
+rules_text: Trample
+The Destroyer enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+When The Destroyer enters, it gets +1/+0 for each Celestial creature you control, and for each Celestial card in your graveyard. => Trample
+The Destroyer enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+When The Destroyer enters, it gets a +1/+0 counter for each Celestial creature you control, and for each Celestial card in your graveyard.
+
+The Great Beyond
+rules_text: Flying, Fury [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i]
+The Great Beyond enters with a spellshield counter [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+When The Great Beyond enters, it gets +1/+0 for each Celestial creature you control, and for each Celestial card in your graveyard. => Flying, Fury [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i]
+The Great Beyond enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+When The Great Beyond enters, it gets a +1/+0 counter for each Celestial creature you control, and for each Celestial card in your graveyard.
+
+The Immortal Fire
+rules_text: Flying
+When The Immortal Fire enters, it gets +1/+0 for each Celestial creature you control, and for each Celestial card in your graveyard.
+Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i] => Flying
+When The Immortal Fire enters, it gets a +1/+0 counter for each Celestial creature you control, and for each Celestial card in your graveyard.
+Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+
+The Scourge
+rules_text: Trample, Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When The Scourge enters, it gets +1/+0 for each Celestial creature you control, and for each Celestial card in your graveyard.
+Whenever The Scourge attacks, all other attacking creatures you control get +2/+2 and Trample until the end of turn. => Trample, Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When The Scourge enters, it gets a +1/+0 counter for each Celestial creature you control, and for each Celestial card in your graveyard.
+Whenever The Scourge attacks, all other attacking creatures you control get +2/+2 and Trample until the end of turn.
+
+Flurry of Fists
+rules_text: Target creature you control gets +1/+0 and first strike. If the target creature has first strike, it gets double strike instead. => Target creature you control gets a +1/+0 counter and first strike. If the target creature has first strike, it gets a +1/+0 counter and double strike instead.
+
+Duskrider
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Nightfall: Duskrider gets +1/+0 for each time you have activated Nightfall this turn. [i](If this creature is not the first spell you have cast this turn, when Duskrider enters, Duskrider gets +1/+0 for each time you have activated Nightfall this turn.)[/i] => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Nightfall: Duskrider gets a +1/+0 counter for each time you have activated Nightfall this turn. [i](If this creature is not the first spell you have cast this turn, when Duskrider enters, Duskrider gets a +1/+0 counter for each time you have activated Nightfall this turn.)[/i]
+
+The Scargrounds
+rules_text: Whenever a creature you control takes damage but is not destroyed it gets+1/+0, then give it Absorb 1 if it doesn't have Absorb. [i](If a source would deal damage to that creature, prevent 1 of that damage.)[/i] => Whenever a creature you control takes damage but is not destroyed, it gets a +1/+0 counter, then it gets Absorb 1 if it doesn't have Absorb. [i](If a source would deal damage to that creature, prevent 1 of that damage.)[/i]
+
+Trundle
+
+The Veiled Temple
+rules_text: The first time you cast your second spell each turn, other than The Veiled Temple, add {C}{C} and give +1/+0 to the creature with the highest power among creatures you control. => The first time you cast your second spell each turn, other than The Veiled Temple, add {C}{C} and put a +1/+0 counter onto the creature with the highest power among creatures you control.
+
+Wise Fry
+rules_text: Trample
+When Wise Fry enters, Wise Fry deals 1 damage to each other creature you control, then Wise Fry gets +1/+0 for each creature you control that took damage this way. => Trample
+When Wise Fry enters, it deals 1 damage to each other creature you control, then Wise Fry gets a +1/+0 counter for each creature you control that took damage this way.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 No changes.
