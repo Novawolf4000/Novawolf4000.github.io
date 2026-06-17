@@ -5,7 +5,7 @@
 			<name>LORT-MTN</name>
 			<longname>Legends Of Runeterra Converted: Call of the Mountain</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-16</releasedate>
+			<releasedate>2026-06-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -648,7 +648,7 @@ When Captain Arrika enters, you may exile target creature an opponent controls u
 		</card>
 		<card>
 			<name>Dragonguard Lieutenant</name>
-			<text>When Dragonguard Lieutenant enters, you may behold a Dragon, if you do Dragonguard Lieutenant gets Challenger. (To behold a Dragon, if you do Dragonguard Lieutenant gets Challenger., choose a Dragon, if you do Dragonguard Lieutenant gets Challenger. you control or reveal a Dragon, if you do Dragonguard Lieutenant gets Challenger. card from your hand.)</text>
+			<text>When Dragonguard Lieutenant enters, you may behold a Dragon, if you do Dragonguard Lieutenant gets Challenger. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/36.png" num="3">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -665,7 +665,7 @@ When Captain Arrika enters, you may exile target creature an opponent controls u
 		</card>
 		<card>
 			<name>Dragonguard Lookout</name>
-			<text>When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap all creatures you control. After this phase, there is an additional combat phase. (To behold a Dragon, if you do, untap all creatures you control., choose a Dragon, if you do, untap all creatures you control. you control or reveal a Dragon, if you do, untap all creatures you control. card from your hand.)</text>
+			<text>When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap all creatures you control. After this phase, there is an additional combat phase. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/37.png" num="4">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2503,7 +2503,7 @@ Fury. (When this creature destroys another creature, put a +1/+1 counter on it.)
 		</card>
 		<card>
 			<name>Giddy Sparkleologist</name>
-			<text>When Giddy Sparkleologist enters, if you behold a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. (To behold a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter., choose a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. you control or reveal a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. card from your hand.)</text>
+			<text>When Giddy Sparkleologist enters, if you behold a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. (To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand. The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/131.png" num="113">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3244,7 +3244,7 @@ Search your library and/or graveyard for a card named The Messenger, then exile 
 		</card>
 		<card>
 			<name>Starry Scamp</name>
-			<text>At the start of your pre-combat main phase, you may Behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. (To behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn., choose a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. you control or reveal a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. card from your hand.)</text>
+			<text>At the start of your pre-combat main phase, you may Behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. (To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/173.png" num="216">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
