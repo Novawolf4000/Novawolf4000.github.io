@@ -1,4 +1,718 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Judgement added.
+
+Judgment removed.
+Warmother's Call removed.
+
+Vanguard Bannerman
+rules_text: Allegiance: put a +1/+1 counter on all other creatures you control. [i](When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then put a +1/+1 counter on all other creatures you control)[/i] => Allegiance: put a +1/+1 counter on each other creature you control. [i](When this creature enters, reveal the card on the top of your library, if it and this creature share their colours, then put a +1/+1 counter on each other creature you control)[/i]
+
+Stand Alone
+rules_text: If you control exactly one creature, then put three +1/+1 counters on it. => You may only cast this spell if you control exactly one creature.
+Put three +1/+1 counters on target creature you control.
+
+Riposte
+rules_text: Target creature gets +3/+0 and a shield counter until the end of turn. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => Target creature gets +3/+0 until end of turn, then put a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+Relentless Pursuit
+cost: {2}{W}{W} => {1}{W}{W}
+
+Redoubled Valor
+rules_text: Remove all damage from target creature you control, then double its power and toughness rounding down. => Remove all damage from target creature you control, then double its power and toughness.
+
+Mobilize
+cost: {W}{W}{W} => {W}
+
+Mageseeker Persuader
+rules_text: The first time you cast an instant or sorcery with mana value six or greater, Mageseeker Persuader gets Challenger and a +1/+1 counter. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => The first time you cast an instant or sorcery with mana value 6 or greater, Mageseeker Persuader gets Challenger and a +1/+1 counter. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+
+Mageseeker Investigator
+rules_text: The first time you cast an instant or sorcery with mana value six or greater, you may search your library for a card named Detain, if you do, reveal it, put it into your hand, then shuffle. => The first time you cast an instant or sorcery with mana value 6 or greater, you may search your library for a card named Detain, if you do, reveal it, put it into your hand, then shuffle.
+
+Mageseeker Inciter
+rules_text: The first time you cast an instant or sorcery with mana value six or greater, put two +1/+1 counters on Mageseeker Inciter. => The first time you cast an instant or sorcery with mana value 6 or greater, put two +1/+1 counters on Mageseeker Inciter.
+
+Mageseeker Conservator
+rules_text: When Mageseeker Conservator is destroyed, reveal cards from the top of your library until you reveal three nonwhite instant and/or sorcery cards with mana value six or greater, then randomly choose one of the three cards and add it to your hand, shuffle all other revealed cards into your library. => When Mageseeker Conservator is destroyed, reveal cards from the top of your library until you reveal three nonwhite instant and/or sorcery cards with mana value 6 or greater, randomly choose one, and add it to your hand, then shuffle all other revealed cards into your library.
+
+Lux, The Unseen Light
+rules_text: Lux enters with a shield counter. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+The first time you cast an instant or sorcery with mana value six or greater, Lux deals 4 damage to up to one target creature. Then transform Lux.
+Partner => Lux enters with a shield counter. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+The first time you cast an instant or sorcery with mana value 6 or greater, Lux deals 4 damage to up to one target creature. Then transform Lux.
+Partner
+
+Lucian
+rules_text: First strike 
+Whenever a nontoken creature you control is destroyed, put a Purifier counter on Lucian. If a creature you control named Senna is destroyed, put four Purifier counters on Lucian instead.
+At the end of any phase on your turn, if Lucian has four or more Purifier counters, remove all Purifier counters from Lucian, then transform him.
+Partner => First strike 
+Whenever a nontoken creature you control dies, put a Purifier counter on Lucian. If the creature you control is named Senna, put four Purifier counters on Lucian instead.
+At the end of any phase on your turn, if Lucian has four or more Purifier counters, remove all Purifier counters from Lucian, then transform him.
+Partner
+
+Laurent Duelist
+rules_text: The first time a creature you control enters on the same turn Laurent Duelist entered, that creature gets Challenger until the end of your next turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => When Laurent Duelist enters, until the end of turn, the next creature you cast enters with Challenger. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+
+Garen, The King's Sword
+rules_text: When Garen enters, all other creatures you control get +1/+1 until end of turn.
+Whenever Garen blocks or is blocked and is not destroyed, put a Demacia counter on Garen.
+At the end of any phase on your turn, if Garen has two or more Demacia counters, remove all Demacia counters from Garen, then transform him.
+Partner => When Garen enters, each other creature you control gets +1/+1 until end of turn.
+Whenever Garen blocks or is blocked and is not destroyed, put a Demacia counter on Garen.
+At the end of any phase on your turn, if Garen has two or more Demacia counters, remove all Demacia counters from Garen, then transform him.
+Partner
+
+For Demacia!
+cost: {3}{W}{W}{W} => {2}{W}{W}
+rules_text: All creatures your control get +3/+3 until end of turn. => Each creature you control gets +3/+3 until end of turn.
+
+Fleetfeather Tracker
+rules_text: The first time a creature you control enters on the same turn Fleetfeather Tracker entered, Fleetfeather Tracker gets Challenger until the end of your next turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => The first time a creature you control enters the same turn Fleetfeather Tracker entered, Fleetfeather Tracker gets Challenger until the end of your next turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+
+Fiora
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Whenever Fiora destroys a creature an opponent controls, place one Vital counter on Fiora. Vital counters cannot be proliferated or copied.
+At the end of combat, if Fiora has two or more Vital counters, transform Fiora and remove all Vital counters from Fiora.
+Partner => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Whenever a creature dealt damage by Fiora this turn dies, put a Vital counter on Fiora. Vital counters cannot be proliferated or copied.
+At the beginning of your post-combat main phase, if Fiora has two or more Vital counters remove all Vital counters from Fiora, then transform her.
+Partner
+
+En Garde
+rules_text: All creatures you control gain Challenger until the end of turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Each creature you control has Challenger until end of turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+
+Detain
+rules_text: When Detain enters, exile target creature an opponent controls.
+When Detain leaves the battlefield, return the exiled card to the battlefield under their owners' control. => When Detain enters, exile target creature an opponent controls.
+When Detain leaves the battlefield, return the exiled card to the battlefield under their owner's control.
+
+Dawnspeakers
+type: Creature — Human => Creature — Human Cleric
+rules_text: At the beginning of your end step, if one or more nontoken creatures you control was destroyed this turn, put a +1/+1 counter on each other creature you control. => At the beginning of your end step, if one or more nontoken creatures you control died this turn, put a +1/+1 counter on each other creature you control.
+
+Cithria the Bold
+rules_text: Whenever Cithria the Bold attacks, other attacking creatures you control get +1/+1 and Fearsome until the start of your next turn. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i] => Whenever Cithria the Bold attacks, each other attacking creature you control gets +1/+1 and Fearsome until the start of your next turn. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+
+Brightsteel Protector
+rules_text: When Brightsteel Protector enters, put a shield counter onto other creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => When Brightsteel Protector enters, put a shield counter on other target creature you control. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+Brightsteel Formation
+cost: {4}{W}{W}{W} => {3}{W}{W}{W}
+rules_text: When Brightsteel Formation enters or attacks, other creatures you control get a shield counter. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => Whenever Brightsteel Formation enters or attacks, put a shield counter on each other creature you control.
+
+Battlesmith
+rules_text: Whenever a Knight you control enters, put a +1/+1 counter on it. => Whenever a Knight you control enters, put an additional +1/+1 counter on it.
+
+Wraithcaller
+rules_text: Allegiance: create a Mistwraith token. [i](When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then create a Mistwraith token)[/i] => Allegiance: create a Mistwraith token. [i](When this creature enters, reveal the card on the top of your library, if it and this creature share their colours, then create a Mistwraith token)[/i]
+
+Withering Wail
+rules_text: Withering Wail deals 1 damage to all creatures your opponents control. You gain 3 life. => Withering Wail deals 1 damage to each creature opponents control. You gain 3 life.
+
+Warden's Prey
+rules_text: When Warden's Prey is destroyed, reveal cards from the top of your library until you reveal a creature card with an ability that activates when it is destroyed that has mana value 3 or less, add it to your hand, then shuffle all other revealed cards into your library. => When Warden's Prey dies, reveal cards from the top of your library until you reveal a creature card with an ability that activates when it dies that has mana value 3 or less, add it to your hand, then shuffle all other revealed cards into your library.
+
+Vile Feast
+rules_text: Drain 1 from target creature, then create Spiderling token. [i](Vile Feast deals 1 damage. You gain that much life.)[/i] => Vile Feast deals 1 damage to target creature, if it does, you gain 1 life. Create Spiderling token.
+
+Tortured Prodigy
+rules_text: Whenever a nontoken creature you control is destroyed, add one {B}. => Whenever another nontoken creature you control dies, add {B}.
+
+Thresh, The Torturer
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Whenever a creature is destroyed, put one Soul counter on Thresh. Soul counters cannot be proliferated or copied in any way. At the end of any phase on your turn, if Thresh has six or more Soul counters, remove all Soul counters from Thresh, then transform him.
+Partner => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Whenever a creature dies, put a Soul counter on Thresh. Soul counters cannot be proliferated or copied. At the end of any phase on your turn, if Thresh has six or more Soul counters, remove all Soul counters from Thresh, then transform him.
+Partner
+
+The Undying
+rules_text: The Undying can't block.
+Whenever The Undying is destroyed, exile it. At the start of your upkeep, return The Undying to the battlefield from exile with a +1/+1 counter.
+Counters remain on The Undying as it moves to any zone other than a player's hand or library. => The Undying can't block.
+Whenever The Undying dies, if it would enter the graveyard, exile it instead. At the start of your upkeep, return The Undying to the battlefield from exile with an additional +1/+1 counter on The Undying.
+Counters remain on The Undying as it moves to any zone other than a player's hand or library.
+
+The Harrowing
+rules_text: Put up to six creatures with the highest power among cards in your graveyard onto the battlefield. Each of them enter with Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Put up to six creatures with the highest power among cards in your graveyard onto the battlefield. Then put an ephemeral counter on each creature that enter this way. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+
+Stirred Spirits
+rules_text: When Stirred Spirits attacks, other target attacking creature you control gets +2/+0 and Ephemeral. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Whenever Stirred Spirits attacks, other target attacking creature you control gets +2/+0 and Ephemeral. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+
+Splinter Soul
+rules_text: Create an exact copy of target creature you control. The copy has base power and toughness 1/1 and has Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Create a copy of target creature you control. The copy has base power and toughness 1/1 and has Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+
+Spectral Matron
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Spectral Matron enters, choose a creature from your hand and reveal it, create an exact token copy of the revealed creature and give it Ephemeral. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Spectral Matron enters, choose a creature from your hand and reveal it, create a token copy of the revealed creature. Then put an ephemeral counter on the creature that enters this way. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+
+Soulgorger
+rules_text: Lifesteal => Lifelink
+
+Soul Shepherd
+rules_text: Ephemeral creatures you control enter with a +1/+1 counter. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Ephemeral creatures you control enter with an additional +1/+1 counter. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+
+Shark Chariot
+rules_text: Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+Shark Chariot can't block.
+If Shark Chariot is in the graveyard, whenever a creature with Ephemeral you control attacks, Shark Chariot enters from the graveyard tapped and attacking. => Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+Shark Chariot can't block.
+If Shark Chariot is in the graveyard, whenever a creature you control with Ephemeral attacks, return Shark Chariot from the graveyard tapped and attacking.
+
+Senna, The Redeemer
+type: Legendary Creature — Human Spirit => Legendary Creature — Human Spirit Ranger
+
+Scuttlegeist
+type: Creature — Wraith Crab => Creature — Crab Wraith
+
+Scribe of Sorrows
+rules_text: When Scribe of Sorrows enters, randomly choose a creature from your graveyard, then create an exiled copy of that creature. You may cast that copy from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. => When Scribe of Sorrows enters, randomly choose a creature in your graveyard, then create an exiled copy of that creature. You may cast that copy from exile for as long as it remains exiled.
+
+Oblivious Islander
+rules_text: The first time Oblivious Islander enters this turn, the next creature you cast this turn costs {1} less to cast and enters with Ephemeral. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => When Oblivious Islander enters, the next creature you cast this turn costs {1} less to cast and enters with an Ephemeral counter. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+
+Mist's Call
+rules_text: Randomly choose a creature from among creatures in your graveyard that were destroyed this turn, put that creature onto the battlefield. => Randomly choose a creature from among creatures in your graveyard that died this turn, return that creature from the graveyard to the battlefield.
+
+Kalista
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When a creature you control is destroyed, place one Spear counter on Kalista. Spear counters cannot be proliferated or copied in any way.
+At the end of any phase on your turn, if Kalista has three or more Spear counters, remove all Spear counters from Kalista. then transform her.
+Partner => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Whenever a creature you control dies, put a Spear counter on Kalista. Spear counters cannot be proliferated or copied.
+At the end of any phase on your turn, if Kalista has three or more Spear counters, remove all Spear counters from Kalista. then transform her.
+Partner
+
+Iron Harbinger
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Iron Harbinger attacks, all attacking Ephemeral creatures you control get +1/+0. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Iron Harbinger attacks, each attacking Ephemeral creature you control gets +1/+0. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+
+Hecarim
+type: Legendary Creature — Wraith => Legendary Creature — Centaur Wraith
+rules_text: Trample
+When Hecarim attacks, create two tapped and attacking Spectral Rider tokens.
+Whenever a creature you control with Ephemeral attacks, put a War counter on Hecarim. At the end of any phase on your turn, if Hecarim has seven or more War counters, remove all War counters from Hecarim, then transform him.
+Partner => Trample
+Whenever Hecarim attacks, create two tapped and attacking Spectral Rider tokens.
+Whenever a creature you control with Ephemeral deals combat damage, put a War counter on Hecarim. At the end of any phase on your turn, if Hecarim has seven or more War counters, remove all War counters from Hecarim, then transform him.
+Partner
+
+Hapless Aristocrat
+rules_text: When Hapless Aristocrat is destroyed, create a Spiderling token. => When Hapless Aristocrat dies, create a Spiderling token.
+
+Grasp of the Undying
+rules_text: Drain 3 from target creature or planeswalker. [i](Grasp of the Undying deals 3 damage. You gain that much life.)[/i] => Grasp of the Undying deals 3 damage to target creature of planeswalker, if it does, you gain 3 life.
+
+Fresh Offerings
+rules_text: You cannot cast this sorcery unless three or more creatures you control were destroyed this turn.
+Create a Vilemaw token. => You may only cast Fresh Offerings if three or more creatures you control died this turn.
+Create a Vilemaw token.
+
+Frenzied Skitterer
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Frenzied Skitterer enters, all other spiders you control gets +1/+0 and all creatures you don't control gain -1/-0 until end of turn. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Frenzied Skitterer enters, each other spider creature you control gets +1/+0 and each creature you don't control gets -1/-0 until end of turn.
+
+Ethereal Remitter
+rules_text: As an additional cost to cast this spell, sacrifice a nontoken creature you control. 
+Reveal cards from the top of your library until you reveal three creatures with a mana value that costs 2 more than the sacrificed creature, then randomly choose one, put it on the battlefield under your control, then shuffle all other revealed cards into your library. => As an additional cost to cast this spell, sacrifice a nontoken creature you control. 
+Reveal cards from the top of your library until you reveal three creatures that have a mana value 2 more than the sacrificed creature, randomly choose one, put it on the battlefield under your control, then shuffle all other revealed cards into your library.
+
+Elise
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Elise attacks, create a tapped and attacking Spiderling token.
+At the beginning of your upkeep, if you control three or more other spider creatures, transform Elise.
+Partner => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Whenever Elise attacks, create a tapped and attacking Spiderling token.
+At the beginning of your upkeep, if you control three or more other spider creatures, transform Elise.
+Partner
+
+Crawling Sensation
+rules_text: You may only cast Crawling Sensation is a creature you control was destroyed this turn.
+Create two Spiderling tokens. => You may only cast Crawling Sensation if a creature you control died this turn.
+Create two Spiderling tokens.
+
+Commander Ledros
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Commander Ledros enters target opponent loses half their life rounded down.
+When Commander Ledros is destroyed, return Commander Ledros to its owners hand instead of the graveyard. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Commander Ledros enters target opponent loses half their life rounded down.
+Whenever Commander Ledros dies, if it would enter the graveyard, return Commander Ledros to its owners hand instead.
+
+Brood Awakening
+rules_text: Create three Spiderling tokens, then each spider creature you control gets a +1/+0 counter. => Create three Spiderling tokens, then put a +1/+0 counter on each spider creature you control.
+
+Black Spear
+rules_text: You cannot cast this instant unless a creature you control was destroyed this turn.
+Black Spear deals 4 damage to target creature. => You may only cast Black Spear if a creature you control died this turn.
+Black Spear deals 4 damage to target creature.
+
+Ancient Crocolith
+rules_text: As an additional cost to cast this spell, sacrifice two nontoken creatures you control.
+Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i] => As an additional cost to cast this spell, sacrifice two creatures you control.
+Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+
+Absorb Soul
+rules_text: Drain 4 from target creature you control. [i](Absorb Soul deals 4 damage. You gain that much life.)[/i] => Absorb Soul deals 4 damage to target creature you control, if it does, you gain 4 life.
+
+Vilemaw
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Other creatures with Fearsome you control get +1/+0. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Other creatures with Fearsome you control have +1/+0.
+
+Ravenous Butcher
+rules_text: As an additional cost to cast this card, sacrifice one creature you control. => This creature is black.
+As an additional cost to cast this card, sacrifice a creature you control.
+
+Fading Memories
+rules_text: Create an exiled copy of target creature. You may cast that copy from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy.
+When the exiled copy enters it enters with Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => This spell is black.
+Create an exiled copy of target creature. You may cast that copy from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. Put an ephemeral counter on the creature that enters this way. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+
+Arachnoid Host
+rules_text: When Arachnoid Host enters, each spider creature you control gets +2/+0. => When Arachnoid Host enters, put a +2/+0 counter on each other spider creature you control.
+
+Arena Bookie
+type: Creature — Yordle => Creature — Yordle Rogue
+rules_text: At the start of your pre-combat main phase, reveal your hand, then discard the card with the lowest mana value from among them, then draw a card. => At the beginning of your pre-combat main phase, reveal your hand and discard the card with the lowest mana value from among them, then draw a card.
+
+Basilisk Rider
+type: Creature — Human Warrior => Creature — Human Basilisk Warrior
+rules_text: Allegiance: Basilisk Rider gets a +1/+1 counter and trample. [i](When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then Basilisk Rider gets a +1/+1 counter and trample)[/i] => Allegiance: put a +1/+1 counter and a trample counter on Basilisk Rider. [i](When this creature enters, reveal the card on the top of your library, if it and this creature share their colours, then put a +1/+1 counter and a trample counter on Basilisk Rider)[/i]
+
+Battering Ram
+rules_text: Trample
+Whenever Battering Ram attacks, it gets +4/+0. => Trample
+Whenever Battering Ram attacks, put four +1/+0 counters on Battering Ram.
+
+Blood for Blood
+rules_text: Blood for Blood deals 1 damage to a target creature you control, if the target creature is not destroyed, create an exiled copy of that creature. You may cast that copy from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. => Blood for Blood deals 1 damage to a target creature you control, if the target creature is not destroyed, create an exiled copy of that creature. You may cast that copy from exile for as long as it remains exiled.
+
+Brothers' Bond
+rules_text: Two target creatures you control get +2/+0. => Put a +2/+0 counter on two target creatures you control.
+
+Crimson Aristocrat
+rules_text: When Crimson Aristocrat enters, Crimson Aristocrat deals 1 damage to target other creature you control, if the target creature is not destroyed, it gets a +1/+0 counter and trample. => When Crimson Aristocrat enters, Crimson Aristocrat deals 1 damage to target other creature you control, if the target creature is not destroyed, put a +1/+0 counter and a trample counter on it.
+
+Crowd Favorite
+rules_text: Trample
+When Crowd Favorite enters, put a +1/+1 counter on it for each other creature you control. => Trample
+Crowd Favorite enters with an additional +1/+1 counter for each other creature you control.
+
+Decisive Maneuver
+rules_text: Tap target creature an opponent controls and put a stun counter on it.
+All creatures you control gets +2/+0 this turn. => Tap target creature an opponent controls and put a stun counter on it.
+Each creature you control gets +2/+0 this turn.
+
+Draven
+rules_text: First strike
+When Draven enters, or whenever Draven deals combat damage, create a Spinning Axe token.
+At the end of combat, if Draven attacked and was not destroyed while equipped with a Spinning Axe, put a Glory counter on Draven. At the end of any phase on your turn, if Draven has two or more Glory counters, remove all Glory counters from Draven, then transform him.
+Partner => First strike
+When Draven enters or deals combat damage, create a Spinning Axe token.
+At the end of combat, if Draven attacked with an attached equipment named Spinning Axe, put a Glory counter on Draven. At the end of any phase on your turn, if Draven has two or more Glory counters, remove all Glory counters from Draven, then transform him.
+Partner
+
+Intimidating Roar
+rules_text: Tap all creatures target opponent controls with power 4 or less, then put a stun counter on each creature tapped this way. => Tap each creature target opponent controls with power 4 or less, then put a stun counter on each creature tapped this way.
+
+Katarina
+rules_text: First strike
+When Katarina enters, create a Blade's Edge token.
+At the end of combat, if Katarina attacked and was not destroyed, exile Katarina with an assassin counter.
+Partner => First strike
+When Katarina enters, create a Blade's Edge token.
+At the beginning of your post-combat phase, if Katarina attacked this turn, exile Katarina with an assassin counter.
+Partner
+
+Legion General
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Legion General enters, put a +1/+1 counter on it for each creature that has a stun counter or has been recalled by spells you control this turn. [i](If a permanent with a stun counter would become untapped, remove one from it instead. A recalled permanent is put back into its owners hand from the battlefield.)[/i] => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Legion General enters with an additional +1/+1 counter for each creature that has a stun counter, and for each creature that was recalled by sources you control this turn. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]
+
+Legion Grenadier
+rules_text: When Legion Grenadier is destroyed, Legion Grenadier deals 1 damage to target opponent. => When Legion Grenadier dies, Legion Grenadier deals 1 damage to target opponent.
+
+Legion Marauder
+rules_text: When Legion Marauder attacks, put a +1/+1 counter on all creatures named Legion Marauder you control. => When Legion Marauder attacks, put a +1/+1 counter on each creature named Legion Marauder you control.
+
+Legion Veteran
+rules_text: Whenever a creature you control is dealt damage and is not destroyed, it gets a +1/+0 counter. => Whenever a creature you control is dealt damage and is not destroyed, put a +1/+0 counter on it.
+
+Might
+rules_text: Target creature you control gets +3/+0 and trample. => Put three +1/+0 counters and a trample counter on target creature you control.
+
+Minotaur Reckoner
+rules_text: At the start of your upkeep, put a stun counter onto the creature with the lowest power among creatures controlled by target opponent. => At the beginning of your upkeep, put a stun counter onto the creature with the lowest power among creatures controlled by target opponent.
+
+Noxian Guillotine
+rules_text: Multikicker {R}{R}{R}: You may target an additional creature.
+Destroy target damaged creature. => Multikicker {R}{R}{R} [i](You may pay an additional {R}{R}{R} any number of times as you cast this spell.)[/i]
+Choose target damaged creature, then choose another target damaged creature for each time this spell was kicked. Destroy each creature targeted this way.
+
+Reckoning
+rules_text: You may only cast Reckoning if you control a creature with power 5 or greater.
+Destroy all creatures with power 4 or less. => You may only cast Reckoning if you control a creature with power 5 or greater.
+Destroy each creature with power 4 or less.
+
+Trifarian Gloryseeker
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Trifarian Gloryseeker can't block. => 
+Trifarian Gloryseeker can't block.
+Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+
+Trifarian Hopeful
+rules_text: When Trifarian Hopeful enters, it gets +2/+0 if you control another warrior creature. => When Trifarian Hopeful enters, put a +2/+0 counter on it if you control another warrior creature.
+
+Vision
+rules_text: When Vision is cast or discarded, each creature you control gets a +1/+0 counter. => When Vision is cast or discarded, put a +1/+0 counter on each creature you control.
+
+Vladimir
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Vladimir enters, you may have Vladimir deal 1 damage to other target creature you control to deal 1 damage to any target.
+Whenever a creature you control is dealt damage and is not destroyed, put a Blood counter on Vladimir. At the end of any phase on your turn if Vladimir has five or more Blood counters, remove all Blood counters from Vladimir. them transform him.
+Partner => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Vladimir enters, you may have Vladimir deal 1 damage to other target creature you control to deal 1 damage to any target.
+Whenever a creature you control is dealt damage and is not destroyed, put a Blood counter on Vladimir. At the end of any phase on your turn, if Vladimir has five or more Blood counters, remove all Blood counters from Vladimir. them transform him.
+Partner
+
+Alpha Wildclaw
+cost: {3}{G}{G}{G} => {3}{G}{G}
+
+Ancient Yeti
+cost: {6}{G}{G}{G} => {7}{G}{G}
+
+Anivia
+rules_text: Whenever Anivia attacks, after blockers have been declared, Anivia deals 1 damage to each opponent and each blocking creature opponents control.
+Whenever Anivia leaves the battlefield you may choose to exile Anivia instead. When you become Enlightened, put Anivia onto the battlefield from exile transformed.
+At the end of any phase on your turn, if you are Enlightened, transform Anivia. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i]
+Partner => Whenever Anivia attacks, after blockers have been declared, Anivia deals 1 damage to each opponent and each blocking creature opponents control.
+Whenever Anivia would leave the battlefield you may choose to exile Anivia instead. At the end of any phase on your turn, if you are Enlightened, return Anivia from exile onto the battlefield transformed.
+At the end of any phase on your turn, if you are Enlightened, transform Anivia. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i]
+Partner
+
+Ashe
+
+Avalanche
+rules_text: Avalanche deals 2 damage to all creatures. => Avalanche deals 2 damage to each creature.
+
+Avarosan Hearthguard
+rules_text: When Avarosan Hearthguard enters, you get an emblem with “Creatures you control enter with a +1/+1 counter.” => When Avarosan Hearthguard enters, you get an emblem with “Creatures you control enter with an additional +1/+1 counter.”
+
+Avarosan Marksman
+rules_text: When Avarosan Marksman enters, Avarosan Marksman deals 1 damage to target opponent or creature they control. => When Avarosan Marksman enters, Avarosan Marksman deals 1 damage to any target.
+
+Avarosan Outriders
+rules_text: Trample
+When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, reveal cards from the top of your library until you reveal a creature, exile it, then shuffle all other revealed cards into your library. You may cast the creature from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that creature. The exiled creature enters with three +1/+1 counters and Trample. => Trample
+When this creature enters, reveal the card on the top of your library, if it and this creature share their colours, then reveal cards from the top of your library until you reveal a creature, exile it, then shuffle all other revealed cards into your library. You may cast creatures exiled this way from exile for as long as it remains exiled. Creatures cast from exile this way enter with an additional +1/+1 counter and a trample counter.
+
+Avarosan Trapper
+rules_text: When Avarosan Trapper enters, create an exiled 5/5 green yeti creature called Enraged Yeti with three time counters, if it doesn't have suspend, it gains suspend. => When Avarosan Trapper enters, create an Enraged Yeti token, then put three stun counters on it.
+
+Bloodsworn Pledge
+rules_text: Two target creatures you control get +0/+3. => Put three +0/+1 counters on two target creatures you control.
+
+Bull Elnuk
+cost: {2}{G}{G} => {3}{G}
+
+Harsh Winds
+rules_text: Frostbite two target creatures an opponent controls. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i] => Frostbite up to two target creatures an opponent controls. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i]
+
+Heart of the Fluft
+rules_text: When Heart of the Fluft enters, sacrifice all other Poro creatures you control. Heart of the Fluft gets power and toughness equal to the power and toughness of each Poro sacrificed this way. Heart of the Fluft gets all abilities from each Poro sacrificed this way. => When Heart of the Fluft enters, mutate each other Poro creature you control under Heart of the Fluft.
+Heart of the Fluft has +X/+Y where X is the total power of each creature mutated under Heart of the Fluft and Y is the total toughness of each creature mutated under Heart of the Fluft.
+
+Iceborn Legacy
+rules_text: Enchant creature.
+Enchanted creature you control gets +2/+2. Each other creature you control with the same name as the enchanted creature get +2/+2. => Enchant creature.
+Enchanted creature you control gets +2/+2. Each other creature you control with the same name as the enchanted creature gets +2/+2.
+
+Icy Yeti
+rules_text: When Icy Yeti enters, Frostbite all creatures you don't control with toughness 3 or less. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i] => When Icy Yeti enters, Frostbite each creature you don't control with toughness 3 or less. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i]
+
+Omen Hawk
+rules_text: Flying
+When Omen Hawk enters, the next two creatures that you control enters with a +1/+1 counter. => Flying
+When Omen Hawk enters, until the end of turn, the next two creatures you cast enter with an additional +1/+1 counter.
+
+Pack Mentality
+rules_text: All creatures you control get +2/+2 and Trample until the end of your next turn. => Each creature you control gets +2/+2 and Trample until the end of your next turn.
+
+Poro Herder
+type: Creature — Human => Creature — Human Nomad
+rules_text: When Poro Herder enters you may behold a poro. If you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle. [i](To behold a poro., choose a poro. you control or reveal a poro. card from your hand.)[/i] => When Poro Herder enters you may behold a poro, if you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle. [i](To behold a poro, choose a poro you control or reveal a poro card from your hand.)[/i]
+
+Poro Snax
+rules_text: You get an emblem with “Poro creatures you control enter with a +1/+1 counter.” => You get an emblem with “Poro creatures you control enter with an additional +1/+1 counter.”
+
+Scarmother Vrynna
+rules_text: Trample
+Whenever Scarmother Vrynna is dealt damage and is not destroyed, Scarmother Vrynna gets +3/+0. => Trample
+Whenever Scarmother Vrynna is dealt damage and is not destroyed, put three +1/+0 counters on Scarmother Vrynna.
+
+Scarthane Steffen
+rules_text: When Scarthane Steffen is dealt damage and is not destroyed, Scarthane Steffen gets +3/+0. => Whenever Scarthane Steffen is dealt damage and is not destroyed, put three +1/+0 counters on Scarthane Steffen.
+
+Shatter
+rules_text: Frostbite target creature. If the target creature has power 0, Shatter deals 4 damage instead. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i] => Frostbite target creature. If the target creature has power 0, Shatter deals 4 damage to that creature instead. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i]
+
+Stalking Wolf
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When Stalking Wolf enters gift a Snow Hare token. => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When Stalking Wolf enters, target opponent creates a Snow Hare token.
+
+Starlit Seer
+rules_text: Whenever you cast an instant or sorcery, reveal the top card of your library, if the revealed card is a creature exile it. You may cast the creature from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that creature. When the exiled creature enters put a +1/+1 counter on it. => Whenever you cast an instant or sorcery, reveal the top card of your library. If the card revealed this way is a creature, exile it. You may cast creatures exiled this way from exile for as long as it remains exiled. Creatures cast from exile this way enter with an additional +1/+1 counter.
+
+Tall Tales
+rules_text: If you control a yeti creature then create an Enraged Yeti token. If you don't control a yeti, created an exiled 5/5 green yeti creature called Enraged Yeti with a time counter, if it doesn't have suspend, it gains suspend. => If you control a yeti creature, create an Enraged Yeti token. If you don't, create an Enraged Yeti token, then put a stun counter on it.
+
+They Who Endure
+cost: {3}{G}{G}{G} => {3}{G}
+rules_text: Trample
+They Who Endure enters with a +1/+1 counter for each creature in its controllers graveyard. => Trample
+They Who Endure enters with a number of +1/+1 counters on it equal to the number of creature cards in its controllers graveyard.
+
+Tryndamere
+cost: {4}{G}{G}{G} => {4}{G}{G}
+rules_text: Trample
+The first time Tryndamere would be destroyed, regenerate then transform Tryndamere instead. [i](The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)[/i] => Trample
+The first time Tryndamere would be destroyed, regenerate then transform Tryndamere instead. [i](The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)[/i]
+Partner
+
+Unscarred Reaver
+type: Creature — Human Warrior => Creature — Human Nomad Warrior
+rules_text: When Unscarred Reaver is dealt damage and is not destroyed, Unscarred Reaver gets +3/+0. => Whenever Unscarred Reaver is dealt damage and is not destroyed, put three +1/+0 counters on Unscarred Reaver.
+
+Warmother's Call
+cost: {7}{G}{G}{G} => {3}{G}{G}{G}
+rules_text: Reveal cards from the top of your library until you reveal a creature, put that creature onto the battlefield, then shuffle all other revealed cards into your library.
+You get an emblem with “At the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature, put that creature onto the battlefield, then shuffle all other revealed cards into your library.”
+Exile Warmother's Call. => Reveal cards from the top of your library until you reveal a creature, put it onto the battlefield, then shuffle all other revealed cards into your library.
+Paradigm
+
+Winter's Breath
+rules_text: Destroy all creatures you don't control with power 0, then Frostbite all creatures you don't control. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i] => Destroy each creature you don't control with power 0, then Frostbite each creature you don't control. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i]
+
+Yeti Yearling
+rules_text: When Yeti Yearling is destroyed, create two exiled 5/5 green yeti creatures called Enraged Yeti, put five time counters on one and ten time counters on the other, if either creature doesn't have suspend, it gains suspend. => When Yeti Yearling dies, create an Enraged Yeti token with five stun counters, then create a Enraged Yeti token with ten stun counters.
+
+Wyrding Stones
+rules_text: At the start of your pre-combat main phase add {G}, you do not lose this mana between phases. => At the start of your pre-combat main phase add {G}, until the end of turn, you do not lose this mana between steps and phases.
+
+Zephyr Sage
+rules_text: When Zephyr Sage enters, reveal a card in your hand other than Zephyr Sage, then create an exiled copy of the revealed card. You may cast that copy from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. => When Zephyr Sage enters, reveal a card in your hand other than a creature named Zephyr Sage, create an exiled copy of the revealed card. You may cast that copy from exile for as long as it remains exiled.
+
+Zed
+rules_text: First strike
+When Zed attacks, create a tapped and attacking Living Shadow token with the same power and toughness as Zed. [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+Whenever Zed or a Living Shadow token deals combat damage to a player, put a Ninja counter on Zed. At the end of any phase on your turn, if Zed has two or more Ninja counters, remove all Ninja counters from Zed, then transform him.
+Partner => First strike
+Whenever Zed attacks, create a tapped and attacking Living Shadow token with the same power and toughness as Zed.
+Whenever Zed or a Living Shadow token deals combat damage to an opponent, put a Ninja counter on Zed. At the end of any phase on your turn, if Zed has two or more Ninja counters, remove all Ninja counters from Zed, then transform him.
+Partner
+
+Yusari
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i] => Shadow, Challenger [i](This creature can block or be blocked by only creatures with shadow. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+
+Yone
+rules_text: When Yone enters, tap up to two target creatures an opponent controls and put a stun counter on them. => When Yone enters, tap up to two target creatures an opponent controls, then put a stun counter on each creature tapped this way.
+
+Yasuo, The Wanderer
+rules_text: First strike
+Whenever a creature you don't control is recalled or a stun counter is put on it, Yasuo deals 2 damage to that creature. Then put a Wind counter on Yasuo. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]
+At the end of any phase on your turn, if Yasuo has five or more Wind counters, remove all Wind counters from Yasuo, then transform him.
+Partner => First strike
+Whenever a creature an opponent controls would be recalled or whenever a stun counter is put on a creature you don't control, Yasuo deals 2 damage to that creature. Then put a Wind counter on Yasuo. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]
+At the end of any phase on your turn, if Yasuo has five or more Wind counters, remove all Wind counters from Yasuo, then transform him.
+Partner
+
+Windfarer Hatchling
+rules_text: Flying
+When Windfarer Hatchling enters, all other creatures you control get +2/+2 until the end of turn. => Flying
+When Windfarer Hatchling enters, each other creature you control gets +2/+2 until the end of turn.
+
+Stand United
+rules_text: If a spell or ability is targeting a creature you control, you may choose another creature you control as the new target for target spell or ability. Put a shield counter on both creatures. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => If a spell or ability is targeting a creature you control, you may choose another creature you control as the new target for target spell or ability. Put a shield counter on both creatures.
+
+Spirit's Refuge
+rules_text: Target creature you control gets Lifelink until end of turn and a shield counter. => Put a shield counter on target creature you control, then until the end of turn it has lifelink.
+
+Sown Seeds
+rules_text: The first time a creature you control enters the same turn you cast Sown Seeds, that creature enters with a +1/+0 counter. => Until the end of turn, the next creature you cast enters with an additional +1/+0 counter.
+
+Solitary Monk
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When Solitary Monk enters, Recall all other creatures you control. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i] => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When Solitary Monk enters, recall each other creature you control. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]
+
+Silent Shadowseer
+rules_text: Shadow
+Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+If Silent Shadowseer deals damage to an opponent, Silent Shadowseer is recalled to its owners hand. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i] => Shadow, Ephemeral [i](This creature can block or be blocked by only creatures with shadow. This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+If Silent Shadowseer deals damage to an opponent, Silent Shadowseer is recalled to its owners hand. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]
+
+Shadow Flare
+rules_text: You may only cast Shadow Flare during the combat phase. You may cast Shadow Flare as though is had flash.
+All attacking and blocking creatures get Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => You may only cast Shadow Flare during the combat phase. You may cast Shadow Flare as though is had flash.
+Each attacking and blocking creature gets Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+
+Scaled Snapper
+rules_text: When Scaled Snapper enters, choose one:
+• Scaled Snapper gets +3/+0.
+• Scaled Snapper gets +0/+3. => When Scaled Snapper enters, choose one:
+• Put three +1/+0 counters on Scaled Snapper.
+• Put three +0/+1 counters on Scaled Snapper.
+
+Rush
+rules_text: Target creature you control gets +1/+1 and First strike until the end of the turn. => Target creature you control gets +1/+1 and First strike until the end of turn.
+
+Rivershaper
+rules_text: Whenever Rivershaper deals damage to an opponent, reveal cards from the top of your library until you reveal three instant and/or sorcery cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library. => Whenever Rivershaper deals combat damage to an opponent, reveal cards from the top of your library until you reveal three instant and/or sorcery cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
+
+Navori Bladescout
+rules_text: When Navori Bladescout enters, it gets Shadow until the end of your next turn. [i](This creature can block or be blocked by only creatures with shadow.)[/i] => When Navori Bladescout enters, it has Shadow until the end of your next turn. [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+
+Master Shen
+rules_text: Master Shen enters with a shield counter.
+When Master Shen attacks, other target attacking creature you control gets a shield counter.
+Whenever a shield counter is put onto a creature you control, put a Twilight counter onto Master Shen. At the end of any phase on your turn, if Master Shen has five or more Twilight counters, remove all Twilight counters from Master Shen, then transform him.
+Partner => Master Shen enters with a shield counter.
+Whenever Master Shen attacks, put a shield counter on other target attacking creature you control.
+Whenever a shield counter is put onto a creature you control, put a Twilight counter on Master Shen. At the end of any phase on your turn, if Master Shen has five or more Twilight counters, remove all Twilight counters from Master Shen, then transform him.
+Partner
+
+Kinkou Wayfinder
+rules_text: Allegiance: search your library for a creature with mana value 1, put it onto the battlefield, then shuffle. [i](When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then search your library for a creature with a mana value 1, put it onto the battlefield, then shuffle)[/i] => Allegiance: search your library for a creature with mana value 1, put it onto the battlefield, then shuffle. [i](When this creature enters, reveal the card on the top of your library, if it and this creature share their colours, then search your library for a creature with mana value 1, put it onto the battlefield, then shuffle)[/i]
+
+Kinkou Lifeblade
+rules_text: Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+Lifelink => Lifelink, Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+
+Ki Guardian
+rules_text: The first time a creature you control enters on the same turn you cast Ki Guardian, that creature enters with a shield counter onto it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Draw a card. => Until the end of turn, the next creature you cast enters with a shield counter. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Draw a card.
+
+Keeper of Masks
+rules_text: When Keeper of Masks enters, all other creatures you control gets +1/+0 until end of turn. => When Keeper of Masks enters, each other creature you control gets +1/+0 until end of turn.
+
+Karma
+rules_text: At the end of your turn search your library for an instant or sorcery, reveal it, add it to your hand then shuffle.
+At the end of any phase on your turn, if you are Enlightened, transform Karma. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i]
+Partner => At the end of your turn search your library for an instant or sorcery, reveal it, add it to your hand, then shuffle.
+At the end of any phase on your turn, if you are Enlightened, transform Karma. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i]
+Partner
+
+Jeweled Protector
+rules_text: The first time a creature you control enters on the same turn Jeweled Protector entered, that creature enters with three +1/+1 counters. => When Jeweled Protector enters, until the end of turn, the next creature you cast enters with three additional +1/+1 counters.
+
+Inspiring Mentor
+rules_text: Creatures you control that enters the same turn Inspiring Mentor entered, enter with a +1/+0 counter. => When Inspiring Mentor enters, until the end of turn, creatures you control enter with an additional +1/+0 counter.
+
+Insight of Ages
+rules_text: Search your library for an instant or sorcery, reveal it, add it to your hand then shuffle.
+If you are Enlightened, you may search for an additional instant or sorcery. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i] => Search your library for an instant or sorcery card, reveal it, add it to your hand then shuffle. If you are Enlightened, repeat this process once. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i]
+
+Herald of Spring
+rules_text: When Herald of Spring attacks, other target attacking creature you control gets Lifelink until end of turn. => Whenever Herald of Spring attacks, other target attacking creature you control gets Lifelink until end of turn.
+
+Greenglade Lookout
+rules_text: When Greenglade Lookout deals damage to an opponent, you may reveal your hand, then exile the creature with the highest mana value from among them. You may cast the exiled creature from exile for as long as it remains exiled. It costs {1} less to cast. => Whenever Greenglade Lookout deals combat damage to an opponent, you may reveal your hand, if you do, exile the creature with the highest mana value from among them. You may cast the creature exiled this way from exile for as long as it remains exiled. Creatures cast from exile this way costs {1} less to cast.
+
+Greenglade Elder
+rules_text: Creatures cast from your hand enter with a +1/+1 counter. => Creatures cast from your hand enter with an additional +1/+1 counter.
+
+Fae Bladetwirler
+rules_text: Whenever a creature you don't control is recalled or a stun counter is put on it, Fae Bladetwirler gets +2/+0. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i] => Whenever a creature an opponent controls would be recalled or whenever a stun counter is put on a creature you don't control, put a +2/+0 counter on Fae Bladetwirler. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]
+
+Death Mark
+rules_text: Remove Ephemeral from target creature you control to put Ephemeral onto target creature an opponent controls. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Target creature you control with Ephemeral loses Ephemeral to give Ephemeral onto target creature an opponent controls. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+
+Dawn and Dusk
+rules_text: Create two exact copies of target creature you control, except they have Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Create two exact copies of target creature you control except they have Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+
+Flame Chompers!
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Whenever Flame Chompers! would be put to the graveyard from the hand or library, put Flame Chompers! onto the battlefield instead. => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Whenever Flame Chompers! would be discarded or milled, put Flame Chompers! onto the battlefield instead.
+
+Boomcrew Rookie
+rules_text: When Boomcrew Rookie attacks, Boomcrew Rookie deals 2 damage to target opponent. => Whenever Boomcrew Rookie attacks, Boomcrew Rookie deals 2 damage to target opponent.
+
+Chempunk Pickpocket
+rules_text: When Chempunk Pickpocket deals combat damage to an opponent, look at that opponents hand, choose an instant or sorcery from their hand, create an exiled copy of the revealed card. You may cast that copy from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. => When Chempunk Pickpocket deals combat damage to an opponent, look at that opponents hand, choose an instant or sorcery from among them, reveal it and create an exiled copy of the revealed card. You may cast that copy from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy.
+
+Eminent Benefactor
+rules_text: When Eminent Benefactor enters, reveal cards from the top of your library until you reveal three rare cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library. => When Eminent Benefactor enters, reveal cards from the top of your library until you reveal three cards with a rare rarity, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+
+Get Excited!
+cost: {1}{U}{R} => {U}{R}
+
+Intrepid Mariner
+rules_text: When Intrepid Mariner attacks, other attacking target creature you control gets shadow until the end of turn. [i](This creature can block or be blocked by only creatures with shadow.)[/i] => Whenever Intrepid Mariner attacks, other attacking target creature you control gets shadow until the end of turn. [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+
+Jae Medarda
+rules_text: Whenever Jae Medarda is targeted, draw a card. => Whenever a source targets Jae Medarda, draw a card.
+
+Professor Heimerdinger
+rules_text: Whenever you cast an instant or sorcery you may search your library for an artifact creature with mana value X where X is the mana value of that spell, put it onto the battlefield, then shuffle.
+Whenever an artifact creature you control enters, put X Innovation counters on Professor Heimerdinger where X is that creatures mana value. At the end of any phase on your turn, if Professor Heimerdinger has twelve or more Innovation counters, remove all Innovation counters from Professor Heimerdinger and transform him.
+Partner => Whenever you cast an instant or sorcery you may search your library for an artifact creature with mana value X where X is the mana value of that instant or sorcery, if you do, put that artifact creature onto the battlefield, then shuffle.
+Whenever an artifact creature you control enters, put X Innovation counters on Professor Heimerdinger where X is that creatures mana value. At the end of any phase on your turn, if Professor Heimerdinger has twelve or more Innovation counters, remove all Innovation counters from Professor Heimerdinger and transform him.
+Partner
+
+Professor Von Yipp
+rules_text: Creatures you control with mana value 1 enters with two +1/+1 counters. => Creatures you control with mana value 1 enters with two additional +1/+1 counters.
+
+Statikk Shock
+rules_text: Statikk Shock deals 1 damage to two target creatures and/or opponents.
+Draw a card. => Statikk Shock deals 1 damage to any two targets.
+Draw a card.
+
+Sumpsnipe Scavenger
+rules_text: Allegiance: target creature you control gets skulk. [i](When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then target creature you control gets skulk)[/i] => Allegiance: target creature you control gets skulk. [i](When this creature enters, reveal the card on the top of your library, if it and this creature share their colours, then target creature you control gets skulk)[/i]
+
+Teemo
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+Whenever Teemo deals damage to an opponent, that opponent creates five Puffcap tokens.
+At the end of any phase on your turn, if an opponent has 15 or more Puffcap tokens, transform Teemo.
+Partner => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+Whenever Teemo deals damage to an opponent, that opponent creates five Puffcap tokens.
+At the end of any phase on your turn, if an opponent has fifteen or more Puffcap tokens, transform Teemo.
+Partner
+
+Unstable Voltician
+rules_text: The first time you cast an instant or sorcery with mana value 6 or greater while Unstable Voltician is on the battlefield, Unstable Voltician gets +4/+0 and first strike. => The first time you cast an instant or sorcery with mana value 6 or greater while Unstable Voltician is on the battlefield, put four +1/+0 counters and a first strike counter on Unstable Voltician.
+
+Avarosan Hearthguard
+rules_text: Creatures you control enter with a +1/+1 counter. => Creatures you control enter with an additional +1/+1 counter.
+
+Poro Snax
+rules_text: Poro creatures you control enter with a +1/+1 counter. => Poro creatures you control enter with an additional +1/+1 counter.
+
+Snow Hare
+
+Catastrophe
+
+Illegal Contraption
+
+Steam Vents
+
+Izzet Boilerworks
+
+Ferrous Lake
+
+Volcanic Island
+
+
+VERSION 14 CHANGELOG
 ====================
 
 

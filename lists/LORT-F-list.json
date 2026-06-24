@@ -520,7 +520,7 @@
         "position": "177"
     },
     {
-        "card_name": "Judgment",
+        "card_name": "Judgement",
         "number": 16,
         "shape": "normal",
         "set": "LORT-F",
@@ -3438,7 +3438,7 @@
         "shape": "normal",
         "set": "LORT-F",
         "rotated": false,
-        "position": "352"
+        "position": "351"
     },
     {
         "card_name": "e"
@@ -3458,7 +3458,7 @@
         "shape": "normal",
         "set": "LORT-F",
         "rotated": false,
-        "position": "350"
+        "position": "349"
     },
     {
         "card_name": "e"
@@ -3478,7 +3478,7 @@
         "shape": "normal",
         "set": "LORT-F",
         "rotated": false,
-        "position": "353"
+        "position": "352"
     },
     {
         "card_name": "e"
@@ -3498,7 +3498,7 @@
         "shape": "normal",
         "set": "LORT-F",
         "rotated": false,
-        "position": "351"
+        "position": "350"
     },
     {
         "card_name": "e"
@@ -3583,7 +3583,7 @@
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
-        "position": "347"
+        "position": "346"
     },
     {
         "card_name": "Navori Brigand",
@@ -3674,15 +3674,15 @@
         "position": "345"
     },
     {
-        "card_name": "Warmother's Call",
+        "card_name": "Catastrophe",
         "number": 13,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
-        "position": "346"
+        "position": "347"
     },
     {
-        "card_name": "Catastrophe",
+        "card_name": "Illegal Contraption",
         "number": 14,
         "shape": "token",
         "set": "LORT-F",
@@ -3690,32 +3690,12 @@
         "position": "348"
     },
     {
-        "card_name": "Illegal Contraption",
+        "card_name": "Puffcap",
         "number": 15,
         "shape": "token",
         "set": "LORT-F",
         "rotated": false,
-        "position": "349"
-    },
-    {
-        "card_name": "Puffcap",
-        "number": 16,
-        "shape": "token",
-        "set": "LORT-F",
-        "rotated": false,
         "position": "341"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
