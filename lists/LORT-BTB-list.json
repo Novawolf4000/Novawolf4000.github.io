@@ -257,11 +257,11 @@
     },
     {
         "card_name": "Piercing Darkness",
-        "number": 31,
+        "number": 30,
         "shape": "normal",
         "set": "LORT-BTB",
         "rotated": false,
-        "position": "34"
+        "position": "25"
     },
     {
         "card_name": "Salt And Stitches",
@@ -296,12 +296,12 @@
         "position": "80"
     },
     {
-        "card_name": "Solari Sentinel",
-        "number": 32,
+        "card_name": "Piercing Darkness",
+        "number": 31,
         "shape": "normal",
         "set": "LORT-BTB",
         "rotated": false,
-        "position": "30"
+        "position": "34"
     },
     {
         "card_name": "Fallen Rider",
@@ -336,7 +336,12 @@
         "position": "81"
     },
     {
-        "card_name": "e"
+        "card_name": "Solari Sentinel",
+        "number": 32,
+        "shape": "normal",
+        "set": "LORT-BTB",
+        "rotated": false,
+        "position": "30"
     },
     {
         "card_name": "Grave Physician",
@@ -2810,12 +2815,12 @@
         "position": "162"
     },
     {
-        "card_name": "Shadowtech Walker",
-        "number": 143,
+        "card_name": "Ninjas Transposition",
+        "number": 124,
         "shape": "normal",
         "set": "LORT-BTB",
         "rotated": false,
-        "position": "247"
+        "position": "239"
     },
     {
         "card_name": "e"
@@ -2835,12 +2840,12 @@
         "position": "187"
     },
     {
-        "card_name": "Geode Mechaforcer",
-        "number": 193,
+        "card_name": "Shadowtech Walker",
+        "number": 143,
         "shape": "normal",
         "set": "LORT-BTB",
         "rotated": false,
-        "position": "249"
+        "position": "247"
     },
     {
         "card_name": "e"
@@ -2858,6 +2863,26 @@
         "set": "LORT-BTB",
         "rotated": false,
         "position": "160"
+    },
+    {
+        "card_name": "Geode Mechaforcer",
+        "number": 193,
+        "shape": "normal",
+        "set": "LORT-BTB",
+        "rotated": false,
+        "position": "249"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Grandfather Fae",

@@ -2941,12 +2941,12 @@
         "position": "254"
     },
     {
-        "card_name": "The Fix-Em 5000",
-        "number": 293,
+        "card_name": "Parts Made Whole",
+        "number": 218,
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "261"
+        "position": "60"
     },
     {
         "card_name": "e"
@@ -2964,6 +2964,26 @@
         "set": "LORT-WW",
         "rotated": false,
         "position": "260"
+    },
+    {
+        "card_name": "The Fix-Em 5000",
+        "number": 293,
+        "shape": "normal",
+        "set": "LORT-WW",
+        "rotated": false,
+        "position": "261"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Piltovan Castaway",
