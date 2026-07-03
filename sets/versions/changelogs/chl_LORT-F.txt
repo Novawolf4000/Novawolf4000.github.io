@@ -1,4 +1,678 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Vanguard Bannerman
+rules_text: Allegiance: put a +1/+1 counter on each other creature you control. [i](When this creature enters, reveal the card on the top of your library, if it and this creature share their colours, then put a +1/+1 counter on each other creature you control)[/i] => [i][i]Allegiance[/i][/i] — When Vanguard Bannerman enters, reveal the top card of your library. If the revealed card is at least each colour this creature is, put a +1/+1 counter on each other creature you control.
+
+Swiftwing Lancer
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When Swiftwing Lancer is destroyed, reveal cards from the top of your library until you reveal three knight creatures, randomly choose one, add it to your hand, shuffle all other revealed cards into your library. => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+When Swiftwing Lancer is destroyed, reveal cards from the top of your library until you reveal three knight creatures, randomly choose one, add it to your hand, shuffle all other revealed cards into your library.
+
+Silverwing Vanguard
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Propagate 1 [i](When this creature enters, if it is not a token, create a token copy of it.)[/i] => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+Propagate 1 [i](When this creature enters, if it is not a token, create a token copy of it.)[/i]
+
+Mageseeker Persuader
+rules_text: The first time you cast an instant or sorcery with mana value 6 or greater, Mageseeker Persuader gets Challenger and a +1/+1 counter. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => The first time you cast an instant or sorcery with mana value 6 or greater, put a +1/+1 counter and a challenger counter on Mageseeker Persuader. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Laurent Protege
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Laurent Duelist
+rules_text: When Laurent Duelist enters, until the end of turn, the next creature you cast enters with Challenger. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => When Laurent Duelist enters, until the end of turn, the next creature you cast enters with a challenger counter. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Laurent Chevalier
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When Laurent Chevalier deals combat damage to an opponent, search your library for a creature with Challenger, reveal it, put it into your hand, then shuffle. => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+When Laurent Chevalier deals combat damage to an opponent, search your library for a creature with challenger, reveal it, put it into your hand, then shuffle.
+
+Fleetfeather Tracker
+rules_text: The first time a creature you control enters the same turn Fleetfeather Tracker entered, Fleetfeather Tracker gets Challenger until the end of your next turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => The first time a creature you control enters the same turn Fleetfeather Tracker entered, Fleetfeather Tracker gets challenger until the end of your next turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Fiora
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Whenever a creature dealt damage by Fiora this turn dies, put a Vital counter on Fiora. Vital counters cannot be proliferated or copied.
+At the beginning of your post-combat main phase, if Fiora has two or more Vital counters remove all Vital counters from Fiora, then transform her.
+Partner => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+Whenever a creature dealt damage by Fiora this turn dies, put a Vital counter on Fiora. Vital counters cannot be proliferated or copied.
+At the beginning of your post-combat main phase, if Fiora has two or more Vital counters remove all Vital counters from Fiora, then transform her.
+Partner
+
+En Garde
+rules_text: Each creature you control has Challenger until end of turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Each creature you control has challenger until end of turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Cithria the Bold
+rules_text: Whenever Cithria the Bold attacks, each other attacking creature you control gets +1/+1 and Fearsome until the start of your next turn. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i] => Whenever Cithria the Bold attacks, each other attacking creature you control gets +1/+1 and fearsome until the start of your next turn. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+
+Wraithcaller
+rules_text: Allegiance: create a Mistwraith token. [i](When this creature enters, reveal the card on the top of your library, if it and this creature share their colours, then create a Mistwraith token)[/i] => [i]Allegiance[/i] — When Wraithcaller enters, reveal the top card of your library. If the revealed card is at least each colour this creature is, create a Mistwraith token.
+
+Thresh, The Torturer
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Whenever a creature dies, put a Soul counter on Thresh. Soul counters cannot be proliferated or copied. At the end of any phase on your turn, if Thresh has six or more Soul counters, remove all Soul counters from Thresh, then transform him.
+Partner => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+Whenever a creature dies, put a Soul counter on Thresh. Soul counters cannot be proliferated or copied. At the end of any phase on your turn, if Thresh has six or more Soul counters, remove all Soul counters from Thresh, then transform him.
+Partner
+
+The Harrowing
+rules_text: Put up to six creatures with the highest power among cards in your graveyard onto the battlefield. Then put an ephemeral counter on each creature that enter this way. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Put up to six creatures with the highest power among cards in your graveyard onto the battlefield. Then put an ephemeral counter on each creature that enter this way. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Stirred Spirits
+rules_text: Whenever Stirred Spirits attacks, other target attacking creature you control gets +2/+0 and Ephemeral. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Whenever Stirred Spirits attacks, other target attacking creature you control gets +2/+0 and ephemeral. [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Splinter Soul
+rules_text: Create a copy of target creature you control. The copy has base power and toughness 1/1 and has Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Create a copy of target creature you control. The copy has base power and toughness 1/1 and has ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Spectral Matron
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Spectral Matron enters, choose a creature from your hand and reveal it, create a token copy of the revealed creature. Then put an ephemeral counter on the creature that enters this way. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Spectral Matron enters, choose a creature from your hand and reveal it, create a token copy of the revealed creature. Then put an ephemeral counter on the creature that enters this way. [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Soul Shepherd
+rules_text: Ephemeral creatures you control enter with an additional +1/+1 counter. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Ephemeral creatures you control enter with an additional +1/+1 counter. [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Shark Chariot
+rules_text: Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+Shark Chariot can't block.
+If Shark Chariot is in the graveyard, whenever a creature you control with Ephemeral attacks, return Shark Chariot from the graveyard tapped and attacking. => Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+Shark Chariot can't block.
+If Shark Chariot is in the graveyard, whenever a creature you control with ephemeral attacks, return Shark Chariot from the graveyard tapped and attacking.
+
+Oblivious Islander
+rules_text: When Oblivious Islander enters, the next creature you cast this turn costs {1} less to cast and enters with an Ephemeral counter. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => When Oblivious Islander enters, the next creature you cast this turn costs {1} less to cast and enters with an ephemeral counter. [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Mark of the Isles
+rules_text: Target creature you control gets +2/+2 and Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Target creature you control gets +2/+2 and ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Iron Harbinger
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Iron Harbinger attacks, each attacking Ephemeral creature you control gets +1/+0. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Iron Harbinger attacks, each attacking Ephemeral creature you control gets +1/+0. [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Hecarim
+
+Haunted Relic
+
+Hapless Aristocrat
+
+Grasp of the Undying
+
+Glimpse Beyond
+
+Fresh Offerings
+
+Frenzied Skitterer
+
+Ethereal Remitter
+
+Elise
+
+Darkwater Scourge
+rules_text: Lifelink, Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Lifelink, Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Cursed Keeper
+
+Crawling Sensation
+
+Commander Ledros
+
+Chronicler of Ruin
+
+Brood Awakening
+
+Black Spear
+
+Atrocity
+
+Arachnoid Horror
+
+Ancient Crocolith
+
+Absorb Soul
+
+Spiderling
+
+Vilemaw
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Other creatures with Fearsome you control have +1/+0. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Other creatures with fearsome you control have +1/+0.
+
+Unleashed Spirit
+rules_text: Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Spectral Rider
+rules_text: Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Ravenous Butcher
+
+Fading Memories
+rules_text: This spell is black.
+Create an exiled copy of target creature. You may cast that copy from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. Put an ephemeral counter on the creature that enters this way. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => This spell is black.
+Create an exiled copy of target creature. You may cast that copy from exile for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. Put an ephemeral counter on the creature that enters this way. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Affectionate Poro
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Arachnoid Host
+
+Arachnoid Sentry
+
+Arena Battlecaster
+
+Arena Bookie
+
+Basilisk Rider
+rules_text: Allegiance: put a +1/+1 counter and a trample counter on Basilisk Rider. [i](When this creature enters, reveal the card on the top of your library, if it and this creature share their colours, then put a +1/+1 counter and a trample counter on Basilisk Rider)[/i] => [i][i]Allegiance[/i][/i] — When Basilisk Rider enters, reveal the top card of your library. If the revealed card is at least each colour this creature is, put a +1/+1 counter and trample counter on this creature.
+
+Battering Ram
+
+Blood for Blood
+
+Brothers' Bond
+
+Captain Farron
+
+Crimson Aristocrat
+
+Crimson Awakener
+
+Crimson Curator
+
+Crimson Disciple
+
+Crowd Favorite
+
+Culling Strike
+
+Darius
+
+Death Lotus
+
+Decimate
+
+Decisive Maneuver
+
+Draven
+
+Draven's Biggest Fan
+
+Elixir of Wrath
+
+Guile
+
+House Spider
+
+Intimidating Roar
+
+Katarina
+
+Kato The Arm
+
+Legion Drummer
+
+Legion General
+
+Legion Grenadier
+
+Legion Marauder
+
+Legion Rearguard
+
+Legion Saboteur
+
+Legion Veteran
+
+Might
+
+Minotaur Reckoner
+
+Noxian Guillotine
+
+Precious Pet
+
+Reckless Trifarian
+
+Reckoning
+
+Savage Reckoner
+rules_text: Trample, Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Trample, Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Shiraza the Blade
+
+Shunpo
+
+Transfusion
+
+Trifarian Assessor
+
+Trifarian Gloryseeker
+rules_text: 
+Trifarian Gloryseeker can't block.
+Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => 
+Trifarian Gloryseeker can't block.
+Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Trifarian Hopeful
+
+Trifarian Shieldbreaker
+
+Vision
+
+Vladimir
+
+Whirling Death
+
+Blade's Edge
+
+Darkness
+
+Spinning Axe
+
+Alpha Wildclaw
+
+Ancient Yeti
+
+Anivia
+
+Ashe
+
+Avalanche
+
+Avarosan Hearthguard
+
+Avarosan Marksman
+
+Avarosan Outriders
+
+Avarosan Sentry
+
+Avarosan Trapper
+
+Babbling Bjerg
+
+Battle Fury
+
+Bloodsworn Pledge
+
+Braum
+rules_text: Challenger, Juggernaut [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature. After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i]
+The first time Braum is dealt damage and is not destroyed, create a Mighty Poro token.
+Whenever damage is dealt to Braum, put that many Heart counters on him. At the end of any phase on your turn, if Braum has ten or more Heart counters, remove all Heart counters from Braum, then transform him.
+Partner => Challenger, Juggernaut [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature. After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i]
+The first time Braum is dealt damage and is not destroyed, create a Mighty Poro token.
+Whenever damage is dealt to Braum, put that many Heart counters on him. At the end of any phase on your turn, if Braum has ten or more Heart counters, remove all Heart counters from Braum, then transform him.
+Partner
+
+Brittle Steel
+
+Bull Elnuk
+
+Elixir of Iron
+
+Entreat
+
+Feral Mystic
+
+Flash Freeze
+
+Harsh Winds
+
+Heart of the Fluft
+
+Iceborn Legacy
+
+Icevale Archer
+
+Icy Yeti
+
+Kindly Tavernkeeper
+
+Lonely Poro
+
+Mighty Poro
+
+Omen Hawk
+
+Pack Mentality
+
+Poro Herder
+
+Poro Snax
+
+Rimefang Wolf
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Whenever Rimefang Wolf deals damage to a creature with power 0, destroy that creature at the end of the combat phase. => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+Whenever Rimefang Wolf deals damage to a creature with power 0, destroy that creature at the end of the combat phase.
+
+Rimetusk Shaman
+
+Scarmaiden Reaver
+
+Scarmother Vrynna
+
+Scarthane Steffen
+
+Shatter
+
+She Who Wanders
+
+Stalking Wolf
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When Stalking Wolf enters, target opponent creates a Snow Hare token. => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+When Stalking Wolf enters, target opponent creates a Snow Hare token.
+
+Starlit Seer
+
+Take Heart
+
+Tall Tales
+
+Tarkaz the Tribeless
+
+They Who Endure
+
+Troop of Elnuks
+
+Tryndamere
+
+Unscarred Reaver
+
+Warmother's Call
+
+Winter's Breath
+
+Yeti Yearling
+
+Catalyst of Aeons
+
+Wyrding Stones
+
+Zephyr Sage
+
+Zed
+
+Yusari
+rules_text: Shadow, Challenger [i](This creature can block or be blocked by only creatures with shadow. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Shadow, Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Yone
+
+Yasuo, The Wanderer
+
+Windfarer Hatchling
+
+Will of Ionia
+
+Twin Disciplines
+
+The Empyrean
+
+Steel Tempest
+
+Stand United
+
+Spirit's Refuge
+
+Sparring Student
+
+Sown Seeds
+
+Solitary Monk
+
+Silent Shadowseer
+rules_text: Shadow, Ephemeral [i](This creature can block or be blocked by only creatures with shadow. This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+If Silent Shadowseer deals damage to an opponent, Silent Shadowseer is recalled to its owners hand. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i] => Shadow, Ephemeral [i](This creature can block or be blocked by only creatures with shadow. This creature has haste. At the end of turn, sacrifice it.)[/i]
+If Silent Shadowseer deals combat damage to an opponent, Silent Shadowseer is recalled to its owners hand. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]
+
+Shadowshift
+
+Shadow Flare
+rules_text: You may only cast Shadow Flare during the combat phase. You may cast Shadow Flare as though is had flash.
+Each attacking and blocking creature gets Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => You may only cast Shadow Flare during the combat phase. You may cast Shadow Flare as though is had flash.
+Each attacking and blocking creature gets ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Shadow Fiend
+
+Shadow Assassin
+
+Scaled Snapper
+
+Rush
+
+Rivershaper
+
+Ritual of Renewal
+
+Ren Shadowblade
+
+Recall
+
+Nimble Poro
+
+Navori Highwayman
+
+Navori Conspirator
+
+Navori Bladescout
+
+Minah Swiftfoot
+
+Master Shen
+
+Living Shadow
+rules_text: Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Kinkou Wayfinder
+rules_text: Allegiance: search your library for a creature with mana value 1, put it onto the battlefield, then shuffle. [i](When this creature enters, reveal the card on the top of your library, if it and this creature share their colours, then search your library for a creature with mana value 1, put it onto the battlefield, then shuffle)[/i] => [i][i]Allegiance[/i][/i] — When Kinkou Wayfinder enters, reveal the top card of your library. If the revealed card is at least each colour this creature is, search your library for a creature with mana value 1, put it onto the battlefield, then shuffle.
+
+Kinkou Lifeblade
+
+Ki Guardian
+
+Keeper of Masks
+
+Karma
+
+Jeweled Protector
+
+Inspiring Mentor
+
+Insight of Ages
+
+Herald of Spring
+
+Health Potion
+
+Greenglade Lookout
+
+Greenglade Elder
+
+Greenglade Duo
+
+Greenglade Caretaker
+
+Ghost
+
+Fae Bladetwirler
+
+Emerald Awakener
+
+Deny
+
+Death Mark
+rules_text: Target creature you control with Ephemeral loses Ephemeral to give Ephemeral onto target creature an opponent controls. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Target creature you control with ephemeral loses ephemeral to put an ephemeral counter onto target creature an opponent controls. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Dawn and Dusk
+rules_text: Create two exact copies of target creature you control except they have Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Create two exact copies of target creature you control except they have ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Cloud Drinker
+
+Navori Brigand
+
+Assembly Bot
+
+Flame Chompers!
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Whenever Flame Chompers! would be discarded or milled, put Flame Chompers! onto the battlefield instead. => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+Whenever Flame Chompers! would be discarded or milled, put Flame Chompers! onto the battlefield instead.
+
+Golden Crushbot
+
+Parade Electrorig
+
+Plaza Guardian
+
+Sump Dredger
+
+Academy Prodigy
+
+Amateur Aeronaut
+
+Astute Academic
+
+Augmented Experimenter
+
+Back Alley Barkeep
+
+Boomcrew Rookie
+
+Chempunk Pickpocket
+
+Chempunk Shredder
+
+Chump Whump
+
+Clump of Whumps
+
+Corina Veraza
+
+Counterfeit Copies
+
+Daring Poro
+
+Eager Apprentice
+
+Eminent Benefactor
+
+Ezreal
+
+Flash of Brilliance
+
+Funsmith
+
+Get Excited!
+
+Hextech Transmogulator
+
+Intrepid Mariner
+
+Jae Medarda
+
+Jinx
+
+Jury-Rig
+
+Midenstokke Henchmen
+
+Mushroom Cloud
+
+Mystic Shot
+
+Professor Heimerdinger
+
+Professor Von Yipp
+
+Progress Day!
+
+Puffcap Peddler
+
+Purrsuit of Perfection
+
+Rising Spell Force
+
+Rummage
+
+Scrapdash Assembly
+
+Shady Character
+
+Statikk Shock
+
+Sumpsnipe Scavenger
+rules_text: Allegiance: target creature you control gets skulk. [i](When this creature enters, reveal the card on the top of your library, if it and this creature share their colours, then target creature you control gets skulk)[/i] => [i][i]Allegiance[/i][/i] — When Sumpsnipe Scavenger enters, reveal the top card of your library. If the revealed card is at least each colour this creature is, put a skulk counter on target creature you control. [i](This creature can't be blocked by creatures with greater power.)[/i]
+
+Sumpworks Map
+
+Teemo
+
+Thermogenic Beam
+
+Trueshot Barrage
+
+Unlicensed Innovation
+
+Unstable Voltician
+
+Used Cask Salesman
+
+Zaunite Urchin
+
+Caustic Cask
+rules_text: Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+When Caustic Cask dies, Caustic Cask deals 1 damage to each player. => Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+When Caustic Cask dies, Caustic Cask deals 1 damage to each player.
+
+Mk0: Windup Shredder
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Mk1: Wrenchbot
+
+Mk2: Evolution Turret
+
+Mk3: Apex Turret
+
+Mk4: Stormlobber
+
+Mk5: Rocket Blaster
+
+Mk6: Floor-B-Gone
+
+Mk7: Armored Stomper
+
+T-Hex
+
+Puffcap
+
+Hecarim, The Shadow of War
+
+Mistwraith
+
+Avarosan Hearthguard
+
+Poro Snax
+
+Snow Hare
+
+Catastrophe
+
+Illegal Contraption
+
+Steam Vents
+
+Izzet Boilerworks
+
+Ferrous Lake
+
+Volcanic Island
+
+Kalista
+type: Legendary Creature — Wraith => Legendary Creature — Wraith Soldier
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Judgement added.

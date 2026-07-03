@@ -1,4 +1,666 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Pesky Specter
+rules_text: Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+When Pesky Specter is destroyed, random target opponent creates two Pesky Specter tokens.
+Whenever Pesky Specter is exiled, each player exiles each creature they control named Pesky Specter. => Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+When Pesky Specter is destroyed, random target opponent creates two Pesky Specter tokens.
+Whenever Pesky Specter is exiled, each player exiles each creature they control named Pesky Specter.
+
+Blade of the Exile
+rules_text: As an additional cost to cast this spell, remove three experience counters from yourself.
+Target creature you control gets +2/+0, Trample, and First strike. => As an additional cost to cast this spell, remove three experience counters from yourself.
+Put a +2/+0 counter, a trample counter, and a first strike counter on target creature you control.
+
+Heavy Blade Fragment
+rules_text: Focus [i](This instant cannot be cast during the combat phase or in response to another spell or ability.)[/i]
+You get an experience counter.
+Target creature you control gets Trample until the end of your turn. => Focus [i](This instant cannot be cast during the combat phase or in response to another spell or ability.)[/i]
+You get an experience counter.
+Target creature you control gets trample until the end of your turn.
+
+Keen Blade Fragment
+rules_text: Focus [i](This instant cannot be cast during the combat phase or in response to another spell or ability.)[/i]
+You get an experience counter.
+Target creature you control gets First strike until the end of your turn. => Focus [i](This instant cannot be cast during the combat phase or in response to another spell or ability.)[/i]
+You get an experience counter.
+Target creature you control gets first strike until the end of your turn.
+
+Cosmic Rays
+rules_text: Exile all creatures opponents control with power 3 or less. => Exile each creature opponents control with power 3 or less.
+
+Gem
+rules_text: {1}: Sacrifice Gem, remove 1 damage from target creature, it gets a +1/+0 counter. => {1}: Sacrifice Gem, remove 1 damage from target creature, then put a +1/+0 counter on it.
+
+Gravitum
+rules_text: While Gravitum is equipped onto a creature, it gets:
+{2}, {T}: Put a stun counter onto target creature, if the target is a nonlegendry creature, then put an stun counter on that creature at the start of your next upkeep, then shuffle Gravitum into your library. Choose one —
+• Search your library and/or graveyard for a card named Infernum, reveal it, and put it onto the battlefield. If you search your library this way, shuffle.
+• Search your library and/or graveyard for a card named Crescendum, reveal it, and put it onto the battlefield. If you search your library this way, shuffle.
+Equip legendary creature {0}
+Equip {3} => While Gravitum is equipped onto a creature, it gets:
+{2}, {T}: Put a stun counter onto target creature, if the target is a nonlegendry creature, then put an stun counter on that creature at the beginning of your next upkeep, then shuffle Gravitum into your library. Choose one —
+• Search your library and/or graveyard for a card named Infernum, reveal it, and put it onto the battlefield. If you search your library this way, shuffle.
+• Search your library and/or graveyard for a card named Crescendum, reveal it, and put it onto the battlefield. If you search your library this way, shuffle.
+Equip legendary creature {0}
+Equip {3}
+
+Moonglow
+rules_text: Target creature you control gets +0/+2 and a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i] => Put a +0/+2 counter and a spellshield counter on target creature you control. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+
+Written in Stars
+rules_text: Search your library for a legendary creature, exile it, then shuffle. You may cast the creature exiled this way from exile for as long as it remains exiled and it costs {1} less to cast. When the exiled creature enters, put two +1/+1 counters on it. => Search your library for a legendary creature, exile it, then shuffle. You may cast the creature exiled this way from exile for as long as it remains exiled, it costs {1} less to cast. When the creature exiled this way enters, put two +1/+1 counters on it.
+
+The Destroyer
+rules_text: Trample
+The Destroyer enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+When The Destroyer enters, it gets a +1/+0 counter for each Celestial creature you control, and for each Celestial card in your graveyard. => Trample
+The Destroyer enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+When The Destroyer enters, put a +1/+0 counter on it for each Celestial creature you control, and each Celestial card in your graveyard.
+
+The Great Beyond
+rules_text: Flying, Fury [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i]
+The Great Beyond enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+When The Great Beyond enters, it gets a +1/+0 counter for each Celestial creature you control, and for each Celestial card in your graveyard. => Flying, Fury [i](Whenever a creature dealt damage by The Great Beyond this turn dies, put a +1/+1 counter on The Great Beyond.)[/i]
+The Great Beyond enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+When The Great Beyond enters, put a +1/+0 counter on it for each Celestial creature you control, and for each Celestial card in your graveyard.
+
+The Immortal Fire
+rules_text: Flying
+When The Immortal Fire enters, it gets a +1/+0 counter for each Celestial creature you control, and for each Celestial card in your graveyard.
+Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i] => Flying
+When The Immortal Fire enters, put a +1/+0 counter on it for each Celestial creature you control, and for each Celestial card in your graveyard.
+Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+
+The Scourge
+rules_text: Trample, Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When The Scourge enters, it gets a +1/+0 counter for each Celestial creature you control, and for each Celestial card in your graveyard.
+Whenever The Scourge attacks, all other attacking creatures you control get +2/+2 and Trample until the end of turn. => Trample, Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+When The Scourge enters, put a +1/+0 counter on it for each Celestial creature you control, and for each Celestial card in your graveyard.
+Whenever The Scourge attacks, each other attacking creature you control gets +2/+2 and trample until the end of turn.
+
+The Serpent
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+The Warrior
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Confront
+rules_text: Target creature you control gets Challenger. If the target creature is a dragon, draw a card. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Put a challenger counter on target creature you control. If the target creature is a dragon, draw a card. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Dragonguard Lieutenant
+rules_text: When Dragonguard Lieutenant enters, you may behold a Dragon, if you do Dragonguard Lieutenant gets Challenger. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => When Dragonguard Lieutenant enters, you may behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. [i](To behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant., choose a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. you control or reveal a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. card from your hand.)[/i]
+
+Dragonguard Lookout
+rules_text: When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap all creatures you control. After this phase, there is an additional combat phase. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i] => When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap each creature you control. After this phase, there is an additional combat phase. [i](To behold a Dragon, if you do, untap each creature you control., choose a Dragon, if you do, untap each creature you control. you control or reveal a Dragon, if you do, untap each creature you control. card from your hand.)[/i]
+
+Kadregrin the Infernal
+rules_text: Fury [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i]
+When Kadregrin the Infernal enters, put four +1/+1 counters onto each other dragon creature you control. => Fury [i](Whenever a creature dealt damage by Kadregrin this turn dies, put a +1/+1 counter on Kadregrin.)[/i]
+When Kadregrin enters, put four +1/+1 counters on each other dragon creature you control.
+
+Molten Breath
+rules_text: Target creature you control with Fury deals damage equal to its power to two creatures with the lowest power among creatures target opponent controls. => Choose a creature you control with fury. That creature deals damage equal to its power to the two creatures with the lowest power among creatures target opponent controls.
+
+Screeching Dragon
+rules_text: Challenger, Fury [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature. When this creature destroys another creature, put a +1/+1 counter on it.)[/i] => Challenger, Fury [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature. Whenever a creature dealt damage by Screeching Dragon this turn dies, put a +1/+1 counter on Screeching Dragon.)[/i]
+
+Shyvana, The Half-Dragon
+rules_text: Fury [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i]
+Whenever Shyvana attacks, Shyvana gets +1/+1 until the start of your next upkeep.
+Whenever a dragon creature you control deals combat damage, put that many Dragonguard counters onto Shyvana. At the end of any phase on your turn, if Shyvana has sixteen or more Dragonguard counters, remove all Dragonguard counters from Shyvana and transform her. 
+Partner => Fury [i](Whenever a creature dealt damage by Shyvana this turn dies, put a +1/+1 counter on Shyvana.)[/i]
+Whenever Shyvana attacks, Shyvana gets +1/+1 until the beginning of your next upkeep.
+Whenever a dragon creature you control deals combat damage, put that many Dragonguard counters onto Shyvana. At the end of any phase on your turn, if Shyvana has sixteen or more Dragonguard counters, remove all Dragonguard counters from Shyvana and transform her.
+Partner
+
+Stalking Broodmother
+rules_text: Fury, Scout [i](When this creature destroys another creature, put a +1/+1 counter on it. Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i] => Fury, Scout [i](Whenever a creature dealt damage by Stalking Broodmother this turn dies, put a +1/+1 counter on Stalking Broodmother. Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i]
+
+Strafing Strike
+rules_text: Target creature you control fights target creature an opponent controls. If the target creature you control is a dragon, remove 5 damage if it survives the fight. [i](Each deals damage equal to its power to the other.)[/i] => Target creature you control fights target creature an opponent controls. If the creature you control is a dragon and it survives the fight, remove up to 5 damage from it. [i](Each deals damage equal to its power to the other.)[/i]
+
+The Grand Plaza
+rules_text: Whenever a creature you control enters, that creature gets +1/+1 and challenger until the end of your next turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Whenever a creature you control enters, that creature gets +1/+1 and challenger until the end of your next turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Fae Guide
+rules_text: When Fae Guide enters, other creature you control gets Shadow. [i](This creature can block or be blocked by only creatures with shadow.)[/i] => When Fae Guide enters, put a shadow counter on other target creature you control. [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+
+Flower Child
+rules_text: Whenever another creature you control targets Flower Child, Flower Child gets +2/+0. => Whenever another creature you control targets Flower Child, put a +2/+0 counter on Flower Child.
+
+Flurry of Fists
+rules_text: Target creature you control gets a +1/+0 counter and first strike. If the target creature has first strike, it gets a +1/+0 counter and double strike instead. => Put a +1/+0 counter and a first strike counter on target creature you control. If the target creature has first strike, put a +1/+0 counter and a double strike counter on it instead.
+
+Go Get It
+rules_text: Exile target creature you control to create an exact token copy of it, except it has Ephemeral.You may cast the creature exiled this way from exile for as long as it remains exiled. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Exile target creature you control to create an exact token copy of it except it has Ephemeral.You may cast the creature exiled this way from exile for as long as it remains exiled. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Lulu
+rules_text: Whenever Lulu attacks, other attacking target creature you control has base power and toughness 4/4 until the start of your next upkeep.
+Whenever a creature you control targets another creature you control, put a Whimsy counter on Lulu. At the end of any phase on your turn, if Lulu has three or more Whimsy counters, remove all Whimsy counters from Lulu and transform her.
+Partner => Whenever Lulu attacks, other attacking target creature you control has base power and toughness 4/4 until the beginning of your next upkeep.
+Whenever a creature you control targets another creature you control, put a Whimsy counter on Lulu. At the end of any phase on your turn, if Lulu has three or more Whimsy counters, remove all Whimsy counters from Lulu and transform her.
+Partner
+
+Monastery of Hirana
+rules_text: At the start of your upkeep, put a Sanctuary counter on Monastery of Hirana if it does not have one.
+{U}: Remove a Sanctuary counter from Monastery of Hirana to recall a creature you control. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i] => At the beginning of your upkeep, put a Sanctuary counter on Monastery of Hirana if it does not have one.
+{U}: Remove a Sanctuary counter from Monastery of Hirana to recall a creature you control. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]
+
+Mumblesprite
+rules_text: Shadow, Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+When Mumblesprite enters, its power and toughness equals the power and toughness of target other creature you control. => Shadow, Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+When Mumblesprite enters, its power and toughness equals the power and toughness of target other creature you control.
+
+Singular Will
+rules_text: Choose a creature, then Recall all other creatures and landmarks. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i] => Choose a creature, then recall each other creature and landmark. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]
+
+Whimsy!
+rules_text: Target creature becomes a 1/1 blue Squirrel with no abilities or keywords until the end of your turn. => Target creature becomes a 1/1 blue Squirrel with no abilities until the end of your turn.
+
+Young Witch
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When Young Witch attacks, other attacking target creature you control gets +1/+0 and First strike until the end of turn. => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When Young Witch attacks, other attacking target creature you control gets +1/+0 and first strike until the end of turn.
+
+Doombeast
+rules_text: Nightfall: Doombeast deals 2 damage to target opponent, you gain 2 life. [i](If this creature is not the first spell you have cast this turn, when Doombeast enters, Doombeast deals 2 damage to target opponent, you gain 2 life. .)[/i] => Nightfall — When Doombeast enters, if it wasn't the first spell you cast this turn, put a +1/+0 counter on it for each Nightfall you triggered this turn.
+
+Duskrider
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Nightfall: Duskrider gets a +1/+0 counter for each time you have activated Nightfall this turn. [i](If this creature is not the first spell you have cast this turn, when Duskrider enters, Duskrider gets a +1/+0 counter for each time you have activated Nightfall this turn.)[/i] => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+[i]Nightfall[/i] — When Duskrider enters, if it wasn't the first spell you cast this turn, put a number of +1/+0 counters on Duskrider for each time you have triggered nightfall this turn.
+
+Encroaching Shadows
+rules_text: You get an emblem with “Creatures you cast get +2/+2 and Ephemeral.” [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => You get an emblem with “Creatures you cast get +2/+2 and Ephemeral.” [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Evershade Stalker
+rules_text: Ephemeral, Fearsome [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it. Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Evershade Stalker can't block.
+Nightfall: create an exiled copy of Evershade Stalker. You may cast this copy from exile for as long as they remain exiled. [i](If this creature is not the first spell you have cast this turn, when Evershade Stalker enters, create an exiled copy of Evershade Stalker. You may cast this copy from exile for as long as they remain exiled.)[/i] => Ephemeral, Fearsome [i](This creature has haste. At the end of turn, sacrifice it. Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Evershade Stalker can't block.
+[i]Nightfall[/i] — When Evershade Stalker enters, if it wasn't the first spell you cast this turn, create an exiled copy of Evershade Stalker. You may cast this copy from exile for as long as it remains exiled.
+
+Gluttony
+rules_text: Sacrifice the nontoken creature with the highest mana value among creatures you control, then reveal cards from the top of your library until you reveal a creature with a mana value that costs 1 more than the sacrificed creature, put it onto the battlefield, it gets haste, then shuffle all other revealed cards into your library. => Sacrifice the nontoken creature with the highest mana value among creatures you control, then reveal cards from the top of your library until you reveal a creature with a mana value that costs 1 more than the sacrificed creature, put it onto the battlefield, until the end of turn it has haste, then shuffle all other revealed cards into your library.
+
+Go Hard
+rules_text: Drain 1 from target creature an opponent controls. You get an experience counter. [i](Go Hard deals 1 damage. You gain that much life.)[/i]
+Create two exiled copies of Go Hard. You may cast the copies exiled this way from exile for as long as they remain exiled. => Go Hard deals 1 damage to target creature an opponent controls. You get 1 life and an experience counter.
+Create two exiled copies of Go Hard. You may cast copies exiled this way from exile for as long as they remain exiled.
+
+Nocturne
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Nightfall: target creature an opponent controls gets Vulnerable, then all creatures your opponents control get -1/-0 until the start of your next upkeep. [i](If this creature is not the first spell you have cast this turn, when Nocturne enters, target creature an opponent controls gets Vulnerable, then all creatures your opponents control get -1/-0 until the start of your next upkeep. .)[/i]
+Whenever a creature you control with Fearsome or Nightfall attacks, put a Shade counter onto Nocturne. At the end of any phase on your turn, if Nocturne has five or more Shade counters, remove all Shade counters from Nocturne, then transform him.
+Partner => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+[i]Nightfall[/i] — When Nocturne enters, if it wasn't the first spell you cast this turn, put a vulnerable counter on target creature an opponent controls, then all creatures your opponents control get -1/-0 until the beginning of your next upkeep. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+Whenever a creature you control with fearsome or nightfall attacks, put a Shade counter onto Nocturne. At the end of any phase on your turn, if Nocturne has five or more Shade counters, remove all Shade counters from Nocturne, then transform him.
+Partner
+
+Passage Unearned
+rules_text: Exile each creature that entered the battlefield this turn if no mana was spent to cast it. => Exile each creature that entered this turn if no mana was spent to cast it.
+
+Stalking Shadows
+rules_text: Look at the top four cards in your library, you may choose one nonlegendary creature among them, reveal it and add it to your hand, then create a copy of the chosen creature except it has Ephemeral, shuffle all other cards into your library. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Reveal the top four cards in your library, you may choose a nonlegendary creature from among them, if you do, create a token copy of that creature on the battlefield, put an ephemeral counter on it, then add the chosen card to your hand, shuffle all other cards into your library. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Stygian Onlooker
+rules_text: Nightfall: Stygian Onlooker gets +2/+0 and Fearsome until the end of your next turn. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less. If this creature is not the first spell you have cast this turn, when Stygian Onlooker enters, Stygian Onlooker gets +2/+0 and Fearsome until the end of your next turn.)[/i] => [i]Nightfall[/i] — When Stygian Onlooker enters, if it wasn't the first spell you cast this turn, Stygian Onlooker gets +2/+0 and fearsome until the end of your next turn. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+
+Unspeakable Horror
+rules_text: Drain 1 from anything. [i](Unspeakable Horror deals 1 damage. You gain that much life.)[/i]
+Nightfall: reveal cards from the top of your library until you reveal three creatures with nightfall, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library. [i](If this spell is not the first spell you have cast this turn, when this spell is cast, reveal cards from the top of your library until you reveal three creatures with nightfall, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.)[/i] => Unspeakable Horror deals 1 damage to any target. You gain that much life.
+Nightfall — When this spell resolves, if it wasn't the first spell you cast this turn, reveal cards from the top of your library until you reveal three creatures with nightfall, randomly choose one, add it to your hand, then shuffle all other cards into your library.
+
+Vaults of Helia
+rules_text: At the start of your upkeep, sacrifice the nontoken creature with the highest mana value among creatures you control, then reveal cards from the top of your library until you reveal a creature with a mana value that costs 1 more than the sacrificed creature, put it onto the battlefield, then shuffle all other revealed cards into your library. => At the beginning of your upkeep, sacrifice a nontoken creature with the greatest mana value among creatures you control. Reveal cards from the top of your library until you reveal a creature card with mana value equal to 1 plus the sacrificed creature's mana value. Put that card onto the battlefield, then shuffle.
+
+Apprehend
+rules_text: Tap a creature an opponent controls and put a stun counter on it. Then if you control a legendary creature named Darius or Darius, The Hand of Noxus, untap all creatures you control and after this phase, there is an additional combat phase. => Tap a creature an opponent controls and put a stun counter on it. Then if you control a legendary creature named Darius or Darius, The Hand of Noxus, untap each creature you control and after this phase, there is an additional combat phase.
+
+Arrel the Tracker
+rules_text: At the start of your end step, if Arrel the Tracker was targeted by a source you control, Arrel the Tracker deals damage equal to its power to the creature with the lowest power among creatures target opponent controls. => At the beginning of your end step, if Arrel the Tracker was targeted by a source you control, Arrel the Tracker deals damage equal to its power to the creature with the lowest power among creatures target opponent controls.
+
+Hunt the Weak
+rules_text: Target opponent reveals their hand, then discards the creature with the lowest power from their hand. => Target opponent reveals their hand, then discards the creature card with the lowest power from among them.
+
+Riven, The Exile
+rules_text: Whenever Riven enters, attacks, or at the end of your turn if Riven did not attack, search your library for a Rune card, reveal it, add it to your hand, then shuffle.
+The first time you cast a card named Blade of the Exile, transform Riven.
+Partner => Whenever Riven enters, attacks, or at the end of your turn if Riven did not attack, search your library and/or graveyard for a Rune card, reveal it, then it to your hand. If you searched your library this way, shuffle.
+The first time you cast a card named Blade of the Exile, transform Riven.
+Partner
+
+Survival Skills
+rules_text: Creatures you control get Indestructible until the end of your next turn.
+If Survival Skills is discarded or sent to the graveyard from your library, the creature with the highest power among creatures you control gets Indestructible until the end of your next turn. => Creatures you control get Indestructible until the end of your next turn.
+If Survival Skills is discarded or milled, the creature with the highest power among creatures you control gets Indestructible until the end of your next turn.
+
+Wild Claws
+rules_text: Target creature you control deals damage equal to its power to target creature an opponent controls. If the target creature you control has Trample, excess damage is dealt to that creatures controller. => Choose a creature you control, that creature deals damage equal to its power to target creature an opponent controls. If the creature you control has trample, excess damage is dealt to the target creatures controller.
+
+Wrathful Rider
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Faces of the Old Ones
+rules_text: When Faces of the Old Ones enters, put a Freljord counter onto a land you control.
+At the start of your upkeep, if you Behold a card with mana value 8 or greater, you may put a Freljord counter onto a land you control. [i](To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)
+[/i]Whenever a land you control with a Freljord counter is tapped for mana, its controller adds an additional one mana of any type that land can produce. => When Faces of the Old Ones enters, put a Freljord counter onto a land you control.
+At the beginning of your upkeep, you may Behold a card with mana value 8 or greater, if you do, put a Freljord counter onto a land you control. [i](To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)
+[/i]Whenever a land you control with a Freljord counter is tapped for mana, its controller adds an additional one mana of any type that land can produce.
+
+Ice Pillar
+rules_text: Vulnerable [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i]
+When Ice Pillar enters from exile add {G}{G}{G}{G}{G}{G}{G}{G}.
+When Ice Pillar enters and at the end of your upkeep, the creature with the highest power among creatures target opponent controls gets Vulnerable until the start of your next upkeep. => Vulnerable [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+When Ice Pillar enters from exile add {G}{G}{G}{G}{G}{G}{G}{G}.
+When Ice Pillar enters and at the beginning of your upkeep, the creature with the highest power among creatures target opponent controls gets Vulnerable until the beginning of your next upkeep.
+
+Icequake
+rules_text: All creatures get -3/-0 until the end of your next turn.
+Icequake deals 3 damage to all creatures. => All creatures get -3/-0 until the end of your next turn. Then Icequake deals 3 damage to all creatures.
+
+Revitalizing Roar
+rules_text: Reveal a creature in your hand, then gain X life where X is that creatures power. If you are Enlightened, put the revealed creature onto the battlefield. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i] => Reveal a creature in your hand, you gain X life where X is that creatures power. If you are Enlightened, put the revealed creature onto the battlefield. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i]
+
+The Howling Abyss
+rules_text: At the start of your upkeep, reveal cards from the top of your library until you reveal a legendary creature, exile it, then shuffle all other revealed cards into your library.
+You may cast cards exiled this way for as long as it remains exiled. => At the beginning of your upkeep, reveal cards from the top of your library until you reveal a legendary creature, exile it, then shuffle all other revealed cards into your library.
+You may cast cards exiled this way for as long as it remains exiled.
+
+The Scargrounds
+rules_text: Whenever a creature you control takes damage but is not destroyed, it gets a +1/+0 counter, then it gets Absorb 1 if it doesn't have Absorb. [i](If a source would deal damage to that creature, prevent 1 of that damage.)[/i] => Whenever a creature you control is dealt damage but is not destroyed, put a +1/+0 counter on it, then put an Absorb 1 counter on that creature if it doesn't have an Absorb counter. [i](If a source would deal damage to that creature, prevent 1 of that damage.)[/i]
+
+Troll Gifts
+rules_text: Choose one —
+• Put two +1/+1 counters on target creature.
+• Target creature gets Juggernaut. [i](After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i] => Choose one —
+• Put two +1/+1 counters on target creature.
+• Put a juggernaut counter on target creature. [i](After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i]
+
+Troll Ravager
+rules_text: When Troll Ravager enters, if you behold a card with mana value 8 or greater, Troll Ravager gets Juggernaut. [i](To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand. After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i] => When Troll Ravager enters, you may behold a card with mana value 8 or greater, if you do, put a juggernaut counter on Troll Ravager. [i](To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand. After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i]
+
+Troll Scavenger
+rules_text: When Troll Scavenger enters, if you behold a card with mana value 8 or greater, it gets +3/+0. [i](To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)[/i] => When Troll Scavenger enters, you may behold a card with mana value 8 or greater, if you do, put three +1/+0 counters on Troll Scavenger. [i](To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)[/i]
+
+Trundle
+
+Uzgar the Ancient
+rules_text: Challenger, Juggernaut [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature. After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i] => Challenger, Juggernaut [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature. After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i]
+
+Sun Guardian
+rules_text: Daybreak: put a +1/+1 counter on Sun Guardian. [i](If this creature is the first spell you have cast this turn, when Sun Guardian enters, put a +1/+1 counter on Sun Guardian.)[/i]
+Whenever another daybreak ability you control activates, put a +1/+1 counter on Sun Guardian. => [i]Daybreak[/i] — When Sun Guardian enters, if it was the first spell you cast this turn, put a +1/+1 counter on Sun Guardian.
+Whenever another daybreak ability you control triggers, put a +1/+1 counter on Sun Guardian.
+
+Arbiter of the Peak
+rules_text: Trample
+Arbiter of the Peak costs {1} less to cast for each time you have targeted a creature you control this turn.
+Arbiter of the Peak costs {1} less to cast for each time a creature you control has targeted a creature you control this turn. => Trample
+Arbiter of the Peak costs {1} less to cast for each time an instant, sorcery, or creature you control has targeted a creature you control this turn.
+
+Astral Protection
+rules_text: Remove 4 damage from target creature you control. That creature gets +0/+4. => Remove 4 damage from target creature you control. Put four +0+1 counters on that creature.
+
+Aurelion Sol
+rules_text: Fury [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i]
+Aurelion Sol enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+When Aurelion Sol enters, and at the start of your upkeep, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+At the start of your end step, if you have 20 or more power among creatures you control, transform Aurelion Sol.
+Partner => Fury [i](Whenever a creature dealt damage by Aurelion Sol this turn dies, put a +1/+1 counter on Aurelion Sol.)[/i]
+Aurelion Sol enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+When Aurelion Sol enters, and at the beginning of your upkeep, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+At the beginning of your end step, if you have 20 or more power among creatures you control, transform Aurelion Sol.
+Partner
+
+Bastion
+rules_text: Target creature gets +1/+1 and a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i] => Put a +1/+1 counter and a spellshield counter on target creature you control. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+
+Blessing of Targon
+rules_text: Target creature you control gets three +1/+1 counters. => Put three +1/+1 counters on target creature you control.
+
+Broadbacked Protector
+cost: {W}{W}{U}{U} => {W}{W}{U}
+rules_text: At the start of your upkeep, put three -1/-1 counters onto Broadbacked Protector. You gain 3 life. => At the beginning of your upkeep, put three -0/-1 counters on Broadbacked Protector. You gain 3 life.
+
+Commander Leona
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Daybreak: tap the creature with the highest power among creatures target opponent controls and put a stun counter on it. [i](If this creature is the first spell you have cast this turn, when Commander Leona enters, tap the creature with the highest power among creatures target opponent controls and put a stun counter on it.)[/i]
+Whenever a source you control activates its daybreak ability, put a Dawn counter onto Commander Leona. At the end of any phase on your turn, if Commander Leona has four or more Dawn counters, remove all Dawn counters from Commander Leona, then transform her.
+Partner => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+[i]Daybreak[/i] — When Commander Leona enters, if it was the first spell you cast this turn, tap the creature with the highest power among creatures target opponent controls and put a stun counter on it.
+Whenever a source you control triggers its daybreak ability, put a Dawn counter onto Commander Leona. At the end of any phase on your turn, if Commander Leona has four or more Dawn counters, remove all Dawn counters from Commander Leona, then transform her.
+Partner
+
+Crescent Guardian
+rules_text: Trample
+Nightfall: put a +2/+0 counter onto Crescent Guardian. [i](If this creature is not the first spell you have cast this turn, when Crescent Guardian enters, put a +2/+0 counter onto Crescent Guardian.)[/i] => Trample
+[i]Nightfall[/i] — When Crescent Guardian enters, if it wasn't the first spell you cast this turn, put a +2/+0 counter on Crescent Guardian.
+
+Crystal Ibex
+rules_text: When Crystal Ibex enters, other target creature you control gets Trample. => When Crystal Ibex enters, put a trample counter on other target creature you control.
+
+Cygnus the Moonstalker
+rules_text: Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+Nightfall: a creature you control gets Shadow until the end of your next turn. [i](If this creature is not the first spell you have cast this turn, when Cygnus the Moonstalker enters, a creature you control gets Shadow until the end of your next turn.)[/i] => Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+[i]Nightfall[/i] — When Cygnus enters, if it wasn't the first spell you cast this turn, a creature you control gets Shadow until the end of your next turn.
+
+Diana, Child of the Moon
+rules_text: First strike
+Whenever a source you control activates its Nightfall ability, Diana gets Challenger until the end of turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Whenever a source you control triggers its Nightfall ability, put a Dusk counter onto Diana. At the end of any phase on your turn, if Diana has four or more Dusk counters, remove all Dusk counters from Diana, then transform her.
+Partner => First strike
+Whenever a source you control triggers its nightfall ability, Diana gets challenger until the end of turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+Whenever a source you control triggers its nightfall ability, put a Dusk counter onto Diana. At the end of any phase on your turn, if Diana has four or more Dusk counters, remove all Dusk counters from Diana, then transform her.
+Partner
+
+Dragon's Clutch
+rules_text: Choose one —
+• All dragon creatures you control get a +1/+1 counter and Trample.
+• Search your library for two dragon creatures with different names, reveal them, add them to your hand, then shuffle. => Choose one —
+• Put a +1/+1 counter and a trample counter on each dragon creature you control.
+• Search your library for two dragon creatures with different names, reveal them, add them to your hand, then shuffle.
+
+Eclipse Dragon
+rules_text: Fury [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i]
+Daybreak: the next dragon or celestial you cast costs {2} less to cast this turn. [i](If this creature is the first spell you have cast this turn, when Eclipse Dragon enters, the next dragon or celestial you cast costs {2} less to cast this turn.)[/i]
+Nightfall: choose one — [i](If this creature is not the first spell you have cast this turn, when Eclipse Dragon enters, choose one —.)[/i]
+• Reveal the top card of your library until you reveal a dragon creature, add it to your hand, then shuffle all other revealed cards into your library.
+• Reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library. => Fury [i](Whenever a creature dealt damage by Eclipse Dragon this turn dies, put a +1/+1 counter on Eclipse Dragon.)[/i]
+[i]Daybreak[/i] — When Eclipse Dragon enters, if it was the first spell you cast this turn, the next dragon or celestial creature you cast costs {2} less to cast this turn.
+[i]Nightfall[/i] — When Eclipse Dragon enters, if it wasn't the first spell you cast this turn, choose one —
+• Reveal the top card of your library until you reveal a dragon creature, add it to your hand, then shuffle all other revealed cards into your library.
+• Reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+
+Fused Firebrand
+rules_text: Fused Firebrand enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+Fury. [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i] => Fury [i](Whenever a creature dealt damage by Fused Firebrand this turn dies, put a +1/+1 counter on Fused Firebrand.)[/i]
+Fused Firebrand enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+
+Giddy Sparkleologist
+rules_text: When Giddy Sparkleologist enters, if you behold a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. [i](To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand. The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i] => When Giddy Sparkleologist enters, you may behold a Celestial, if you do, target creature you control gets a +1/+1 counter and a spellshield counter. [i](To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand. The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+
+Gifts From Beyond
+rules_text: Reveal cards from the top of your library until you reveal two Luna Equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library. => Reveal cards from the top of your library until you reveal two luna equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.
+
+Grandfather Rumul
+rules_text: Grandfather Rumul enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+Trample
+When Grandfather Rumul enters, up to two other creatures you control get +0/+4. => Grandfather Rumul enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+Trample
+When Grandfather Rumul enters, put four +0/+1 counter on up to two other target creatures you control.
+
+Hush
+rules_text: Remove all abilities and counters from a target creature until the end of your next turn. => Remove all abilities and counters from target creature until the end of your next turn.
+
+Inviolus Vox
+rules_text: Fury [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i]
+The first time each turn, when a creature you control with Fury destroys a creature you don't control, reveal cards from the top of your library until you reveal three dragon creatures, then randomly choose one and add it to your hand, then shuffle all other revealed cards into your library. => Fury [i](Whenever a creature dealt damage by Inviolus Vox this turn dies, put a +1/+1 counter on Inviolus Vox.)[/i]
+The first time each turn, a creature dealt damage by a creature with fury you control this turn dies, reveal cards from the top of your library until you reveal three dragon creatures, then randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+
+Lunari Priestess
+rules_text: Nightfall: reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library. [i](If this creature is not the first spell you have cast this turn, when Lunari Priestess enters, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.)[/i] => [i]Nightfall[/i] — When Lunari Priestess, if it wasn't the first spell you cast this turn, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
+
+Lunari Shadestalker
+rules_text: Nightfall: Lunari Shadestalker enters with Shadow. [i](If this creature is not the first spell you have cast this turn, when Lunari Shadestalker enters, Lunari Shadestalker enters with Shadow.)[/i] => [i]Nightfall[/i] — When Lunari Shadestalker enters, if it wasn't the first spell you cast this turn, put a shadow counter on Lunari Shadestalker. [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+
+Mentor of the Stones
+rules_text: When Mentor of the Stones attacks, other attacking target creature you control gets three +1/+1 counters.
+When Mentor of the Stones is destroyed, create three Gem tokens. => Whenever Mentor of the Stones attacks, put three +1/+1 counters on other attacking target creature you control.
+When Mentor of the Stones is destroyed, create three Gem tokens.
+
+Moondreamer
+rules_text: When Moondreamer enters, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
+Nightfall: reduce the cost of the next celestial card you cast this turn by {1}. [i](If this creature is not the first spell you have cast this turn, when Moondreamer enters, reduce the cost of the next celestial card you cast this turn by 1.)[/i] => When Moondreamer enters, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
+[i]Nightfall[/i] — When Moondreamer enters, if it wasn't the first spell you cast this turn, reduce the cost of the next Celestial card you cast this turn by {1}.
+
+Moonlight Affliction
+rules_text: Remove all abilities and counters from two target creatures until the end of your next turn.
+Nightfall: both creatures cannot block until the end of your next turn. [i](If this spell is not the first spell you have cast this turn, when this spell is cast, both creatures cannot block until the end of your next turn.)[/i] => Remove all abilities and counters from two target creatures until the end of your next turn.
+[i]Nightfall[/i] — When this spell resolves, if it wasn't the first spell you cast this turn, both target creatures can't block until the end of your next turn.
+
+Morning Light
+rules_text: All creatures you control get +1/+1 until the end of the turn.
+Activate the Daybreak ability of all permanents you control. => Each creature you control gets +1/+1 until the end of the turn.
+Trigger the daybreak ability of all permanents you control.
+
+Mountain Scryer
+rules_text: Allegiance: reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library. [i](When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then activate its Allegiance ability.)[/i]
+Celestial cards you control cost {1} less to cast. => [i]Allegiance[/i] — When this creature enters, reveal the top card of your library. If the revealed card is at least each colour this creature is, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
+Celestial cards you control cost {1} less to cast.
+
+Mountain Sojourners
+rules_text: When Mountain Sojourners attacks, each other attacking creature you control gets +2/+2 until the end of turn. => Whenever Mountain Sojourners attacks, each other attacking creature you control gets +2/+2 until the end of turn.
+
+Pale Cascade
+rules_text: Target creature you control gets +1/+1 until the end of turn.
+Nightfall: draw a card. [i](If this spell is not the first spell you have cast this turn, when this spell is cast, draw a card.)[/i] => Target creature you control gets +1/+1 until the end of turn.
+[i]Nightfall[/i] — When this spell resolves, if it wasn't the first spell you cast this turn, draw a card.
+
+Rahvun, Daylight's Spear
+rules_text: Daybreak: reveal cards from the top of your library until you reveal three creatures with daybreak, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library. [i](If this creature is the first spell you have cast this turn, when Rahvun, Daylight's Spear enters, reveal cards from the top of your library until you reveal three creatures with daybreak, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.)[/i]
+Daybreak abilities you control always activate. => [i]Daybreak[/i] — When Rahvun enters, if it was the first spell you cast this turn, reveal cards from the top of your library until you reveal three creatures with daybreak, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
+While Rahvun is on the battlefield, you have “Daybreak abilities you control always trigger.”
+
+Sleepy Trouble Bubble
+rules_text: Put a stun counter on a target creature, you may search your library and/or graveyard for a card named Paddle Star, reveal it, and put it into your hand. If you search your library this way, shuffle. => Put a stun counter on a target creature. You may search your library and/or graveyard for a card named Paddle Star, reveal it, and put it into your hand. If you search your library this way, shuffle.
+
+Sneaky Zeebles
+rules_text: Flying
+When Sneaky Zeebles enters, tap all creatures opponents control with power 2 or less and put a stun counter on them. => Flying
+When Sneaky Zeebles enters, tap each creature opponents control with power 2 or less and put a stun counter on each creature tapped this way.
+
+Solari Priestess
+rules_text: Daybreak: reveal cards from the top of your library until you reveal three Celestial cards with mana value 4, 5, andor 6, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library. [i](If this creature is the first spell you have cast this turn, when Solari Priestess enters, reveal cards from the top of your library until you reveal three Celestial cards with mana value 4, 5, andor 6, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.)[/i] => [i]Daybreak[/i] — When Solari Priestess enters, if it was the first spell you cast this turn, reveal cards from the top of your library until you reveal three Celestial cards with mana value between 4 and 6, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+
+Solari Shieldbearer
+rules_text: Daybreak: Solari Shieldbearer gets +0/+4 until the end of your next turn. [i](If this creature is the first spell you have cast this turn, when Solari Shieldbearer enters, Solari Shieldbearer gets +0/+4 until the end of your next turn.)[/i] => [i]Daybreak[/i] — When Solari Shieldbearer enters, if it was the first spell you cast this turn, Solari Shieldbearer gets +0/+4 until the end of your next turn.
+
+Solari Soldier
+rules_text: Daybreak: Solari Soldier gets +1/+1 until the end of your next turn. [i](If this creature is the first spell you have cast this turn, when Solari Soldier enters, Solari Soldier gets +1/+1 until the end of your next turn.)[/i] => [i]Daybreak[/i] — When Solari Soldier enters, if it was the first spell you cast this turn, Solari Soldier gets +1/+1 until the end of your next turn.
+
+Solari Sunforger
+rules_text: Daybreak: Solari Sunforger gets lifelink until the end of your next turn. [i](If this creature is the first spell you have cast this turn, when Solari Sunforger enters, Solari Sunforger gets lifelink until the end of your next turn.)[/i] => [i]Daybreak[/i] — When Solari Sunforger enters, if it was the first spell you cast this turn, Solari Sunforger gets lifelink until the end of your next turn.
+
+Soraka, The Horned Healer
+rules_text: Whenever Soraka attacks, Soraka and another attacking target creature you control removes up to four damage from themselves at the start of the next post combat main phase.
+Each time damage is removed from a creature you control, put a Seer counter on Soraka. At the start of any phase on your turn, if Soraka has four or more Seer counters, remove all Seer counters from Soraka, then transform her.
+Partner => Whenever Soraka attacks, remove up to 4 damage from target other attacking creature you control and Soraka at the beginning of the next post combat main phase.
+Whenever damage is removed from a creature you control, put a Seer counter on Soraka. At the beginning of any phase on your turn, if Soraka has four or more Seer counters, remove all Seer counters from Soraka, then transform her.
+Partner
+
+Soraka's Wish
+rules_text: Remove all damage from all creatures you control. => Remove all damage from each creature you control.
+
+Spring Guardian
+rules_text: When Spring Guardian enters, you may remove all damage from a creature you control. => When Spring Guardian enters, you may remove all damage from target creature you control.
+
+Star Shepherd
+rules_text: Whenever a source you control removes damage from a creature you control, Star Shepherd gets +2/+0. => Whenever a source you control removes damage from a creature you control, put a +2/+0 counter on Star Shepherd.
+
+Star Spring
+rules_text: At the beginning of your end step, remove 1 damage from all creatures you control, then put that many Spring counters onto Star Spring. Spring counters cannot be proliferated or copied in any way.
+At the start of your upkeep, if Star Spring has twenty two or more Spring counters, you win the game. => At the beginning of your end step, remove 1 damage from each creature you control, then put that many Spring counters onto Star Spring. Spring counters cannot be proliferated or copied.
+At the beginning of your upkeep, if Star Spring has twenty two or more Spring counters, you win the game.
+
+Starbone
+rules_text: As an additional cost to cast this card, Behold a celestial. [i](To behold a celestial., choose a celestial. you control or reveal a celestial. card from your hand.)[/i]
+Search your library and/or graveyard for a card named The Messenger, then exile it. If you search your library this way, shuffle. You may cast the creature exiled this way from exile for as long as it remains exiled. When the exiled creature enters from exile, put a +1/+1 counter on it. => As an additional cost to cast this card, behold a celestial. [i](To behold a celestial, choose a celestial you control or reveal a celestial card from your hand.)[/i]
+Search your library and/or graveyard for a card named The Messenger, then exile it. If you search your library this way, shuffle. You may cast the creature exiled this way from exile for as long as it remains exiled. When the exiled creature enters from exile, put a +1/+1 counter on it.
+
+Stargazer
+rules_text: Whenever a source you control removes damage from a creature you control, give that creature Shadow until the end of your next turn. [i](This creature can block or be blocked by only creatures with shadow.)[/i] => Whenever a source you control removes damage from a creature you control, that creature gets shadow until the end of your next turn. [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+
+Starry Scamp
+rules_text: At the start of your pre-combat main phase, you may Behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. [i](To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand.)[/i] => At the beginning of your pre-combat main phase, you may reveal Starry Scamp from your hand and behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. [i](To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand.)[/i]
+
+Sunblessed Vigor
+rules_text: A creature you control gets +0/+2. => Put a +0/+2 counter on target creature you control.
+
+Sunburst
+rules_text: Sunburst deals 6 damage to target creature.
+Daybreak: before Sunburst deals damage, remove all abilities and counters from the target creature until the end the turn. [i](If this spell is the first spell you have cast this turn, when this spell is cast, before Sunburst deals damage, remove all abilities and counters from the target creature until the end the turn.)[/i] => Sunburst deals 6 damage to target creature.
+[i]Daybreak[/i] — When Sunburst is cast, if it was the first spell you cast this turn, before Sunburst deals damage, remove all abilities and counters from the target creature until the end the turn.
+
+Targon's Peak
+rules_text: At the start of your upkeep, all players randomly exile a card in their hand. Until the start of your next upkeep, the owner of a card exiled this way can cast it from exile without paying its mana cost. => At the beginning of your upkeep, each player randomly exiles a card in their hand. Until the beginning of your next upkeep, the owner of a card exiled this way can cast it from exile without paying its mana cost.
+
+The Cloven Way
+rules_text: Nightfall: put a stun counter onto target creature, if the target is nonlegendry, put two stun counters onto that creature instead. [i](If this creature is not the first spell you have cast this turn, when The Cloven Way enters, put a stun counter onto target creature, if the target is nonlegendry, put two stun counters onto that creature instead.)[/i] => [i]Nightfall[/i] — When The Cloven Way enters, if it wasn't the first spell you cast this turn, put a stun counter onto target creature, if the target is nonlegendry, put two stun counters onto that creature instead.
+
+The Infinite Mindsplitter
+rules_text: Fury [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i]
+When The Infinite Mindsplitter enters, put a Gaze counter on up to two target creatures.
+At the start of your upkeep, put a stun counter onto each creature with a Gaze Counter, tap them if they're untapped.
+. => Fury [i](Whenever a creature dealt damage by The Infinite Mindsplitter this turn dies, put a +1/+1 counter on The Infinite Mindsplitter.)[/i]
+When The Infinite Mindsplitter enters, put a Gaze counter on up to two target creatures.
+At the beginning of your upkeep, put a stun counter onto each creature with a Gaze counter, tap them if they're untapped.
+
+The Sky Shadows
+rules_text: When The Sky Shadows enters, if you Behold a creature with Nightfall, add {C}{C}. [i](To behold a creature with Nightfall, choose a creature you control with Nightfall or reveal a creature card with Nightfall from your hand.)[/i] => When The Sky Shadows enters, you may you behold a creature with nightfall, if you do, add {C}{C}. [i](To behold a creature with Nightfall, choose a creature you control with Nightfall or reveal a creature card with Nightfall from your hand.)[/i]
+
+Tyari the Traveler
+rules_text: When Tyari the Traveler attacks, other attacking target creature you control gets +0/+2. => Whenever Tyari the Traveler attacks, put a +0/+2 counter on other attacking target creature you control.
+
+Whiteflame Protector
+rules_text: Fury [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i] => Fury [i](Whenever a creature dealt damage by Whiteflame Protector this turn dies, put a +1/+1 counter on Whiteflame Protector.)[/i]
+
+Zenith Blade
+rules_text: Target creature you control gets +1/+2. It has Trample until the end of the turn.
+Daybreak: search your library for a card named Zenith Blade, reveal it, put it into your hand, then shuffle. [i](If this spell is the first spell you have cast this turn, when this spell is cast, search your library for a card named Zenith Blade, reveal it, put it into your hand, then shuffle.)[/i] => Put a +1/+2 counter on target creature you control. It has trample until the end of the turn.
+[i]Daybreak[/i] — When this spell resolves, if it was the first spell you cast this turn, search your library for a card named Zenith Blade, reveal it, put it into your hand, then shuffle.
+
+Zoe, The Everchild
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+Whenever Zoe deals combat damage to an opponent, reveal cards from the top of your library until you reveal three Celestial cards with mana value 3 or less, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
+At the end of any phase on your turn, if there are ten or more cards in your graveyard with different names, transform Zoe. 
+Partner => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+Whenever Zoe deals combat damage to an opponent, reveal cards from the top of your library until you reveal three Celestial cards with mana value 3 or less, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
+At the end of any phase on your turn, if there are ten or more cards in your graveyard with different names, transform Zoe.
+Partner
+
+Ballistic Bot
+rules_text: Upgrade [i](Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)[/i]
+At the start of your upkeep, Ballistic Bot deals 1 damage to target opponent. => Upgrade [i](Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)[/i]
+At the beginning of your upkeep, Ballistic Bot deals 1 damage to target opponent.
+
+Armed Gearhead
+rules_text: First strike, Upgrade [i](Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)[/i] => First strike, Upgrade [i](Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)[/i]
+
+Calculated Creations
+rules_text: Search your library and for a card named Armed Gearhead, Ballistic Bot, or Nyandroid, exile it then shuffle. You may cast the card exiled this way from exile for as long as it remains exiled. When the exiled creature enters, put a +1/+1 counter on it. => Search your library and for a card named Armed Gearhead, Ballistic Bot, or Nyandroid, exile it then shuffle. You may cast the card exiled this way from exile for as long as it remains exiled. Whenever creatures exiled this way enters, put a +1/+1 counter on it.
+
+Death Ray
+rules_text: Spree [i](Choose one or more additional costs.)[/i]
++ {UR}: Death Ray deals 1 damage to target creature.
++ {UR}{UR}: Death Ray deals 2 damage to target creature.
++ {UR}{UR}{UR}: Death Ray deals 3 damage to target creature. => Spree [i](Choose one or more additional costs.)[/i]
++ {0}: Death Ray deals 1 damage to target creature.
++ {UR}{UR}: Death Ray deals 2 damage to target creature.
++ {UR}{UR}{UR}: Death Ray deals 3 damage to target creature.
+
+Iterative Improvement
+rules_text: Create an exiled copy of a nonlegendary creature you control. You may cast the copy from exile for as long as it remains exiled. When that creature enters from exile, put a +1/+1 counter on it. => Create an exiled copy of a nonlegendary creature you control. You may cast the copy from exile for as long as it remains exiled. Whenever creatures exiled this way enters, put a +1/+1 counter on it.
+
+Mechanized Mimic
+rules_text: Upgrade [i](Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)[/i]
+Whenever Mechanized Mimic attacks, it gets first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. => Upgrade [i](Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)[/i]
+Whenever Mechanized Mimic attacks, it gets first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.
+
+Nyandroid
+rules_text: Skulk, Upgrade [i](This creature can't be blocked by creatures with greater power. Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)[/i] => Skulk, Upgrade [i](This creature can't be blocked by creatures with greater power. Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)[/i]
+
+Poro Cannon
+rules_text: As an additional cost to cast this spell, discard a card from your hand.
+Create two Daring Poro tokens. => As an additional cost to cast this spell, discard a card.
+Create two Daring Poro tokens.
+
+Stress Testing
+rules_text: Remove all finality counters from creatures you control.
+If Stress Testing is discarded or sent to the graveyard from your library, reveal the top card of your library until you reveal a creature with mana value 1, and put it onto the battlefield under your control with a finality counter, then shuffle all other revealed cards into your library. => Remove all finality counters from creatures you control.
+If Stress Testing is discarded or milled, reveal the top card of your library until you reveal a creature with mana value 1, put it onto the battlefield under your control with a finality counter, then shuffle all other revealed cards into your library.
+
+The University of Piltover
+rules_text: At the start of your pre-combat main phase, discard your hand, then draw 3 cards. => At the beginning of your pre-combat main phase, discard your hand, then draw 3 cards.
+
+Tri-beam Improbulator
+rules_text: Whenever you cast a spell with mana value 3, put a charge counter on Tri-beam Improbulator.
+{3}, {T}, Sacrifice Tri-beam Improbulator. Tri-beam Improbulator deals X+1 damage to target creature where X is the number of charge counters on Tri-beam Improbulator. Then reveal cards from the top of your library until you reveal a creature with mana value X where X is equal to the damage dealt, put it onto the battlefield under your control, then shuffle. => Whenever you cast a spell with mana value 3, put a charge counter on Tri-beam Improbulator.
+{3}, {T}, Sacrifice Tri-beam Improbulator. Tri-beam Improbulator deals X+1 damage to target creature where X is the number of charge counters on Tri-beam Improbulator. Then reveal cards from the top of your library until you reveal a creature with mana value X where X is equal to the number of charge counters on Tri-beam Improbulator, put it onto the battlefield under your control, then shuffle all other cards into your library.
+
+Viktor, The Machinist
+rules_text: Upgrade [i](Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)[/i]
+{UR}, {T}: Randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Viktor gets the chosen ability. Activate only as a sorcery.
+Whenever you cast an artifact, put a Herald counter on Viktor. At the end of any phase on your turn, if Viktor has seven or more Herald counters, remove all Hereld counters from Viktor, then transform him.
+Partner => Upgrade [i](Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)[/i]
+{UR}, {T}: Randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Viktor gets the chosen ability. Activate only as a sorcery.
+Whenever you cast an artifact, put a Herald counter on Viktor. At the end of any phase on your turn, if Viktor has seven or more Herald counters, remove all Hereld counters from Viktor, then transform him.
+Partner
+
+Bayou Brunch
+rules_text: 
+Mutate target creature you control under other target creature you control. => Mutate target creature you control under other target creature you control.
+
+Boxtopus
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When Boxtopus enters, put three -1/-1 counters on it. At the start of your upkeep, remove a -1/-1 counter from Boxtopus. => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+Boxtopus enters with three -1/-1 counters. At the beginning of your upkeep, remove a -1/-1 counter from Boxtopus.
+
+Crusty Codger
+rules_text: When Crusty Codger enters, put two -1/-1 counters on it. At the start of your upkeep, remove a -1/-1 counter from Crusty Codger. => Crusty Codger enters with two -1/-1 counters. At the beginning of your upkeep, remove a -1/-1 counter from Crusty Codger.
+
+Jack, the Winner
+rules_text: At the start of your upkeep, you may have Jack deal 2 damage to target other creature you control, if that creature is not destroyed, Jack then deals 2 damage to target opponent. => At the beginning of your upkeep, you may have Jack deal 2 damage to target other creature you control, if you do and that creature is not destroyed, Jack then deals 2 damage to target opponent.
+
+Monkey Business
+rules_text: Create a Powder Monkey token.
+Plunder: at the start of your next upkeep, create a Powder Monkey token. [i](If an opponent was dealt damage this turn, when this spell is cast at the start of your next upkeep, create a Powder Monkey token.)[/i] => Create a Powder Monkey token.
+[i]Plunder — [/i]If an opponent was dealt damage this turn, when this spell resolves,[i] [/i]at the beginning of your next upkeep, create a Powder Monkey token.[/i][i]
+
+Powder Pandemonium
+rules_text: Create a Powder Monkey token for each time you have activated a Plunder ability this turn. => Create a Powder Monkey token for each time you have triggered a [/i][i]Plunder ability this turn.[/i][i]
+
+Shakedown
+rules_text: Shakedown deals 2 damage to target creature you control to give up to two creatures an opponent controls Vulnerable. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => Shakedown deals 2 damage to target creature you control to put a vulnerable counter on up to two creatures an opponent controls. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Tahm Kench, The River King
+rules_text: When Tahm Kench enters, and at the start of your upkeep, you may have Tahm Kench mutate target creature an opponent controls under Tahm Kench.
+At the end of any phase, if Tahm Kench has three or more creatures mutated under him, transform him. When Tahm Kench transforms, exile all creatures mutated under Tahm Kench.
+Partner => When Tahm Kench enters, and at the beginning of your upkeep, you may have Tahm Kench mutate target creature an opponent controls under Tahm Kench.
+At the end of any phase, if Tahm Kench has three or more creatures mutated under him, transform him. When Tahm Kench transforms, exile all creatures mutated under Tahm Kench.
+Partner
+
+The Slaughter Docks
+rules_text: At the beginning of your upkeep, Toss 1. [i](Exile a card from the bottom of your library.)[/i]
+At the end of any phase on your turn, if you are Deep, sacrifice The Slaughter Docks, then reveal the top card of your library until you reveal a Leviathan creature, put it onto the battlefield under your control, then shuffle. [i](The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. When you are Deep, all Deep creatures you control get +3/+3.)[/i] => At the beginning of your upkeep, Toss 1. [i](Exile a card from the bottom of your library.)[/i]
+At the end of any phase on your turn, if you are Deep, sacrifice The Slaughter Docks, then reveal cards from the top of your library until you reveal a Leviathan creature, put it onto the battlefield under your control, then shuffle. [i](If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i]
+
+Wise Fry
+rules_text: Trample
+When Wise Fry enters, it deals 1 damage to each other creature you control, then Wise Fry gets a +1/+0 counter for each creature you control that took damage this way. => Trample
+When Wise Fry enters, it deals 1 damage to each other creature you control, then put a number of +1/+0 counters on Wise Fry for each creature you control that took damage this way.
+
+Aphelios, The Hitman
+rules_text: Nightfall: reveal cards from the top of your library until you reveal two Luna Equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library. [i](If this creature is not the first spell you have cast this turn, when Aphelios, The Hitman enters, reveal cards from the top of your library until you reveal two Luna Equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.)[/i]
+The first time each turn you cast your second spell, other than Aphelios, reveal cards from the top of your library until you reveal two Luna Equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.
+At the end of any phase on your turn, if you control four or more Luna Equipment cards, transform Aphelios.
+Partner => [i]Nightfall[/i] — When Aphelios enters, if it wasn't the first spell you cast this turn, reveal cards from the top of your library until you reveal two luna equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.
+The first time each turn you cast your second spell, other than Aphelios, reveal cards from the top of your library until you reveal two luna equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.
+At the end of any phase on your turn, if you control four or more luna equipment cards, transform Aphelios.
+Partner
+
+Encroaching Shadows
+rules_text: Creatures you cast get +2/+2 and Ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Creatures you cast get +2/+2 and Ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Zoe, The Aspect of Twilight
+rules_text: Whenever a creature you control enters, if it has first strike, each other creature you control gets first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. => Whenever a creature you control enters, if it has first strike, put a first strike counter on each other creature you control. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

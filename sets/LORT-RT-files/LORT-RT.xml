@@ -5,13 +5,13 @@
 			<name>LORT-RT</name>
 			<longname>Legends Of Runeterra Converted: Rising Tides</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-16</releasedate>
+			<releasedate>2026-07-03</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Valor</name>
-			<text>Challenger, Scout (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature. Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)</text>
+			<text>Challenger, Scout (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature. After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/0.png" num="11">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -100,7 +100,7 @@ When Zap Sprayfin enters, reveal cards from the top of your library until you re
 		</card>
 		<card>
 			<name>Ye Been Warned</name>
-			<text>Target creature gets Vulnerable until end of turn. If the target creature is destroyed this turn, draw a card. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>Target creature gets Vulnerable until end of turn. If the target creature is destroyed this turn, draw a card. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/5.png" num="122">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -116,7 +116,7 @@ When Zap Sprayfin enters, reveal cards from the top of your library until you re
 		</card>
 		<card>
 			<name>Vicious Platewyrm LORT-RT</name>
-			<text>Fearsome, Deep (Creatures with Fearsome cannot be blocked by creatures with power 2 or less. The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)</text>
+			<text>Fearsome, Deep (Creatures with Fearsome cannot be blocked by creatures with power 2 or less. If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/6.png" num="10">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -138,7 +138,7 @@ When Zap Sprayfin enters, reveal cards from the top of your library until you re
 Whenever Twisted Fate enters, choose one —
 • Add {C} and draw a card.
 • Twisted Fate deals 1 damage to each opponent and each creature they control.
-• Twisted Fate deals 2 damage to the creature with the highest power among creatures target opponent controls, then put a stun counter on it.
+• Twisted Fate deals 2 damage to the creature with the highest power among creatures target opponent controls, if that creature is not destroyed, put a stun counter on it.
 Whenever you draw a card, put a Swindler counter on Twisted Fate. At the end of any phase on your turn, if Twisted Fate has nine or more Swindler counters, remove all Swindler counters from Twisted Fate and transform him.
 Partner
 ---
@@ -152,7 +152,7 @@ Partner
 				<manacost>2BR</manacost>
 				<cmc>4</cmc>
 				<colors>BR</colors>
-				<coloridentity>UBR</coloridentity>
+				<coloridentity>BR</coloridentity>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -161,7 +161,7 @@ Partner
 		<card>
 			<name>Twisted Fate, The Card Master</name>
 			<text>First strike
-The first time you cast a spell each turn add {C} and draw a card. The second time you cast a spell each turn, Twisted Fate deals 1 damage to each opponent and each creature they control. The third time you cast a spell each turn, Twisted Fate deals 2 damage to the creature with the highest power among creatures target opponent controls, then put a stun counter on it.
+The first time you cast a spell each turn add {C} and draw a card. The second time you cast a spell each turn, Twisted Fate deals 1 damage to each opponent and each creature they control. The third time you cast a spell each turn, Twisted Fate deals 2 damage to the creature with the highest power among creatures target opponent controls, if that creature is not destroyed, put a stun counter on it.
 ---
 (Front): Twisted Fate</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/7_back.png" num="97b">LORT-RT</set>
@@ -173,7 +173,7 @@ The first time you cast a spell each turn add {C} and draw a card. The second ti
 				<manacost></manacost>
 				<cmc>0</cmc>
 				<colors>BR</colors>
-				<coloridentity>UBR</coloridentity>
+				<coloridentity>BR</coloridentity>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -198,8 +198,8 @@ The first time you cast a spell each turn add {C} and draw a card. The second ti
 		</card>
 		<card>
 			<name>The Syren</name>
-			<text>Scout (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)
-When this creature enters, search your library and/or graveyard for a card named Captain Fortune, reveal it, and put it into your hand. If you search your library this way, shuffle.
+			<text>Scout (After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)
+When The Syren enters, search your library and/or graveyard for a card named Captain Fortune, reveal it, and put it into your hand. If you search your library this way, shuffle.
 Whenever a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/9.png" num="95">LORT-RT</set>
 			<prop>
@@ -217,7 +217,7 @@ Whenever a source you control would deal noncombat damage to an opponent or a pe
 		</card>
 		<card>
 			<name>The Dreadway</name>
-			<text>When this creature enters, search your library and/or graveyard for a card named Captain Gangplank, reveal it, and put it into your hand. If you search your library this way, shuffle.
+			<text>When The Dreadway enters, search your library and/or graveyard for a card named Captain Gangplank, reveal it, and put it into your hand. If you search your library this way, shuffle.
 If a noncombat source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/10.png" num="64">LORT-RT</set>
 			<prop>
@@ -235,7 +235,7 @@ If a noncombat source you control would deal damage to a permanent or player, it
 		</card>
 		<card>
 			<name>The Beast Below</name>
-			<text>Deep (The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)</text>
+			<text>Deep (If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/11.png" num="54">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -252,7 +252,8 @@ If a noncombat source you control would deal damage to a permanent or player, it
 		</card>
 		<card>
 			<name>Strong-arm</name>
-			<text>Plunder: return a creature to its owners hand. (If an opponent was dealt damage this turn, when this spell is cast return a creature to its owners hand.)</text>
+			<text>You may only cast this spell if one or more opponents was dealt damage this turn.
+Choose a creature on the battlefield, return that creature to its owners hand.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/12.png" num="92">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -269,7 +270,7 @@ If a noncombat source you control would deal damage to a permanent or player, it
 		<card>
 			<name>Smooth Soloist</name>
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
-Plunder: exile any number of creature cards from your hand. You may cast a card exiled this way for as long as it remains exiled and costs {2} less to cast. (If an opponent was dealt damage this turn, when this creature enters exile any number of creature cards from your hand. You may cast a card exiled this way for as long as it remains exiled and costs {2} less to cast.)</text>
+Plunder — If an opponent was dealt damage this turn, when Smooth Soloist enters, exile any number of creature cards from your hand. You may cast cards exiled this way for as long as it remains exiled. Cards exiled this way costs {2} less to cast from exile.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/13.png" num="91">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -286,7 +287,7 @@ Plunder: exile any number of creature cards from your hand. You may cast a card 
 		</card>
 		<card>
 			<name>Slotbot</name>
-			<text>When Slotbot enters and at the start of your pre-combat main phase, Slotbot gets +0/+1 for each card in hand, then swap Slotbots power and toughness.</text>
+			<text>When Slotbot enters and at the start of your pre-combat main phase, put a number of +0/+1 counters on Slotbot equal to the number of cards in your hand, then swap Slotbots power and toughness.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/14.png" num="90">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -336,7 +337,7 @@ Plunder: exile any number of creature cards from your hand. You may cast a card 
 		</card>
 		<card>
 			<name>Shipwreck Hoarder</name>
-			<text>Deep (The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)
+			<text>Deep (If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)
 When Shipwreck Hoarder enters, Toss 1, then roll a d20. Repeat this process once. (Exile a card from the bottom of your library.)
 [b]1-7 [/b]| Create a Treasure Trove token.
 [b]8-14 [/b]| Create a Keelbreaker Token.
@@ -357,12 +358,12 @@ When Shipwreck Hoarder enters, Toss 1, then roll a d20. Repeat this process once
 		</card>
 		<card>
 			<name>Sheriff Lariette Rose</name>
-			<text>When Sheriff Lariette Rose enters, each creature your opponents control get Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>When Sheriff Lariette Rose enters, put a vulnerable counter on each creature opponents control. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/18.png" num="86">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Detective</type>
+				<type>Creature — Human Detective</type>
 				<maintype>Creature</maintype>
 				<manacost>3BBR</manacost>
 				<cmc>6</cmc>
@@ -379,7 +380,7 @@ When Shipwreck Hoarder enters, Toss 1, then roll a d20. Repeat this process once
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Turtle Warrior</type>
+				<type>Creature — Turtle Soldier</type>
 				<maintype>Creature</maintype>
 				<manacost>B/R</manacost>
 				<cmc>1</cmc>
@@ -424,7 +425,7 @@ Scrapshot deals 7 damage to target creature.</text>
 		</card>
 		<card>
 			<name>Riptide Rex</name>
-			<text>Plunder: Riptide Rex deals 2 damage to a random creature a random opponent controls. If an opponent has no creatures, Riptide Rex deals 1 damage to that opponent instead. Repeat this process six times. (If an opponent was dealt damage this turn, when this creature enters Riptide Rex deals 2 damage to a random creature a random opponent controls. If an opponent has no creatures, Riptide Rex deals 1 damage to that opponent instead. Repeat this process six times.)</text>
+			<text>Plunder — If an opponent was dealt damage this turn, when Riptide Rex enters, Riptide Rex deals 2 damage to a random creature a random opponent controls. If an opponent has no creatures, Riptide Rex deals 1 damage to that opponent instead. Repeat this process six times.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/22.png" num="83">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -442,7 +443,7 @@ Scrapshot deals 7 damage to target creature.</text>
 		<card>
 			<name>Riptide</name>
 			<text>Kicker {R} (You may pay an additional {R} as you cast this spell.)
-Put a stun counter onto target creature an opponent controls. If this card was kicked, shuffle target creature into its owners library instead.</text>
+Put a stun counter onto target creature an opponent controls. If this spell was kicked, shuffle target creature into its owners library instead.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/23.png" num="28">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -458,8 +459,8 @@ Put a stun counter onto target creature an opponent controls. If this card was k
 		</card>
 		<card>
 			<name>Razorscale Hunter</name>
-			<text>Scout. (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)
-When Razorscale Hunter enters, target creature you don&apos;t control gets Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>Scout. (After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)
+When Razorscale Hunter enters, put a vulnerable counter on target creature an opponent controls. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/24.png" num="82">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -493,7 +494,7 @@ When Razorscale Hunter enters, target creature you don&apos;t control gets Vulne
 		</card>
 		<card>
 			<name>Powder Monkey LORT-RT</name>
-			<text>Ephemeral (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)
+			<text>Ephemeral (This creature has haste. At the end of turn, sacrifice it.)
 When Powder Monkey leaves the battlefield, Powder Monkey deals 1 damage to each opponent.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/26.png" num="8">LORT-RT</set>
 			<prop>
@@ -512,7 +513,7 @@ When Powder Monkey leaves the battlefield, Powder Monkey deals 1 damage to each 
 		</card>
 		<card>
 			<name>Powder Keg LORT-RT</name>
-			<text>Vulnerable (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)
+			<text>Vulnerable (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
 Powder Keg cannot attack or block.
 If you would create a Powder Keg while you already have one, add a Keg counter onto your Powder Keg instead.
 If a noncombat source you control would deal damage to a permanent or player, sacrifice your Powder Keg. The noncombat source you control deals that much damage plus 1+X where X is the number of Keg counters on the sacrificed Powder Keg.</text>
@@ -534,7 +535,7 @@ If a noncombat source you control would deal damage to a permanent or player, sa
 		<card>
 			<name>Pool Shark</name>
 			<text>When Pool Shark enters, put a charge counter on Pool Shark.
-At the start of your draw step, remove a charge counter from Pool Shark and exile the top card of your library. You may cast that card from exile until the end of your next turn.</text>
+At the beginning of your draw step, remove a charge counter from Pool Shark and exile the top card of your library. Until the end of your next turn, you may cast that card from exile.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/28.png" num="117">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -551,8 +552,8 @@ At the start of your draw step, remove a charge counter from Pool Shark and exil
 		</card>
 		<card>
 			<name>Pocket Aces</name>
-			<text>Target creature you control gets +2/+1.
-Miracle {1}{BR} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
+			<text>Put a +2/+1 counter on target creature you control.
+Miracle {BR} (You may cast this card for its miracle cost when you draw it if it&apos;s the first card you drew this turn.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/29.png" num="116">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -568,7 +569,7 @@ Miracle {1}{BR} (You may cast this card for its miracle cost when you draw it if
 		</card>
 		<card>
 			<name>Plunder Poro</name>
-			<text>Plunder: randomly choose two abilities from among first strike, vigilance, menace, lifelink, flying, haste, reach, hexproof, and trample. Plunder Poro has each of the chosen abilities. (If an opponent was dealt damage this turn, when this creature enters randomly choose two abilities from among first strike, vigilance, menace, lifelink, flying, haste, reach, hexproof, and trample. Plunder Poro has each of the chosen abilities.)</text>
+			<text>Plunder — If an opponent was dealt damage this turn, when Plunder Poro enters, randomly choose two abilities from among first strike, vigilance, menace, lifelink, flying, haste, reach, hexproof, and trample. Plunder Poro has each of the chosen abilities.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/30.png" num="115">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -602,8 +603,8 @@ After this phase, there is an additional combat phase.</text>
 		</card>
 		<card>
 			<name>Pilfered Goods</name>
-			<text>Nab 1 (Exile a card from the bottom of target opponents library. You may cast cards exiled this way for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. )
-Plunder: Nab 1 (If an opponent was dealt damage this turn, when this spell is cast Nab 1.)</text>
+			<text>Nab 1 (Look at the bottom a card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast them.)
+Plunder — If an opponent was dealt damage this turn, when this spell resolves Nab 1.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/32.png" num="80">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -619,8 +620,8 @@ Plunder: Nab 1 (If an opponent was dealt damage this turn, when this spell is ca
 		</card>
 		<card>
 			<name>Pick a Card</name>
-			<text>As an additional cost to cast this spell, shuffle one card from your hand into your library.
-At the start of your next upkeep, exile the top two cards of your library. You may cast these cards from exile until the end of turn.</text>
+			<text>As an additional cost to cast this spell, shuffle a card from your hand into your library.
+At the beginning of your next upkeep, exile the top two cards of your library. Until the end of turn, you may cast the cards exiled this way from exile.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/33.png" num="79">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -707,7 +708,7 @@ When Mystifying Magician enters, reveal cards from the top of your library until
 			<name>Monkey Idol</name>
 			<text>Vanishing 3 (This creature enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 Monkey Idol cannot attack or block.
-At the start of your upkeep, create a Powder Monkey token.</text>
+At the beginning of your upkeep, create a Powder Monkey token.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/38.png" num="75">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -740,7 +741,7 @@ At the start of your upkeep, create a Powder Monkey token.</text>
 		</card>
 		<card>
 			<name>Make it Rain</name>
-			<text>Make it Rain randomly deals 1 damage to an opponent or creature they control. Repeat this process two times.</text>
+			<text>Make it Rain randomly deals 1 damage to an opponent or a creature they control. Repeat this process two times.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/40.png" num="111">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -756,7 +757,7 @@ At the start of your upkeep, create a Powder Monkey token.</text>
 		</card>
 		<card>
 			<name>Lure of the Depths</name>
-			<text>You get an emblem with &quot;Leviathan creatures you control cost {1} less to cast&quot;. Reveal cards from the top of your library until you reveal a Leviathan creature, add it to your hand, then shuffle all other revealed cards into your library.</text>
+			<text>You get an emblem with &quot;Leviathan creatures you control cost {1} less to cast&quot;. Then reveal cards from the top of your library until you reveal a Leviathan creature, add it to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/41.png" num="73">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -805,7 +806,7 @@ At the start of your upkeep, create a Powder Monkey token.</text>
 		</card>
 		<card>
 			<name>Jaull Hunters</name>
-			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
 When Jaull Hunters enters, reveal cards from the top of your library until you reveal three leviathan creatures, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/44.png" num="72">LORT-RT</set>
 			<prop>
@@ -839,7 +840,7 @@ When Jaull Hunters enters, reveal cards from the top of your library until you r
 		</card>
 		<card>
 			<name>Jagged Taskmaster</name>
-			<text>Plunder: Jagged Taskmaster gets &quot;creatures you control with mana value 1 gets +1/+0&quot; (If an opponent was dealt damage this turn, when this creature enters Jagged Taskmaster gets &quot;creatures you control with mana value 1 gets +1/+0&quot;.)</text>
+			<text>Plunder — If an opponent was dealt damage this turn, when Jagged Taskmaster enters, Jagged Taskmaster gets &quot;Creatures you control with mana value 1 gets +1/+0&quot;.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/46.png" num="71">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -856,7 +857,7 @@ When Jaull Hunters enters, reveal cards from the top of your library until you r
 		</card>
 		<card>
 			<name>Jagged Butcher</name>
-			<text>Plunder: put a +1/+1 counter on Jagged Butcher. (If an opponent was dealt damage this turn, when this creature enters put a +1/+1 counter on Jagged Butcher.)</text>
+			<text>Plunder — If an opponent was dealt damage this turn, when Jagged Butcher enters, put a +1/+1 counter on Jagged Butcher.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/47.png" num="108">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -873,7 +874,7 @@ When Jaull Hunters enters, reveal cards from the top of your library until you r
 		</card>
 		<card>
 			<name>Island Navigator</name>
-			<text>Scout (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)
+			<text>Scout (After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)
 When Island Navigator enters, reveal cards from the top of your library until you reveal a creature with mana value 1, put that creature onto the battlefield under your control and give it Scout, then shuffle all other revealed cards into your library.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/48.png" num="70">LORT-RT</set>
 			<prop>
@@ -891,7 +892,7 @@ When Island Navigator enters, reveal cards from the top of your library until yo
 		</card>
 		<card>
 			<name>Hunting Fleet</name>
-			<text>Gift a Golden Narwhal token.</text>
+			<text>When Hunting Fleet enters, target opponent creates a Golden Narwhal token.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/49.png" num="68">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -908,7 +909,7 @@ When Island Navigator enters, reveal cards from the top of your library until yo
 		</card>
 		<card>
 			<name>Hired Gun</name>
-			<text>When Hired Gun enters, the creature with the highest power among creatures target opponent controls gets Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>When Hired Gun enters, put a vulnerable counter on the creature with the highest power among creatures target opponent controls. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/50.png" num="67">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -925,7 +926,7 @@ When Island Navigator enters, reveal cards from the top of your library until yo
 		</card>
 		<card>
 			<name>Golden Narwhal</name>
-			<text>Skulk, Vulnerable (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>Skulk, Vulnerable (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/51.png" num="107">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -943,8 +944,8 @@ When Island Navigator enters, reveal cards from the top of your library until yo
 		<card>
 			<name>Fizz</name>
 			<text>Whenever you cast an instant or sorcery, exile Fizz, then return Fizz to the battlefield under your control.
-Whenever Fizz enters, you get an experience counter.
-At the end of any phase, if you have six or more experience counters, transform Fizz.
+Whenever Fizz enters, if he wasn&apos;t cast, you get an experience counter.
+At the end of any phase on your turn, if you have six or more experience counters, transform Fizz.
 Partner
 ---
 (Back): Fizz, The Tidal Trickster</text>
@@ -966,7 +967,7 @@ Partner
 		<card>
 			<name>Fizz, The Tidal Trickster</name>
 			<text>Whenever you cast an instant or sorcery, exile Fizz, then return Fizz, The Tidal Trickster to the battlefield under your control.
-When Fizz, The Tidal Trickster deals combat damage to an opponent, target creature an opponent controls gets Vulnerable, then create Longtooth token. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)
+Whenever Fizz deals combat damage to an opponent, put a vulnerable counter on target creature an opponent controls, then create Longtooth token. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
 ---
 (Front): Fizz</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/52_back.png" num="106b">LORT-RT</set>
@@ -1052,7 +1053,7 @@ When Fizz, The Tidal Trickster deals combat damage to an opponent, target creatu
 		</card>
 		<card>
 			<name>Devourer of the Depths</name>
-			<text>Deep (The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)
+			<text>Deep (If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)
 When Devourer of the Depths enters, you may exile target creature an opponent controls with less toughness than Devourer of the Depths.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/57.png" num="61">LORT-RT</set>
 			<prop>
@@ -1105,7 +1106,7 @@ When Coral Creatures enters, reveal cards from the top of your library until you
 		</card>
 		<card>
 			<name>Citrus Courier</name>
-			<text>Plunder: remove all damage from each creature you control, then you gain 3 life. After this phase, there is an additional combat phase. (If an opponent was dealt damage this turn, when this creature enters remove all damage from each creature you control, then you gain 3 life. After this phase, there is an additional combat phase.)</text>
+			<text>Plunder — If an opponent was dealt damage this turn, when Citrus Courier enters, remove all damage from each creature you control, then you gain 3 life. After this phase, there is an additional combat phase.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/60.png" num="60">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -1122,7 +1123,7 @@ When Coral Creatures enters, reveal cards from the top of your library until you
 		</card>
 		<card>
 			<name>Chum the Waters</name>
-			<text>Target creature an opponent controls gets Vulnerable. Create a Longtooth token. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>Put a vulnerable counter on target creature an opponent controls. Create a Longtooth token. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/61.png" num="59">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -1163,8 +1164,8 @@ Partner
 		<card>
 			<name>Gangplank, The Saltwater Scourge</name>
 			<text>Trample
-When Gangplank transforms and at the start of your upkeep, create a Powder Keg token.
-Whenever one or more creatures you control attack, Gangplank deals 1 damage to all opponents and creatures they control.
+When Gangplank transforms and at the beginning of your upkeep, create a Powder Keg token.
+Whenever one or more creatures you control attack, Gangplank deals 1 damage to each opponent and each creature they control.
 ---
 (Front): Captain Gangplank</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/62_back.png" num="58b">LORT-RT</set>
@@ -1184,8 +1185,8 @@ Whenever one or more creatures you control attack, Gangplank deals 1 damage to a
 		</card>
 		<card>
 			<name>Captain Fortune</name>
-			<text>Whenever one or more creatures you control attack, put a Fortune counter on Captain Fortune. At the end of any phase on your turn, if there are four or more Fortune counters on Captain Fortune, remove all Fortune counters from Captain Fortune, then transform her.
-At the beginning of the combat damage step of each combat during your turn, Captain Fortune deals 1 damage to target player and each blocking creature they control.
+			<text>At the beginning of the combat damage step of each combat during your turn, Captain Fortune deals 1 damage to target player and each blocking creature they control.
+Whenever one or more creatures you control attack, put a Fortune counter on Captain Fortune. At the end of any phase on your turn, if there are four or more Fortune counters on Captain Fortune, remove all Fortune counters from Captain Fortune, then transform her.
 Partner
 ---
 (Back): Miss Fortune, The Queen of Bilgewater</text>
@@ -1263,8 +1264,8 @@ When Brash Gambler attacks, exile two cards from the top of your library. You ma
 		</card>
 		<card>
 			<name>Black Market Merchant</name>
-			<text>Plunder: exile a card from the bottom of target opponents library. You may cast cards exiled this way for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. (If an opponent was dealt damage this turn, when this creature enters exile a card from the bottom of target opponents library. You may cast cards exiled this way for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy.)
-Casting cards from exile costs {1} less to cast.</text>
+			<text>Plunder — If an opponent was dealt damage this turn, when Black Market Merchant enters, nab 1. (Look at the bottom a card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast them.)
+Spells you control cost {1} less to cast from exile.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/66.png" num="55">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -1281,7 +1282,7 @@ Casting cards from exile costs {1} less to cast.</text>
 		</card>
 		<card>
 			<name>Abyssal Eye</name>
-			<text>Skulk, Deep (This creature can&apos;t be blocked by creatures with greater power. The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)
+			<text>Skulk, Deep (This creature can&apos;t be blocked by creatures with greater power. If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)
 Whenever Abyssal Eye deals combat damage to an opponent, draw a card.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/67.png" num="53">LORT-RT</set>
 			<prop>
@@ -1300,7 +1301,7 @@ Whenever Abyssal Eye deals combat damage to an opponent, draw a card.</text>
 		<card>
 			<name>Nautilus</name>
 			<text>Fearsome, Absorb 1 (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-At the end of any phase on your turn, if you are Deep, transform Nautilus. (The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)
+At the end of any phase on your turn, if you are Deep, transform Nautilus. (If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)
 Partner
 ---
 (Back): Nautilus, The Titan of the Depths</text>
@@ -1343,7 +1344,7 @@ Leviathan and Giant creatures you control cost {4} less to cast.
 		</card>
 		<card>
 			<name>Sapling LORT-RT</name>
-			<text>Ephemeral, Challenger (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+			<text>Ephemeral, Challenger (This creature has haste. At the end of turn, sacrifice it. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/69.png" num="3">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -1361,9 +1362,9 @@ Leviathan and Giant creatures you control cost {4} less to cast.
 		</card>
 		<card>
 			<name>Vi, The Piltover Enforcer</name>
-			<text>Challenger, Absorb 1 (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
-Magecraft — Whenever you cast or copy an instant or sorcery spell, Vi gets a +1/+0 counter.
-At the start of your post-combat main phase, if Vi attacked and dealt 10 or more combat damage, remove all counters from Vi and transform her.
+			<text>Absorb 1, Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+0 counter on Vi.
+At the beginning of your post-combat main phase, if Vi attacked and dealt 10 or more combat damage this turn, remove all counters from Vi and transform her.
 Partner
 ---
 (Back): Vi, Piltover&apos;s Finest</text>
@@ -1384,7 +1385,7 @@ Partner
 		</card>
 		<card>
 			<name>Vi, Piltover&apos;s Finest</name>
-			<text>Challenger, Absorb 1, Afflict 5 (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
+			<text>Absorb 1, Afflict 5, Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
 ---
 (Front): Vi, The Piltover Enforcer</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/70_back.png" num="98b">LORT-RT</set>
@@ -1540,7 +1541,7 @@ Miracle {U}{R} (You may cast this card for its miracle cost when you draw it if 
 		<card>
 			<name>Subpurrsible</name>
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
-When Subpurrsible enters, draw a card. Then if you have ten cards with different names in your graveyard, Subpurrsible gets +4/+0.</text>
+When Subpurrsible enters, draw a card. Then if you have ten cards with different names in your graveyard, put four +1/+0 counters on Subpurrsible.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/79.png" num="93">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -1558,7 +1559,7 @@ When Subpurrsible enters, draw a card. Then if you have ten cards with different
 		<card>
 			<name>Wolfrider</name>
 			<text>Trample
-Plunder: add one mana of any color. (If an opponent was dealt damage this turn, when this creature enters add one mana of any color.)</text>
+Plunder — If an opponent was dealt damage this turn, when Wolfrider enters, add one mana of any colour.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/80.png" num="52">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -1576,7 +1577,7 @@ Plunder: add one mana of any color. (If an opponent was dealt damage this turn, 
 		<card>
 			<name>Warmother Sejuani</name>
 			<text>Trample
-When Warmother Sejuani enters, target creature an opponent controls gets Frostbite and Vulnerable until the end of your next turn. (A creature with frostbite gains -X/-0 where X is that creatures power until the end of the turn. When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)
+When Warmother Sejuani enters, target creature an opponent controls gets Frostbite and Vulnerable until the end of your next turn. (A creature with frostbite gains -X/-0 where X is that creatures power until the end of the turn. When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
 The first time each turn a source you control deals damage to an opponent, put a Claw counter on Warmother Sejuani. At the end of any phase on your turn, if Warmother Sejuani has five or more Claw counters, remove all Claw counters from Warmother Sejuani and transform her.
 Partner
 ---
@@ -1599,7 +1600,7 @@ Partner
 		<card>
 			<name>Sejuani, The Fury of the North</name>
 			<text>Trample
-When Sejuani, The Fury of the North transforms, target creature an opponent controls gets Frostbite and Vulnerable until the end of your next turn. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)
+When Sejuani transforms, target creature an opponent controls gets Frostbite and Vulnerable until the end of your next turn. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
 The first time each turn a source you control deals damage to an opponent, Frostbite each creature they control. (A creature with frostbite gains -X/-0 where X is that creatures power until the end of the turn.)
 ---
 (Front): Warmother Sejuani</text>
@@ -1620,7 +1621,7 @@ The first time each turn a source you control deals damage to an opponent, Frost
 		</card>
 		<card>
 			<name>Ursine Spiritwalker</name>
-			<text>Plunder: transform Ursine Spiritwalker. (If an opponent was dealt damage this turn, when this creature enters transform Ursine Spiritwalker.)
+			<text>Plunder — If an opponent was dealt damage this turn, when Ursine Spiritwalker enters, transform Ursine Spiritwalker.
 ---
 (Back): Stormclaw Ursine</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/82_front.png" num="50a">LORT-RT</set>
@@ -1662,7 +1663,7 @@ Other creatures you control with power 5 or greater have Trample.
 		<card>
 			<name>The Tuskraider</name>
 			<text>When The Tuskraider enters, search your library and/or graveyard for a card named Warmother Sejuani, reveal it, and put it into your hand. If you search your library this way, shuffle.
-Plunder: The Tuskraider gets the ability &quot;Double the power and touchness of all cratures you control&quot;. (If an opponent was dealt damage this turn, when this creature enters The Tuskraider gets the ability &quot;Double the power and touchness of all cratures you control&quot;.)</text>
+Plunder — If an opponent was dealt damage this turn, when The Tuskraider enters, The Tuskraider has the ability &quot;Creatures you control gets +X/+Y, where X is its power and Y is its toughness&quot;.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/83.png" num="49">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -1679,8 +1680,8 @@ Plunder: The Tuskraider gets the ability &quot;Double the power and touchness of
 		</card>
 		<card>
 			<name>Shared Spoils</name>
-			<text>The next three creatures that enters under your control enter with a +1/+1 counter.
-Plunder: reveal cards from the top of your library until you reveal a creature, add it to your hand and shuffle all other revealed cards into your library. (If an opponent was dealt damage this turn, when this spell is cast reveal cards from the top of your library until you reveal a creature, add it to your hand and shuffle all other revealed cards into your library.)</text>
+			<text>Until the end of turn, the next three creatures you cast enter with an additional +1/+1 counter.
+Plunder — If an opponent was dealt damage this turn, when this spell resolves, reveal cards from the top of your library until you reveal a creature, add it to your hand and shuffle all other revealed cards into your library.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/84.png" num="48">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -1729,7 +1730,7 @@ Plunder: reveal cards from the top of your library until you reveal a creature, 
 		</card>
 		<card>
 			<name>Ember Maiden</name>
-			<text>At the start of your upkeep, Ember Maiden deals 1 damage to each player and each creature and planeswalker they control. Put a -1/-1 counter on Ember Maiden.</text>
+			<text>At the start of your upkeep, Ember Maiden deals 1 damage to each player and each creature and planeswalker they control. Put a -0/-1 counter on Ember Maiden.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/87.png" num="45">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -1746,7 +1747,7 @@ Plunder: reveal cards from the top of your library until you reveal a creature, 
 		</card>
 		<card>
 			<name>Caught in the Cold</name>
-			<text>Target creature an opponent controls gets Frostbite and Vulnerable until the end of turn. (A creature with frostbite gains -X/-0 where X is that creatures power until the end of the turn. When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>Target creature an opponent controls gets Frostbite and Vulnerable until the end of turn. (A creature with frostbite gains -X/-0 where X is that creatures power until the end of the turn. When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/88.png" num="44">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -1993,7 +1994,7 @@ Armored Tuskrider has protection from creatures with power 4 or less.</text>
 		</card>
 		<card>
 			<name>Terror of the Tides</name>
-			<text>Deep (The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)
+			<text>Deep (If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)
 Leviathan creatures you control have Fearsome. (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
 Whenever Terror of the Tides attacks, creatures your opponents control get -2/-0 until the end of the turn.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/101.png" num="31">LORT-RT</set>
@@ -2081,7 +2082,7 @@ Whenever a non-legendary creature you control enters, destroy it and create an O
 		<card>
 			<name>Maokai</name>
 			<text>The first time you cast a creature each turn, Toss 2 and create a Sapling token. (Exile two cards from the bottom of your library.)
-Whenever a creature you control is destroyed, or whenever you toss a card, put that many Twisted counters on Maokai. Twisted counters cannot be proliferated or copied in any way. At the beginning of the end phase on your turn, if Maokai has twenty five or more Twisted counters, remove all Twisted counters from Maokai, then transform him.
+Whenever a creature you control is destroyed, or whenever you toss a card, put a Twisted counter on Maokai. Twisted counters cannot be proliferated or copied. At the beginning of the end phase on your turn, if Maokai has twenty five or more Twisted counters, remove all Twisted counters from Maokai, then transform him.
 Partner
 ---
 (Back): Maokai, The Twisted Treant</text>
@@ -2104,7 +2105,7 @@ Partner
 			<name>Maokai, The Twisted Treant</name>
 			<text>When Maokai transforms, exile each opponents library except the bottom four cards.
 Juggernaut (After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)
-At the start of your upkeep, create a Sapling token
+At the start of your upkeep, create a Sapling token.
 ---
 (Front): Maokai</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/106_back.png" num="25b">LORT-RT</set>
@@ -2160,7 +2161,7 @@ When Blighted Caretaker enters create two Sapling tokens.</text>
 		</card>
 		<card>
 			<name>Barkbeast</name>
-			<text>The first time a creature you control dies while Barkbeast is on the battlefield, Barkbeast gets +2/+2.</text>
+			<text>The first time a creature you control dies while Barkbeast is on the battlefield, put two +1/+1 counters on Barkbeast.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/109.png" num="22">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2178,7 +2179,7 @@ When Blighted Caretaker enters create two Sapling tokens.</text>
 		<card>
 			<name>Sonic Wave</name>
 			<text>Kicker {U} (You may pay an additional {U} as you cast this spell.)
-Target creature you control gets challenger until the end of turn. If Sonic Wave was kicked that creature gets +2/+0 until the end of turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+Target creature you control gets challenger until the end of turn. If Sonic Wave was kicked that creature gets +2/+0 and challenger until the end of turn instead. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/110.png" num="21">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2195,7 +2196,7 @@ Target creature you control gets challenger until the end of turn. If Sonic Wave
 		<card>
 			<name>Scales of the Dragon</name>
 			<text>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
-When Scales of the Dragon enters, if it was kicked, target creature you control gets +2/+0.</text>
+When Scales of the Dragon enters, if it was kicked, put two +1/+0 counters on target creature you control.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/111.png" num="20">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2229,7 +2230,7 @@ Recall a creature you control. If Retreat was kicked, put a creature from your h
 		</card>
 		<card>
 			<name>Lee Sin, The Blind Monk</name>
-			<text>The first time you cast an instant or sorcery this turn, give Lee Sin challenger until the end of the turn. The second time you cast an instant or sorcery this turn, put a shield counter on Lee Sin. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
+			<text>The first time you cast an instant or sorcery this turn, Lee Sin gets challenger until the end of the turn. The second time you cast an instant or sorcery this turn, put a shield counter on Lee Sin. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
 Whenever you cast an instant or sorcery put a Monk counter on Lee Sin. At the end of any phase on your turn, if Lee Sin has eight or more Monk counters, remove all Monk counters from Lee Sin and transform him.
 Partner
 ---
@@ -2251,8 +2252,8 @@ Partner
 		</card>
 		<card>
 			<name>Lee Sin, Monastery Guardian</name>
-			<text>The first time you cast an instant or sorcery this turn, give Lee Sin challenger until the end of the turn. The second time you cast an instant or sorcery this turn, put a shield counter on Lee Sin. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
-Whenever Lee Sin attacks, if he is blocked, after the damage step, if Lee Sin has not been destroyed, that creatures controller loses life equal to the blocking creatures power. If the blocking creature is not destroyed, it is Recalled. (A recalled permanent is put back into its owners hand from the battlefield.)
+			<text>The first time you cast an instant or sorcery this turn, Lee Sin gets challenger until the end of the turn. The second time you cast an instant or sorcery this turn, put a shield counter on Lee Sin. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+Whenever Lee Sin attacks, if he is blocked, after the damage step, if Lee Sin has not been destroyed, choose a creature that blocked Lee Sin, that creatures controller loses life equal to that creatures power, then if that creature is not destroyed, it is Recalled. (A recalled permanent is put back into its owners hand from the battlefield.)
 ---
 (Front): Lee Sin, The Blind Monk</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/113_back.png" num="18b">LORT-RT</set>
@@ -2290,7 +2291,7 @@ Whenever Lee Sin attacks, if he is blocked, after the damage step, if Lee Sin ha
 		<card>
 			<name>Eye of the Dragon</name>
 			<text>Attune: {C} (When this creature enters, add {C}. This mana can only be used used to cast instants and sorceries.)
-At the start of your upkeep if you are in Flow create a Dragonling token. (At the start of your upkeep, if you cast two or more instants and/or sorcery spells during your last turn, you enter Flow until the start of your next upkeep.)</text>
+At the start of your upkeep, if you are in Flow, create a Dragonling token. (At the start of your upkeep, if you cast two or more instants and/or sorcery spells during your last turn, you enter Flow until the start of your next upkeep.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/115.png" num="16">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2323,7 +2324,7 @@ At the start of your upkeep if you are in Flow create a Dragonling token. (At th
 		</card>
 		<card>
 			<name>Deep Meditation</name>
-			<text>If you are in Flow Deep Meditation costs {2} less to cast. (At the start of your upkeep, if you cast two or more instants and/or sorcery spells during your last turn, you enter Flow until the start of your next upkeep.)
+			<text>If you are in Flow, Deep Meditation costs {2} less to cast. (At the start of your upkeep, if you cast two or more instants and/or sorcery spells during your last turn, you enter Flow until the start of your next upkeep.)
 Reveal cards from the top of your library until you reveal two instant and/or sorcery cards, add them to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/117.png" num="14">LORT-RT</set>
 			<prop>
@@ -2373,7 +2374,7 @@ Reveal cards from the top of your library until you reveal two instant and/or so
 		</card>
 		<card>
 			<name>Unyielding Spirit</name>
-			<text>Target creature you control gets Indestructible and &quot;This permanent can&apos;t be sacrificed until the end of your next turn&quot;.</text>
+			<text>Put an indestructible counter on target creature you control, until the end of your next turn it gets &quot;This permanent can&apos;t be sacrificed&quot;.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/120.png" num="10">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2405,7 +2406,7 @@ Reveal cards from the top of your library until you reveal two instant and/or so
 		</card>
 		<card>
 			<name>Quinn</name>
-			<text>Scout (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)
+			<text>Scout (After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)
 When Quinn enters, create a Valor token.
 Whenever Quinn attacks, put a Wing counter on Quinn. At the end of any phase on your turn, if Quinn has four or more Wing counters, remove all Wing counters from Quinn, then transform her.
 Partner
@@ -2428,8 +2429,8 @@ Partner
 		</card>
 		<card>
 			<name>Quinn, Demacia&apos;s Wings</name>
-			<text>Scout (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)
-Whenever Quinn attacks, create a tapped and attacking Valor token, forcing the creature with the highest power among creatures your opponent controls to block it.
+			<text>Scout (After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)
+Whenever Quinn attacks, create a tapped and attacking Valor token, then you may have the creature with the highest power among creatures the defending opponent controls to block it.
 ---
 (Front): Quinn</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/122_back.png" num="8b">LORT-RT</set>
@@ -2466,7 +2467,7 @@ Whenever Quinn attacks, create a tapped and attacking Valor token, forcing the c
 		</card>
 		<card>
 			<name>Grizzled Ranger</name>
-			<text>Scout (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)
+			<text>Scout (After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)
 When Grizzled Ranger is destroyed, create a Loyal Badgerbear token.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/124.png" num="6">LORT-RT</set>
 			<prop>
@@ -2484,7 +2485,7 @@ When Grizzled Ranger is destroyed, create a Loyal Badgerbear token.</text>
 		</card>
 		<card>
 			<name>Greenfang Warden</name>
-			<text>Scout, Absorb 1 (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)</text>
+			<text>Scout, Absorb 1 (After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/125.png" num="5">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2501,7 +2502,7 @@ When Grizzled Ranger is destroyed, create a Loyal Badgerbear token.</text>
 		</card>
 		<card>
 			<name>Greathorn Companion</name>
-			<text>Scout (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)</text>
+			<text>Scout (After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/126.png" num="4">LORT-RT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2518,7 +2519,7 @@ When Grizzled Ranger is destroyed, create a Loyal Badgerbear token.</text>
 		</card>
 		<card>
 			<name>Genevieve Elmheart</name>
-			<text>Scout, Challenger (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
+			<text>Scout, Challenger (After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
 When Genevieve Elmheart enters, each other creature you control gets +1/+1 until the end of the turn.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/127.png" num="3">LORT-RT</set>
 			<prop>

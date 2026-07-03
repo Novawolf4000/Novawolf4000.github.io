@@ -1,4 +1,335 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Valor
+rules_text: Challenger, Scout [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature. Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i] => Challenger, Scout [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature. After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)[/i]
+
+Ye Been Warned
+rules_text: Target creature gets Vulnerable until end of turn. If the target creature is destroyed this turn, draw a card. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => Target creature gets Vulnerable until end of turn. If the target creature is destroyed this turn, draw a card. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Vicious Platewyrm
+rules_text: Fearsome, Deep [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less. The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)[/i] => Fearsome, Deep [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less. If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i]
+
+Twisted Fate
+rules_text: First strike
+Whenever Twisted Fate enters, choose one —
+• Add {C} and draw a card.
+• Twisted Fate deals 1 damage to each opponent and each creature they control.
+• Twisted Fate deals 2 damage to the creature with the highest power among creatures target opponent controls, then put a stun counter on it.
+Whenever you draw a card, put a Swindler counter on Twisted Fate. At the end of any phase on your turn, if Twisted Fate has nine or more Swindler counters, remove all Swindler counters from Twisted Fate and transform him.
+Partner => First strike
+Whenever Twisted Fate enters, choose one —
+• Add {C} and draw a card.
+• Twisted Fate deals 1 damage to each opponent and each creature they control.
+• Twisted Fate deals 2 damage to the creature with the highest power among creatures target opponent controls, if that creature is not destroyed, put a stun counter on it.
+Whenever you draw a card, put a Swindler counter on Twisted Fate. At the end of any phase on your turn, if Twisted Fate has nine or more Swindler counters, remove all Swindler counters from Twisted Fate and transform him.
+Partner
+
+The Syren
+rules_text: Scout [i](Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i]
+When this creature enters, search your library and/or graveyard for a card named Captain Fortune, reveal it, and put it into your hand. If you search your library this way, shuffle.
+Whenever a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead. => Scout [i](After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)[/i]
+When The Syren enters, search your library and/or graveyard for a card named Captain Fortune, reveal it, and put it into your hand. If you search your library this way, shuffle.
+Whenever a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.
+
+The Dreadway
+rules_text: When this creature enters, search your library and/or graveyard for a card named Captain Gangplank, reveal it, and put it into your hand. If you search your library this way, shuffle.
+If a noncombat source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead. => When The Dreadway enters, search your library and/or graveyard for a card named Captain Gangplank, reveal it, and put it into your hand. If you search your library this way, shuffle.
+If a noncombat source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
+
+The Beast Below
+rules_text: Deep [i](The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)[/i] => Deep [i](If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i]
+
+Strong-arm
+rules_text: Plunder: return a creature to its owners hand. [i](If an opponent was dealt damage this turn, when this spell is cast return a creature to its owners hand.)[/i] => You may only cast this spell if one or more opponents was dealt damage this turn.
+Choose a creature on the battlefield, return that creature to its owners hand.
+
+Smooth Soloist
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+Plunder: exile any number of creature cards from your hand. You may cast a card exiled this way for as long as it remains exiled and costs {2} less to cast. [i](If an opponent was dealt damage this turn, when this creature enters exile any number of creature cards from your hand. You may cast a card exiled this way for as long as it remains exiled and costs {2} less to cast.)[/i] => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+[i]Plunder[/i] — If an opponent was dealt damage this turn, when Smooth Soloist enters, exile any number of creature cards from your hand. You may cast cards exiled this way for as long as it remains exiled. Cards exiled this way costs {2} less to cast from exile.
+
+Slotbot
+rules_text: When Slotbot enters and at the start of your pre-combat main phase, Slotbot gets +0/+1 for each card in hand, then swap Slotbots power and toughness. => When Slotbot enters and at the start of your pre-combat main phase, put a number of +0/+1 counters on Slotbot equal to the number of cards in your hand, then swap Slotbots power and toughness.
+
+Shipwreck Hoarder
+rules_text: Deep [i](The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)[/i]
+When Shipwreck Hoarder enters, Toss 1, then roll a d20. Repeat this process once. [i](Exile a card from the bottom of your library.)[/i]
+[b]1-7 [/b]| Create a Treasure Trove token.
+[b]8-14 [/b]| Create a Keelbreaker Token.
+[b]15-20 [/b]| Create three Vicious Platewyrm tokens. => Deep [i](If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i]
+When Shipwreck Hoarder enters, Toss 1, then roll a d20. Repeat this process once. [i](Exile a card from the bottom of your library.)[/i]
+[b]1-7 [/b]| Create a Treasure Trove token.
+[b]8-14 [/b]| Create a Keelbreaker Token.
+[b]15-20 [/b]| Create three Vicious Platewyrm tokens.
+
+Sheriff Lariette Rose
+type: Creature — Detective => Creature — Human Detective
+rules_text: When Sheriff Lariette Rose enters, each creature your opponents control get Vulnerable. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => When Sheriff Lariette Rose enters, put a vulnerable counter on each creature opponents control. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Shellshocker
+type: Creature — Turtle Warrior => Creature — Turtle Soldier
+
+Riptide Rex
+rules_text: Plunder: Riptide Rex deals 2 damage to a random creature a random opponent controls. If an opponent has no creatures, Riptide Rex deals 1 damage to that opponent instead. Repeat this process six times. [i](If an opponent was dealt damage this turn, when this creature enters Riptide Rex deals 2 damage to a random creature a random opponent controls. If an opponent has no creatures, Riptide Rex deals 1 damage to that opponent instead. Repeat this process six times.)[/i] => [i]Plunder[/i] — If an opponent was dealt damage this turn, when Riptide Rex enters, Riptide Rex deals 2 damage to a random creature a random opponent controls. If an opponent has no creatures, Riptide Rex deals 1 damage to that opponent instead. Repeat this process six times.
+
+Riptide
+rules_text: Kicker {R} [i](You may pay an additional {R} as you cast this spell.)[/i]
+Put a stun counter onto target creature an opponent controls. If this card was kicked, shuffle target creature into its owners library instead. => Kicker {R} [i](You may pay an additional {R} as you cast this spell.)[/i]
+Put a stun counter onto target creature an opponent controls. If this spell was kicked, shuffle target creature into its owners library instead.
+
+Razorscale Hunter
+rules_text: Scout. [i](Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i]
+When Razorscale Hunter enters, target creature you don't control gets Vulnerable. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => Scout. [i](After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)[/i]
+When Razorscale Hunter enters, put a vulnerable counter on target creature an opponent controls. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Powder Monkey
+rules_text: Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+When Powder Monkey leaves the battlefield, Powder Monkey deals 1 damage to each opponent. => Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+When Powder Monkey leaves the battlefield, Powder Monkey deals 1 damage to each opponent.
+
+Powder Keg
+rules_text: Vulnerable [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i]
+Powder Keg cannot attack or block.
+If you would create a Powder Keg while you already have one, add a Keg counter onto your Powder Keg instead.
+If a noncombat source you control would deal damage to a permanent or player, sacrifice your Powder Keg. The noncombat source you control deals that much damage plus 1+X where X is the number of Keg counters on the sacrificed Powder Keg. => Vulnerable [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+Powder Keg cannot attack or block.
+If you would create a Powder Keg while you already have one, add a Keg counter onto your Powder Keg instead.
+If a noncombat source you control would deal damage to a permanent or player, sacrifice your Powder Keg. The noncombat source you control deals that much damage plus 1+X where X is the number of Keg counters on the sacrificed Powder Keg.
+
+Pool Shark
+rules_text: When Pool Shark enters, put a charge counter on Pool Shark.
+At the start of your draw step, remove a charge counter from Pool Shark and exile the top card of your library. You may cast that card from exile until the end of your next turn. => When Pool Shark enters, put a charge counter on Pool Shark.
+At the beginning of your draw step, remove a charge counter from Pool Shark and exile the top card of your library. Until the end of your next turn, you may cast that card from exile.
+
+Pocket Aces
+rules_text: Target creature you control gets +2/+1.
+Miracle {1}{BR} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Put a +2/+1 counter on target creature you control.
+Miracle {BR} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Plunder Poro
+rules_text: Plunder: randomly choose two abilities from among first strike, vigilance, menace, lifelink, flying, haste, reach, hexproof, and trample. Plunder Poro has each of the chosen abilities. [i](If an opponent was dealt damage this turn, when this creature enters randomly choose two abilities from among first strike, vigilance, menace, lifelink, flying, haste, reach, hexproof, and trample. Plunder Poro has each of the chosen abilities.)[/i] => [i]Plunder[/i] — If an opponent was dealt damage this turn, when Plunder Poro enters, randomly choose two abilities from among first strike, vigilance, menace, lifelink, flying, haste, reach, hexproof, and trample. Plunder Poro has each of the chosen abilities.
+
+Pilfered Goods
+rules_text: Nab 1 [i](Exile a card from the bottom of target opponents library. You may cast cards exiled this way for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. )[/i]
+Plunder: Nab 1 [i](If an opponent was dealt damage this turn, when this spell is cast Nab 1.)[/i] => Nab 1 [i](Look at the bottom a card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast them.)[/i]
+[i]Plunder[/i] — If an opponent was dealt damage this turn, when this spell resolves Nab 1.
+
+Pick a Card
+rules_text: As an additional cost to cast this spell, shuffle one card from your hand into your library.
+At the start of your next upkeep, exile the top two cards of your library. You may cast these cards from exile until the end of turn. => As an additional cost to cast this spell, shuffle a card from your hand into your library.
+At the beginning of your next upkeep, exile the top two cards of your library. Until the end of turn, you may cast the cards exiled this way from exile.
+
+Monkey Idol
+rules_text: Vanishing 3 [i](This creature enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+Monkey Idol cannot attack or block.
+At the start of your upkeep, create a Powder Monkey token. => Vanishing 3 [i](This creature enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+Monkey Idol cannot attack or block.
+At the beginning of your upkeep, create a Powder Monkey token.
+
+Make it Rain
+rules_text: Make it Rain randomly deals 1 damage to an opponent or creature they control. Repeat this process two times. => Make it Rain randomly deals 1 damage to an opponent or a creature they control. Repeat this process two times.
+
+Lure of the Depths
+rules_text: You get an emblem with “Leviathan creatures you control cost {1} less to cast”. Reveal cards from the top of your library until you reveal a Leviathan creature, add it to your hand, then shuffle all other revealed cards into your library. => You get an emblem with “Leviathan creatures you control cost {1} less to cast”. Then reveal cards from the top of your library until you reveal a Leviathan creature, add it to your hand, then shuffle all other revealed cards into your library.
+
+Jaull Hunters
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When Jaull Hunters enters, reveal cards from the top of your library until you reveal three leviathan creatures, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library. => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+When Jaull Hunters enters, reveal cards from the top of your library until you reveal three leviathan creatures, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+
+Jagged Taskmaster
+rules_text: Plunder: Jagged Taskmaster gets “creatures you control with mana value 1 gets +1/+0” [i](If an opponent was dealt damage this turn, when this creature enters Jagged Taskmaster gets “creatures you control with mana value 1 gets +1/+0”.)[/i] => [i]Plunder[/i] — If an opponent was dealt damage this turn, when Jagged Taskmaster enters, Jagged Taskmaster gets “Creatures you control with mana value 1 gets +1/+0”.
+
+Jagged Butcher
+rules_text: Plunder: put a +1/+1 counter on Jagged Butcher. [i](If an opponent was dealt damage this turn, when this creature enters put a +1/+1 counter on Jagged Butcher.)[/i] => [i]Plunder[/i] — If an opponent was dealt damage this turn, when Jagged Butcher enters, put a +1/+1 counter on Jagged Butcher.
+
+Island Navigator
+rules_text: Scout [i](Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i]
+When Island Navigator enters, reveal cards from the top of your library until you reveal a creature with mana value 1, put that creature onto the battlefield under your control and give it Scout, then shuffle all other revealed cards into your library. => Scout [i](After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)[/i]
+When Island Navigator enters, reveal cards from the top of your library until you reveal a creature with mana value 1, put that creature onto the battlefield under your control and give it Scout, then shuffle all other revealed cards into your library.
+
+Hunting Fleet
+rules_text: Gift a Golden Narwhal token. => When Hunting Fleet enters, target opponent creates a Golden Narwhal token.
+
+Hired Gun
+rules_text: When Hired Gun enters, the creature with the highest power among creatures target opponent controls gets Vulnerable. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => When Hired Gun enters, put a vulnerable counter on the creature with the highest power among creatures target opponent controls. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Golden Narwhal
+rules_text: Skulk, Vulnerable [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => Skulk, Vulnerable [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Fizz
+rules_text: Whenever you cast an instant or sorcery, exile Fizz, then return Fizz to the battlefield under your control.
+Whenever Fizz enters, you get an experience counter.
+At the end of any phase, if you have six or more experience counters, transform Fizz.
+Partner => Whenever you cast an instant or sorcery, exile Fizz, then return Fizz to the battlefield under your control.
+Whenever Fizz enters, if he wasn't cast, you get an experience counter.
+At the end of any phase on your turn, if you have six or more experience counters, transform Fizz.
+Partner
+
+Devourer of the Depths
+rules_text: Deep [i](The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)[/i]
+When Devourer of the Depths enters, you may exile target creature an opponent controls with less toughness than Devourer of the Depths. => Deep [i](If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i]
+When Devourer of the Depths enters, you may exile target creature an opponent controls with less toughness than Devourer of the Depths.
+
+Citrus Courier
+rules_text: Plunder: remove all damage from each creature you control, then you gain 3 life. After this phase, there is an additional combat phase. [i](If an opponent was dealt damage this turn, when this creature enters remove all damage from each creature you control, then you gain 3 life. After this phase, there is an additional combat phase.)[/i] => [i]Plunder[/i] — If an opponent was dealt damage this turn, when Citrus Courier enters, remove all damage from each creature you control, then you gain 3 life. After this phase, there is an additional combat phase.
+
+Chum the Waters
+rules_text: Target creature an opponent controls gets Vulnerable. Create a Longtooth token. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => Put a vulnerable counter on target creature an opponent controls. Create a Longtooth token. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Captain Gangplank
+
+Captain Fortune
+rules_text: Whenever one or more creatures you control attack, put a Fortune counter on Captain Fortune. At the end of any phase on your turn, if there are four or more Fortune counters on Captain Fortune, remove all Fortune counters from Captain Fortune, then transform her.
+At the beginning of the combat damage step of each combat during your turn, Captain Fortune deals 1 damage to target player and each blocking creature they control.
+Partner => At the beginning of the combat damage step of each combat during your turn, Captain Fortune deals 1 damage to target player and each blocking creature they control.
+Whenever one or more creatures you control attack, put a Fortune counter on Captain Fortune. At the end of any phase on your turn, if there are four or more Fortune counters on Captain Fortune, remove all Fortune counters from Captain Fortune, then transform her.
+Partner
+
+Black Market Merchant
+rules_text: Plunder: exile a card from the bottom of target opponents library. You may cast cards exiled this way for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. [i](If an opponent was dealt damage this turn, when this creature enters exile a card from the bottom of target opponents library. You may cast cards exiled this way for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy.)[/i]
+Casting cards from exile costs {1} less to cast. => [i]Plunder[/i] — If an opponent was dealt damage this turn, when Black Market Merchant enters, nab 1. [i](Look at the bottom a card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast them.)[/i]
+Spells you control cost {1} less to cast from exile.
+
+Abyssal Eye
+rules_text: Skulk, Deep [i](This creature can't be blocked by creatures with greater power. The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)[/i]
+Whenever Abyssal Eye deals combat damage to an opponent, draw a card. => Skulk, Deep [i](This creature can't be blocked by creatures with greater power. If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i]
+Whenever Abyssal Eye deals combat damage to an opponent, draw a card.
+
+Nautilus
+rules_text: Fearsome, Absorb 1 [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+At the end of any phase on your turn, if you are Deep, transform Nautilus. [i](The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)[/i]
+Partner => Fearsome, Absorb 1 [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+At the end of any phase on your turn, if you are Deep, transform Nautilus. [i](If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i]
+Partner
+
+Sapling
+rules_text: Ephemeral, Challenger [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Ephemeral, Challenger [i](This creature has haste. At the end of turn, sacrifice it. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Vi, The Piltover Enforcer
+rules_text: Challenger, Absorb 1 [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, Vi gets a +1/+0 counter.
+At the start of your post-combat main phase, if Vi attacked and dealt 10 or more combat damage, remove all counters from Vi and transform her.
+Partner => Absorb 1, Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, put a +1/+0 counter on Vi.
+At the beginning of your post-combat main phase, if Vi attacked and dealt 10 or more combat damage this turn, remove all counters from Vi and transform her.
+Partner
+
+Subpurrsible
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When Subpurrsible enters, draw a card. Then if you have ten cards with different names in your graveyard, Subpurrsible gets +4/+0. => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When Subpurrsible enters, draw a card. Then if you have ten cards with different names in your graveyard, put four +1/+0 counters on Subpurrsible.
+
+Wolfrider
+rules_text: Trample
+Plunder: add one mana of any color. [i](If an opponent was dealt damage this turn, when this creature enters add one mana of any color.)[/i] => Trample
+[i]Plunder[/i] — If an opponent was dealt damage this turn, when Wolfrider enters, add one mana of any colour.
+
+Warmother Sejuani
+rules_text: Trample
+When Warmother Sejuani enters, target creature an opponent controls gets Frostbite and Vulnerable until the end of your next turn. [i](A creature with frostbite gains -X/-0 where X is that creatures power until the end of the turn. When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i]
+The first time each turn a source you control deals damage to an opponent, put a Claw counter on Warmother Sejuani. At the end of any phase on your turn, if Warmother Sejuani has five or more Claw counters, remove all Claw counters from Warmother Sejuani and transform her.
+Partner => Trample
+When Warmother Sejuani enters, target creature an opponent controls gets Frostbite and Vulnerable until the end of your next turn. [i](A creature with frostbite gains -X/-0 where X is that creatures power until the end of the turn. When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+The first time each turn a source you control deals damage to an opponent, put a Claw counter on Warmother Sejuani. At the end of any phase on your turn, if Warmother Sejuani has five or more Claw counters, remove all Claw counters from Warmother Sejuani and transform her.
+Partner
+
+Ursine Spiritwalker
+rules_text: Plunder: transform Ursine Spiritwalker. [i](If an opponent was dealt damage this turn, when this creature enters transform Ursine Spiritwalker.)[/i] => [i]Plunder[/i] — If an opponent was dealt damage this turn, when Ursine Spiritwalker enters, transform Ursine Spiritwalker.
+
+The Tuskraider
+rules_text: When The Tuskraider enters, search your library and/or graveyard for a card named Warmother Sejuani, reveal it, and put it into your hand. If you search your library this way, shuffle.
+Plunder: The Tuskraider gets the ability “Double the power and touchness of all cratures you control”. [i](If an opponent was dealt damage this turn, when this creature enters The Tuskraider gets the ability “Double the power and touchness of all cratures you control”.)[/i] => When The Tuskraider enters, search your library and/or graveyard for a card named Warmother Sejuani, reveal it, and put it into your hand. If you search your library this way, shuffle.
+[i]Plunder[/i] — If an opponent was dealt damage this turn, when The Tuskraider enters, The Tuskraider has the ability “Creatures you control gets +X/+Y, where X is its power and Y is its toughness”.
+
+Shared Spoils
+rules_text: The next three creatures that enters under your control enter with a +1/+1 counter.
+Plunder: reveal cards from the top of your library until you reveal a creature, add it to your hand and shuffle all other revealed cards into your library. [i](If an opponent was dealt damage this turn, when this spell is cast reveal cards from the top of your library until you reveal a creature, add it to your hand and shuffle all other revealed cards into your library.)[/i] => Until the end of turn, the next three creatures you cast enter with an additional +1/+1 counter.
+[i]Plunder[/i] — If an opponent was dealt damage this turn, when this spell resolves, reveal cards from the top of your library until you reveal a creature, add it to your hand and shuffle all other revealed cards into your library.
+
+Ember Maiden
+rules_text: At the start of your upkeep, Ember Maiden deals 1 damage to each player and each creature and planeswalker they control. Put a -1/-1 counter on Ember Maiden. => At the start of your upkeep, Ember Maiden deals 1 damage to each player and each creature and planeswalker they control. Put a -0/-1 counter on Ember Maiden.
+
+Caught in the Cold
+rules_text: Target creature an opponent controls gets Frostbite and Vulnerable until the end of turn. [i](A creature with frostbite gains -X/-0 where X is that creatures power until the end of the turn. When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => Target creature an opponent controls gets Frostbite and Vulnerable until the end of turn. [i](A creature with frostbite gains -X/-0 where X is that creatures power until the end of the turn. When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Terror of the Tides
+rules_text: Deep [i](The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. If you are Deep, all creatures with Deep you control get +3/+3.)[/i]
+Leviathan creatures you control have Fearsome. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Whenever Terror of the Tides attacks, creatures your opponents control get -2/-0 until the end of the turn. => Deep [i](If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i]
+Leviathan creatures you control have Fearsome. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Whenever Terror of the Tides attacks, creatures your opponents control get -2/-0 until the end of the turn.
+
+Maokai
+rules_text: The first time you cast a creature each turn, Toss 2 and create a Sapling token. [i](Exile two cards from the bottom of your library.)[/i]
+Whenever a creature you control is destroyed, or whenever you toss a card, put that many Twisted counters on Maokai. Twisted counters cannot be proliferated or copied in any way. At the beginning of the end phase on your turn, if Maokai has twenty five or more Twisted counters, remove all Twisted counters from Maokai, then transform him.
+Partner => The first time you cast a creature each turn, Toss 2 and create a Sapling token. [i](Exile two cards from the bottom of your library.)[/i]
+Whenever a creature you control is destroyed, or whenever you toss a card, put a Twisted counter on Maokai. Twisted counters cannot be proliferated or copied. At the beginning of the end phase on your turn, if Maokai has twenty five or more Twisted counters, remove all Twisted counters from Maokai, then transform him.
+Partner
+
+Barkbeast
+rules_text: The first time a creature you control dies while Barkbeast is on the battlefield, Barkbeast gets +2/+2. => The first time a creature you control dies while Barkbeast is on the battlefield, put two +1/+1 counters on Barkbeast.
+
+Sonic Wave
+rules_text: Kicker {U} [i](You may pay an additional {U} as you cast this spell.)[/i]
+Target creature you control gets challenger until the end of turn. If Sonic Wave was kicked that creature gets +2/+0 until the end of turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Kicker {U} [i](You may pay an additional {U} as you cast this spell.)[/i]
+Target creature you control gets challenger until the end of turn. If Sonic Wave was kicked that creature gets +2/+0 and challenger until the end of turn instead. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Scales of the Dragon
+rules_text: Kicker {1}{U} [i](You may pay an additional {1}{U} as you cast this spell.)[/i]
+When Scales of the Dragon enters, if it was kicked, target creature you control gets +2/+0. => Kicker {1}{U} [i](You may pay an additional {1}{U} as you cast this spell.)[/i]
+When Scales of the Dragon enters, if it was kicked, put two +1/+0 counters on target creature you control.
+
+Lee Sin, The Blind Monk
+rules_text: The first time you cast an instant or sorcery this turn, give Lee Sin challenger until the end of the turn. The second time you cast an instant or sorcery this turn, put a shield counter on Lee Sin. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+Whenever you cast an instant or sorcery put a Monk counter on Lee Sin. At the end of any phase on your turn, if Lee Sin has eight or more Monk counters, remove all Monk counters from Lee Sin and transform him.
+Partner => The first time you cast an instant or sorcery this turn, Lee Sin gets challenger until the end of the turn. The second time you cast an instant or sorcery this turn, put a shield counter on Lee Sin. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+Whenever you cast an instant or sorcery put a Monk counter on Lee Sin. At the end of any phase on your turn, if Lee Sin has eight or more Monk counters, remove all Monk counters from Lee Sin and transform him.
+Partner
+
+Eye of the Dragon
+rules_text: Attune: {C} [i](When this creature enters, add {C}. This mana can only be used used to cast instants and sorceries.)[/i]
+At the start of your upkeep if you are in Flow create a Dragonling token. [i](At the start of your upkeep, if you cast two or more instants and/or sorcery spells during your last turn, you enter Flow until the start of your next upkeep.)[/i] => Attune: {C} [i](When this creature enters, add {C}. This mana can only be used used to cast instants and sorceries.)[/i]
+At the start of your upkeep, if you are in Flow, create a Dragonling token. [i](At the start of your upkeep, if you cast two or more instants and/or sorcery spells during your last turn, you enter Flow until the start of your next upkeep.)[/i]
+
+Deep Meditation
+rules_text: If you are in Flow Deep Meditation costs {2} less to cast. [i](At the start of your upkeep, if you cast two or more instants and/or sorcery spells during your last turn, you enter Flow until the start of your next upkeep.)[/i]
+Reveal cards from the top of your library until you reveal two instant and/or sorcery cards, add them to your hand, then shuffle all other revealed cards into your library. => If you are in Flow, Deep Meditation costs {2} less to cast. [i](At the start of your upkeep, if you cast two or more instants and/or sorcery spells during your last turn, you enter Flow until the start of your next upkeep.)[/i]
+Reveal cards from the top of your library until you reveal two instant and/or sorcery cards, add them to your hand, then shuffle all other revealed cards into your library.
+
+Unyielding Spirit
+rules_text: Target creature you control gets Indestructible and “This permanent can't be sacrificed until the end of your next turn”. => Put an indestructible counter on target creature you control, until the end of your next turn it gets “This permanent can't be sacrificed”.
+
+Quinn
+rules_text: Scout [i](Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i]
+When Quinn enters, create a Valor token.
+Whenever Quinn attacks, put a Wing counter on Quinn. At the end of any phase on your turn, if Quinn has four or more Wing counters, remove all Wing counters from Quinn, then transform her.
+Partner => Scout [i](After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)[/i]
+When Quinn enters, create a Valor token.
+Whenever Quinn attacks, put a Wing counter on Quinn. At the end of any phase on your turn, if Quinn has four or more Wing counters, remove all Wing counters from Quinn, then transform her.
+Partner
+
+Grizzled Ranger
+rules_text: Scout [i](Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i]
+When Grizzled Ranger is destroyed, create a Loyal Badgerbear token. => Scout [i](After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)[/i]
+When Grizzled Ranger is destroyed, create a Loyal Badgerbear token.
+
+Greenfang Warden
+rules_text: Scout, Absorb 1 [i](Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i] => Scout, Absorb 1 [i](After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)[/i]
+
+Greathorn Companion
+rules_text: Scout [i](Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i] => Scout [i](After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)[/i]
+
+Genevieve Elmheart
+rules_text: Scout, Challenger [i](Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When Genevieve Elmheart enters, each other creature you control gets +1/+1 until the end of the turn. => Scout, Challenger [i](After your pre-combat main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+When Genevieve Elmheart enters, each other creature you control gets +1/+1 until the end of the turn.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 

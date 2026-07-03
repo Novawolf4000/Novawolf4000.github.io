@@ -5,13 +5,13 @@
 			<name>LORT-MTN</name>
 			<longname>Legends Of Runeterra Converted: Call of the Mountain</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-17</releasedate>
+			<releasedate>2026-07-03</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Pesky Specter</name>
-			<text>Ephemeral (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)
+			<text>Ephemeral (This creature has haste. At the end of turn, sacrifice it.)
 When Pesky Specter is destroyed, random target opponent creates two Pesky Specter tokens.
 Whenever Pesky Specter is exiled, each player exiles each creature they control named Pesky Specter.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/0.png" num="41">LORT-MTN</set>
@@ -31,7 +31,7 @@ Whenever Pesky Specter is exiled, each player exiles each creature they control 
 		<card>
 			<name>Blade of the Exile</name>
 			<text>As an additional cost to cast this spell, remove three experience counters from yourself.
-Target creature you control gets +2/+0, Trample, and First strike.</text>
+Put a +2/+0 counter, a trample counter, and a first strike counter on target creature you control.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/1.png" num="51">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -67,7 +67,7 @@ Target creature you control gets +2/+0 until the end of your turn.</text>
 			<name>Heavy Blade Fragment</name>
 			<text>Focus (This instant cannot be cast during the combat phase or in response to another spell or ability.)
 You get an experience counter.
-Target creature you control gets Trample until the end of your turn.</text>
+Target creature you control gets trample until the end of your turn.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/3.png" num="55">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -85,7 +85,7 @@ Target creature you control gets Trample until the end of your turn.</text>
 			<name>Keen Blade Fragment</name>
 			<text>Focus (This instant cannot be cast during the combat phase or in response to another spell or ability.)
 You get an experience counter.
-Target creature you control gets First strike until the end of your turn.</text>
+Target creature you control gets first strike until the end of your turn.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/4.png" num="57">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -154,7 +154,7 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>Cosmic Rays</name>
-			<text>Exile all creatures opponents control with power 3 or less.</text>
+			<text>Exile each creature opponents control with power 3 or less.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/8.png" num="99">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -223,7 +223,7 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>Gem LORT-MTN</name>
-			<text>{1}: Sacrifice Gem, remove 1 damage from target creature, it gets a +1/+0 counter.</text>
+			<text>{1}: Sacrifice Gem, remove 1 damage from target creature, then put a +1/+0 counter on it.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/12.png" num="5">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -241,7 +241,7 @@ Equip {3}</text>
 		<card>
 			<name>Gravitum</name>
 			<text>While Gravitum is equipped onto a creature, it gets:
-{2}, {T}: Put a stun counter onto target creature, if the target is a nonlegendry creature, then put an stun counter on that creature at the start of your next upkeep, then shuffle Gravitum into your library. Choose one —
+{2}, {T}: Put a stun counter onto target creature, if the target is a nonlegendry creature, then put an stun counter on that creature at the beginning of your next upkeep, then shuffle Gravitum into your library. Choose one —
 • Search your library and/or graveyard for a card named Infernum, reveal it, and put it onto the battlefield. If you search your library this way, shuffle.
 • Search your library and/or graveyard for a card named Crescendum, reveal it, and put it onto the battlefield. If you search your library this way, shuffle.
 Equip legendary creature {0}
@@ -315,7 +315,7 @@ Reveal cards from the top of your library until you reveal X Celestial cards, th
 		</card>
 		<card>
 			<name>Moonglow</name>
-			<text>Target creature you control gets +0/+2 and a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<text>Put a +0/+2 counter and a spellshield counter on target creature you control. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/17.png" num="134">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -384,7 +384,7 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>Written in Stars</name>
-			<text>Search your library for a legendary creature, exile it, then shuffle. You may cast the creature exiled this way from exile for as long as it remains exiled and it costs {1} less to cast. When the exiled creature enters, put two +1/+1 counters on it.</text>
+			<text>Search your library for a legendary creature, exile it, then shuffle. You may cast the creature exiled this way from exile for as long as it remains exiled, it costs {1} less to cast. When the creature exiled this way enters, put two +1/+1 counters on it.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/21.png" num="184">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -419,7 +419,7 @@ Equip {3}</text>
 			<name>The Destroyer</name>
 			<text>Trample
 The Destroyer enters with a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
-When The Destroyer enters, it gets a +1/+0 counter for each Celestial creature you control, and for each Celestial card in your graveyard.</text>
+When The Destroyer enters, put a +1/+0 counter on it for each Celestial creature you control, and each Celestial card in your graveyard.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/23.png" num="104">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -454,9 +454,9 @@ When The Golden Sister enters, create a The Silver Sister token.</text>
 		</card>
 		<card>
 			<name>The Great Beyond</name>
-			<text>Flying, Fury (When this creature destroys another creature, put a +1/+1 counter on it.)
+			<text>Flying, Fury (Whenever a creature dealt damage by The Great Beyond this turn dies, put a +1/+1 counter on The Great Beyond.)
 The Great Beyond enters with a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
-When The Great Beyond enters, it gets a +1/+0 counter for each Celestial creature you control, and for each Celestial card in your graveyard.</text>
+When The Great Beyond enters, put a +1/+0 counter on it for each Celestial creature you control, and for each Celestial card in your graveyard.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/25.png" num="118">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -474,7 +474,7 @@ When The Great Beyond enters, it gets a +1/+0 counter for each Celestial creatur
 		<card>
 			<name>The Immortal Fire</name>
 			<text>Flying
-When The Immortal Fire enters, it gets a +1/+0 counter for each Celestial creature you control, and for each Celestial card in your graveyard.
+When The Immortal Fire enters, put a +1/+0 counter on it for each Celestial creature you control, and for each Celestial card in your graveyard.
 Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/26.png" num="121">LORT-MTN</set>
 			<prop>
@@ -509,9 +509,9 @@ Undying (When this creature dies, if it had no +1/+1 counters on it, return it t
 		</card>
 		<card>
 			<name>The Scourge</name>
-			<text>Trample, Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
-When The Scourge enters, it gets a +1/+0 counter for each Celestial creature you control, and for each Celestial card in your graveyard.
-Whenever The Scourge attacks, all other attacking creatures you control get +2/+2 and Trample until the end of turn.</text>
+			<text>Trample, Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+When The Scourge enters, put a +1/+0 counter on it for each Celestial creature you control, and for each Celestial card in your graveyard.
+Whenever The Scourge attacks, each other attacking creature you control gets +2/+2 and trample until the end of turn.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/28.png" num="148">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -528,7 +528,7 @@ Whenever The Scourge attacks, all other attacking creatures you control get +2/+
 		</card>
 		<card>
 			<name>The Serpent</name>
-			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/29.png" num="149">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -597,7 +597,7 @@ Whenever The Scourge attacks, all other attacking creatures you control get +2/+
 		</card>
 		<card>
 			<name>The Warrior</name>
-			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/33.png" num="181">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -632,7 +632,7 @@ When Captain Arrika enters, you may exile target creature an opponent controls u
 		</card>
 		<card>
 			<name>Confront</name>
-			<text>Target creature you control gets Challenger. If the target creature is a dragon, draw a card. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+			<text>Put a challenger counter on target creature you control. If the target creature is a dragon, draw a card. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/35.png" num="2">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -648,7 +648,7 @@ When Captain Arrika enters, you may exile target creature an opponent controls u
 		</card>
 		<card>
 			<name>Dragonguard Lieutenant</name>
-			<text>When Dragonguard Lieutenant enters, you may behold a Dragon, if you do Dragonguard Lieutenant gets Challenger. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+			<text>When Dragonguard Lieutenant enters, you may behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. (To behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant., choose a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. you control or reveal a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. card from your hand.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/36.png" num="3">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -665,7 +665,7 @@ When Captain Arrika enters, you may exile target creature an opponent controls u
 		</card>
 		<card>
 			<name>Dragonguard Lookout</name>
-			<text>When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap all creatures you control. After this phase, there is an additional combat phase. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)</text>
+			<text>When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap each creature you control. After this phase, there is an additional combat phase. (To behold a Dragon, if you do, untap each creature you control., choose a Dragon, if you do, untap each creature you control. you control or reveal a Dragon, if you do, untap each creature you control. card from your hand.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/37.png" num="4">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -716,8 +716,8 @@ Create a Dauntless Vanguard token for each creature you control that was destroy
 		</card>
 		<card>
 			<name>Kadregrin the Infernal</name>
-			<text>Fury (When this creature destroys another creature, put a +1/+1 counter on it.)
-When Kadregrin the Infernal enters, put four +1/+1 counters onto each other dragon creature you control.</text>
+			<text>Fury (Whenever a creature dealt damage by Kadregrin this turn dies, put a +1/+1 counter on Kadregrin.)
+When Kadregrin enters, put four +1/+1 counters on each other dragon creature you control.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/40.png" num="8">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -734,7 +734,7 @@ When Kadregrin the Infernal enters, put four +1/+1 counters onto each other drag
 		</card>
 		<card>
 			<name>Molten Breath</name>
-			<text>Target creature you control with Fury deals damage equal to its power to two creatures with the lowest power among creatures target opponent controls.</text>
+			<text>Choose a creature you control with fury. That creature deals damage equal to its power to the two creatures with the lowest power among creatures target opponent controls.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/41.png" num="9">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -750,7 +750,7 @@ When Kadregrin the Infernal enters, put four +1/+1 counters onto each other drag
 		</card>
 		<card>
 			<name>Screeching Dragon</name>
-			<text>Challenger, Fury (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature. When this creature destroys another creature, put a +1/+1 counter on it.)</text>
+			<text>Challenger, Fury (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature. Whenever a creature dealt damage by Screeching Dragon this turn dies, put a +1/+1 counter on Screeching Dragon.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/42.png" num="10">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -783,9 +783,9 @@ When Kadregrin the Infernal enters, put four +1/+1 counters onto each other drag
 		</card>
 		<card>
 			<name>Shyvana, The Half-Dragon</name>
-			<text>Fury (When this creature destroys another creature, put a +1/+1 counter on it.)
-Whenever Shyvana attacks, Shyvana gets +1/+1 until the start of your next upkeep.
-Whenever a dragon creature you control deals combat damage, put that many Dragonguard counters onto Shyvana. At the end of any phase on your turn, if Shyvana has sixteen or more Dragonguard counters, remove all Dragonguard counters from Shyvana and transform her. 
+			<text>Fury (Whenever a creature dealt damage by Shyvana this turn dies, put a +1/+1 counter on Shyvana.)
+Whenever Shyvana attacks, Shyvana gets +1/+1 until the beginning of your next upkeep.
+Whenever a dragon creature you control deals combat damage, put that many Dragonguard counters onto Shyvana. At the end of any phase on your turn, if Shyvana has sixteen or more Dragonguard counters, remove all Dragonguard counters from Shyvana and transform her.
 Partner
 ---
 (Back): Dragonguard Shyvana</text>
@@ -806,9 +806,8 @@ Partner
 		</card>
 		<card>
 			<name>Dragonguard Shyvana</name>
-			<text>Fury (When this creature destroys another creature, put a +1/+1 counter on it.)
-Whenever Dragonguard Shyvana attacks, Dragonguard Shyvana gets +2/+2 until the start of your next upkeep.
-When Dragonguard Shyvana attacks, target creature you control fights target creature an opponent controls. If the target creature you control is a dragon, remove up to 5 damage from it if it survives the fight. (Each deals damage equal to its power to the other.)
+			<text>Fury (Whenever a creature dealt damage by Dragonguard Shyvana this turn dies, put a +1/+1 counter on Dragonguard Shyvana.)
+Whenever Dragonguard Shyvana attacks, Dragonguard Shyvana gets +2/+2 until the beginning of your next upkeep. Then target creature you control fights target creature an opponent controls. If the creature you control is a dragon and it survives the fight, remove up to 5 damage from it. (Each deals damage equal to its power to the other.)
 ---
 (Front): Shyvana, The Half-Dragon</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/44_back.png" num="12b">LORT-MTN</set>
@@ -828,7 +827,7 @@ When Dragonguard Shyvana attacks, target creature you control fights target crea
 		</card>
 		<card>
 			<name>Stalking Broodmother</name>
-			<text>Fury, Scout (When this creature destroys another creature, put a +1/+1 counter on it. Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)</text>
+			<text>Fury, Scout (Whenever a creature dealt damage by Stalking Broodmother this turn dies, put a +1/+1 counter on Stalking Broodmother. Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/45.png" num="13">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -862,7 +861,7 @@ When Dragonguard Shyvana attacks, target creature you control fights target crea
 		</card>
 		<card>
 			<name>Strafing Strike</name>
-			<text>Target creature you control fights target creature an opponent controls. If the target creature you control is a dragon, remove 5 damage if it survives the fight. (Each deals damage equal to its power to the other.)</text>
+			<text>Target creature you control fights target creature an opponent controls. If the creature you control is a dragon and it survives the fight, remove up to 5 damage from it. (Each deals damage equal to its power to the other.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/47.png" num="15">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -878,7 +877,7 @@ When Dragonguard Shyvana attacks, target creature you control fights target crea
 		</card>
 		<card>
 			<name>The Grand Plaza</name>
-			<text>Whenever a creature you control enters, that creature gets +1/+1 and challenger until the end of your next turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+			<text>Whenever a creature you control enters, that creature gets +1/+1 and challenger until the end of your next turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/48.png" num="7">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -893,7 +892,7 @@ When Dragonguard Shyvana attacks, target creature you control fights target crea
 		</card>
 		<card>
 			<name>Fae Guide</name>
-			<text>When Fae Guide enters, other creature you control gets Shadow. (This creature can block or be blocked by only creatures with shadow.)</text>
+			<text>When Fae Guide enters, put a shadow counter on other target creature you control. (This creature can block or be blocked by only creatures with shadow.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/49.png" num="16">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -910,7 +909,7 @@ When Dragonguard Shyvana attacks, target creature you control fights target crea
 		</card>
 		<card>
 			<name>Flower Child</name>
-			<text>Whenever another creature you control targets Flower Child, Flower Child gets +2/+0.</text>
+			<text>Whenever another creature you control targets Flower Child, put a +2/+0 counter on Flower Child.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/50.png" num="17">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -927,7 +926,7 @@ When Dragonguard Shyvana attacks, target creature you control fights target crea
 		</card>
 		<card>
 			<name>Flurry of Fists</name>
-			<text>Target creature you control gets a +1/+0 counter and first strike. If the target creature has first strike, it gets a +1/+0 counter and double strike instead.</text>
+			<text>Put a +1/+0 counter and a first strike counter on target creature you control. If the target creature has first strike, put a +1/+0 counter and a double strike counter on it instead.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/51.png" num="18">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -961,7 +960,7 @@ Whenever Fuzzy Caretaker attacks, other attacking target creature you control ge
 		</card>
 		<card>
 			<name>Go Get It</name>
-			<text>Exile target creature you control to create an exact token copy of it, except it has Ephemeral.You may cast the creature exiled this way from exile for as long as it remains exiled. (That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
+			<text>Exile target creature you control to create an exact token copy of it except it has Ephemeral.You may cast the creature exiled this way from exile for as long as it remains exiled. (That creature has haste. At the end of turn, sacrifice it.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/53.png" num="20">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -993,7 +992,7 @@ Whenever Fuzzy Caretaker attacks, other attacking target creature you control ge
 		</card>
 		<card>
 			<name>Lulu</name>
-			<text>Whenever Lulu attacks, other attacking target creature you control has base power and toughness 4/4 until the start of your next upkeep.
+			<text>Whenever Lulu attacks, other attacking target creature you control has base power and toughness 4/4 until the beginning of your next upkeep.
 Whenever a creature you control targets another creature you control, put a Whimsy counter on Lulu. At the end of any phase on your turn, if Lulu has three or more Whimsy counters, remove all Whimsy counters from Lulu and transform her.
 Partner
 ---
@@ -1015,10 +1014,10 @@ Partner
 		</card>
 		<card>
 			<name>Lulu, The Fae Sorceress</name>
-			<text>At the start of your upkeep you may choose one —
-• Give a creature you control a shield counter.
-• Target creature an opponent controls gets Vulnerable until the end of the turn. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)
-Whenever Lulu attacks, other attacking target creature you control has base power and toughness 5/5 until the start of your next upkeep.
+			<text>At the beginning of your upkeep you may choose one —
+• Put a shield counter on target creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+• Target creature an opponent controls gets Vulnerable until the end of the turn. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
+Whenever Lulu attacks, other attacking target creature you control has base power and toughness 5/5 until the beginning of your next upkeep.
 ---
 (Front): Lulu</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/55_back.png" num="22b">LORT-MTN</set>
@@ -1038,7 +1037,7 @@ Whenever Lulu attacks, other attacking target creature you control has base powe
 		</card>
 		<card>
 			<name>Monastery of Hirana</name>
-			<text>At the start of your upkeep, put a Sanctuary counter on Monastery of Hirana if it does not have one.
+			<text>At the beginning of your upkeep, put a Sanctuary counter on Monastery of Hirana if it does not have one.
 {U}: Remove a Sanctuary counter from Monastery of Hirana to recall a creature you control. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/56.png" num="23">LORT-MTN</set>
 			<prop>
@@ -1054,7 +1053,7 @@ Whenever Lulu attacks, other attacking target creature you control has base powe
 		</card>
 		<card>
 			<name>Mumblesprite LORT-MTN</name>
-			<text>Shadow, Ephemeral (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)
+			<text>Shadow, Ephemeral (This creature has haste. At the end of turn, sacrifice it.)
 When Mumblesprite enters, its power and toughness equals the power and toughness of target other creature you control.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/57.png" num="1">LORT-MTN</set>
 			<prop>
@@ -1107,7 +1106,7 @@ Whenever Pix! attacks, other attacking target creature you control gets +2/+1 un
 		</card>
 		<card>
 			<name>Singular Will</name>
-			<text>Choose a creature, then Recall all other creatures and landmarks. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
+			<text>Choose a creature, then recall each other creature and landmark. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/60.png" num="26">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1174,7 +1173,7 @@ Whenever Pix! attacks, other attacking target creature you control gets +2/+1 un
 		</card>
 		<card>
 			<name>Whimsy!</name>
-			<text>Target creature becomes a 1/1 blue Squirrel with no abilities or keywords until the end of your turn.</text>
+			<text>Target creature becomes a 1/1 blue Squirrel with no abilities until the end of your turn.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/64.png" num="30">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1191,7 +1190,7 @@ Whenever Pix! attacks, other attacking target creature you control gets +2/+1 un
 		<card>
 			<name>Young Witch</name>
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
-When Young Witch attacks, other attacking target creature you control gets +1/+0 and First strike until the end of turn.</text>
+When Young Witch attacks, other attacking target creature you control gets +1/+0 and first strike until the end of turn.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/65.png" num="31">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1227,7 +1226,7 @@ Choose one —
 		</card>
 		<card>
 			<name>Doombeast</name>
-			<text>Nightfall: Doombeast deals 2 damage to target opponent, you gain 2 life. (If this creature is not the first spell you have cast this turn, when Doombeast enters, Doombeast deals 2 damage to target opponent, you gain 2 life. .)</text>
+			<text>Nightfall — When Doombeast enters, if it wasn&apos;t the first spell you cast this turn, put a +1/+0 counter on it for each Nightfall you triggered this turn.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/67.png" num="33">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1245,7 +1244,7 @@ Choose one —
 		<card>
 			<name>Duskrider</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-Nightfall: Duskrider gets a +1/+0 counter for each time you have activated Nightfall this turn. (If this creature is not the first spell you have cast this turn, when Duskrider enters, Duskrider gets a +1/+0 counter for each time you have activated Nightfall this turn.)</text>
+Nightfall — When Duskrider enters, if it wasn&apos;t the first spell you cast this turn, put a number of +1/+0 counters on Duskrider for each time you have triggered nightfall this turn.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/68.png" num="34">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1262,7 +1261,7 @@ Nightfall: Duskrider gets a +1/+0 counter for each time you have activated Night
 		</card>
 		<card>
 			<name>Encroaching Shadows</name>
-			<text>You get an emblem with &quot;Creatures you cast get +2/+2 and Ephemeral.&quot; (That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
+			<text>You get an emblem with &quot;Creatures you cast get +2/+2 and Ephemeral.&quot; (That creature has haste. At the end of turn, sacrifice it.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/69.png" num="35">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1278,9 +1277,9 @@ Nightfall: Duskrider gets a +1/+0 counter for each time you have activated Night
 		</card>
 		<card>
 			<name>Evershade Stalker</name>
-			<text>Ephemeral, Fearsome (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it. Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
+			<text>Ephemeral, Fearsome (This creature has haste. At the end of turn, sacrifice it. Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
 Evershade Stalker can&apos;t block.
-Nightfall: create an exiled copy of Evershade Stalker. You may cast this copy from exile for as long as they remain exiled. (If this creature is not the first spell you have cast this turn, when Evershade Stalker enters, create an exiled copy of Evershade Stalker. You may cast this copy from exile for as long as they remain exiled.)</text>
+Nightfall — When Evershade Stalker enters, if it wasn&apos;t the first spell you cast this turn, create an exiled copy of Evershade Stalker. You may cast this copy from exile for as long as it remains exiled.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/70.png" num="36">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1297,7 +1296,7 @@ Nightfall: create an exiled copy of Evershade Stalker. You may cast this copy fr
 		</card>
 		<card>
 			<name>Gluttony</name>
-			<text>Sacrifice the nontoken creature with the highest mana value among creatures you control, then reveal cards from the top of your library until you reveal a creature with a mana value that costs 1 more than the sacrificed creature, put it onto the battlefield, it gets haste, then shuffle all other revealed cards into your library.</text>
+			<text>Sacrifice the nontoken creature with the highest mana value among creatures you control, then reveal cards from the top of your library until you reveal a creature with a mana value that costs 1 more than the sacrificed creature, put it onto the battlefield, until the end of turn it has haste, then shuffle all other revealed cards into your library.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/71.png" num="37">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1313,8 +1312,8 @@ Nightfall: create an exiled copy of Evershade Stalker. You may cast this copy fr
 		</card>
 		<card>
 			<name>Go Hard</name>
-			<text>Drain 1 from target creature an opponent controls. You get an experience counter. (Go Hard deals 1 damage. You gain that much life.)
-Create two exiled copies of Go Hard. You may cast the copies exiled this way from exile for as long as they remain exiled.
+			<text>Go Hard deals 1 damage to target creature an opponent controls. You get 1 life and an experience counter.
+Create two exiled copies of Go Hard. You may cast copies exiled this way from exile for as long as they remain exiled.
 ---
 (Back): Pack Your Bags</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/72_front.png" num="38a">LORT-MTN</set>
@@ -1334,7 +1333,7 @@ Create two exiled copies of Go Hard. You may cast the copies exiled this way fro
 		<card>
 			<name>Pack Your Bags</name>
 			<text>As an additional cost to cast this spell, remove three experience counters from yourself.
-Pack Your Bags deals 5 damage to all opponents and each creature they control.
+Pack Your Bags deals 5 damage to each opponent and each creature they control.
 ---
 (Front): Go Hard</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/72_back.png" num="38b">LORT-MTN</set>
@@ -1354,8 +1353,8 @@ Pack Your Bags deals 5 damage to all opponents and each creature they control.
 		<card>
 			<name>Nocturne</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-Nightfall: target creature an opponent controls gets Vulnerable, then all creatures your opponents control get -1/-0 until the start of your next upkeep. (If this creature is not the first spell you have cast this turn, when Nocturne enters, target creature an opponent controls gets Vulnerable, then all creatures your opponents control get -1/-0 until the start of your next upkeep. .)
-Whenever a creature you control with Fearsome or Nightfall attacks, put a Shade counter onto Nocturne. At the end of any phase on your turn, if Nocturne has five or more Shade counters, remove all Shade counters from Nocturne, then transform him.
+Nightfall — When Nocturne enters, if it wasn&apos;t the first spell you cast this turn, put a vulnerable counter on target creature an opponent controls, then all creatures your opponents control get -1/-0 until the beginning of your next upkeep. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
+Whenever a creature you control with fearsome or nightfall attacks, put a Shade counter onto Nocturne. At the end of any phase on your turn, if Nocturne has five or more Shade counters, remove all Shade counters from Nocturne, then transform him.
 Partner
 ---
 (Back): Nocturne, The Eternal Nightmare</text>
@@ -1377,9 +1376,9 @@ Partner
 		<card>
 			<name>Nocturne, The Eternal Nightmare</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-When Nocturne transforms target creature an opponent controls gets Vulnerable then all creatures your opponents control get -1/-0 until the start of your next upkeep. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)
-Creatures you control have Fearsome
-Whenever you cast a creature, all creatures your opponents control get -1/-0 until the start of your next upkeep.
+When Nocturne transforms, put a vulnerable counter on target creature an opponent controls, then all creatures your opponents control get -1/-0 until the beginning of your next upkeep. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
+Creatures you control have fearsome.
+Whenever you cast a creature, each creature your opponents control get -1/-0 until the beginning of your next upkeep.
 ---
 (Front): Nocturne</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/73_back.png" num="39b">LORT-MTN</set>
@@ -1399,7 +1398,7 @@ Whenever you cast a creature, all creatures your opponents control get -1/-0 unt
 		</card>
 		<card>
 			<name>Passage Unearned</name>
-			<text>Exile each creature that entered the battlefield this turn if no mana was spent to cast it.</text>
+			<text>Exile each creature that entered this turn if no mana was spent to cast it.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/74.png" num="40">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1447,7 +1446,7 @@ Whenever you cast a creature, all creatures your opponents control get -1/-0 unt
 		</card>
 		<card>
 			<name>Stalking Shadows</name>
-			<text>Look at the top four cards in your library, you may choose one nonlegendary creature among them, reveal it and add it to your hand, then create a copy of the chosen creature except it has Ephemeral, shuffle all other cards into your library. (That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
+			<text>Reveal the top four cards in your library, you may choose a nonlegendary creature from among them, if you do, create a token copy of that creature on the battlefield, put an ephemeral counter on it, then add the chosen card to your hand, shuffle all other cards into your library. (That creature has haste. At the end of turn, sacrifice it.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/77.png" num="44">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1463,7 +1462,7 @@ Whenever you cast a creature, all creatures your opponents control get -1/-0 unt
 		</card>
 		<card>
 			<name>Stygian Onlooker</name>
-			<text>Nightfall: Stygian Onlooker gets +2/+0 and Fearsome until the end of your next turn. (Creatures with Fearsome cannot be blocked by creatures with power 2 or less. If this creature is not the first spell you have cast this turn, when Stygian Onlooker enters, Stygian Onlooker gets +2/+0 and Fearsome until the end of your next turn.)</text>
+			<text>Nightfall — When Stygian Onlooker enters, if it wasn&apos;t the first spell you cast this turn, Stygian Onlooker gets +2/+0 and fearsome until the end of your next turn. (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/78.png" num="45">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1480,8 +1479,8 @@ Whenever you cast a creature, all creatures your opponents control get -1/-0 unt
 		</card>
 		<card>
 			<name>Unspeakable Horror</name>
-			<text>Drain 1 from anything. (Unspeakable Horror deals 1 damage. You gain that much life.)
-Nightfall: reveal cards from the top of your library until you reveal three creatures with nightfall, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library. (If this spell is not the first spell you have cast this turn, when this spell is cast, reveal cards from the top of your library until you reveal three creatures with nightfall, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.)</text>
+			<text>Unspeakable Horror deals 1 damage to any target. You gain that much life.
+Nightfall — When this spell resolves, if it wasn&apos;t the first spell you cast this turn, reveal cards from the top of your library until you reveal three creatures with nightfall, randomly choose one, add it to your hand, then shuffle all other cards into your library.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/79.png" num="46">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1497,7 +1496,7 @@ Nightfall: reveal cards from the top of your library until you reveal three crea
 		</card>
 		<card>
 			<name>Vaults of Helia</name>
-			<text>At the start of your upkeep, sacrifice the nontoken creature with the highest mana value among creatures you control, then reveal cards from the top of your library until you reveal a creature with a mana value that costs 1 more than the sacrificed creature, put it onto the battlefield, then shuffle all other revealed cards into your library.</text>
+			<text>At the beginning of your upkeep, sacrifice a nontoken creature with the greatest mana value among creatures you control. Reveal cards from the top of your library until you reveal a creature card with mana value equal to 1 plus the sacrificed creature&apos;s mana value. Put that card onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/80.png" num="47">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1512,7 +1511,7 @@ Nightfall: reveal cards from the top of your library until you reveal three crea
 		</card>
 		<card>
 			<name>Apprehend</name>
-			<text>Tap a creature an opponent controls and put a stun counter on it. Then if you control a legendary creature named Darius or Darius, The Hand of Noxus, untap all creatures you control and after this phase, there is an additional combat phase.</text>
+			<text>Tap a creature an opponent controls and put a stun counter on it. Then if you control a legendary creature named Darius or Darius, The Hand of Noxus, untap each creature you control and after this phase, there is an additional combat phase.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/81.png" num="48">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1528,7 +1527,7 @@ Nightfall: reveal cards from the top of your library until you reveal three crea
 		</card>
 		<card>
 			<name>Arrel the Tracker</name>
-			<text>At the start of your end step, if Arrel the Tracker was targeted by a source you control, Arrel the Tracker deals damage equal to its power to the creature with the lowest power among creatures target opponent controls.</text>
+			<text>At the beginning of your end step, if Arrel the Tracker was targeted by a source you control, Arrel the Tracker deals damage equal to its power to the creature with the lowest power among creatures target opponent controls.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/82.png" num="49">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1596,7 +1595,7 @@ Nightfall: reveal cards from the top of your library until you reveal three crea
 		</card>
 		<card>
 			<name>Hunt the Weak</name>
-			<text>Target opponent reveals their hand, then discards the creature with the lowest power from their hand.</text>
+			<text>Target opponent reveals their hand, then discards the creature card with the lowest power from among them.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/86.png" num="56">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1627,7 +1626,7 @@ Nightfall: reveal cards from the top of your library until you reveal three crea
 		</card>
 		<card>
 			<name>Riven, The Exile</name>
-			<text>Whenever Riven enters, attacks, or at the end of your turn if Riven did not attack, search your library for a Rune card, reveal it, add it to your hand, then shuffle.
+			<text>Whenever Riven enters, attacks, or at the end of your turn if Riven did not attack, search your library and/or graveyard for a Rune card, reveal it, then it to your hand. If you searched your library this way, shuffle.
 The first time you cast a card named Blade of the Exile, transform Riven.
 Partner
 ---
@@ -1649,8 +1648,8 @@ Partner
 		</card>
 		<card>
 			<name>Riven, The Reckoner</name>
-			<text>Whenever Riven enters, attacks, or at the end of your turn if Riven did not attack, search your library and/or graveyard and/or exile for a Rune card, reveal it, add it to your hand, then shuffle.
-Each turn the first time a source you control increases Riven&apos;s power, put that many +1/+1 counters on Riven.
+			<text>Whenever Riven enters, attacks, or at the end of your turn if Riven did not attack, search your library and/or graveyard and/or exile for a Rune card, reveal it, then it to your hand. If you searched your library this way, shuffle.
+Each turn the first time a source you control increases Riven&apos;s power, put that many +1/+0 counters on Riven.
 ---
 (Front): Riven, The Exile</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/88_back.png" num="59b">LORT-MTN</set>
@@ -1722,7 +1721,7 @@ Each turn the first time a source you control increases Riven&apos;s power, put 
 		<card>
 			<name>Survival Skills</name>
 			<text>Creatures you control get Indestructible until the end of your next turn.
-If Survival Skills is discarded or sent to the graveyard from your library, the creature with the highest power among creatures you control gets Indestructible until the end of your next turn.</text>
+If Survival Skills is discarded or milled, the creature with the highest power among creatures you control gets Indestructible until the end of your next turn.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/92.png" num="63">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1754,7 +1753,7 @@ If Survival Skills is discarded or sent to the graveyard from your library, the 
 		</card>
 		<card>
 			<name>Wild Claws</name>
-			<text>Target creature you control deals damage equal to its power to target creature an opponent controls. If the target creature you control has Trample, excess damage is dealt to that creatures controller.</text>
+			<text>Choose a creature you control, that creature deals damage equal to its power to target creature an opponent controls. If the creature you control has trample, excess damage is dealt to the target creatures controller.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/94.png" num="65">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1770,7 +1769,7 @@ If Survival Skills is discarded or sent to the graveyard from your library, the 
 		</card>
 		<card>
 			<name>Wrathful Rider</name>
-			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/95.png" num="66">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1822,7 +1821,7 @@ When Augur of the Old Ones enters, if you behold a card with mana value 8 or gre
 		<card>
 			<name>Faces of the Old Ones</name>
 			<text>When Faces of the Old Ones enters, put a Freljord counter onto a land you control.
-At the start of your upkeep, if you Behold a card with mana value 8 or greater, you may put a Freljord counter onto a land you control. (To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)
+At the beginning of your upkeep, you may Behold a card with mana value 8 or greater, if you do, put a Freljord counter onto a land you control. (To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)
 Whenever a land you control with a Freljord counter is tapped for mana, its controller adds an additional one mana of any type that land can produce.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/98.png" num="69">LORT-MTN</set>
 			<prop>
@@ -1856,9 +1855,9 @@ Whenever a land you control with a Freljord counter is tapped for mana, its cont
 		</card>
 		<card>
 			<name>Ice Pillar</name>
-			<text>Vulnerable (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)
+			<text>Vulnerable (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
 When Ice Pillar enters from exile add {G}{G}{G}{G}{G}{G}{G}{G}.
-When Ice Pillar enters and at the end of your upkeep, the creature with the highest power among creatures target opponent controls gets Vulnerable until the start of your next upkeep.</text>
+When Ice Pillar enters and at the beginning of your upkeep, the creature with the highest power among creatures target opponent controls gets Vulnerable until the beginning of your next upkeep.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/100.png" num="72">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1875,8 +1874,7 @@ When Ice Pillar enters and at the end of your upkeep, the creature with the high
 		</card>
 		<card>
 			<name>Icequake</name>
-			<text>All creatures get -3/-0 until the end of your next turn.
-Icequake deals 3 damage to all creatures.</text>
+			<text>All creatures get -3/-0 until the end of your next turn. Then Icequake deals 3 damage to all creatures.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/101.png" num="73">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1911,7 +1909,7 @@ Icequake deals 3 damage to all creatures.</text>
 		</card>
 		<card>
 			<name>Revitalizing Roar</name>
-			<text>Reveal a creature in your hand, then gain X life where X is that creatures power. If you are Enlightened, put the revealed creature onto the battlefield. (The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)</text>
+			<text>Reveal a creature in your hand, you gain X life where X is that creatures power. If you are Enlightened, put the revealed creature onto the battlefield. (The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/103.png" num="75">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1927,7 +1925,7 @@ Icequake deals 3 damage to all creatures.</text>
 		</card>
 		<card>
 			<name>The Howling Abyss</name>
-			<text>At the start of your upkeep, reveal cards from the top of your library until you reveal a legendary creature, exile it, then shuffle all other revealed cards into your library.
+			<text>At the beginning of your upkeep, reveal cards from the top of your library until you reveal a legendary creature, exile it, then shuffle all other revealed cards into your library.
 You may cast cards exiled this way for as long as it remains exiled.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/104.png" num="71">LORT-MTN</set>
 			<prop>
@@ -1943,7 +1941,7 @@ You may cast cards exiled this way for as long as it remains exiled.</text>
 		</card>
 		<card>
 			<name>The Scargrounds</name>
-			<text>Whenever a creature you control takes damage but is not destroyed, it gets a +1/+0 counter, then it gets Absorb 1 if it doesn&apos;t have Absorb. (If a source would deal damage to that creature, prevent 1 of that damage.)</text>
+			<text>Whenever a creature you control is dealt damage but is not destroyed, put a +1/+0 counter on it, then put an Absorb 1 counter on that creature if it doesn&apos;t have an Absorb counter. (If a source would deal damage to that creature, prevent 1 of that damage.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/105.png" num="76">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1976,7 +1974,7 @@ You may cast cards exiled this way for as long as it remains exiled.</text>
 			<name>Troll Gifts</name>
 			<text>Choose one —
 • Put two +1/+1 counters on target creature.
-• Target creature gets Juggernaut. (After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)</text>
+• Put a juggernaut counter on target creature. (After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/107.png" num="78">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1992,7 +1990,7 @@ You may cast cards exiled this way for as long as it remains exiled.</text>
 		</card>
 		<card>
 			<name>Troll Ravager</name>
-			<text>When Troll Ravager enters, if you behold a card with mana value 8 or greater, Troll Ravager gets Juggernaut. (To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand. After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)</text>
+			<text>When Troll Ravager enters, you may behold a card with mana value 8 or greater, if you do, put a juggernaut counter on Troll Ravager. (To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand. After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/108.png" num="79">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2009,7 +2007,7 @@ You may cast cards exiled this way for as long as it remains exiled.</text>
 		</card>
 		<card>
 			<name>Troll Scavenger</name>
-			<text>When Troll Scavenger enters, if you behold a card with mana value 8 or greater, it gets +3/+0. (To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)</text>
+			<text>When Troll Scavenger enters, you may behold a card with mana value 8 or greater, if you do, put three +1/+0 counters on Troll Scavenger. (To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/109.png" num="80">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2050,7 +2048,7 @@ Partner
 		<card>
 			<name>Trundle, The Troll King</name>
 			<text>Trample, Juggernaut (After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)
-Whenever Trundle attacks, you may behold any number of cards with mana value 8 or greater, Trundle gets a +1/+0 counter for each card beheld this way. (To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)
+Whenever Trundle attacks, you may behold any number of cards with mana value 8 or greater, if you do, put a +1/+0 counter on Trundle for each card beheld this way. (To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)
 ---
 (Front): Trundle</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/110_back.png" num="81b">LORT-MTN</set>
@@ -2070,7 +2068,7 @@ Whenever Trundle attacks, you may behold any number of cards with mana value 8 o
 		</card>
 		<card>
 			<name>Uzgar the Ancient</name>
-			<text>Challenger, Juggernaut (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature. After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)</text>
+			<text>Challenger, Juggernaut (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature. After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/111.png" num="82">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2104,8 +2102,8 @@ Reveal the top five cards of your library, put each card with mana value 8 or gr
 		</card>
 		<card>
 			<name>Sun Guardian</name>
-			<text>Daybreak: put a +1/+1 counter on Sun Guardian. (If this creature is the first spell you have cast this turn, when Sun Guardian enters, put a +1/+1 counter on Sun Guardian.)
-Whenever another daybreak ability you control activates, put a +1/+1 counter on Sun Guardian.</text>
+			<text>Daybreak — When Sun Guardian enters, if it was the first spell you cast this turn, put a +1/+1 counter on Sun Guardian.
+Whenever another daybreak ability you control triggers, put a +1/+1 counter on Sun Guardian.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/113.png" num="167">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2123,8 +2121,7 @@ Whenever another daybreak ability you control activates, put a +1/+1 counter on 
 		<card>
 			<name>Arbiter of the Peak</name>
 			<text>Trample
-Arbiter of the Peak costs {1} less to cast for each time you have targeted a creature you control this turn.
-Arbiter of the Peak costs {1} less to cast for each time a creature you control has targeted a creature you control this turn.</text>
+Arbiter of the Peak costs {1} less to cast for each time an instant, sorcery, or creature you control has targeted a creature you control this turn.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/114.png" num="86">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2141,7 +2138,7 @@ Arbiter of the Peak costs {1} less to cast for each time a creature you control 
 		</card>
 		<card>
 			<name>Astral Protection</name>
-			<text>Remove 4 damage from target creature you control. That creature gets +0/+4.</text>
+			<text>Remove 4 damage from target creature you control. Put four +0+1 counters on that creature.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/115.png" num="87">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2157,10 +2154,10 @@ Arbiter of the Peak costs {1} less to cast for each time a creature you control 
 		</card>
 		<card>
 			<name>Aurelion Sol</name>
-			<text>Fury (When this creature destroys another creature, put a +1/+1 counter on it.)
+			<text>Fury (Whenever a creature dealt damage by Aurelion Sol this turn dies, put a +1/+1 counter on Aurelion Sol.)
 Aurelion Sol enters with a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
-When Aurelion Sol enters, and at the start of your upkeep, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
-At the start of your end step, if you have 20 or more power among creatures you control, transform Aurelion Sol.
+When Aurelion Sol enters, and at the beginning of your upkeep, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+At the beginning of your end step, if you have 20 or more power among creatures you control, transform Aurelion Sol.
 Partner
 ---
 (Back): Aurelion Sol, The Star Forger</text>
@@ -2181,9 +2178,9 @@ Partner
 		</card>
 		<card>
 			<name>Aurelion Sol, The Star Forger</name>
-			<text>Fury (When this creature destroys another creature, put a +1/+1 counter on it.)
+			<text>Fury (Whenever a creature dealt damage by Aurelion Sol this turn dies, put a +1/+1 counter on Aurelion Sol.)
 When Aurelion Sol transforms, put a spellshield counter on him. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
-When Aurelion Sol transforms, and at the start of your upkeep, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+When Aurelion Sol transforms, and at the beginning of your upkeep, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
 You may cast Celestial cards without paying it&apos;s mana cost.
 ---
 (Front): Aurelion Sol</text>
@@ -2204,7 +2201,7 @@ You may cast Celestial cards without paying it&apos;s mana cost.
 		</card>
 		<card>
 			<name>Bastion</name>
-			<text>Target creature gets +1/+1 and a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<text>Put a +1/+1 counter and a spellshield counter on target creature you control. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/117.png" num="89">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2236,7 +2233,7 @@ You may cast Celestial cards without paying it&apos;s mana cost.
 		</card>
 		<card>
 			<name>Blessing of Targon</name>
-			<text>Target creature you control gets three +1/+1 counters.</text>
+			<text>Put three +1/+1 counters on target creature you control.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/119.png" num="91">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2252,15 +2249,15 @@ You may cast Celestial cards without paying it&apos;s mana cost.
 		</card>
 		<card>
 			<name>Broadbacked Protector</name>
-			<text>At the start of your upkeep, put three -1/-1 counters onto Broadbacked Protector. You gain 3 life.</text>
+			<text>At the beginning of your upkeep, put three -0/-1 counters on Broadbacked Protector. You gain 3 life.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/120.png" num="94">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Vastaya Nomad</type>
 				<maintype>Creature</maintype>
-				<manacost>WWUU</manacost>
-				<cmc>4</cmc>
+				<manacost>WWU</manacost>
+				<cmc>3</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
 				<pt>2/7</pt>
@@ -2269,9 +2266,9 @@ You may cast Celestial cards without paying it&apos;s mana cost.
 		</card>
 		<card>
 			<name>Commander Leona</name>
-			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
-Daybreak: tap the creature with the highest power among creatures target opponent controls and put a stun counter on it. (If this creature is the first spell you have cast this turn, when Commander Leona enters, tap the creature with the highest power among creatures target opponent controls and put a stun counter on it.)
-Whenever a source you control activates its daybreak ability, put a Dawn counter onto Commander Leona. At the end of any phase on your turn, if Commander Leona has four or more Dawn counters, remove all Dawn counters from Commander Leona, then transform her.
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+Daybreak — When Commander Leona enters, if it was the first spell you cast this turn, tap the creature with the highest power among creatures target opponent controls and put a stun counter on it.
+Whenever a source you control triggers its daybreak ability, put a Dawn counter onto Commander Leona. At the end of any phase on your turn, if Commander Leona has four or more Dawn counters, remove all Dawn counters from Commander Leona, then transform her.
 Partner
 ---
 (Back): Leona, Aspect of the Sun</text>
@@ -2292,8 +2289,8 @@ Partner
 		</card>
 		<card>
 			<name>Leona, Aspect of the Sun</name>
-			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
-Whenever a source you control activates its daybreak ability, tap an untapped creature target opponent controls and put a stun counter on it, then put a shield counter onto Leona if she doesn&apos;t have one.
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+Whenever a source you control triggers its daybreak ability, tap the creature with the highest power among creatures target opponent controls without a stun counter, put a stun counter on it, then put a shield counter onto Leona if she doesn&apos;t have one.
 ---
 (Front): Commander Leona</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/121_back.png" num="97b">LORT-MTN</set>
@@ -2314,7 +2311,7 @@ Whenever a source you control activates its daybreak ability, tap an untapped cr
 		<card>
 			<name>Crescent Guardian</name>
 			<text>Trample
-Nightfall: put a +2/+0 counter onto Crescent Guardian. (If this creature is not the first spell you have cast this turn, when Crescent Guardian enters, put a +2/+0 counter onto Crescent Guardian.)</text>
+Nightfall — When Crescent Guardian enters, if it wasn&apos;t the first spell you cast this turn, put a +2/+0 counter on Crescent Guardian.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/122.png" num="192">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2331,7 +2328,7 @@ Nightfall: put a +2/+0 counter onto Crescent Guardian. (If this creature is not 
 		</card>
 		<card>
 			<name>Crystal Ibex</name>
-			<text>When Crystal Ibex enters, other target creature you control gets Trample.</text>
+			<text>When Crystal Ibex enters, put a trample counter on other target creature you control.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/123.png" num="102">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2349,7 +2346,7 @@ Nightfall: put a +2/+0 counter onto Crescent Guardian. (If this creature is not 
 		<card>
 			<name>Cygnus the Moonstalker</name>
 			<text>Shadow (This creature can block or be blocked by only creatures with shadow.)
-Nightfall: a creature you control gets Shadow until the end of your next turn. (If this creature is not the first spell you have cast this turn, when Cygnus the Moonstalker enters, a creature you control gets Shadow until the end of your next turn.)</text>
+Nightfall — When Cygnus enters, if it wasn&apos;t the first spell you cast this turn, a creature you control gets Shadow until the end of your next turn.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/124.png" num="103">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2367,8 +2364,8 @@ Nightfall: a creature you control gets Shadow until the end of your next turn. (
 		<card>
 			<name>Diana, Child of the Moon</name>
 			<text>First strike
-Whenever a source you control activates its Nightfall ability, Diana gets Challenger until the end of turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
-Whenever a source you control triggers its Nightfall ability, put a Dusk counter onto Diana. At the end of any phase on your turn, if Diana has four or more Dusk counters, remove all Dusk counters from Diana, then transform her.
+Whenever a source you control triggers its nightfall ability, Diana gets challenger until the end of turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+Whenever a source you control triggers its nightfall ability, put a Dusk counter onto Diana. At the end of any phase on your turn, if Diana has four or more Dusk counters, remove all Dusk counters from Diana, then transform her.
 Partner
 ---
 (Back): Diana, Aspect of the Moon</text>
@@ -2390,7 +2387,7 @@ Partner
 		<card>
 			<name>Diana, Aspect of the Moon</name>
 			<text>First strike
-Whenever a source you control activates its Nightfall ability, Diana gets challenger and +2/+0 until the end of turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
+Whenever a source you control triggers its nightfall ability, Diana gets challenger and +2/+0 until the end of turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
 ---
 (Front): Diana, Child of the Moon</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/125_back.png" num="105b">LORT-MTN</set>
@@ -2429,7 +2426,7 @@ Whenever a source you control activates its Nightfall ability, Diana gets challe
 		<card>
 			<name>Dragon&apos;s Clutch</name>
 			<text>Choose one —
-• All dragon creatures you control get a +1/+1 counter and Trample.
+• Put a +1/+1 counter and a trample counter on each dragon creature you control.
 • Search your library for two dragon creatures with different names, reveal them, add them to your hand, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/127.png" num="107">LORT-MTN</set>
 			<prop>
@@ -2446,9 +2443,9 @@ Whenever a source you control activates its Nightfall ability, Diana gets challe
 		</card>
 		<card>
 			<name>Eclipse Dragon</name>
-			<text>Fury (When this creature destroys another creature, put a +1/+1 counter on it.)
-Daybreak: the next dragon or celestial you cast costs {2} less to cast this turn. (If this creature is the first spell you have cast this turn, when Eclipse Dragon enters, the next dragon or celestial you cast costs {2} less to cast this turn.)
-Nightfall: choose one — (If this creature is not the first spell you have cast this turn, when Eclipse Dragon enters, choose one —.)
+			<text>Fury (Whenever a creature dealt damage by Eclipse Dragon this turn dies, put a +1/+1 counter on Eclipse Dragon.)
+Daybreak — When Eclipse Dragon enters, if it was the first spell you cast this turn, the next dragon or celestial creature you cast costs {2} less to cast this turn.
+Nightfall — When Eclipse Dragon enters, if it wasn&apos;t the first spell you cast this turn, choose one —
 • Reveal the top card of your library until you reveal a dragon creature, add it to your hand, then shuffle all other revealed cards into your library.
 • Reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/128.png" num="108">LORT-MTN</set>
@@ -2485,8 +2482,8 @@ Fledgling Stellacorn enters with a spellshield counter. (The first time an insta
 		</card>
 		<card>
 			<name>Fused Firebrand</name>
-			<text>Fused Firebrand enters with a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
-Fury. (When this creature destroys another creature, put a +1/+1 counter on it.)</text>
+			<text>Fury (Whenever a creature dealt damage by Fused Firebrand this turn dies, put a +1/+1 counter on Fused Firebrand.)
+Fused Firebrand enters with a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/130.png" num="112">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2503,7 +2500,7 @@ Fury. (When this creature destroys another creature, put a +1/+1 counter on it.)
 		</card>
 		<card>
 			<name>Giddy Sparkleologist</name>
-			<text>When Giddy Sparkleologist enters, if you behold a Celestial, target creature you control gets a +1/+1 counter and a spellshield counter. (To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand. The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<text>When Giddy Sparkleologist enters, you may behold a Celestial, if you do, target creature you control gets a +1/+1 counter and a spellshield counter. (To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand. The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/131.png" num="113">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2537,7 +2534,7 @@ Fury. (When this creature destroys another creature, put a +1/+1 counter on it.)
 		</card>
 		<card>
 			<name>Gifts From Beyond</name>
-			<text>Reveal cards from the top of your library until you reveal two Luna Equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.</text>
+			<text>Reveal cards from the top of your library until you reveal two luna equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/133.png" num="198">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2555,7 +2552,7 @@ Fury. (When this creature destroys another creature, put a +1/+1 counter on it.)
 			<name>Grandfather Rumul</name>
 			<text>Grandfather Rumul enters with a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
 Trample
-When Grandfather Rumul enters, up to two other creatures you control get +0/+4.</text>
+When Grandfather Rumul enters, put four +0/+1 counter on up to two other target creatures you control.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/134.png" num="116">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2608,7 +2605,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Hush</name>
-			<text>Remove all abilities and counters from a target creature until the end of your next turn.</text>
+			<text>Remove all abilities and counters from target creature until the end of your next turn.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/137.png" num="200">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2624,8 +2621,8 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Inviolus Vox</name>
-			<text>Fury (When this creature destroys another creature, put a +1/+1 counter on it.)
-The first time each turn, when a creature you control with Fury destroys a creature you don&apos;t control, reveal cards from the top of your library until you reveal three dragon creatures, then randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.</text>
+			<text>Fury (Whenever a creature dealt damage by Inviolus Vox this turn dies, put a +1/+1 counter on Inviolus Vox.)
+The first time each turn, a creature dealt damage by a creature with fury you control this turn dies, reveal cards from the top of your library until you reveal three dragon creatures, then randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/138.png" num="124">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2659,7 +2656,7 @@ The first time each turn, when a creature you control with Fury destroys a creat
 		</card>
 		<card>
 			<name>Lunari Priestess</name>
-			<text>Nightfall: reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library. (If this creature is not the first spell you have cast this turn, when Lunari Priestess enters, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.)</text>
+			<text>Nightfall — When Lunari Priestess, if it wasn&apos;t the first spell you cast this turn, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/140.png" num="202">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2676,7 +2673,7 @@ The first time each turn, when a creature you control with Fury destroys a creat
 		</card>
 		<card>
 			<name>Lunari Shadestalker</name>
-			<text>Nightfall: Lunari Shadestalker enters with Shadow. (If this creature is not the first spell you have cast this turn, when Lunari Shadestalker enters, Lunari Shadestalker enters with Shadow.)</text>
+			<text>Nightfall — When Lunari Shadestalker enters, if it wasn&apos;t the first spell you cast this turn, put a shadow counter on Lunari Shadestalker. (This creature can block or be blocked by only creatures with shadow.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/141.png" num="203">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2693,7 +2690,7 @@ The first time each turn, when a creature you control with Fury destroys a creat
 		</card>
 		<card>
 			<name>Mentor of the Stones</name>
-			<text>When Mentor of the Stones attacks, other attacking target creature you control gets three +1/+1 counters.
+			<text>Whenever Mentor of the Stones attacks, put three +1/+1 counters on other attacking target creature you control.
 When Mentor of the Stones is destroyed, create three Gem tokens.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/142.png" num="204">LORT-MTN</set>
 			<prop>
@@ -2728,7 +2725,7 @@ When Mentor of the Stones is destroyed, create three Gem tokens.</text>
 		<card>
 			<name>Moondreamer</name>
 			<text>When Moondreamer enters, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
-Nightfall: reduce the cost of the next celestial card you cast this turn by {1}. (If this creature is not the first spell you have cast this turn, when Moondreamer enters, reduce the cost of the next celestial card you cast this turn by 1.)</text>
+Nightfall — When Moondreamer enters, if it wasn&apos;t the first spell you cast this turn, reduce the cost of the next Celestial card you cast this turn by {1}.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/144.png" num="133">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2746,7 +2743,7 @@ Nightfall: reduce the cost of the next celestial card you cast this turn by {1}.
 		<card>
 			<name>Moonlight Affliction</name>
 			<text>Remove all abilities and counters from two target creatures until the end of your next turn.
-Nightfall: both creatures cannot block until the end of your next turn. (If this spell is not the first spell you have cast this turn, when this spell is cast, both creatures cannot block until the end of your next turn.)</text>
+Nightfall — When this spell resolves, if it wasn&apos;t the first spell you cast this turn, both target creatures can&apos;t block until the end of your next turn.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/145.png" num="135">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2762,8 +2759,8 @@ Nightfall: both creatures cannot block until the end of your next turn. (If this
 		</card>
 		<card>
 			<name>Morning Light</name>
-			<text>All creatures you control get +1/+1 until the end of the turn.
-Activate the Daybreak ability of all permanents you control.</text>
+			<text>Each creature you control gets +1/+1 until the end of the turn.
+Trigger the daybreak ability of all permanents you control.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/146.png" num="137">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2796,7 +2793,7 @@ Activate the Daybreak ability of all permanents you control.</text>
 		</card>
 		<card>
 			<name>Mountain Scryer</name>
-			<text>Allegiance: reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library. (When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then activate its Allegiance ability.)
+			<text>Allegiance — When this creature enters, reveal the top card of your library. If the revealed card is at least each colour this creature is, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
 Celestial cards you control cost {1} less to cast.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/148.png" num="139">LORT-MTN</set>
 			<prop>
@@ -2814,7 +2811,7 @@ Celestial cards you control cost {1} less to cast.</text>
 		</card>
 		<card>
 			<name>Mountain Sojourners</name>
-			<text>When Mountain Sojourners attacks, each other attacking creature you control gets +2/+2 until the end of turn.</text>
+			<text>Whenever Mountain Sojourners attacks, each other attacking creature you control gets +2/+2 until the end of turn.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/149.png" num="140">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2865,7 +2862,7 @@ Whenever a creature you control gets first strike, that ability is not removed i
 		<card>
 			<name>Pale Cascade</name>
 			<text>Target creature you control gets +1/+1 until the end of turn.
-Nightfall: draw a card. (If this spell is not the first spell you have cast this turn, when this spell is cast, draw a card.)</text>
+Nightfall — When this spell resolves, if it wasn&apos;t the first spell you cast this turn, draw a card.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/152.png" num="206">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2898,8 +2895,8 @@ Nightfall: draw a card. (If this spell is not the first spell you have cast this
 		</card>
 		<card>
 			<name>Rahvun, Daylight&apos;s Spear</name>
-			<text>Daybreak: reveal cards from the top of your library until you reveal three creatures with daybreak, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library. (If this creature is the first spell you have cast this turn, when Rahvun, Daylight&apos;s Spear enters, reveal cards from the top of your library until you reveal three creatures with daybreak, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.)
-Daybreak abilities you control always activate.</text>
+			<text>Daybreak — When Rahvun enters, if it was the first spell you cast this turn, reveal cards from the top of your library until you reveal three creatures with daybreak, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
+While Rahvun is on the battlefield, you have &quot;Daybreak abilities you control always trigger.&quot;</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/154.png" num="146">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2949,7 +2946,7 @@ Daybreak abilities you control always activate.</text>
 		</card>
 		<card>
 			<name>Sleepy Trouble Bubble</name>
-			<text>Put a stun counter on a target creature, you may search your library and/or graveyard for a card named Paddle Star, reveal it, and put it into your hand. If you search your library this way, shuffle.</text>
+			<text>Put a stun counter on a target creature. You may search your library and/or graveyard for a card named Paddle Star, reveal it, and put it into your hand. If you search your library this way, shuffle.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/157.png" num="155">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2966,7 +2963,7 @@ Daybreak abilities you control always activate.</text>
 		<card>
 			<name>Sneaky Zeebles</name>
 			<text>Flying
-When Sneaky Zeebles enters, tap all creatures opponents control with power 2 or less and put a stun counter on them.</text>
+When Sneaky Zeebles enters, tap each creature opponents control with power 2 or less and put a stun counter on each creature tapped this way.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/158.png" num="156">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2983,7 +2980,7 @@ When Sneaky Zeebles enters, tap all creatures opponents control with power 2 or 
 		</card>
 		<card>
 			<name>Solari Priestess</name>
-			<text>Daybreak: reveal cards from the top of your library until you reveal three Celestial cards with mana value 4, 5, andor 6, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library. (If this creature is the first spell you have cast this turn, when Solari Priestess enters, reveal cards from the top of your library until you reveal three Celestial cards with mana value 4, 5, andor 6, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.)</text>
+			<text>Daybreak — When Solari Priestess enters, if it was the first spell you cast this turn, reveal cards from the top of your library until you reveal three Celestial cards with mana value between 4 and 6, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/159.png" num="157">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3000,7 +2997,7 @@ When Sneaky Zeebles enters, tap all creatures opponents control with power 2 or 
 		</card>
 		<card>
 			<name>Solari Shieldbearer</name>
-			<text>Daybreak: Solari Shieldbearer gets +0/+4 until the end of your next turn. (If this creature is the first spell you have cast this turn, when Solari Shieldbearer enters, Solari Shieldbearer gets +0/+4 until the end of your next turn.)</text>
+			<text>Daybreak — When Solari Shieldbearer enters, if it was the first spell you cast this turn, Solari Shieldbearer gets +0/+4 until the end of your next turn.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/160.png" num="158">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3017,7 +3014,7 @@ When Sneaky Zeebles enters, tap all creatures opponents control with power 2 or 
 		</card>
 		<card>
 			<name>Solari Soldier</name>
-			<text>Daybreak: Solari Soldier gets +1/+1 until the end of your next turn. (If this creature is the first spell you have cast this turn, when Solari Soldier enters, Solari Soldier gets +1/+1 until the end of your next turn.)</text>
+			<text>Daybreak — When Solari Soldier enters, if it was the first spell you cast this turn, Solari Soldier gets +1/+1 until the end of your next turn.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/161.png" num="210">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3034,7 +3031,7 @@ When Sneaky Zeebles enters, tap all creatures opponents control with power 2 or 
 		</card>
 		<card>
 			<name>Solari Sunforger</name>
-			<text>Daybreak: Solari Sunforger gets lifelink until the end of your next turn. (If this creature is the first spell you have cast this turn, when Solari Sunforger enters, Solari Sunforger gets lifelink until the end of your next turn.)</text>
+			<text>Daybreak — When Solari Sunforger enters, if it was the first spell you cast this turn, Solari Sunforger gets lifelink until the end of your next turn.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/162.png" num="159">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3051,8 +3048,8 @@ When Sneaky Zeebles enters, tap all creatures opponents control with power 2 or 
 		</card>
 		<card>
 			<name>Soraka, The Horned Healer</name>
-			<text>Whenever Soraka attacks, Soraka and another attacking target creature you control removes up to four damage from themselves at the start of the next post combat main phase.
-Each time damage is removed from a creature you control, put a Seer counter on Soraka. At the start of any phase on your turn, if Soraka has four or more Seer counters, remove all Seer counters from Soraka, then transform her.
+			<text>Whenever Soraka attacks, remove up to 4 damage from target other attacking creature you control and Soraka at the beginning of the next post combat main phase.
+Whenever damage is removed from a creature you control, put a Seer counter on Soraka. At the beginning of any phase on your turn, if Soraka has four or more Seer counters, remove all Seer counters from Soraka, then transform her.
 Partner
 ---
 (Back): Soraka, The Starchild</text>
@@ -3074,7 +3071,7 @@ Partner
 		<card>
 			<name>Soraka, The Starchild</name>
 			<text>The first time each turn damage is removed from a creature you control, draw a card.
-Whenever Soraka attacks, Soraka and another attacking target creature you control removes all damage from themselves at the start of the next post combat main phase.
+Whenever Soraka attacks, remove all damage from target other attacking creature you control and Soraka at the beginning of the next post combat main phase.
 ---
 (Front): Soraka, The Horned Healer</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/163_back.png" num="160b">LORT-MTN</set>
@@ -3094,7 +3091,7 @@ Whenever Soraka attacks, Soraka and another attacking target creature you contro
 		</card>
 		<card>
 			<name>Soraka&apos;s Wish</name>
-			<text>Remove all damage from all creatures you control.</text>
+			<text>Remove all damage from each creature you control.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/164.png" num="161">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3160,7 +3157,7 @@ Whenever Soraka attacks, Soraka and another attacking target creature you contro
 		</card>
 		<card>
 			<name>Spring Guardian</name>
-			<text>When Spring Guardian enters, you may remove all damage from a creature you control.</text>
+			<text>When Spring Guardian enters, you may remove all damage from target creature you control.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/168.png" num="162">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3177,7 +3174,7 @@ Whenever Soraka attacks, Soraka and another attacking target creature you contro
 		</card>
 		<card>
 			<name>Star Shepherd</name>
-			<text>Whenever a source you control removes damage from a creature you control, Star Shepherd gets +2/+0.</text>
+			<text>Whenever a source you control removes damage from a creature you control, put a +2/+0 counter on Star Shepherd.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/169.png" num="214">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3194,8 +3191,8 @@ Whenever Soraka attacks, Soraka and another attacking target creature you contro
 		</card>
 		<card>
 			<name>Star Spring</name>
-			<text>At the beginning of your end step, remove 1 damage from all creatures you control, then put that many Spring counters onto Star Spring. Spring counters cannot be proliferated or copied in any way.
-At the start of your upkeep, if Star Spring has twenty two or more Spring counters, you win the game.</text>
+			<text>At the beginning of your end step, remove 1 damage from each creature you control, then put that many Spring counters onto Star Spring. Spring counters cannot be proliferated or copied.
+At the beginning of your upkeep, if Star Spring has twenty two or more Spring counters, you win the game.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/170.png" num="163">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3210,7 +3207,7 @@ At the start of your upkeep, if Star Spring has twenty two or more Spring counte
 		</card>
 		<card>
 			<name>Starbone</name>
-			<text>As an additional cost to cast this card, Behold a celestial. (To behold a celestial., choose a celestial. you control or reveal a celestial. card from your hand.)
+			<text>As an additional cost to cast this card, behold a celestial. (To behold a celestial, choose a celestial you control or reveal a celestial card from your hand.)
 Search your library and/or graveyard for a card named The Messenger, then exile it. If you search your library this way, shuffle. You may cast the creature exiled this way from exile for as long as it remains exiled. When the exiled creature enters from exile, put a +1/+1 counter on it.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/171.png" num="215">LORT-MTN</set>
 			<prop>
@@ -3227,7 +3224,7 @@ Search your library and/or graveyard for a card named The Messenger, then exile 
 		</card>
 		<card>
 			<name>Stargazer</name>
-			<text>Whenever a source you control removes damage from a creature you control, give that creature Shadow until the end of your next turn. (This creature can block or be blocked by only creatures with shadow.)</text>
+			<text>Whenever a source you control removes damage from a creature you control, that creature gets shadow until the end of your next turn. (This creature can block or be blocked by only creatures with shadow.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/172.png" num="164">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3244,7 +3241,7 @@ Search your library and/or graveyard for a card named The Messenger, then exile 
 		</card>
 		<card>
 			<name>Starry Scamp</name>
-			<text>At the start of your pre-combat main phase, you may Behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. (To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand.)</text>
+			<text>At the beginning of your pre-combat main phase, you may reveal Starry Scamp from your hand and behold a Celestial, if you do, you may cast Starry Scamp without paying its mana cost this turn. (To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/173.png" num="216">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3296,7 +3293,7 @@ Search your library and/or graveyard for a card named The Messenger, then exile 
 		</card>
 		<card>
 			<name>Sunblessed Vigor</name>
-			<text>A creature you control gets +0/+2.</text>
+			<text>Put a +0/+2 counter on target creature you control.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/176.png" num="218">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3313,7 +3310,7 @@ Search your library and/or graveyard for a card named The Messenger, then exile 
 		<card>
 			<name>Sunburst</name>
 			<text>Sunburst deals 6 damage to target creature.
-Daybreak: before Sunburst deals damage, remove all abilities and counters from the target creature until the end the turn. (If this spell is the first spell you have cast this turn, when this spell is cast, before Sunburst deals damage, remove all abilities and counters from the target creature until the end the turn.)</text>
+Daybreak — When Sunburst is cast, if it was the first spell you cast this turn, before Sunburst deals damage, remove all abilities and counters from the target creature until the end the turn.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/177.png" num="168">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3345,7 +3342,7 @@ Daybreak: before Sunburst deals damage, remove all abilities and counters from t
 		</card>
 		<card>
 			<name>Targon&apos;s Peak</name>
-			<text>At the start of your upkeep, all players randomly exile a card in their hand. Until the start of your next upkeep, the owner of a card exiled this way can cast it from exile without paying its mana cost.</text>
+			<text>At the beginning of your upkeep, each player randomly exiles a card in their hand. Until the beginning of your next upkeep, the owner of a card exiled this way can cast it from exile without paying its mana cost.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/179.png" num="172">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3402,7 +3399,7 @@ Partner
 		</card>
 		<card>
 			<name>The Cloven Way</name>
-			<text>Nightfall: put a stun counter onto target creature, if the target is nonlegendry, put two stun counters onto that creature instead. (If this creature is not the first spell you have cast this turn, when The Cloven Way enters, put a stun counter onto target creature, if the target is nonlegendry, put two stun counters onto that creature instead.)</text>
+			<text>Nightfall — When The Cloven Way enters, if it wasn&apos;t the first spell you cast this turn, put a stun counter onto target creature, if the target is nonlegendry, put two stun counters onto that creature instead.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/181.png" num="96">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3453,10 +3450,9 @@ Partner
 		</card>
 		<card>
 			<name>The Infinite Mindsplitter</name>
-			<text>Fury (When this creature destroys another creature, put a +1/+1 counter on it.)
+			<text>Fury (Whenever a creature dealt damage by The Infinite Mindsplitter this turn dies, put a +1/+1 counter on The Infinite Mindsplitter.)
 When The Infinite Mindsplitter enters, put a Gaze counter on up to two target creatures.
-At the start of your upkeep, put a stun counter onto each creature with a Gaze Counter, tap them if they&apos;re untapped.
-.</text>
+At the beginning of your upkeep, put a stun counter onto each creature with a Gaze counter, tap them if they&apos;re untapped.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/184.png" num="123">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3490,7 +3486,7 @@ The Skies Descend deals 15 damage to each creature opponents control.</text>
 		</card>
 		<card>
 			<name>The Sky Shadows</name>
-			<text>When The Sky Shadows enters, if you Behold a creature with Nightfall, add {C}{C}. (To behold a creature with Nightfall, choose a creature you control with Nightfall or reveal a creature card with Nightfall from your hand.)</text>
+			<text>When The Sky Shadows enters, you may you behold a creature with nightfall, if you do, add {C}{C}. (To behold a creature with Nightfall, choose a creature you control with Nightfall or reveal a creature card with Nightfall from your hand.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/186.png" num="153">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3522,7 +3518,7 @@ The Skies Descend deals 15 damage to each creature opponents control.</text>
 		</card>
 		<card>
 			<name>Tyari the Traveler</name>
-			<text>When Tyari the Traveler attacks, other attacking target creature you control gets +0/+2.</text>
+			<text>Whenever Tyari the Traveler attacks, put a +0/+2 counter on other attacking target creature you control.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/188.png" num="177">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3539,7 +3535,7 @@ The Skies Descend deals 15 damage to each creature opponents control.</text>
 		</card>
 		<card>
 			<name>Whiteflame Protector</name>
-			<text>Fury (When this creature destroys another creature, put a +1/+1 counter on it.)</text>
+			<text>Fury (Whenever a creature dealt damage by Whiteflame Protector this turn dies, put a +1/+1 counter on Whiteflame Protector.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/189.png" num="182">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3556,8 +3552,8 @@ The Skies Descend deals 15 damage to each creature opponents control.</text>
 		</card>
 		<card>
 			<name>Zenith Blade</name>
-			<text>Target creature you control gets +1/+2. It has Trample until the end of the turn.
-Daybreak: search your library for a card named Zenith Blade, reveal it, put it into your hand, then shuffle. (If this spell is the first spell you have cast this turn, when this spell is cast, search your library for a card named Zenith Blade, reveal it, put it into your hand, then shuffle.)</text>
+			<text>Put a +1/+2 counter on target creature you control. It has trample until the end of the turn.
+Daybreak — When this spell resolves, if it was the first spell you cast this turn, search your library for a card named Zenith Blade, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/190.png" num="185">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3575,7 +3571,7 @@ Daybreak: search your library for a card named Zenith Blade, reveal it, put it i
 			<name>Zoe, The Everchild</name>
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
 Whenever Zoe deals combat damage to an opponent, reveal cards from the top of your library until you reveal three Celestial cards with mana value 3 or less, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
-At the end of any phase on your turn, if there are ten or more cards in your graveyard with different names, transform Zoe. 
+At the end of any phase on your turn, if there are ten or more cards in your graveyard with different names, transform Zoe.
 Partner
 ---
 (Back): Zoe, The Aspect of Twilight</text>
@@ -3597,7 +3593,7 @@ Partner
 		<card>
 			<name>Zoe, The Aspect of Twilight</name>
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
-When Zoe transforms, you get a legendary emblem with &quot;Whenever a creature you control enters, if it has first strike, each other creature you control gets first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.&quot;
+When Zoe transforms, you get a legendary emblem with &quot;Whenever a creature you control enters, if it has first strike, put a first strike counter on each other creature you control. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.&quot;
 Whenever Zoe deals combat damage to an opponent, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
 ---
 (Front): Zoe, The Everchild</text>
@@ -3618,8 +3614,8 @@ Whenever Zoe deals combat damage to an opponent, reveal cards from the top of yo
 		</card>
 		<card>
 			<name>Ballistic Bot</name>
-			<text>Upgrade (Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)
-At the start of your upkeep, Ballistic Bot deals 1 damage to target opponent.</text>
+			<text>Upgrade (Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)
+At the beginning of your upkeep, Ballistic Bot deals 1 damage to target opponent.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/192.png" num="187">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3654,7 +3650,7 @@ At the start of your upkeep, Ballistic Bot deals 1 damage to target opponent.</t
 		</card>
 		<card>
 			<name>Armed Gearhead</name>
-			<text>First strike, Upgrade (Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)</text>
+			<text>First strike, Upgrade (Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/194.png" num="186">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3671,7 +3667,7 @@ At the start of your upkeep, Ballistic Bot deals 1 damage to target opponent.</t
 		</card>
 		<card>
 			<name>Calculated Creations</name>
-			<text>Search your library and for a card named Armed Gearhead, Ballistic Bot, or Nyandroid, exile it then shuffle. You may cast the card exiled this way from exile for as long as it remains exiled. When the exiled creature enters, put a +1/+1 counter on it.</text>
+			<text>Search your library and for a card named Armed Gearhead, Ballistic Bot, or Nyandroid, exile it then shuffle. You may cast the card exiled this way from exile for as long as it remains exiled. Whenever creatures exiled this way enters, put a +1/+1 counter on it.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/195.png" num="189">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3688,7 +3684,7 @@ At the start of your upkeep, Ballistic Bot deals 1 damage to target opponent.</t
 		<card>
 			<name>Death Ray</name>
 			<text>Spree (Choose one or more additional costs.)
-+ {UR}: Death Ray deals 1 damage to target creature.
++ {0}: Death Ray deals 1 damage to target creature.
 + {UR}{UR}: Death Ray deals 2 damage to target creature.
 + {UR}{UR}{UR}: Death Ray deals 3 damage to target creature.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/196.png" num="194">LORT-MTN</set>
@@ -3739,7 +3735,7 @@ Exile Give It All.</text>
 		</card>
 		<card>
 			<name>Iterative Improvement</name>
-			<text>Create an exiled copy of a nonlegendary creature you control. You may cast the copy from exile for as long as it remains exiled. When that creature enters from exile, put a +1/+1 counter on it.</text>
+			<text>Create an exiled copy of a nonlegendary creature you control. You may cast the copy from exile for as long as it remains exiled. Whenever creatures exiled this way enters, put a +1/+1 counter on it.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/199.png" num="125">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3755,7 +3751,7 @@ Exile Give It All.</text>
 		</card>
 		<card>
 			<name>Mechanized Mimic</name>
-			<text>Upgrade (Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)
+			<text>Upgrade (Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)
 Whenever Mechanized Mimic attacks, it gets first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/200.png" num="129">LORT-MTN</set>
 			<prop>
@@ -3773,7 +3769,7 @@ Whenever Mechanized Mimic attacks, it gets first strike until end of turn if a c
 		</card>
 		<card>
 			<name>Nyandroid</name>
-			<text>Skulk, Upgrade (This creature can&apos;t be blocked by creatures with greater power. Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)</text>
+			<text>Skulk, Upgrade (This creature can&apos;t be blocked by creatures with greater power. Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/201.png" num="141">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3807,7 +3803,7 @@ Whenever Mechanized Mimic attacks, it gets first strike until end of turn if a c
 		</card>
 		<card>
 			<name>Poro Cannon</name>
-			<text>As an additional cost to cast this spell, discard a card from your hand.
+			<text>As an additional cost to cast this spell, discard a card.
 Create two Daring Poro tokens.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/203.png" num="207">LORT-MTN</set>
 			<prop>
@@ -3825,7 +3821,7 @@ Create two Daring Poro tokens.</text>
 		<card>
 			<name>Stress Testing</name>
 			<text>Remove all finality counters from creatures you control.
-If Stress Testing is discarded or sent to the graveyard from your library, reveal the top card of your library until you reveal a creature with mana value 1, and put it onto the battlefield under your control with a finality counter, then shuffle all other revealed cards into your library.</text>
+If Stress Testing is discarded or milled, reveal the top card of your library until you reveal a creature with mana value 1, put it onto the battlefield under your control with a finality counter, then shuffle all other revealed cards into your library.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/204.png" num="217">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3841,7 +3837,7 @@ If Stress Testing is discarded or sent to the graveyard from your library, revea
 		</card>
 		<card>
 			<name>The University of Piltover</name>
-			<text>At the start of your pre-combat main phase, discard your hand, then draw 3 cards.</text>
+			<text>At the beginning of your pre-combat main phase, discard your hand, then draw 3 cards.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/205.png" num="178">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3857,7 +3853,7 @@ If Stress Testing is discarded or sent to the graveyard from your library, revea
 		<card>
 			<name>Tri-beam Improbulator</name>
 			<text>Whenever you cast a spell with mana value 3, put a charge counter on Tri-beam Improbulator.
-{3}, {T}, Sacrifice Tri-beam Improbulator. Tri-beam Improbulator deals X+1 damage to target creature where X is the number of charge counters on Tri-beam Improbulator. Then reveal cards from the top of your library until you reveal a creature with mana value X where X is equal to the damage dealt, put it onto the battlefield under your control, then shuffle.</text>
+{3}, {T}, Sacrifice Tri-beam Improbulator. Tri-beam Improbulator deals X+1 damage to target creature where X is the number of charge counters on Tri-beam Improbulator. Then reveal cards from the top of your library until you reveal a creature with mana value X where X is equal to the number of charge counters on Tri-beam Improbulator, put it onto the battlefield under your control, then shuffle all other cards into your library.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/206.png" num="175">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3873,7 +3869,7 @@ If Stress Testing is discarded or sent to the graveyard from your library, revea
 		</card>
 		<card>
 			<name>Viktor, The Machinist</name>
-			<text>Upgrade (Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)
+			<text>Upgrade (Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)
 {UR}, {T}: Randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Viktor gets the chosen ability. Activate only as a sorcery.
 Whenever you cast an artifact, put a Herald counter on Viktor. At the end of any phase on your turn, if Viktor has seven or more Herald counters, remove all Hereld counters from Viktor, then transform him.
 Partner
@@ -3896,7 +3892,7 @@ Partner
 		</card>
 		<card>
 			<name>Viktor, The Machine Herald</name>
-			<text>Upgrade (Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)
+			<text>Upgrade (Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)
 Artifacts you control cost {UR} less to cast.
 {UR}, {T}: Randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Viktor gets the chosen ability. Activate only as a sorcery.
 ---
@@ -3950,8 +3946,8 @@ Artifacts you control cost {UR} less to cast.
 		</card>
 		<card>
 			<name>Boxtopus</name>
-			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
-When Boxtopus enters, put three -1/-1 counters on it. At the start of your upkeep, remove a -1/-1 counter from Boxtopus.</text>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+Boxtopus enters with three -1/-1 counters. At the beginning of your upkeep, remove a -1/-1 counter from Boxtopus.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/210.png" num="93">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3968,7 +3964,7 @@ When Boxtopus enters, put three -1/-1 counters on it. At the start of your upkee
 		</card>
 		<card>
 			<name>Crusty Codger</name>
-			<text>When Crusty Codger enters, put two -1/-1 counters on it. At the start of your upkeep, remove a -1/-1 counter from Crusty Codger.</text>
+			<text>Crusty Codger enters with two -1/-1 counters. At the beginning of your upkeep, remove a -1/-1 counter from Crusty Codger.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/211.png" num="193">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4002,7 +3998,7 @@ When Boxtopus enters, put three -1/-1 counters on it. At the start of your upkee
 		</card>
 		<card>
 			<name>Jack, the Winner</name>
-			<text>At the start of your upkeep, you may have Jack deal 2 damage to target other creature you control, if that creature is not destroyed, Jack then deals 2 damage to target opponent.</text>
+			<text>At the beginning of your upkeep, you may have Jack deal 2 damage to target other creature you control, if you do and that creature is not destroyed, Jack then deals 2 damage to target opponent.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/213.png" num="126">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4037,7 +4033,7 @@ When Boxtopus enters, put three -1/-1 counters on it. At the start of your upkee
 		<card>
 			<name>Monkey Business</name>
 			<text>Create a Powder Monkey token.
-Plunder: at the start of your next upkeep, create a Powder Monkey token. (If an opponent was dealt damage this turn, when this spell is cast at the start of your next upkeep, create a Powder Monkey token.)</text>
+Plunder — If an opponent was dealt damage this turn, when this spell resolves, at the beginning of your next upkeep, create a Powder Monkey token.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/215.png" num="205">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4053,7 +4049,7 @@ Plunder: at the start of your next upkeep, create a Powder Monkey token. (If an 
 		</card>
 		<card>
 			<name>Powder Pandemonium</name>
-			<text>Create a Powder Monkey token for each time you have activated a Plunder ability this turn.</text>
+			<text>Create a Powder Monkey token for each time you have triggered a Plunder ability this turn.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/216.png" num="145">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4069,7 +4065,7 @@ Plunder: at the start of your next upkeep, create a Powder Monkey token. (If an 
 		</card>
 		<card>
 			<name>Shakedown</name>
-			<text>Shakedown deals 2 damage to target creature you control to give up to two creatures an opponent controls Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>Shakedown deals 2 damage to target creature you control to put a vulnerable counter on up to two creatures an opponent controls. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/217.png" num="209">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4101,7 +4097,7 @@ Plunder: at the start of your next upkeep, create a Powder Monkey token. (If an 
 		</card>
 		<card>
 			<name>Tahm Kench, The River King</name>
-			<text>When Tahm Kench enters, and at the start of your upkeep, you may have Tahm Kench mutate target creature an opponent controls under Tahm Kench.
+			<text>When Tahm Kench enters, and at the beginning of your upkeep, you may have Tahm Kench mutate target creature an opponent controls under Tahm Kench.
 At the end of any phase, if Tahm Kench has three or more creatures mutated under him, transform him. When Tahm Kench transforms, exile all creatures mutated under Tahm Kench.
 Partner
 ---
@@ -4123,7 +4119,7 @@ Partner
 		</card>
 		<card>
 			<name>Tahm Kench, The Demon of Addiction</name>
-			<text>When Tahm Kench transforms, and at the start of your upkeep, you may have Tahm Kench mutate target creature an opponent controls under Tahm Kench.
+			<text>When Tahm Kench transforms, and at the beginning of your upkeep, you may have Tahm Kench mutate target creature an opponent controls under Tahm Kench.
 Whenever Tahm Kench attacks, exile all creatures mutated under Tahm Kench.
 ---
 (Front): Tahm Kench, The River King</text>
@@ -4145,7 +4141,7 @@ Whenever Tahm Kench attacks, exile all creatures mutated under Tahm Kench.
 		<card>
 			<name>The Slaughter Docks</name>
 			<text>At the beginning of your upkeep, Toss 1. (Exile a card from the bottom of your library.)
-At the end of any phase on your turn, if you are Deep, sacrifice The Slaughter Docks, then reveal the top card of your library until you reveal a Leviathan creature, put it onto the battlefield under your control, then shuffle. (The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. When you are Deep, all Deep creatures you control get +3/+3.)</text>
+At the end of any phase on your turn, if you are Deep, sacrifice The Slaughter Docks, then reveal cards from the top of your library until you reveal a Leviathan creature, put it onto the battlefield under your control, then shuffle. (If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/220.png" num="154">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4179,7 +4175,7 @@ When Wiggly Burblefish enters, reveal cards from the top of your library until y
 		<card>
 			<name>Wise Fry</name>
 			<text>Trample
-When Wise Fry enters, it deals 1 damage to each other creature you control, then Wise Fry gets a +1/+0 counter for each creature you control that took damage this way.</text>
+When Wise Fry enters, it deals 1 damage to each other creature you control, then put a number of +1/+0 counters on Wise Fry for each creature you control that took damage this way.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/222.png" num="183">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4196,9 +4192,9 @@ When Wise Fry enters, it deals 1 damage to each other creature you control, then
 		</card>
 		<card>
 			<name>Aphelios, The Hitman</name>
-			<text>Nightfall: reveal cards from the top of your library until you reveal two Luna Equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library. (If this creature is not the first spell you have cast this turn, when Aphelios, The Hitman enters, reveal cards from the top of your library until you reveal two Luna Equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.)
-The first time each turn you cast your second spell, other than Aphelios, reveal cards from the top of your library until you reveal two Luna Equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.
-At the end of any phase on your turn, if you control four or more Luna Equipment cards, transform Aphelios.
+			<text>Nightfall — When Aphelios enters, if it wasn&apos;t the first spell you cast this turn, reveal cards from the top of your library until you reveal two luna equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.
+The first time each turn you cast your second spell, other than Aphelios, reveal cards from the top of your library until you reveal two luna equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.
+At the end of any phase on your turn, if you control four or more luna equipment cards, transform Aphelios.
 Partner
 ---
 (Back): Aphelios, The Weapon of the Faithful</text>
@@ -4220,9 +4216,9 @@ Partner
 		<card>
 			<name>Aphelios, The Weapon of the Faithful</name>
 			<text>First strike
-The first time each turn you cast your second spell, other than Aphelios, and at the start of your upkeep, reveal cards from the top of your library until you reveal two Luna Equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.
-Luna Equipment cards you control cost {2} less to cast.
-Activated abilities of Luna Equipment cards you control cost {1} less.
+The first time each turn you cast your second spell, other than Aphelios, and at the beginning of your upkeep, reveal cards from the top of your library until you reveal two luna equipment cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.
+Luna equipment cards you control cost {2} less to cast.
+Activated abilities of luna equipment cards you control cost {1} less.
 ---
 (Front): Aphelios, The Hitman</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/223_back.png" num="85b">LORT-MTN</set>
@@ -4242,7 +4238,7 @@ Activated abilities of Luna Equipment cards you control cost {1} less.
 		</card>
 		<card>
 			<name>Encroaching Shadows LORT-MTN</name>
-			<text>Creatures you cast get +2/+2 and Ephemeral. (That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
+			<text>Creatures you cast get +2/+2 and Ephemeral. (That creature has haste. At the end of turn, sacrifice it.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/224.png" num="2">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4322,7 +4318,7 @@ When this land enters, return a land you control to its owner&apos;s hand.
 		</card>
 		<card>
 			<name>Zoe, The Aspect of Twilight LORT-MTN</name>
-			<text>Whenever a creature you control enters, if it has first strike, each other creature you control gets first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.</text>
+			<text>Whenever a creature you control enters, if it has first strike, put a first strike counter on each other creature you control. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/229.png" num="7">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
