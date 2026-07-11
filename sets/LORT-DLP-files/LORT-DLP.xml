@@ -1,0 +1,1143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>LORT-DLP</name>
+			<longname>Legends Of Runeterra Conversion: Dreamlit Paths</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-12</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>The Smokescaled Host</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Discard a card. Reveal cards from the top of your library until you reveal three Celestial cards with mana value 7 or greater, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+III — The first spell you cast this turn costs {5} less to cast.
+​</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/0.png" num="46">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Veiled Blessings</name>
+			<text>Put two +1/+1 counters on target creature you control.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/1.png" num="57">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W/U</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragonsong Dreamer</name>
+			<text>The first time each turn you trigger an Invoke ability, create a Dragonling token.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/2.png" num="38">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Emperor&apos;s Army</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create two Sand Soldier tokens.
+II — Predict (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)
+III — Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/3.png" num="39">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Empire Reconstructor</name>
+			<text>Empire Reconstructor can block creatures with shadow as if it had shadow. (This creature can block or be blocked by only creatures with shadow.)
+When Empire Reconstructor enters, target enchantment landmark you control gets &quot;If this enchantment would enter the graveyard, exile it, then return it to the battlefield under its owner&apos;s control instead&quot;.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/4.png" num="40">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunborn Summoning</name>
+			<text>Reveal cards from the top of your library until you reveal three legendary creature cards, choose one and add it to your hand, then shuffle all other revealed cards into your library.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/5.png" num="48">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UUB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Existential Dread</name>
+			<text>Put a -1/-1 counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/6.png" num="24">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Iron Conquest</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Choose a creature you control. Create a token copy of that creature except it has +1/+1 and ephemeral. (That creature has haste. At the end of turn, sacrifice it.)
+Return a creature with the highest power among creatures in your graveyard to the battlefield, it gets ephemeral.
+​</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/7.png" num="26">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grimm</name>
+			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
+When Grimm enters, put four -1/-1 counters on target other creature.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/8.png" num="25">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Yordle Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Beautiful Disaster</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy target creature with total power and toughness 5 or less.
+II — Target opponent loses 2 life. You gain 2 life.
+III — Choose a creature you control. Create a token copy of that creature except it has base power and toughness 1/1 and ephemeral. (That creature has haste. At the end of turn, sacrifice it.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/9.png" num="23">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kharox</name>
+			<text>Whenever a nontentacle creature you control dies, amass tentacles 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a tentacle. If you don&apos;t control an Army, create a 0/0 black red tentacle Army creature token first.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/10.png" num="27">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wraith Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1BBB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Candlelit Prayer</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Shuffle a card from your hand into your library. Draw a card.
+Draw a card.
+​</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/11.png" num="37">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soaring Cartographer</name>
+			<text>Brash (Creatures with Brash cannot be blocked by creatures with 2 or less toughness.)
+When Soaring Cartographer enters, reveal a card from your hand, then choose one —
+• Shuffle it into your library, then reveal cards from the top of your library until you reveal a spell with mana value greater than the revealed card, add it to your hand, then shuffle all other revealed cards into your library.
+• Shuffle it into your library, then reveal cards from the top of your library until you reveal a spell with mana value less than the revealed card, add it to your hand, then shuffle all other revealed cards into your library.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/12.png" num="47">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastaya Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malmutation</name>
+			<text>Choose a nonlegendary creature you control. Create two tokens that are copies of it.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/13.png" num="43">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UUR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Arena&apos;s Greatest</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Target creature you control gets +2/+0 until end of turn.
+III — Target creature an opponent controls has &quot;This creature can&apos;t block&quot; until the beginning of your next upkeep.
+​</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/14.png" num="28">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Yeti Handler</name>
+			<text>As an additional cost to cast this spell, discard a card.
+When Yeti Handler enters, create an Enraged Yeti token.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/15.png" num="30">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blighted Battleaxe</name>
+			<text>Equipped creature has +3/+3 and &quot;This creature can&apos;t block&quot;.
+At the beginning of your end phase, if the equipped creature did not attack on your turn if able, put a -1/-1 counter on it.
+Equip {R}</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/16.png" num="29">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blooming Bud</name>
+			<text>Target creature phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/17.png" num="12">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ophelis Gardener</name>
+			<text>When Ophelis Gardener enters, target creature phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/18.png" num="17">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Satyr Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sprite Mother</name>
+			<text>Whenever Sprite Mother enters, put a +1/+1 counter on each creature named Spritelings and each creature named Sprite Mother you control.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/19.png" num="21">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Dewdrop Harvest</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Create a Spritelings token.
+Target creature you control phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/20.png" num="13">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Rootbound Path</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Draw a card.
+Until the end of turn, spells you control cost {1} less to cast.
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/21.png" num="19">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spritelings LORT-DLP</name>
+			<text>Spritelings enters with two +1/+1 counters.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/22.png" num="1">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Lillia, The Fae Fawn</name>
+			<text>First strike
+Lillia enters with a +1/+1 counter.
+Whenever Lillia enters or deals damage, you may pay {2}, if you do, target creature you control phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
+Whenever a creature or landmark you control enters, put a Dream counter on Lillia. At the end of any phase on your turn, if Lillia has fifteen or more Dream counters, remove all Dream counters from Lillia, then transform her.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Lillia, The Bashful Bloom</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/23_front.png" num="15a">LORT-DLP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Faerie Centaur Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Lillia, The Bashful Bloom</related>
+		</card>
+		<card>
+			<name>Lillia, The Bashful Bloom</name>
+			<text>First strike
+Whenever Lillia transforms or deals damage, you may pay {1}, if you do, target creature you control phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
+Whenever a creature you control phases in, put a +1/+1 counter on it.
+---
+(Front): Lillia, The Fae Fawn</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/23_back.png" num="15b">LORT-DLP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Faerie Centaur Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Lillia, The Fae Fawn</related>
+		</card>
+		<card>
+			<name>Mister Root</name>
+			<text>Mister Root enters with a +1/+1 counter.
+When Mister Root enters, draw a card.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/24.png" num="16">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Petal Pixie</name>
+			<text>When Petal Pixie enters, create a Spritelings token.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/25.png" num="18">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sprite Dance</name>
+			<text>Choose a creature you control. Move all counters from that creature onto target creature you control. Then recall the chosen creature. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/26.png" num="20">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Heart of the Tree</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+You gain 3 life. Create a Spritelings token.
+Put a +1/+1 counter on each creature you control.
+Reveal cards from the top of your library until you reveal three cards with mana value 8 or greater. Choose one and exile it, then shuffle the rest of the revealed cards into your library. For as long as it remains exiled, it has &quot;You may cast this card from exile and it costs {X} less to cast, where X is half it&apos;s mana value, rounded down.&quot;</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/27.png" num="14">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Steel Gale</name>
+			<text>Put two stun counters on target creature.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/28.png" num="22">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Poro Parade</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Reveal cards from the top of your library until you reveal a creature with a creature type you don&apos;t control, add it to your hand, then shuffle all other revealed cards into your library.
+Put a number of +1/+1 counters on target creature you control for each unique creature type among creatures you control.
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/29.png" num="33">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ultrasoft Poro</name>
+			<text>When Ultrasoft Poro enters, you gain X life where X is equal to the number of unique creature types among creatures you control.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/30.png" num="34">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Poro</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glacial Fell</name>
+			<text>Put a number of +0/+1 counters on target creature you control equal to its power, and a formidable counter. That creature has base power 0. (This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/31.png" num="32">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Brynhir Thundersong</name>
+			<text>When Brynhir Thundersong enters, exile a creature card from your hand with a number of time counters on it equal to its mana value. If it doesn&apos;t have suspend, it gains suspend.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/32.png" num="31">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Luminosprite</name>
+			<text>Whenever Luminosprite attacks, target other attacking creature you control gets +X/+Y where X is equal to Luminosprites power and Y is equal to Luminosprites toughness.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/33.png" num="7">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Incandescence</name>
+			<text>Boost all creatures. (Give all creatures another ability and counter of each kind already there.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/34.png" num="4">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jarro Lightfeather</name>
+			<text>Jarro Lightfeather enters with a +1/+1 counter.
+When Jarro Lightfeather enters, until the end of turn, the next creature you cast enters with an additional +1/+1 counter.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/35.png" num="5">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lux, Illuminated</name>
+			<text>Lux enters with a +1/+1 counter.
+Whenever Lux attacks, put a shield counter on Lux. Then put a +1/+1 counter on target other attacking creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+At the beginning of your post-combat main phase, if one or more creatures you control with a total of twenty or more counters among them attacked this turn, transform Lux.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Lux, The Radiant</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/36_front.png" num="8a">LORT-DLP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Lux, The Radiant</related>
+		</card>
+		<card>
+			<name>Lux, The Radiant</name>
+			<text>First strike
+Whenever Lux attacks, put a shield counter on Lux. Then put a +1/+1 counter on target other attacking creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.
+---
+(Front): Lux, Illuminated</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/36_back.png" num="8b">LORT-DLP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human Wizard Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Lux, Illuminated</related>
+		</card>
+		<card>
+			<name>Tree Sprites</name>
+			<text>Tree Sprites enters with a +1/+1 counter.
+When Tree Sprites enter, boost each other creature you control. (Give each other creature you control another ability and counter of each kind already there.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/37.png" num="49">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Light of Demacia</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Put a +1/+1 counter on target creature you control.
+II — Put two +1/+1 counters on target creature you control.
+III — Boost each creature you control. (Give each creature you control another ability and counter of each kind already there.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/38.png" num="6">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aberrant Mageseeker</name>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+Aberrant Mageseeker enters with a +1/+1 counter.
+When Aberrant Mageseeker enters, put a +1/+1 counter on each other creature you control.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/39.png" num="1">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Inquisitor Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Petricite Hall</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Exile target creature an opponent controls.
+Target opponent creates a Suppression Curse token.
+Exile target creature an opponent controls.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/40.png" num="9">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rising Light</name>
+			<text>Boost all creatures. Repeat this process twice. (Give all creatures another ability and counter of each kind already there.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/41.png" num="10">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dreamlight Alina</name>
+			<text>Dreamlight Alina enters with a +1/+1 counter.
+When Dreamlight Alina enters, create five Spritelings tokens.
+Whenever a Spritelings token you control dies, put two +1/+1 counters on a creature with the lowest power you control.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/42.png" num="2">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2WWW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smoldering Smirk</name>
+			<text>Boost two creatures you control. Then both creatures deals damage equal to its power to target creature an opponent controls. (Give two creatures you control another ability and counter of each kind already there.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/43.png" num="11">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forgotten Artifact</name>
+			<text>Focus (This instant cannot be cast during the combat phase or in response to another spell or ability.)
+Create a Sandstone Charger token. Creatures you control get challenger until end of turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/44.png" num="3">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Pit Champion</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Target creature you control and target creature an opponent controls fight. (Each deals damage equal to its power to the other.)
+Remove all -1/-1 counters from target creature you control.
+Create three Gold tokens.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/45.png" num="45">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mercenary Manners</name>
+			<text>Gain control of target creature with toughness 3 or less until end of turn. Untap that creature.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/46.png" num="44">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Eager Dedicant</name>
+			<text>Brash (Creatures with Brash cannot be blocked by creatures with 2 or less toughness.)
+Until the end of turn, Eager Dedicant gets +1/+0 for each card you have drawn this turn.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/47.png" num="54">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vex</name>
+			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
+Whenever Vex attacks, put a -1/-1 counter on a creature with the highest power among creatures the defending player controls.
+Whenever a -1/-1 counter is put onto a creature an opponent controls, put a Gloom counter on Vex. At the end of any phase on your turn, if Vex has five or more Gloom counters, remove all Gloom counters from Vex, then transform her.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Vex, The Gloomist</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/48_front.png" num="51a">LORT-DLP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Yordle Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1WBG</manacost>
+				<cmc>4</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Vex, The Gloomist</related>
+		</card>
+		<card>
+			<name>Vex, The Gloomist</name>
+			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
+Whenever Vex attacks, put a -1/-1 counter on a creature with the highest power among creatures the defending player controls.
+If one or more -1/-1 counters would be put on a creature an opponent controls, that many plus one -1/-1 counters are put on it instead.
+---
+(Front): Vex</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/48_back.png" num="51b">LORT-DLP</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Yordle Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBG</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Vex</related>
+		</card>
+		<card>
+			<name>Uncle Milty</name>
+			<text>Afflict 1 (Whenever this creature becomes blocked, defending player loses 1 life.)
+Whenever the final chapter ability of a Saga you control resolves, put two +1/+1 counters on Uncle Milty.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/49.png" num="50">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Yordle Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grotesque Gift</name>
+			<text>Grotesque Gift enters with a +1/+1 counter and a charge counter.
+When a creature an opponent controls enters, remove a charge counter from Grotesque Gift, if you do, put a -1/-1 counter on that creature.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/50.png" num="42">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Allay, The Merry</name>
+			<text>Afflict 1 (Whenever this creature becomes blocked, defending player loses 1 life.)
+When Allay enters, choose one —
+• Put a +1/+1 counter on Allay.
+• Put a -1/-1 counter on target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/51.png" num="35">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Yordle Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beefcake Mayor</name>
+			<text>Afflict 1 (Whenever this creature becomes blocked, defending player loses 1 life.)
+At the beginning of your upkeep, boost Beefcake Mayor. (Give Beefcake Mayor another ability and counter of each kind already there.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/52.png" num="36">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Yordle Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gloomsprites</name>
+			<text>Whenever Gloomsprites deals combat damage, put an afflict 1 token on it. (Whenever this creature becomes blocked, defending player loses 1 life.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/53.png" num="55">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wraith Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>G/W</manacost>
+				<cmc>1</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Family Reunion</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Put a -1/-1 counter on target creature an opponent controls.
+Put an afflict 1 counter on target creature you control. (Whenever that creature becomes blocked, defending player loses 1 life.)
+Boost two creatures you control. (Give two creatures you control another ability and counter of each kind already there.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/54.png" num="41">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Wingsgiving</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus one. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
+Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus two. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
+​</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/55.png" num="53">LORT-DLP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Monstrous Eruption</name>
+			<text>Choose one —
+• Target creature you control gets base power 5 until the beginning of your next upkeep.
+• Target creature you control gets base toughness 5 until the beginning of your next upkeep.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/56.png" num="56">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GWG/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vex&apos;s Shadow</name>
+			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
+When Vex&apos;s Shadow enters, search your library and/or graveyard for a yordle creature card named Vex, reveal it, and put it into your hand. If you search your library this way, shuffle.
+Whenever a source you control puts a -1/-1 counter on a creature an opponent controls, put a +1/+0 counter on Vex&apos;s Shadow.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/57.png" num="52">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>2WBG</manacost>
+				<cmc>5</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vex&apos;s Glare</name>
+			<text>Put a -1/-1 counter on target creature. Draw a card.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/58.png" num="58">LORT-DLP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BG/W</manacost>
+				<cmc>2</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

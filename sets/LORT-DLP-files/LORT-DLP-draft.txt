@@ -1,0 +1,814 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "The Smokescaled Host",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/0.png"
+			}
+		},
+		{
+			"name": "Veiled Blessings",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/1.png"
+			}
+		},
+		{
+			"name": "Dragonsong Dreamer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/2.png"
+			}
+		},
+		{
+			"name": "The Emperor's Army",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/3.png"
+			}
+		},
+		{
+			"name": "Empire Reconstructor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Spellshaper",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/4.png"
+			}
+		},
+		{
+			"name": "Sunborn Summoning",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}{B}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/5.png"
+			}
+		},
+		{
+			"name": "Existential Dread",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/6.png"
+			}
+		},
+		{
+			"name": "The Iron Conquest",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/7.png"
+			}
+		},
+		{
+			"name": "Grimm",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Yordle Performer",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/8.png"
+			}
+		},
+		{
+			"name": "The Beautiful Disaster",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/9.png"
+			}
+		},
+		{
+			"name": "Kharox",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Creature — Wraith Horror",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/10.png"
+			}
+		},
+		{
+			"name": "The Candlelit Prayer",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/11.png"
+			}
+		},
+		{
+			"name": "Soaring Cartographer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Vastaya Scout",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/12.png"
+			}
+		},
+		{
+			"name": "Malmutation",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/13.png"
+			}
+		},
+		{
+			"name": "The Arena's Greatest",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/14.png"
+			}
+		},
+		{
+			"name": "Yeti Handler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/15.png"
+			}
+		},
+		{
+			"name": "Blighted Battleaxe",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/16.png"
+			}
+		},
+		{
+			"name": "Blooming Bud",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/17.png"
+			}
+		},
+		{
+			"name": "Ophelis Gardener",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Satyr Druid",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/18.png"
+			}
+		},
+		{
+			"name": "Sprite Mother",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Faerie Druid",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/19.png"
+			}
+		},
+		{
+			"name": "The Dewdrop Harvest",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/20.png"
+			}
+		},
+		{
+			"name": "The Rootbound Path",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/21.png"
+			}
+		},
+		{
+			"name": "Spritelings",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Spirit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/22.png"
+			}
+		},
+		{
+			"name": "Lillia, The Fae Fawn",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Faerie Centaur Spellshaper",
+			"collector_number": "15",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/23_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/23_front.png"
+			}
+		},
+		{
+			"name": "Mister Root",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Plant Spirit",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/24.png"
+			}
+		},
+		{
+			"name": "Petal Pixie",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Plant Faerie",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/25.png"
+			}
+		},
+		{
+			"name": "Sprite Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/26.png"
+			}
+		},
+		{
+			"name": "The Heart of the Tree",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/27.png"
+			}
+		},
+		{
+			"name": "Steel Gale",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/28.png"
+			}
+		},
+		{
+			"name": "The Poro Parade",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/29.png"
+			}
+		},
+		{
+			"name": "Ultrasoft Poro",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Poro",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/30.png"
+			}
+		},
+		{
+			"name": "Glacial Fell",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/31.png"
+			}
+		},
+		{
+			"name": "Brynhir Thundersong",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Faerie Druid",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/32.png"
+			}
+		},
+		{
+			"name": "Luminosprite",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/33.png"
+			}
+		},
+		{
+			"name": "Incandescence",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/34.png"
+			}
+		},
+		{
+			"name": "Jarro Lightfeather",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/35.png"
+			}
+		},
+		{
+			"name": "Lux, Illuminated",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Wizard Noble",
+			"collector_number": "8",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/36_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/36_front.png"
+			}
+		},
+		{
+			"name": "Tree Sprites",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/37.png"
+			}
+		},
+		{
+			"name": "The Light of Demacia",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/38.png"
+			}
+		},
+		{
+			"name": "Aberrant Mageseeker",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Inquisitor Horror",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/39.png"
+			}
+		},
+		{
+			"name": "The Petricite Hall",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/40.png"
+			}
+		},
+		{
+			"name": "Rising Light",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/41.png"
+			}
+		},
+		{
+			"name": "Dreamlight Alina",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/42.png"
+			}
+		},
+		{
+			"name": "Smoldering Smirk",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/43.png"
+			}
+		},
+		{
+			"name": "Forgotten Artifact",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/44.png"
+			}
+		},
+		{
+			"name": "The Pit Champion",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/45.png"
+			}
+		},
+		{
+			"name": "Mercenary Manners",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/46.png"
+			}
+		},
+		{
+			"name": "Eager Dedicant",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Human Monk",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/47.png"
+			}
+		},
+		{
+			"name": "Vex",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Yordle Warlock",
+			"collector_number": "51",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/48_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/48_front.png"
+			}
+		},
+		{
+			"name": "Uncle Milty",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Yordle Citizen",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/49.png"
+			}
+		},
+		{
+			"name": "Grotesque Gift",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact Creature — Construct Horror",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/50.png"
+			}
+		},
+		{
+			"name": "Allay, The Merry",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Yordle Citizen",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/51.png"
+			}
+		},
+		{
+			"name": "Beefcake Mayor",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Yordle Noble",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/52.png"
+			}
+		},
+		{
+			"name": "Gloomsprites",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Creature — Wraith Spirit",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/53.png"
+			}
+		},
+		{
+			"name": "The Family Reunion",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/54.png"
+			}
+		},
+		{
+			"name": "The Wingsgiving",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/55.png"
+			}
+		},
+		{
+			"name": "Monstrous Eruption",
+			"rarity": "common",
+			"mana_cost": "{G}{W}{G/W}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/56.png"
+			}
+		},
+		{
+			"name": "Vex's Shadow",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Creature — Shade",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/57.png"
+			}
+		},
+		{
+			"name": "Vex's Glare",
+			"rarity": "common",
+			"mana_cost": "{B}{G/W}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-DLP-files/img/58.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 The Smokescaled Host
+	2 Dragonsong Dreamer
+	2 The Emperor's Army
+	2 The Iron Conquest
+	2 The Beautiful Disaster
+	2 Kharox
+	2 The Candlelit Prayer
+	2 Malmutation
+	2 The Arena's Greatest
+	2 Sprite Mother
+	1 Lillia, The Fae Fawn
+	2 The Heart of the Tree
+	1 The Poro Parade
+	2 Brynhir Thundersong
+	1 Lux, Illuminated
+	2 The Petricite Hall
+	2 Dreamlight Alina
+	2 The Pit Champion
+	1 Vex
+	2 The Family Reunion
+	2 The Wingsgiving
+	2 Vex's Shadow
+[uncommon(3)]
+	4 Sunborn Summoning
+	4 Existential Dread
+	4 Yeti Handler
+	4 Blighted Battleaxe
+	4 Blooming Bud
+	4 The Rootbound Path
+	4 Petal Pixie
+	4 Sprite Dance
+	4 Glacial Fell
+	4 Luminosprite
+	4 Jarro Lightfeather
+	4 The Light of Demacia
+	4 Rising Light
+	4 Forgotten Artifact
+	4 Eager Dedicant
+	4 Uncle Milty
+	4 Grotesque Gift
+[common(6)]
+	8 Veiled Blessings
+	8 Empire Reconstructor
+	8 Grimm
+	8 Soaring Cartographer
+	8 Ophelis Gardener
+	8 The Dewdrop Harvest
+	8 Mister Root
+	8 Steel Gale
+	8 Ultrasoft Poro
+	8 Incandescence
+	8 Tree Sprites
+	8 Aberrant Mageseeker
+	8 Smoldering Smirk
+	8 Mercenary Manners
+	8 Allay, The Merry
+	8 Beefcake Mayor
+	8 Gloomsprites
+	8 Monstrous Eruption
+	8 Vex's Glare
+[common | masterpiece(1)]
+	8 Veiled Blessings
+	8 Empire Reconstructor
+	8 Grimm
+	8 Soaring Cartographer
+	8 Ophelis Gardener
+	8 The Dewdrop Harvest
+	8 Mister Root
+	8 Steel Gale
+	8 Ultrasoft Poro
+	8 Incandescence
+	8 Tree Sprites
+	8 Aberrant Mageseeker
+	8 Smoldering Smirk
+	8 Mercenary Manners
+	8 Allay, The Merry
+	8 Beefcake Mayor
+	8 Gloomsprites
+	8 Monstrous Eruption
+	8 Vex's Glare
+[foil(1)]
+	2 The Smokescaled Host
+	12 Veiled Blessings
+	2 Dragonsong Dreamer
+	2 The Emperor's Army
+	12 Empire Reconstructor
+	6 Sunborn Summoning
+	6 Existential Dread
+	2 The Iron Conquest
+	12 Grimm
+	2 The Beautiful Disaster
+	2 Kharox
+	2 The Candlelit Prayer
+	12 Soaring Cartographer
+	2 Malmutation
+	2 The Arena's Greatest
+	6 Yeti Handler
+	6 Blighted Battleaxe
+	6 Blooming Bud
+	12 Ophelis Gardener
+	2 Sprite Mother
+	12 The Dewdrop Harvest
+	6 The Rootbound Path
+	1 Lillia, The Fae Fawn
+	12 Mister Root
+	6 Petal Pixie
+	6 Sprite Dance
+	2 The Heart of the Tree
+	12 Steel Gale
+	1 The Poro Parade
+	12 Ultrasoft Poro
+	6 Glacial Fell
+	2 Brynhir Thundersong
+	6 Luminosprite
+	12 Incandescence
+	6 Jarro Lightfeather
+	1 Lux, Illuminated
+	12 Tree Sprites
+	6 The Light of Demacia
+	12 Aberrant Mageseeker
+	2 The Petricite Hall
+	6 Rising Light
+	2 Dreamlight Alina
+	12 Smoldering Smirk
+	6 Forgotten Artifact
+	2 The Pit Champion
+	12 Mercenary Manners
+	6 Eager Dedicant
+	1 Vex
+	6 Uncle Milty
+	6 Grotesque Gift
+	12 Allay, The Merry
+	12 Beefcake Mayor
+	12 Gloomsprites
+	2 The Family Reunion
+	2 The Wingsgiving
+	12 Monstrous Eruption
+	2 Vex's Shadow
+	12 Vex's Glare
+[wildcard(1)]
+	7 The Smokescaled Host
+	6 Veiled Blessings
+	7 Dragonsong Dreamer
+	7 The Emperor's Army
+	6 Empire Reconstructor
+	15 Sunborn Summoning
+	15 Existential Dread
+	7 The Iron Conquest
+	6 Grimm
+	7 The Beautiful Disaster
+	7 Kharox
+	7 The Candlelit Prayer
+	6 Soaring Cartographer
+	7 Malmutation
+	7 The Arena's Greatest
+	15 Yeti Handler
+	15 Blighted Battleaxe
+	15 Blooming Bud
+	6 Ophelis Gardener
+	7 Sprite Mother
+	6 The Dewdrop Harvest
+	15 The Rootbound Path
+	4 Lillia, The Fae Fawn
+	6 Mister Root
+	15 Petal Pixie
+	15 Sprite Dance
+	7 The Heart of the Tree
+	6 Steel Gale
+	4 The Poro Parade
+	6 Ultrasoft Poro
+	15 Glacial Fell
+	7 Brynhir Thundersong
+	15 Luminosprite
+	6 Incandescence
+	15 Jarro Lightfeather
+	4 Lux, Illuminated
+	6 Tree Sprites
+	15 The Light of Demacia
+	6 Aberrant Mageseeker
+	7 The Petricite Hall
+	15 Rising Light
+	7 Dreamlight Alina
+	6 Smoldering Smirk
+	15 Forgotten Artifact
+	7 The Pit Champion
+	6 Mercenary Manners
+	15 Eager Dedicant
+	4 Vex
+	15 Uncle Milty
+	15 Grotesque Gift
+	6 Allay, The Merry
+	6 Beefcake Mayor
+	6 Gloomsprites
+	7 The Family Reunion
+	7 The Wingsgiving
+	6 Monstrous Eruption
+	7 Vex's Shadow
+	6 Vex's Glare

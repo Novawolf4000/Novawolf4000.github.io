@@ -1,0 +1,743 @@
+﻿[
+    {
+        "card_name": "Lux, Illuminated",
+        "number": 8,
+        "shape": "transform double faced",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Lillia, The Fae Fawn",
+        "number": 15,
+        "shape": "transform double faced",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "The Beautiful Disaster",
+        "number": 23,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "The Arena's Greatest",
+        "number": 28,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "The Poro Parade",
+        "number": 33,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Dreamlight Alina",
+        "number": 2,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "The Heart of the Tree",
+        "number": 14,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "The Iron Conquest",
+        "number": 26,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Blighted Battleaxe",
+        "number": 29,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Brynhir Thundersong",
+        "number": 31,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "The Petricite Hall",
+        "number": 9,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Sprite Mother",
+        "number": 21,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Kharox",
+        "number": 27,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Yeti Handler",
+        "number": 30,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Glacial Fell",
+        "number": 32,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Forgotten Artifact",
+        "number": 3,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Blooming Bud",
+        "number": 12,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Existential Dread",
+        "number": 24,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ultrasoft Poro",
+        "number": 34,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Jarro Lightfeather",
+        "number": 5,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Petal Pixie",
+        "number": 18,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Grimm",
+        "number": 25,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Light of Demacia",
+        "number": 6,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "The Rootbound Path",
+        "number": 19,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Luminosprite",
+        "number": 7,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Sprite Dance",
+        "number": 20,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rising Light",
+        "number": 10,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "The Dewdrop Harvest",
+        "number": 13,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Aberrant Mageseeker",
+        "number": 1,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Mister Root",
+        "number": 16,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Incandescence",
+        "number": 4,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Ophelis Gardener",
+        "number": 17,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Smoldering Smirk",
+        "number": 11,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Steel Gale",
+        "number": 22,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Dragonsong Dreamer",
+        "number": 38,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "The Emperor's Army",
+        "number": 39,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "The Pit Champion",
+        "number": 45,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Family Reunion",
+        "number": 41,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "The Smokescaled Host",
+        "number": 46,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Sunborn Summoning",
+        "number": 48,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Eager Dedicant",
+        "number": 54,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Wingsgiving",
+        "number": 53,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Veiled Blessings",
+        "number": 57,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Empire Reconstructor",
+        "number": 40,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Mercenary Manners",
+        "number": 44,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Grotesque Gift",
+        "number": 42,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Uncle Milty",
+        "number": 50,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Allay, The Merry",
+        "number": 35,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Beefcake Mayor",
+        "number": 36,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tree Sprites",
+        "number": 49,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gloomsprites",
+        "number": 55,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Monstrous Eruption",
+        "number": 56,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Candlelit Prayer",
+        "number": 37,
+        "shape": "saga",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Malmutation",
+        "number": 43,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Soaring Cartographer",
+        "number": 47,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Vex",
+        "number": 51,
+        "shape": "transform double faced",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Vex's Shadow",
+        "number": 52,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Vex's Glare",
+        "number": 58,
+        "shape": "normal",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Spritelings",
+        "number": 1,
+        "shape": "token",
+        "set": "LORT-DLP",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
