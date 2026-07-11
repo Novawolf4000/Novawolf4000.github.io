@@ -5,6 +5,7 @@
         "LORT-MTN",
         "LORT-EOTA",
         "LORT-BTB",
-        "LORT-WW"
+        "LORT-WW",
+	"LORT-DLP"
     ]
 }
