@@ -1,4 +1,654 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Ancient Hourglass
+cost: {1}{U}{B} => {U}{B}
+
+Ascended's Rise
+cost: {U}{U}{U}{B}{B}{B} => {U}{U}{B}{B}
+
+Azir, Shurima's Emperor
+
+Baccai Reaper
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Whenever a source you control destroys a creature or planeswalker, Baccai Reaper gets a +1/+0 counter. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Whenever a source you control destroys a creature or planeswalker, put a +1/+0 counter on Baccai Reaper.
+
+Baccai Sandspinner
+rules_text: When Baccai Sandspinner enters, target creature an opponent gets -1/-0 and Vulnerable. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => When Baccai Sandspinner enters, put a -1/-0 counter and a vulnerable counter on target creature an opponent controls. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Boomerang Blade
+rules_text: Target creature you control deals damage equal to its power to the creatures with the highest and lowest power among creatures target opponent controls. => Target creature you control deals damage equal to its power to the creature with the highest power and the creature with the lowest power among creatures target opponent controls.
+
+Buried Sun Disc
+rules_text: If Buried Sun Disc is in your opening hand, you may begin the game with it on the battlefield.
+Vanishing 25
+If Buried Sun Disc would be sacrificed with no time counters, transform it instead. => If Buried Sun Disc is in your opening hand, you may begin the game with it on the battlefield.
+Vanishing 25 [i](This permanent enters with twenty-five time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+Whenever a legendary creature you control transforms, remove nine time counters from Buried Sun Disc.
+If Buried Sun Disc would be sacrificed with no time counters, transform it instead.
+
+Call the Pack
+rules_text: As an additional cost to cast this card, shuffle one card from your hand into your library.
+Reveal cards from the top of your library until you reveal two creature cards with Lurk, add them to your hand, then shuffle all other revealed cards into your library. => As an additional cost to cast this card, shuffle one card from your hand into your library.
+Reveal cards from the top of your library until you reveal two creature cards with lurk, add them to your hand, then shuffle all other revealed cards into your library.
+
+Callous Bonecrusher
+rules_text: If you have Reputation: Callous Bonecrusher costs {1} less to cast and enters with Trample. [i](Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i] => If you have Reputation, Callous Bonecrusher costs {1} less to cast and enters with a trample counter. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+
+Chronoshift
+cost: {UB}{UB}{UB}{UB} => {1}{UB}{UB}
+
+Desert's Wrath
+rules_text: When Desert's Wrath enters, create two Sand Soldier tokens.
+Creatures you control named Sand Soldier gets +1/+0. => When Desert's Wrath enters, create two Sand Soldier tokens.
+Sand Soldier tokens you control get +1/+0.
+
+Devoted Council
+rules_text: At the start of your upkeep, if you control a legendary creature, you gain 1 life. If you control a legendary creature that is transformed, you gain 2 life instead. => At the beginning of your upkeep, if you control a legendary creature, you gain 1 life. If you control a legendary creature that is transformed, you gain 2 life instead.
+
+Emperor's Divide
+rules_text: All creatures controlled by opponents get Vulnerable until the end of the turn. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i]
+Create six Sand Soldier tokens. => Each creature opponents control get vulnerable until the end of the turn. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+Create six Sand Soldier tokens.
+
+Exhaust
+rules_text: Target creature an opponent controls gets -2/-0 and Vulnerable until the end of your next turn. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => Target creature an opponent controls gets -2/-0 and vulnerable until the end of your next turn. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Golden Ambassador
+rules_text: Allegiance: search your library for a legendary creature, reveal it, add it to your hand, then shuffle. [i](When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then search your library for a legendary creature, reveal it, add it to your hand, then shuffle)[/i] => [i]Allegiance[/i] – When Golden Ambassador enters, reveal the top card of your library. If the revealed card is at least each colour this creature is, search your library for a legendary creature, reveal it, add it to your hand, then shuffle.
+
+Imagined Possibilities
+rules_text: Focus [i](This instant cannot be cast during the combat phase or in response to another spell or ability.)[/i]
+Choose one —
+• Reveal cards from the top of your library until you reveal a landmark with Vanishing, add it to your hand, then shuffle all other revealed cards into your library.
+• Remove a time counter from each landmark you control. => Focus [i](This instant cannot be cast during the combat phase or in response to another spell or ability.)[/i]
+Choose one —
+• Reveal cards from the top of your library until you reveal a landmark with vanishing, add it to your hand, then shuffle all other revealed cards into your library.
+• Remove a time counter from each landmark you control.
+
+Inner Sanctum
+rules_text: If you have Reputation: You may cast Inner Sanctum without paying its mana cost. [i](Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Vanishing 1
+When Inner Sanctum is sacrificed with no time counters, target creature you control randomly gets two from among Trample, Absorb 1, First strike, Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i], Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i], +2/+0, +1/+1, +0/+2, a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i] => If you have Reputation, you may cast Inner Sanctum without paying its mana cost. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Vanishing 1
+When Inner Sanctum is sacrificed with no time counters, put two random counters on target creature you control from among Trample, Absorb 1, First strike, Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i], Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i], +2/+0, +1/+1, +0/+2, or a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+
+Inspiring Marshal
+rules_text: Whenever a creature you control enters, it gets +2/+0 until the end of your turn. => Whenever a creature you control enters, it gets +2/+0 until the end of turn.
+
+Khahiri the Returned
+rules_text: When Khahiri enters, create an exact token copy of Khahiri with no abilities, then shuffle Khahiri into your library.
+If Khahiri appears whenever you Scry, Surveil, or Predict, reveal it, then put two +1/+1 counters on all creatures named Khahiri the Returned you control. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i] => When Khahiri enters, create an exact token copy of Khahiri with no abilities, then shuffle Khahiri into your library.
+If Khahiri appears whenever you Scry, Surveil, or Predict, reveal it, then put two +1/+1 counters on each creature named Khahiri the Returned you control. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+
+Khahiri the Student
+rules_text: When Khahiri the Student enters, put a +1/+1 counter on Khahiri the Student if you have looked at the top of your library this turn. => When Khahiri the Student enters, put a +1/+1 counter on Khahiri the Student if you have Scryed, Surveiled, or Predicted this turn. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+
+Merciless Hunter
+rules_text: When Merciless Hunter enters, target creature an opponent controls gets Vulnerable. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => When Merciless Hunter enters, put a vulnerable counter on target creature an opponent controls. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Payday
+rules_text: Target creature you control randomly gets one from among Trample, Absorb 1, First strike, Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i], Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i], +2/+0, +1/+1, +0/+2, or a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i] => Put a random counter on target creature you control from among Trample, Absorb 1, First strike, Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i], Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i], +2/+0, +1/+1, +0/+2, or a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+
+Profiteer
+rules_text: When Profiteer enters, target other creature you control randomly gets one from among Trample, Absorb 1, First strike, Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i], Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i], +2/+0, +1/+1, +0/+2, or a spellshield counter [i](The first time an instant, sorcery, or activated ability targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i] => When Profiteer enters, put a random counter on other target creature you control from among Trample, Absorb 1, First strike, Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i], Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i], +2/+0, +1/+1, +0/+2, or a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+
+Quicksand
+rules_text: Choose one —
+• Target creature an opponent controls gets -4/-0 until the end of your turn.
+• Two target creatures an opponent controls gets -1/-0 until the end of your turn.
+The target creatures have no abilities until the end of turn. => Choose one —
+• Target creature an opponent controls gets -4/-0 until the end of turn.
+• Two target creatures an opponent controls gets -1/-0 until the end of turn.
+The target creatures have no abilities until the end of turn.
+
+Raz Bloodmane
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Raz Bloodmane attacks, all creatures opponents control get -2/-0 until your next turn. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Raz Bloodmane attacks, each creature opponents control get -2/-0 until the beginning of your next turn.
+
+Rek'Sai, The Void Burrower
+rules_text: Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+Whenever Rek'Sai attacks you get a Lurk counter.
+If Rek'Sai attacked and did not transform, at the end of the turn, shuffle Rek'Sai into your library.
+If Rek'Sai dealt 10 or more combat damage in one combat phase, then at the start of the next post-combat main phase, transform her.
+Partner => Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+Whenever Rek'Sai attacks you get a lurk counter.
+If Rek'Sai attacked and did not transform, at the end of the turn, shuffle Rek'Sai into your library.
+If Rek'Sai dealt 10 or more combat damage in one combat phase, then at the start of the next post-combat main phase, transform her.
+Partner
+
+Ricochet
+rules_text: If you have Reputation: This spell costs {3} less to cast. [i](Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Ricochet randomly deals 1 damage to an opponent or a creature an opponent controls. Repeat this process four times. => If you have Reputation, Ricochet costs {3} less to cast. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Ricochet deals 1 damage to a random opponent or creature an opponent controls. Repeat this process four times.
+
+Rite of Calling
+rules_text: As an additional cost to cast this card sacrifice a nontoken creature or untapped land you control.
+Search your library for a legendary creature, reveal it, add it to your hand, then shuffle. => As an additional cost to cast this spell sacrifice a nontoken creature or untapped land you control.
+Search your library for a legendary creature, reveal it, add it to your hand, then shuffle.
+
+Rite of Dominance
+rules_text: As an additional cost to cast this card sacrifice a nontoken creature or untapped land you control.
+All creatures your opponents control get -2/-0 until the end of your next turn. => As an additional cost to cast this spell sacrifice a nontoken creature or untapped land you control.
+Each creature your opponents control get -2/-0 until the end of your next turn.
+
+Roiling Sands
+rules_text: When a creature an opponent controls enters, sacrifice Roiling Sands and give that creature Vulnerable. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => When a creature an opponent controls enters, sacrifice Roiling Sands and put a vulnerable counter on that creature. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Ruinous Path
+rules_text: Draw a card.
+If a source you control destroyed a creature or planeswalker this turn, Drain 2 from target opponent. [i](Ruinous Path deals 2 damage. You gain that much life.)[/i] => Draw a card.
+If a source you control destroyed a creature or planeswalker this turn, Ruinous Path deals 2 damage to any target. You gain 2 life.
+
+Ruthless Predator
+rules_text: Give target creature you control +2/+0 until the end of the turn, then give target creature an opponent controls Vulnerable until the end of the turn. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => Give target creature you control +2/+0 until the end of the turn, then give target creature an opponent controls Vulnerable until the end of the turn. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Sand Soldier
+rules_text: Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+When Sand Soldier deals combat damage to an opponent, Sand Soldier deals 1 damage to that opponent. => Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+When Sand Soldier deals combat damage to an opponent, Sand Soldier deals 1 damage to that opponent.
+
+Sandstone Charger
+rules_text: Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Shaped Stone
+rules_text: Target creature you control gets +1/+1 until the end of your turn. If you control a landmark, the target creature you control gets +2/+1 until the end of your turn instead. => Target creature you control gets +1/+1 until the end of turn. If you control a landmark, the target creature you control gets +2/+1 until the end of turn instead.
+
+Siphoning Strike
+rules_text: Target creature you control deals damage equal to its power to target creature an opponent controls. If the target creature controlled by the opponent is destroyed, each legendary creature you control gets two +1/+1 counters. => Target creature you control deals damage equal to its power to target creature an opponent controls. If the creature controlled by the opponent is destroyed, put two +1/+1 counters on each legendary creature you control.
+
+Sivir, The Battle Mistress
+rules_text: First strike
+Sivir enters with a spellshield counter [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+Whenever creatures you control deals combat damage, put that many Mercenary counters onto Sivir. At the end of any phase on your turn, if Sivir has thirty or more Mercenary counters, remove all Mercenary counters from Sivir, then transform her.
+Partner => First strike
+Sivir enters with a spellshield counter [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+Whenever a creature you control deals combat damage, put that many Mercenary counters onto Sivir. At the end of any phase on your turn, if Sivir has thirty or more Mercenary counters, remove all Mercenary counters from Sivir, then transform her.
+Partner
+
+Shaman Soothsayer
+rules_text: When Shaman Soothsayer enters, put a spellshield counter on all legendary creatures and landmarks you control. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i] => When Shaman Soothsayer enters, put a spellshield counter on each legendary creature and each landmark you control. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+
+Spirit Fire
+rules_text: Give all creatures target opponent controls -2/-0 until the end of the turn and “At the beginning of your end step, put two -1/-1 counters on this creature.” => Give each creature target opponent controls -2/-0 until the end of the turn and “At the beginning of your end step, put two -1/-1 counters on this creature.”
+
+Stoneweaving
+rules_text: Reveal cards from the top of your library until you reveal a landmark, add it to your hand, then shuffle all other revealed cards into your library. => Reveal cards from the top of your library until you reveal a landmark card, add it to your hand, then shuffle all other revealed cards into your library.
+
+Taliyah, The Wanderer
+
+The Time Has Come
+rules_text: Create a Clockling token. If you have looked at the top of your library this turn, create two Clockling tokens instead. => Create a Clockling token. If you have Scryed, Surveiled, or Predicted this turn, create two Clockling tokens instead. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+
+Unworthy
+rules_text: Target creature an opponent controls gets -4/-0 until the end of your next turn. If you control less land then the target creatures controller, the creature is destroyed instead. => Target creature an opponent controls gets -4/-0 until the end of your next turn. If you control less land then the target creatures controller, that creature is destroyed instead.
+
+Vekauran Bruiser
+rules_text: Whenever Vekauran Bruiser enters or deals combat damage, target creature you control randomly gets one from among Trample, Absorb 1, First strike, Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i], Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i], +2/+0, +1/+1, +0/+2, or a spellshield counter [i](The first time an instant, sorcery, or activated ability targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i] => Whenever Vekauran Bruiser enters or deals combat damage, put a random counter on other target creature you control from among Trample, Absorb 1, First strike, Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i], Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i], +2/+0, +1/+1, +0/+2, or a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+
+Vekauran Safecracker
+rules_text: When Vekauran Safecracker enters, give a creature you control +2/+0 to give target creature an opponent controls -2/-0 until the end of your turn. => When Vekauran Safecracker enters, target creature you control gets +2/+0 until end of turn, and target creature an opponent controls gets -2/-0 until the end of turn.
+
+Vekauran Vagabond
+rules_text: When Vekauran Vagabond enters, choose one —
+• Search your library and/or graveyard and/or exile for a card named Warlord's Palace, reveal it, and put it into your hand. If you search your library this way, shuffle.
+• Remove two time counters from a landmark named Warlord's Palace you control. => When Vekauran Vagabond enters, choose one —
+• Search your library, graveyard, and/or exile for a card named Warlord's Palace, reveal it, and put it into your hand. If you search your library this way, shuffle.
+• Remove two time counters from a landmark named Warlord's Palace you control.
+
+Voice of the Risen
+rules_text: Whenever a legendary creature you control transforms, put a Voice counter on Voice of the Risen.
+If Voice of the Risen has a Voice counter, each other creature you control gets +2/+0. => Whenever a legendary creature you control transforms, put a Voice counter on Voice of the Risen.
+If Voice of the Risen has one or more Voice counters, each other creature you control gets +2/+0.
+
+Xer'sai Caller
+rules_text: Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+When Xer'sai Caller enters, Predict [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i] => Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+When Xer'sai Caller enters, Predict [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+
+Xer'sai Dunebreaker
+rules_text: Trample, Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i] => Trample, Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+
+Xerxa'Reth, The Undertitan
+rules_text: Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+Whenever Xerxa'Reth attacks, if Xerxa'Reth has power 8 or greater, Xerxa'Reth gets Fearsome and Trample until the end of the turn, then put a shield counter on Xerxa'Reth. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i] => Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+Whenever Xerxa'Reth attacks, if Xerxa'Reth has power 8 or greater, Xerxa'Reth gets fearsome and trample until the end of the turn, then put a shield counter on Xerxa'Reth. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+
+Zilean
+rules_text: When Zilean enters, create four Time Bomb tokens, then predict. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+Whenever a Time Bomb is sacrificed with no time counters, put a Chrono counter on Zilean. At the end of any phase on your turn, if Zilean has two or more Chrono counters, remove all Chrono counters from Zilean, then transform him. 
+Partner => When Zilean enters, create four Time Bomb tokens, then predict. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+Whenever a Time Bomb is sacrificed with no time counters, put a Chrono counter on Zilean. At the end of any phase on your turn, if Zilean has two or more Chrono counters, remove all Chrono counters from Zilean, then transform him.
+Partner
+
+Golden Herald
+rules_text: When Golden Herald enters, and at the start of your upkeep, create two Sand Soldier tokens. => When Golden Herald enters, and at the beginning of your upkeep, create two Sand Soldier tokens.
+
+Crumbling Sands
+rules_text: Exile target creature.
+Draw a card. => Exile target creature. Draw a card.
+
+Shimmering Mirage
+rules_text: Create a token copy of target creature you control, it gets Ephemeral. Draw a card. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Create a token copy of target creature you control, it gets Ephemeral. Draw a card. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Eternal Gladiator
+rules_text: Eternal Gladiator enters with a shield counter.
+When Eternal Gladiator enters, draw a card.
+At the beginning of your end step, Eternal Gladiator fights the creature with the highest power amongst creatures opponents control. => Eternal Gladiator enters with a shield counter.
+When Eternal Gladiator enters, draw a card.
+At the beginning of your end step, Eternal Gladiator and the creature with the highest power amongst creatures opponents control fight. [i](Each deals damage equal to its power to the other.)[/i]
+
+General's Palace
+rules_text: Creatures your opponents control have Vulnerable. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i]
+At the end of the first combat phase on your turn, after this phase, there is an additional combat phase. => Creatures your opponents control have Vulnerable. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+At the end of the first combat phase on your turn, after this phase, there is an additional combat phase.
+
+Song of the Isles
+rules_text: Target creature you control gets Lifelink, Fearsome, and Ephemeral. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less. That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Target creature you control gets Lifelink, Fearsome, and Ephemeral. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less. That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Spirit Leech
+rules_text: When Spirit Leech enters, sacrifice a creature you control to draw two cards. => When Spirit Leech enters, you may sacrifice another creature you control, if you do, draw two cards.
+
+Sea Scarab
+rules_text: Deep [i](The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. When you are Deep, all Deep creatures you control get +3/+3.)[/i]
+Whenever a creature you control is destroyed, Toss 1. [i](Exile a card from the bottom of your library.)[/i] => Deep [i](If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i]
+Whenever a creature you control dies, Toss 1. [i](Exile a card from the bottom of your library.)[/i]
+
+Unto Dusk
+rules_text: Draw a card.
+Nightfall: activate the Nightfall ability of target creature you control. You may choose new targets for that ability. [i](If this spell is not the first spell you have cast this turn, when this spell is cast, activate the Nightfall ability of target creature you control. You may choose new targets for that ability)[/i] => Draw a card.
+[i]Nightfall[/i] — When this spell resolves, if it wasn't the first spell you cast this turn, trigger the nightfall ability of target creature you control.
+
+Soulspinner
+rules_text: When Soulspinner enters, if a creature you control has been destroyed this turn, Soulspinner gets a +1/+1 counter and Fearsome. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i] => When Soulspinner enters, if a creature you control died this turn, put a +1/+1 counter and a fearsome counter on Soulspinner. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+
+The Etherfiend
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When The Etherfiend enters, sacrifice a creature you control to destroy target creature an opponent controls. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When The Etherfiend enters, you may sacrifice another creature you control, if you do, destroy target creature an opponent controls.
+
+Crimson Bloodletter
+rules_text: The first time a creature you control enters on the same turn Crimson Bloodletter entered, Crimson Bloodletter deals 1 damage to that creature and gets a +1/+1 counter. => The first time a creature you control enters on the same turn Crimson Bloodletter entered, Crimson Bloodletter deals 1 damage to that creature, then put a +1/+1 counter on Crimson Bloodletter.
+
+Bloody Business
+rules_text: If you have Reputation: Bloody Business costs {2} less to cast. [i](Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Target creature you control with power 5 or greater deals damage equal to its power to target creature an opponent controls. => If you have Reputation, Bloody Business costs {2} less to cast. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Target creature you control with power 5 or greater deals damage equal to its power to target creature an opponent controls.
+
+Thorn of the Rose
+rules_text: When Thorn of the Rose enters, put a stun counter onto target creature an opponent controls. => When Thorn of the Rose enters, put a stun counter on target creature an opponent controls.
+
+Black Rose Spy
+rules_text: If you have Reputation: When Black Rose Spy enters, you may have Black Rose Spy enter as copy of a creature you control that dealt combat damage this turn. [i](Whenever a creature you control deals 5 or more combat damage, gain a Reputation counter. You have Reputation if you have 4 or more Reputation counters)[/i] => If you have Reputation, when Black Rose Spy enters, you may have Black Rose Spy enter as copy of a creature you control that dealt combat damage this turn. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+
+LeBlanc, Pale Sorceress
+rules_text: First strike
+Whenever creatures you control deals combat damage, put that many Deceiver counters onto LeBlanc. At the end of any phase on your turn, if LeBlanc has fifteen or more Deceiver counters, remove all Deceiver counters from LeBlanc, then transform her. 
+Partner => First strike
+Whenever a creature you control deals combat damage, put that many Deceiver counters on LeBlanc. At the end of any phase on your turn, if LeBlanc has fifteen or more Deceiver counters, remove all Deceiver counters from LeBlanc, then transform her.
+Partner
+
+Sigil of Malice
+rules_text: If you have Reputation: Sigil of Malice costs {2} less to cast. [i](Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Sigil of Malice deals 2 damage to any target. => If you have Reputation, Sigil of Malice costs {2} less to cast. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Sigil of Malice deals 2 damage to any target.
+
+Whispered Words
+rules_text: If you have Reputation: Whispered Words costs {3} less to cast. [i](Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Draw two cards. => If you have Reputation, Whispered Words costs {3} less to cast. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Draw two cards.
+
+Black Rose Mimicry
+rules_text: If you have Reputation: Black Rose Mimicry costs {3} less to cast. [i](Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Copy the next spell you cast this turn targeting the same targets. => If you have Reputation, Black Rose Mimicry costs {3} less to cast. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Copy the next spell you cast this turn targeting the same targets.
+
+Shadow Apprentice
+rules_text: Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+Whenever a creature you control with Ephemeral enters, Shadow Apprentice gets +1/+0 until end of turn. [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+Whenever a creature you control with ephemeral enters, Shadow Apprentice gets +1/+0 until end of turn. [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Loaded Dice
+rules_text: During your next turn, whenever a source you control deals damage to an opponent, Nab 1 from that opponent. [i](Exile a card from the bottom of target opponents library. You may cast cards exiled this way for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. )[/i] => Choose an opponent. During your next turn, whenever a source you control deals damage to that opponent, Nab 1 from that opponent. [i](Look at the bottom card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.)[/i]
+
+Penitent Squire
+rules_text: When Penitent Squire enters, you may Behold a Knight, if you do, the next creature you cast enters with Challenger. [i](To behold a Knight, if you do, the next creature you cast enters with Challenger., choose a Knight, if you do, the next creature you cast enters with Challenger. you control or reveal a Knight, if you do, the next creature you cast enters with Challenger. card from your hand.)[/i] => When Penitent Squire enters, you may behold a Knight, if you do, the next creature you cast enters with a challenger counter. [i](To behold a Knight, choose a Knight you control or reveal a Knight card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+King Jarvan IV
+
+King Jarvan III
+rules_text: Absorb 1
+When King Jarvan III enters, you may search your library for a card named King Jarvan IV, reveal it, put it into your hand, then shuffle. Then each other creature you control has Vigilance and Challenger until end of turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Absorb 1
+When King Jarvan III enters, you may search your library for a card named King Jarvan IV, reveal it, put it into your hand, then shuffle. Then each other creature you control has vigilance and challenger until end of turn. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Towering Stonehorn
+rules_text: Towering Stonehorn has protection from instants, sorceries, and creature abilities opponents control. => Towering Stonehorn has protection from instants, sorceries, and abilities opponents control.
+
+Concurrent Timelines
+rules_text: Until the end of the turn, whenever you cast a creature, reveal cards from the top of your library until you reveal three creature cards with the same mana value as that creature, pick one, then shuffle the cast creature and all other revealed cards into the library, then put the chosen creature onto the battlefield. => Until the end of the turn, whenever you cast a creature, reveal cards from the top of your library until you reveal three creature cards with the same mana value as that creature, choose one, then shuffle the cast creature and all other revealed cards into the library, then put the chosen creature onto the battlefield.
+
+Ancestral Boon
+rules_text: The next creature you control enters with two +1/+1 counters.
+If you are Enlightened: Each creature you control enters with two +1/+1 counters for the rest of the turn instead. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i] => Until the end of turn, the next creature you cast enters with two +1/+1 counters.
+If you are Enlightened, until the end of turn, each creature you cast enters with two +1/+1 counters instead. [i](The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)[/i]
+
+Spoils of War
+rules_text: Target creature you control gets +1/+2.
+Plunder: target creature you control gets +2/+4 instead. [i](If an opponent was dealt damage this turn, when this spell is cast target creature you control gets +2/+4 instead.)[/i] => Put a +1/+2 counter on target creature you control.
+[i]Plunder[/i] — If an opponent was dealt damage this turn, put two +1/+2 counters on target creature you control instead.
+
+Cold Resistance
+rules_text: Add one of any colour.
+Target creature you control gets +0/+2. => Add one mana of any type.
+Put a +0/+2 counter on target creature you control.
+
+Draklorn Inquisitor
+rules_text: When Draklorn Inquisitor enters create a Frozen Thrall token.
+At the beginning of your end step, if an enchantment you control named Frozen Thrall has 4 or less time counters, remove all time counters from that enchantment. => When Draklorn Inquisitor enters, create a Frozen Thrall token.
+At the beginning of your end step, if an enchantment you control named Frozen Thrall has 4 or less time counters, remove all time counters from that enchantment.
+
+Lissandra, The Ice Witch
+
+Monster Harpoon
+rules_text: Plunder: Monster Harpoon costs {2} less to cast this turn. [i](If an opponent was dealt damage this turn, Monster Harpoon costs {2} less to cast this turn.)[/i]
+Monster Harpoon deals 5 damage to target creature. => [i]Plunder[/i] — If an opponent was dealt damage this turn, until the end of turn Monster Harpoon costs {2} less.
+Monster Harpoon deals 5 damage to target creature.
+
+Ardent Tracker
+rules_text: Scout [i](Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i]
+Ardent Tracker costs {1} less to cast for each Knight you've cast this turn. => Scout [i](After your first main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)[/i]
+Ardent Tracker costs {1} less to cast for each Knight you've cast this turn.
+
+Cithria, Lady of Clouds
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When Cithria enters, double the power and toughness of each creature you control and give them Challenger. => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+When Cithria enters, double the power and toughness of each creature you control and put a challenger counter on them.
+
+Buried in Ice
+rules_text: Exile all creatures opponents control. Return those creatures to the battlefield under their owners control at the beginning of the end step on your next turn. => Exile each creature opponents control. Return those creatures to the battlefield under their owners control at the beginning of the end step on your next turn.
+
+Incisive Tactician
+rules_text: If you have Reputation: Incisive Tactician costs {2} less to cast. [i](Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+When Incisive Tactician enters, after this phase, there is an additional combat phase. => If you have Reputation, Incisive Tactician costs {2} less to cast. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+When Incisive Tactician enters, after this phase, there is an additional combat phase.
+
+Thrashing Snapper
+type: Creature — Lizard => Creature — Lizard Berserker
+
+Chirean Sumpworker
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When another Chirean Sumpworker you control enters, transform all creatures named Chirean Sumpworker you control. => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When another creature named Chirean Sumpworker you control enters, transform each creature named Chirean Sumpworker you control.
+
+Adaptatron 3000
+pt:  => 1/3
+
+First Wave
+
+Zinneia, Steel Crescendo
+rules_text: When Zinneia enters, create a tapped and attacking Blade token.
+Whenever one or more token creature you control attack, Zinneia attacks target opponent. => When Zinneia enters, create a Blade token.
+Whenever one or more token creature you control attack, Zinneia untaps and attacks target opponent.
+
+Vanguard's Edge
+rules_text: Target creature you control attacks target opponent. Create three tapped and attacking Blade tokens. => Choose a creature you control. After this phase, there is an additional combat phase. Only the chosen creature may attack in this phase and it gains vigilance until end of combat. Create three Blade tokens.
+
+Blossoming Blade
+rules_text: When Blossoming Blade enters, create two tapped and attacking Blade tokens. => When Blossoming Blade enters, create two Blade tokens.
+
+Ribbon Dancer
+rules_text: When Ribbon Dancer enters, create a tapped and attacking Blade token. => When Ribbon Dancer enters, create a Blade token.
+
+Lead and Follow
+rules_text: Recall target creature you control, then create two tapped and attacking Blade tokens. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i] => Recall target creature you control, then create two Blade tokens. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]
+
+Irelia, The Blade Dancer
+rules_text: First strike, Attune {C} [i](When a creature with Attune enters, add {C}. This mana can only be used used to cast instants and sorceries.)[/i]
+When Irelia enters and at the beginning of your pre-combat main phase, create two tapped and attacking Blade tokens.
+Whenever one or more creatures you control attack, put that many Dancer counters onto Irelia. At the end of any phase on your turn, if Irelia has fourteen or more Dancer tokens, remove all Dancer tokens from Irelia, then transform her.
+Partner => First strike, Attune {C} [i](When a creature with Attune enters, add {C}. This mana can only be used used to cast instants and sorceries.)[/i]
+When Irelia enters and at the beginning of your pre-combat main phase, create two Blade tokens.
+Whenever a creature you control attacks, put a Dancer counter onto Irelia. At the end of any phase on your turn, if Irelia has fourteen or more Dancer counters, remove all Dancer counters from Irelia, then transform her.
+Partner
+
+Stonebreaker
+rules_text: When Stonebreaker enters, if there are four or more landmarks in your graveyard, Stonebreaker deals 4 damage to target creature or planeswalker and 2 damage to that permanents controller. => When Stonebreaker enters, if there are four or more landmark cards in your graveyard, Stonebreaker deals 4 damage to target creature or planeswalker and 2 damage to that permanents controller.
+
+Terra Elemental
+rules_text: Trample
+If there are four or more landmarks in your graveyard, Terra Elemental gets +3/+0. => Trample
+When Terra Elemental enters, if there are four or more landmark cards in your graveyard, put three +1/+0 counters on Terra Elemental.
+
+Chip
+rules_text: The first time a landmark you control enters, Chip gets two +1/+1 counters. => The first time a landmark you control enters, put two +1/+1 counters on Chip.
+
+Eye of the Ra-Horak
+rules_text: Vanishing 1 
+When Eye of the Ra-Horak is sacrificed with no time counters, tap up to two target creatures with the lowest power among creatures opponents controls and put a stun counter on them.
+Daybreak: create a token copy of Eye of the Ra-Horak with Vanishing 2. [i](If this spell is the first spell you have cast this turn, when this spell is cast, create a token copy of Eye of the Ra-Horak with Vanishing 2. )[/i] => Vanishing 1 
+When Eye of the Ra-Horak is sacrificed with no time counters, tap up to two creatures with the lowest power among creatures opponents control and put a stun counter on them.
+[i]Daybreak[/i] – When Eye of the Ra-Horak enters, if it was the first spell you cast this turn, create a token copy of Eye of the Ra-Horak with Vanishing 2.
+
+Solari Sunhawk
+rules_text: Daybreak: tap target creature an opponent controls and put a stun counter on it. [i](If this creature is the first spell you have cast this turn, when Solari Sunhawk enters, tap target creature an opponent controls and put a stun counter on it)[/i] => [i]Daybreak[/i] – When Solari Sunhawk enters, if it was the first spell you cast this turn, tap target creature an opponent controls and put a stun counter on it.
+
+Spiral Stairs
+rules_text: Vanishing 3 
+When Spiral Stairs is sacrificed with no time counters, target creature you control gets +3/+2 and Trample. => Vanishing 3 
+When Spiral Stairs is sacrificed with no time counters, put two +1/+1 counters, a +1/+0 counter, and a trample counter on target creature you control.
+
+Malphite
+rules_text: Absorb 1
+When Malphite enters, tap target creature an opponent controls and put a stun counter on it.
+Whenever you cast a Landmark card, put X Terra counters on Malphite where X is that permanents mana value. At the end of any phase on your turn, if Malphite has ten or more Terra counters, remove all Terra counters from Malphite, then transform him. 
+Partner => Absorb 1
+When Malphite enters, tap target creature an opponent controls and put a stun counter on it.
+Whenever a landmark card you control enters, put X Terra counters on Malphite where X is that permanents mana value. At the end of any phase on your turn, if Malphite has ten or more Terra counters, remove all Terra counters from Malphite, then transform him.
+Partner
+
+Redfin Hammersnout
+rules_text: Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+When Redfin Hammersnout enters, target creature an opponent controls gets Vulnerable. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+When Redfin Hammersnout enters, put a vulnerable counter on target creature an opponent controls. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Snapjaw Swarm
+rules_text: Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+Snapjaw Swarm enters tapped and attacking. => Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+Snapjaw Swarm enters with a haste counter.
+Snapjaw Swarm must attack each turn if it has a haste counter. Whenever Snapjaw Swarm attacks, remove a haste counter from Snapjaw Swarm.
+
+Pyke
+rules_text: First strike, Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+Whenever Pyke deals damage, put that many Ripper counters on Pyke. At the end of any phase on your turn, if Pyke has fifteen or more Ripper counters, remove all Ripper counters from Pyke, then transform him.
+Partner => First strike, Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+Whenever Pyke deals damage, put that many Ripper counters on Pyke. At the end of any phase on your turn, if Pyke has fifteen or more Ripper counters, remove all Ripper counters from Pyke, then transform him.
+Partner
+
+The List
+rules_text: Target creature an opponent controls gets Vulnerable. If that creature already has Vulnerable, then the creature with the highest power you control and that creature fight. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)[/i] => Put a vulnerable counter on target creature an opponent controls. If that creature has vulnerable, then the creature with the highest power you control and that creature fight. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+
+Jaull-fish
+rules_text: Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+When Jaull-fish enters, each creature you control with Lurk randomly attacks an opponent. [i](Randomly choose a target for each creature.)[/i] => Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+When Jaull-fish enters, after this phase, there is an additional combat phase. Only creatures with lurk may attack in this phase and they gain vigilance until end of combat.
+
+Ripper's Bay
+rules_text: Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+The top card of your library is treated as if it has Lurk. => Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+The top card of your library is treated as if it has Lurk.
+
+Reaver's Row
+rules_text: Vanishing 2
+Whenever one or more time counters is removed from Reaver's Row, search your library for a creature with mana value 1, reveal it, put it into your hand, then shuffle.
+When Reaver's Row is sacrificed with no time counters, all creatures you control with mana value 1 get +2/+1 and Fearsome. [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i] => Vanishing 2
+Whenever one or more time counters is removed from Reaver's Row, search your library for a creature with mana value 1, reveal it, put it into your hand, then shuffle.
+When Reaver's Row is sacrificed with no time counters, put a +1/+2 counter and a fearsome counter on each creature you control with mana value 1.
+
+Sharkling
+rules_text: Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i] => Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+
+Field Promotion
+rules_text: The next creature that you control enters with Scout and is a Knight in addition to its creature types. [i](Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i] => The next creature that you cast enters with a scout counter and is a Knight in addition to its other types. [i](After your first main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)[/i]
+
+Swiftwing Flight
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i]
+When Swiftwing Flight enters, search your library and/or graveyard for a card named Silverwing Vanguard, Blinding Assault, or Fleetfeather Tracker, reveal it, and put it into your hand. If you search your library this way, shuffle.
+When Swiftwing Flight attacks, other attacking creatures you control with Challenger get +1/+1 until end of turn. => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+When Swiftwing Flight enters, search your library and/or graveyard for a card named Silverwing Vanguard, Blinding Assault, or Fleetfeather Tracker, reveal it, and put it into your hand. If you search your library this way, shuffle.
+Whenever Swiftwing Flight attacks, other attacking creatures you control with challenger get +1/+1 until end of turn.
+
+Abominable Guardian
+rules_text: At the start of your pre-combat main phase, if you control two or more yeti creatures, you may put Abominable Guardian from your hand onto the battlefield, if you do, create an exiled copy of Abominable Guardian, you may cast that copy from exile for as long as it remains exiled.
+When you cast Abominable Guardian, reveal cards from the top of your library until you reveal a yeti creature card, add it to your hand, then shuffle all other revealed cards into your library. => At the beginning of your pre-combat main phase, if you control two or more yeti creatures, you may put Abominable Guardian from your hand onto the battlefield, if you do, create an exiled copy of Abominable Guardian, you may cast that copy from exile for as long as it remains exiled.
+When you cast Abominable Guardian, reveal cards from the top of your library until you reveal a yeti creature card, add it to your hand, then shuffle all other revealed cards into your library.
+
+Defiant Dance
+rules_text: Recall target creature you control, then create a tapped and attacking Blade token. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i] => Recall target creature you control, then create a Blade token. [i](A recalled permanent is put back into its owners hand from the battlefield.)[/i]
+
+Starlit Epiphany
+type: Instant => Sorcery
+rules_text: Reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+For the rest of the turn whenever you cast a spell, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library. => Reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+Until the end of turn, whenever you cast a spell, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+
+Heavens Aligned
+rules_text: Focus [i](This instant cannot be cast during the combat phase or in response to another spell or ability.)[/i]
+Daybreak: reveal cards from the top of your library until you reveal a card with Nightfall, add it to your hand, then shuffle all other revealed cards into your library. [i](If this spell is the first spell you have cast this turn, when this spell is cast, reveal cards from the top of your library until you reveal a card with Nightfall, add it to your hand, then shuffle all other revealed cards into your library)[/i]
+Nightfall: reveal cards from the top of your library until you reveal a card with Daybreak, add it to your hand, then shuffle all other revealed cards into your library. [i](If this spell is not the first spell you have cast this turn, when this spell is cast, reveal cards from the top of your library until you reveal a card with Daybreak, add it to your hand, then shuffle all other revealed cards into your library)[/i] => Focus [i](This instant cannot be cast during the combat phase or in response to another spell or ability.)[/i]
+[i]Daybreak[/i] – When this spell resolves, if it was the first spell you cast this turn, reveal cards from the top of your library until you reveal a card with nightfall, add it to your hand, then shuffle all other revealed cards into your library.
+[i]Nightfall[/i] – When this spell resolves, if it wasn't the first spell you cast this turn, reveal cards from the top of your library until you reveal a card with daybreak, add it to your hand, then shuffle all other revealed cards into your library.
+
+The Twisted Treeline
+rules_text: Whenever a creature you control with Fearsome or Nightfall attacks, put that many charge counters on The Twisted Treeline.
+When The Twisted Treeline has three or more charge counters, you may sacrifice it to create a Vilemaw token. => Whenever a creature you control with fearsome or nightfall attacks, put a charge counter on The Twisted Treeline.
+If The Twisted Treeline has three or more charge counters, you may sacrifice it to create a Vilemaw token.
+
+Astral Fox
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Astral Fox enters, sacrifice a creature you control to have Astral Fox deal 3 damage to target opponent. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Astral Fox enters, you may sacrifice another creature you control, if you do, Astral Fox deals 3 damage to target opponent.
+
+Glorious Evolution
+cost: {U}{U}{U}{R}{R}{R} => {U}{U}{R}{R}
+rules_text: Spells you control cost {1} less to cast.
+All creatures you control have Upgrade. [i](Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)[/i]
+All permanents you control are artifacts in addition to their other types. => Spells you control cost {1} less to cast.
+All creatures you control have Upgrade. [i](Whenever you cast an artifact, put a +1/+1 counter on this creature.)[/i]
+All permanents you control are artifacts in addition to their other types.
+
+Practical Perfectionist
+rules_text: When Practical Perfectionist enters, look at the top three cards of your library, choose and reveal one, create three exiled copies of the chosen card, then put it on the top of your library and the rest to the bottom in a random order. You may cast the copies from exile for as long as they remain in exile. => When Practical Perfectionist enters, look at the top three cards of your library, choose and reveal one, create three exiled copies of the chosen card, then put it on the top of your library and the rest to the bottom in a random order. You may cast the copies from exile for as long as they remain exiled.
+
+Called Shot
+rules_text: Focus [i](This instant cannot be cast during the combat phase or in response to another spell or ability.)[/i]
+Kicker {2}{U}{R} [i](You may pay an additional {2}{U}{R} as you cast this spell.)[/i]
+Draw a card.
+If this spell was kicked, create a tapped and attacking copy of each creature you control, except they have ephemeral. [i](That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i] => Focus [i](This instant cannot be cast during the combat phase or in response to another spell or ability.)[/i]
+Kicker {2}{U}{R} [i](You may pay an additional {2}{U}{R} as you cast this spell.)[/i]
+Draw a card.
+If this spell was kicked, create a copy of each creature you control, except they have ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Ekko, The Boy Savior
+
+Kadregrin the Ruined
+rules_text: Fury [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i]
+When Kadregrin the Ruined enters, target other creature gets a +1/+1 counter and Challenger. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i] => Fury [i](Whenever a creature dealt damage by Kadregrin this turn dies, put a +1/+1 counter on Kadregrin.)[/i]
+When Kadregrin the Ruined enters, put a +1/+1 counter and a challenger counter on target other creature you control. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Retired Reckoner
+rules_text: Trample
+Whenever a source you control targets Retired Reckoner, Retired Reckoner gets a +1/+0 counter. => Trample
+Whenever a source you control targets Retired Reckoner, put a +1/+0 counter on Retired Reckoner.
+
+Ruined Reckoner
+rules_text: When Ruined Reckoner enters, target other creature you control attacks target opponent. => When Ruined Reckoner enters, target other creature you control deals damage equal to its power to target opponent.
+
+The Absolver
+rules_text: Kicker {U}{B} [i](You may pay an additional {U}{B} as you cast this spell.)[/i]
+Target creature you control gets +2/+1 until the end of your next turn. If this spell was kicked, the target creature gets Trample and +4/+2 until the end of your next turn instead. => Kicker {1}{UB} [i](You may pay an additional {1}{UB} as you cast this spell.)[/i]
+Target creature you control gets +2/+1 until the end of your next turn. If this spell was kicked, the target creature gets trample and +4/+2 until the end of your next turn instead.
+
+Akshan the Vigilante
+rules_text: First strike
+When Akshan enters, or whenever Akshan deals combat damage, choose one —
+• Search your library and/or graveyard and/or exile for a card named Warlord's Palace, reveal it, and put it into your hand. If you search your library this way, shuffle.
+• Remove a time counter from a Warlord's Palace you control.
+When an Enchantment Landmark you control named Warlord's Palace is sacrificed with no time counters, transform Akshan.
+Partner => First strike
+When Akshan enters, or whenever Akshan deals combat damage, choose one —
+• Search your library, graveyard, and/or exile for a card named Warlord's Palace, reveal it, and put it into your hand. If you search your library this way, shuffle.
+• Remove a time counter from an enchantment named Warlord's Palace you control.
+When an enchantment you control named Warlord's Palace is sacrificed with no time counters, transform Akshan.
+Partner
+
+Warlord's Palace
+rules_text: Vanishing 8
+When Warlord's Palace is sacrificed with no time counters, choose one:
+• Predict, then draw a card. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+• Create a Sandstone Charger token.
+• All creatures you control gets a +1/+0 counter. => Vanishing 8
+When Warlord's Palace is sacrificed with no time counters, choose one —
+• Predict, then draw a card. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+• Create a Sandstone Charger token.
+• Put a +1/+0 counter on each creature you control.
+
+Crawling Viperwyrm
+rules_text: As an additional cost to cast this card, choose one —
+• Crawling Viperwyrm deals 3 damage to target creature you control.
+• You lose 3 life.
+Fury [i](When this creature destroys another creature, put a +1/+1 counter on it.)[/i] => As an additional cost to cast this spell, choose one —
+• Crawling Viperwyrm deals 3 damage to target creature you control.
+• You lose 3 life.
+Fury [i](Whenever a creature dealt damage by Crawling Viperwyrm this turn dies, put a +1/+1 counter on Crawling Viperwyrm.)[/i]
+
+Camavoran Dragon
+rules_text: As an additional cost to cast this card, choose one —
+• Camavoran Dragon deals 3 damage to target creature you control.
+• You lose 3 life.
+Fearsome, Fury [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less. When this creature destroys another creature, put a +1/+1 counter on it.)[/i]
+Whenever Camavoran Dragon destroys a creature, target opponent loses 1 life and you gain 1 life. => As an additional cost to cast this spell, choose one —
+• Camavoran Dragon deals 3 damage to target creature you control.
+• You lose 3 life.
+Fearsome, Fury [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less. Whenever a creature dealt damage by Camavoran Dragon this turn dies, put a +1/+1 counter on Camavoran Dragon.)[/i]
+Whenever a creature dealt damage by Camavoran Dragon this turn dies, target opponent loses 1 life and you gain 1 life.
+
+Viego the Resurrected
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+The first time each turn a creature you control is destroyed, create an Encroaching Mist token. Whenever a creature you control named Encroaching Mist enters, you get an experience counter. Viego has +1/+1 for each experience counter you have.
+Whenever a creature you control is destroyed, put X Ruin counters on Viego where X is that creatures power. At the end of any phase on your turn, if Viego has twenty or more Ruin counters, remove all Ruin counters from Viego, then transform him.
+Partner => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+The first time each turn a creature you control is destroyed, create an Encroaching Mist token and you get an experience counter. Viego has +1/+1 for each experience counter you have.
+Whenever a creature you control is destroyed, put X Ruin counters on Viego where X is that creatures power. At the end of any phase on your turn, if Viego has twenty or more Ruin counters, remove all Ruin counters from Viego, then transform him.
+Partner
+
+Encroaching Mist
+rules_text: Ephemeral [i](This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)[/i]
+This creature has +1/+1 for each experience counter you have. => Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+This creature has +1/+1 for each experience counter you have.
+
+Gallant Rider
+rules_text: The first time Gallant Rider is blocked, transform Gallant Rider. => The first time one or more creatures block Gallant Rider, transform Gallant Rider.
+
+Blade
+rules_text: Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i] => Ephemeral [i](This creature has haste. At the end of turn, sacrifice it.)[/i]
+This creature attacks each turn if able.
+
+The Watcher
+rules_text: The Watcher enters tapped with 17 stun counters, while a stun counter is on The Watcher, it has protection from its controller. Whenever you cast a creature, remove X stun counters from The Watcher where X is that creatures mana value.
+Whenever The Watcher attacks, exile the defending players library except the bottom three cards. => The Watcher enters tapped with 17 stun counters, while one or more stun counters is on The Watcher, it has protection from its controller. Whenever you cast a creature, remove X stun counters from The Watcher where X is that creatures mana value.
+Whenever The Watcher attacks, exile the defending players library except the bottom three cards.
+
+Crest of Insight
+rules_text: Vanishing 1 [i](This permanent enters with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Crest is sacrificed with no time counters, add one mana of any colour. => Vanishing 1 [i](This permanent enters with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Crest of Insight is sacrificed with no time counters, add one mana of any type. Until the end of turn, you don't lose this mana as steps and phases end.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 No changes.

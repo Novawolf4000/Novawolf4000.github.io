@@ -5,7 +5,7 @@
 			<name>LORT-EOTA</name>
 			<longname>Legends Of Runeterra Conversion: Empires of the Ascended</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-16</releasedate>
+			<releasedate>2026-07-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -34,8 +34,8 @@
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1UB</manacost>
-				<cmc>3</cmc>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 			</prop>
@@ -83,8 +83,8 @@ When Ancient Preparations is sacrificed with no time counters, create a Clocklin
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>UUUBBB</manacost>
-				<cmc>6</cmc>
+				<manacost>UUBB</manacost>
+				<cmc>4</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 			</prop>
@@ -131,8 +131,8 @@ Partner
 		</card>
 		<card>
 			<name>Azir, The Emperor of the Sands</name>
-			<text>Ascended God-Warrior — Whenever one or more creatures you control attacks, create a tapped and attacking Sand Soldier token. If you control an enchantment card named Restored Sun Disk, then whenever one or more creatures you control attacks, create a tapped and attacking Sandstone Charger token instead.
-Emperor of the Sands — If you control an enchantment card named Restored Sun Disk, Azir has &quot;Spells you cast cost {U}{B} less to cast&quot;, and Azir has base power and toughness 6/6.
+			<text>Ascended God-Warrior — Whenever one or more creatures you control attacks, create a tapped and attacking Sand Soldier token. If you control an enchantment named Restored Sun Disk, then whenever one or more creatures you control attacks, create a tapped and attacking Sandstone Charger token instead.
+Emperor of the Sands — If you control an enchantment named Restored Sun Disk, Azir has &quot;Spells you cast cost {U}{B} (or 4 generic) less to cast&quot;, and Azir has base power and toughness 6/6.
 Whenever a creature you control enters, Azir and that creature gets +1/+0 until the end of the turn.
 ---
 (Front): Azir, Shurima&apos;s Emperor</text>
@@ -154,7 +154,7 @@ Whenever a creature you control enters, Azir and that creature gets +1/+0 until 
 		<card>
 			<name>Baccai Reaper</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-Whenever a source you control destroys a creature or planeswalker, Baccai Reaper gets a +1/+0 counter.</text>
+Whenever a source you control destroys a creature or planeswalker, put a +1/+0 counter on Baccai Reaper.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/7.png" num="190">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -171,7 +171,7 @@ Whenever a source you control destroys a creature or planeswalker, Baccai Reaper
 		</card>
 		<card>
 			<name>Baccai Sandspinner</name>
-			<text>When Baccai Sandspinner enters, target creature an opponent gets -1/-0 and Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>When Baccai Sandspinner enters, put a -1/-0 counter and a vulnerable counter on target creature an opponent controls. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/8.png" num="93">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -188,7 +188,7 @@ Whenever a source you control destroys a creature or planeswalker, Baccai Reaper
 		</card>
 		<card>
 			<name>Boomerang Blade</name>
-			<text>Target creature you control deals damage equal to its power to the creatures with the highest and lowest power among creatures target opponent controls.</text>
+			<text>Target creature you control deals damage equal to its power to the creature with the highest power and the creature with the lowest power among creatures target opponent controls.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/9.png" num="97">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -205,7 +205,8 @@ Whenever a source you control destroys a creature or planeswalker, Baccai Reaper
 		<card>
 			<name>Buried Sun Disc</name>
 			<text>If Buried Sun Disc is in your opening hand, you may begin the game with it on the battlefield.
-Vanishing 25
+Vanishing 25 (This permanent enters with twenty-five time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+Whenever a legendary creature you control transforms, remove nine time counters from Buried Sun Disc.
 If Buried Sun Disc would be sacrificed with no time counters, transform it instead.
 ---
 (Back): Restored Sun Disk</text>
@@ -243,7 +244,7 @@ If Buried Sun Disc would be sacrificed with no time counters, transform it inste
 		<card>
 			<name>Call the Pack</name>
 			<text>As an additional cost to cast this card, shuffle one card from your hand into your library.
-Reveal cards from the top of your library until you reveal two creature cards with Lurk, add them to your hand, then shuffle all other revealed cards into your library.</text>
+Reveal cards from the top of your library until you reveal two creature cards with lurk, add them to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/11.png" num="98">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -259,7 +260,7 @@ Reveal cards from the top of your library until you reveal two creature cards wi
 		</card>
 		<card>
 			<name>Callous Bonecrusher</name>
-			<text>If you have Reputation: Callous Bonecrusher costs {1} less to cast and enters with Trample. (Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)</text>
+			<text>If you have Reputation, Callous Bonecrusher costs {1} less to cast and enters with a trample counter. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/12.png" num="100">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -300,8 +301,8 @@ Predict (Look at the top three cards of your library, put one on the top of your
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>U/BU/BU/BU/B</manacost>
-				<cmc>4</cmc>
+				<manacost>1U/BU/B</manacost>
+				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 			</prop>
@@ -362,7 +363,7 @@ Predict (Look at the top three cards of your library, put one on the top of your
 		<card>
 			<name>Desert&apos;s Wrath</name>
 			<text>When Desert&apos;s Wrath enters, create two Sand Soldier tokens.
-Creatures you control named Sand Soldier gets +1/+0.</text>
+Sand Soldier tokens you control get +1/+0.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/18.png" num="107">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -418,7 +419,7 @@ Creatures you control named Sand Soldier gets +1/+0.</text>
 		</card>
 		<card>
 			<name>Devoted Council</name>
-			<text>At the start of your upkeep, if you control a legendary creature, you gain 1 life. If you control a legendary creature that is transformed, you gain 2 life instead.</text>
+			<text>At the beginning of your upkeep, if you control a legendary creature, you gain 1 life. If you control a legendary creature that is transformed, you gain 2 life instead.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/20.png" num="109">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -467,7 +468,7 @@ Creatures you control named Sand Soldier gets +1/+0.</text>
 		</card>
 		<card>
 			<name>Emperor&apos;s Divide</name>
-			<text>All creatures controlled by opponents get Vulnerable until the end of the turn. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)
+			<text>Each creature opponents control get vulnerable until the end of the turn. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
 Create six Sand Soldier tokens.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/23.png" num="112">LORT-EOTA</set>
 			<prop>
@@ -501,7 +502,7 @@ Create six Sand Soldier tokens.</text>
 		</card>
 		<card>
 			<name>Exhaust</name>
-			<text>Target creature an opponent controls gets -2/-0 and Vulnerable until the end of your next turn. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>Target creature an opponent controls gets -2/-0 and vulnerable until the end of your next turn. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/25.png" num="200">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -517,7 +518,7 @@ Create six Sand Soldier tokens.</text>
 		</card>
 		<card>
 			<name>Golden Ambassador</name>
-			<text>Allegiance: search your library for a legendary creature, reveal it, add it to your hand, then shuffle. (When this creature enters, reveal the card on the top of your library, if the revealed card has the same colour identity as this creature, then search your library for a legendary creature, reveal it, add it to your hand, then shuffle)</text>
+			<text>Allegiance – When Golden Ambassador enters, reveal the top card of your library. If the revealed card is at least each colour this creature is, search your library for a legendary creature, reveal it, add it to your hand, then shuffle.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/26.png" num="121">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -570,7 +571,7 @@ When Hibernating Rockbear is sacrificed with no time counters, create a Grumpy R
 			<name>Imagined Possibilities</name>
 			<text>Focus (This instant cannot be cast during the combat phase or in response to another spell or ability.)
 Choose one —
-• Reveal cards from the top of your library until you reveal a landmark with Vanishing, add it to your hand, then shuffle all other revealed cards into your library.
+• Reveal cards from the top of your library until you reveal a landmark with vanishing, add it to your hand, then shuffle all other revealed cards into your library.
 • Remove a time counter from each landmark you control.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/29.png" num="204">LORT-EOTA</set>
 			<prop>
@@ -587,9 +588,9 @@ Choose one —
 		</card>
 		<card>
 			<name>Inner Sanctum</name>
-			<text>If you have Reputation: You may cast Inner Sanctum without paying its mana cost. (Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)
+			<text>If you have Reputation, you may cast Inner Sanctum without paying its mana cost. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)
 Vanishing 1
-When Inner Sanctum is sacrificed with no time counters, target creature you control randomly gets two from among Trample, Absorb 1, First strike, Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+When Inner Sanctum is sacrificed with no time counters, put two random counters on target creature you control from among Trample, Absorb 1, First strike, Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, or a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/30.png" num="125">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -604,7 +605,7 @@ When Inner Sanctum is sacrificed with no time counters, target creature you cont
 		</card>
 		<card>
 			<name>Inspiring Marshal</name>
-			<text>Whenever a creature you control enters, it gets +2/+0 until the end of your turn.</text>
+			<text>Whenever a creature you control enters, it gets +2/+0 until the end of turn.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/31.png" num="126">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -622,7 +623,7 @@ When Inner Sanctum is sacrificed with no time counters, target creature you cont
 		<card>
 			<name>Khahiri the Returned</name>
 			<text>When Khahiri enters, create an exact token copy of Khahiri with no abilities, then shuffle Khahiri into your library.
-If Khahiri appears whenever you Scry, Surveil, or Predict, reveal it, then put two +1/+1 counters on all creatures named Khahiri the Returned you control. (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)</text>
+If Khahiri appears whenever you Scry, Surveil, or Predict, reveal it, then put two +1/+1 counters on each creature named Khahiri the Returned you control. (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/32.png" num="128">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -639,7 +640,7 @@ If Khahiri appears whenever you Scry, Surveil, or Predict, reveal it, then put t
 		</card>
 		<card>
 			<name>Khahiri the Student</name>
-			<text>When Khahiri the Student enters, put a +1/+1 counter on Khahiri the Student if you have looked at the top of your library this turn.</text>
+			<text>When Khahiri the Student enters, put a +1/+1 counter on Khahiri the Student if you have Scryed, Surveiled, or Predicted this turn. (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/33.png" num="129">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -656,7 +657,7 @@ If Khahiri appears whenever you Scry, Surveil, or Predict, reveal it, then put t
 		</card>
 		<card>
 			<name>Merciless Hunter</name>
-			<text>When Merciless Hunter enters, target creature an opponent controls gets Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>When Merciless Hunter enters, put a vulnerable counter on target creature an opponent controls. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/34.png" num="205">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -718,7 +719,7 @@ Ascended God-Warrior — Creatures your opponents control have -1/-0. If you con
 		</card>
 		<card>
 			<name>Payday</name>
-			<text>Target creature you control randomly gets one from among Trample, Absorb 1, First strike, Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, or a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<text>Put a random counter on target creature you control from among Trample, Absorb 1, First strike, Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, or a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/36.png" num="206">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -768,7 +769,7 @@ When Preservarium is sacrificed with no time counters, draw a card.</text>
 		</card>
 		<card>
 			<name>Profiteer</name>
-			<text>When Profiteer enters, target other creature you control randomly gets one from among Trample, Absorb 1, First strike, Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, or a spellshield counter (The first time an instant, sorcery, or activated ability targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<text>When Profiteer enters, put a random counter on other target creature you control from among Trample, Absorb 1, First strike, Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, or a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/39.png" num="139">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -803,8 +804,8 @@ Whenever a time counter would be removed from enchanted landmark, remove that ma
 		<card>
 			<name>Quicksand</name>
 			<text>Choose one —
-• Target creature an opponent controls gets -4/-0 until the end of your turn.
-• Two target creatures an opponent controls gets -1/-0 until the end of your turn.
+• Target creature an opponent controls gets -4/-0 until the end of turn.
+• Two target creatures an opponent controls gets -1/-0 until the end of turn.
 The target creatures have no abilities until the end of turn.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/41.png" num="208">LORT-EOTA</set>
 			<prop>
@@ -840,7 +841,7 @@ When Rampaging Baccai enters, if sources you control destroyed four or more crea
 		<card>
 			<name>Raz Bloodmane</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-When Raz Bloodmane attacks, all creatures opponents control get -2/-0 until your next turn.</text>
+When Raz Bloodmane attacks, each creature opponents control get -2/-0 until the beginning of your next turn.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/43.png" num="143">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -857,8 +858,8 @@ When Raz Bloodmane attacks, all creatures opponents control get -2/-0 until your
 		</card>
 		<card>
 			<name>Rek&apos;Sai, The Void Burrower</name>
-			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
-Whenever Rek&apos;Sai attacks you get a Lurk counter.
+			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
+Whenever Rek&apos;Sai attacks you get a lurk counter.
 If Rek&apos;Sai attacked and did not transform, at the end of the turn, shuffle Rek&apos;Sai into your library.
 If Rek&apos;Sai dealt 10 or more combat damage in one combat phase, then at the start of the next post-combat main phase, transform her.
 Partner
@@ -881,7 +882,7 @@ Partner
 		</card>
 		<card>
 			<name>Rek&apos;Sai, Scourge of the Desert</name>
-			<text>Trample, Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
+			<text>Trample, Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
 When Rek&apos;Sai transforms, search your library for up to three creatures with Lurk, reveal them, add them to your hand, then shuffle.
 When Rek&apos;Sai attacks you gain a Lurk counter.
 ---
@@ -947,8 +948,8 @@ Ascended God-Warrior — Whenever Renekton attacks, Renekton gets +3/+3 until th
 		</card>
 		<card>
 			<name>Ricochet</name>
-			<text>If you have Reputation: This spell costs {3} less to cast. (Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)
-Ricochet randomly deals 1 damage to an opponent or a creature an opponent controls. Repeat this process four times.</text>
+			<text>If you have Reputation, Ricochet costs {3} less to cast. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)
+Ricochet deals 1 damage to a random opponent or creature an opponent controls. Repeat this process four times.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/46.png" num="148">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -964,7 +965,7 @@ Ricochet randomly deals 1 damage to an opponent or a creature an opponent contro
 		</card>
 		<card>
 			<name>Rite of Calling</name>
-			<text>As an additional cost to cast this card sacrifice a nontoken creature or untapped land you control.
+			<text>As an additional cost to cast this spell sacrifice a nontoken creature or untapped land you control.
 Search your library for a legendary creature, reveal it, add it to your hand, then shuffle.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/47.png" num="210">LORT-EOTA</set>
 			<prop>
@@ -981,8 +982,8 @@ Search your library for a legendary creature, reveal it, add it to your hand, th
 		</card>
 		<card>
 			<name>Rite of Dominance</name>
-			<text>As an additional cost to cast this card sacrifice a nontoken creature or untapped land you control.
-All creatures your opponents control get -2/-0 until the end of your next turn.</text>
+			<text>As an additional cost to cast this spell sacrifice a nontoken creature or untapped land you control.
+Each creature your opponents control get -2/-0 until the end of your next turn.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/48.png" num="211">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1032,7 +1033,7 @@ Exile each other spell.</text>
 		</card>
 		<card>
 			<name>Roiling Sands LORT-EOTA</name>
-			<text>When a creature an opponent controls enters, sacrifice Roiling Sands and give that creature Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>When a creature an opponent controls enters, sacrifice Roiling Sands and put a vulnerable counter on that creature. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/51.png" num="10">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1068,7 +1069,7 @@ Ruin Runner enters with a spellshield counter. (The first time an instant, sorce
 		<card>
 			<name>Ruinous Path</name>
 			<text>Draw a card.
-If a source you control destroyed a creature or planeswalker this turn, Drain 2 from target opponent. (Ruinous Path deals 2 damage. You gain that much life.)</text>
+If a source you control destroyed a creature or planeswalker this turn, Ruinous Path deals 2 damage to any target. You gain 2 life.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/53.png" num="213">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1084,7 +1085,7 @@ If a source you control destroyed a creature or planeswalker this turn, Drain 2 
 		</card>
 		<card>
 			<name>Ruthless Predator</name>
-			<text>Give target creature you control +2/+0 until the end of the turn, then give target creature an opponent controls Vulnerable until the end of the turn. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>Give target creature you control +2/+0 until the end of the turn, then give target creature an opponent controls Vulnerable until the end of the turn. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/54.png" num="214">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1152,7 +1153,7 @@ When Sanctum Conservator enters, destroy target creature an opponent controls. I
 		</card>
 		<card>
 			<name>Sand Soldier LORT-EOTA</name>
-			<text>Ephemeral (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)
+			<text>Ephemeral (This creature has haste. At the end of turn, sacrifice it.)
 When Sand Soldier deals combat damage to an opponent, Sand Soldier deals 1 damage to that opponent.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/58.png" num="11">LORT-EOTA</set>
 			<prop>
@@ -1188,7 +1189,7 @@ When Sand Soldier deals combat damage to an opponent, Sand Soldier deals 1 damag
 		</card>
 		<card>
 			<name>Sandstone Charger LORT-EOTA</name>
-			<text>Ephemeral (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
+			<text>Ephemeral (This creature has haste. At the end of turn, sacrifice it.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/60.png" num="12">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1255,7 +1256,7 @@ Give target creature an opponent controls -2/-0 until the end of turn.</text>
 		</card>
 		<card>
 			<name>Shaped Stone</name>
-			<text>Target creature you control gets +1/+1 until the end of your turn. If you control a landmark, the target creature you control gets +2/+1 until the end of your turn instead.</text>
+			<text>Target creature you control gets +1/+1 until the end of turn. If you control a landmark, the target creature you control gets +2/+1 until the end of turn instead.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/64.png" num="217">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1288,7 +1289,7 @@ Create two Sand Soldier tokens.</text>
 		</card>
 		<card>
 			<name>Siphoning Strike</name>
-			<text>Target creature you control deals damage equal to its power to target creature an opponent controls. If the target creature controlled by the opponent is destroyed, each legendary creature you control gets two +1/+1 counters.</text>
+			<text>Target creature you control deals damage equal to its power to target creature an opponent controls. If the creature controlled by the opponent is destroyed, put two +1/+1 counters on each legendary creature you control.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/66.png" num="162">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1306,7 +1307,7 @@ Create two Sand Soldier tokens.</text>
 			<name>Sivir, The Battle Mistress</name>
 			<text>First strike
 Sivir enters with a spellshield counter (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
-Whenever creatures you control deals combat damage, put that many Mercenary counters onto Sivir. At the end of any phase on your turn, if Sivir has thirty or more Mercenary counters, remove all Mercenary counters from Sivir, then transform her.
+Whenever a creature you control deals combat damage, put that many Mercenary counters onto Sivir. At the end of any phase on your turn, if Sivir has thirty or more Mercenary counters, remove all Mercenary counters from Sivir, then transform her.
 Partner
 ---
 (Back): Princess Sivir</text>
@@ -1328,8 +1329,8 @@ Partner
 		<card>
 			<name>Princess Sivir</name>
 			<text>First strike
-When Princess Sivir transforms, put a spellshield counter onto Princess Sivir. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
-When Princess Sivir attacks, all other attacking creatures you control gain first strike until end of turn if Princess Sivir has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.
+When Princess Sivir transforms, put a spellshield counter on Princess Sivir. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
+Whenever Princess Sivir attacks, each other attacking creature you control gets first strike until end of turn if Princess Sivir has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.
 ---
 (Front): Sivir, The Battle Mistress</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/67_back.png" num="163b">LORT-EOTA</set>
@@ -1349,7 +1350,7 @@ When Princess Sivir attacks, all other attacking creatures you control gain firs
 		</card>
 		<card>
 			<name>Shaman Soothsayer</name>
-			<text>When Shaman Soothsayer enters, put a spellshield counter on all legendary creatures and landmarks you control. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<text>When Shaman Soothsayer enters, put a spellshield counter on each legendary creature and each landmark you control. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/68.png" num="216">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1366,7 +1367,7 @@ When Princess Sivir attacks, all other attacking creatures you control gain firs
 		</card>
 		<card>
 			<name>Spirit Fire</name>
-			<text>Give all creatures target opponent controls -2/-0 until the end of the turn and &quot;At the beginning of your end step, put two -1/-1 counters on this creature.&quot;</text>
+			<text>Give each creature target opponent controls -2/-0 until the end of the turn and &quot;At the beginning of your end step, put two -1/-1 counters on this creature.&quot;</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/69.png" num="166">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1382,7 +1383,7 @@ When Princess Sivir attacks, all other attacking creatures you control gain firs
 		</card>
 		<card>
 			<name>Stoneweaving</name>
-			<text>Reveal cards from the top of your library until you reveal a landmark, add it to your hand, then shuffle all other revealed cards into your library.</text>
+			<text>Reveal cards from the top of your library until you reveal a landmark card, add it to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/70.png" num="220">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1421,7 +1422,7 @@ Partner
 		<card>
 			<name>Taliyah, The Stoneweaver</name>
 			<text>When Taliyah transforms, you may create an exact token copy of a landmark you control.
-Whenever Taliyah is blocked, before combat damage, Taliyah deals 2 damage to its blocker. If Taliyahs blocker is destroyed or is removed, Taliyah deals 2 damage to that creatures controller instead. Repeat this process two times.
+Whenever Taliyah is blocked, before combat damage, Taliyah deals 2 damage to one of her blockers. If Taliyahs blockers are destroyed or is removed, Taliyah deals 2 damage to that creatures controller instead. Repeat this process two times.
 ---
 (Front): Taliyah, The Wanderer</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/71_back.png" num="170b">LORT-EOTA</set>
@@ -1460,7 +1461,7 @@ Whenever Taliyah is blocked, before combat damage, Taliyah deals 2 damage to its
 		</card>
 		<card>
 			<name>The Time Has Come</name>
-			<text>Create a Clockling token. If you have looked at the top of your library this turn, create two Clockling tokens instead.</text>
+			<text>Create a Clockling token. If you have Scryed, Surveiled, or Predicted this turn, create two Clockling tokens instead. (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/73.png" num="221">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1547,7 +1548,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Unworthy</name>
-			<text>Target creature an opponent controls gets -4/-0 until the end of your next turn. If you control less land then the target creatures controller, the creature is destroyed instead.</text>
+			<text>Target creature an opponent controls gets -4/-0 until the end of your next turn. If you control less land then the target creatures controller, that creature is destroyed instead.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/78.png" num="225">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1563,7 +1564,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Vekauran Bruiser</name>
-			<text>Whenever Vekauran Bruiser enters or deals combat damage, target creature you control randomly gets one from among Trample, Absorb 1, First strike, Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, or a spellshield counter (The first time an instant, sorcery, or activated ability targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<text>Whenever Vekauran Bruiser enters or deals combat damage, put a random counter on other target creature you control from among Trample, Absorb 1, First strike, Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, or a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/79.png" num="175">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1580,7 +1581,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Vekauran Safecracker</name>
-			<text>When Vekauran Safecracker enters, give a creature you control +2/+0 to give target creature an opponent controls -2/-0 until the end of your turn.</text>
+			<text>When Vekauran Safecracker enters, target creature you control gets +2/+0 until end of turn, and target creature an opponent controls gets -2/-0 until the end of turn.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/80.png" num="176">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1598,7 +1599,7 @@ Draw a card.</text>
 		<card>
 			<name>Vekauran Vagabond</name>
 			<text>When Vekauran Vagabond enters, choose one —
-• Search your library and/or graveyard and/or exile for a card named Warlord&apos;s Palace, reveal it, and put it into your hand. If you search your library this way, shuffle.
+• Search your library, graveyard, and/or exile for a card named Warlord&apos;s Palace, reveal it, and put it into your hand. If you search your library this way, shuffle.
 • Remove two time counters from a landmark named Warlord&apos;s Palace you control.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/81.png" num="177">LORT-EOTA</set>
 			<prop>
@@ -1617,7 +1618,7 @@ Draw a card.</text>
 		<card>
 			<name>Voice of the Risen</name>
 			<text>Whenever a legendary creature you control transforms, put a Voice counter on Voice of the Risen.
-If Voice of the Risen has a Voice counter, each other creature you control gets +2/+0.</text>
+If Voice of the Risen has one or more Voice counters, each other creature you control gets +2/+0.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/82.png" num="178">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1685,7 +1686,7 @@ If Voice of the Risen has a Voice counter, each other creature you control gets 
 		</card>
 		<card>
 			<name>Xer&apos;sai Caller</name>
-			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
+			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
 When Xer&apos;sai Caller enters, Predict (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/86.png" num="183">LORT-EOTA</set>
 			<prop>
@@ -1703,7 +1704,7 @@ When Xer&apos;sai Caller enters, Predict (Look at the top three cards of your li
 		</card>
 		<card>
 			<name>Xer&apos;sai Dunebreaker</name>
-			<text>Trample, Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)</text>
+			<text>Trample, Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/87.png" num="184">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1737,8 +1738,8 @@ When Xer&apos;sai Caller enters, Predict (Look at the top three cards of your li
 		</card>
 		<card>
 			<name>Xerxa&apos;Reth, The Undertitan</name>
-			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
-Whenever Xerxa&apos;Reth attacks, if Xerxa&apos;Reth has power 8 or greater, Xerxa&apos;Reth gets Fearsome and Trample until the end of the turn, then put a shield counter on Xerxa&apos;Reth. (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)</text>
+			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
+Whenever Xerxa&apos;Reth attacks, if Xerxa&apos;Reth has power 8 or greater, Xerxa&apos;Reth gets fearsome and trample until the end of the turn, then put a shield counter on Xerxa&apos;Reth. (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/89.png" num="185">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1756,7 +1757,7 @@ Whenever Xerxa&apos;Reth attacks, if Xerxa&apos;Reth has power 8 or greater, Xer
 		<card>
 			<name>Zilean</name>
 			<text>When Zilean enters, create four Time Bomb tokens, then predict. (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)
-Whenever a Time Bomb is sacrificed with no time counters, put a Chrono counter on Zilean. At the end of any phase on your turn, if Zilean has two or more Chrono counters, remove all Chrono counters from Zilean, then transform him. 
+Whenever a Time Bomb is sacrificed with no time counters, put a Chrono counter on Zilean. At the end of any phase on your turn, if Zilean has two or more Chrono counters, remove all Chrono counters from Zilean, then transform him.
 Partner
 ---
 (Back): Zilean, The Chronokeeper</text>
@@ -1778,7 +1779,7 @@ Partner
 		<card>
 			<name>Zilean, The Chronokeeper</name>
 			<text>When Zilean transforms, create four Time Bomb tokens.
-At the start of your upkeep, you may exile up to three cards from your graveyard, if you do, create an exiled copy of each card exiled this way. Until the start of your next turn, you may cast these copies from exile.
+At the beginning of your upkeep, you may exile up to three cards from your graveyard, if you do, create an exiled copy of each card exiled this way. Until the beginning of your next turn, you may cast these copies from exile.
 ---
 (Front): Zilean</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/90_back.png" num="186b">LORT-EOTA</set>
@@ -1798,7 +1799,7 @@ At the start of your upkeep, you may exile up to three cards from your graveyard
 		</card>
 		<card>
 			<name>Golden Herald</name>
-			<text>When Golden Herald enters, and at the start of your upkeep, create two Sand Soldier tokens.</text>
+			<text>When Golden Herald enters, and at the beginning of your upkeep, create two Sand Soldier tokens.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/91.png" num="122">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1831,8 +1832,7 @@ At the start of your upkeep, you may exile up to three cards from your graveyard
 		</card>
 		<card>
 			<name>Crumbling Sands</name>
-			<text>Exile target creature.
-Draw a card.</text>
+			<text>Exile target creature. Draw a card.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/93.png" num="105">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1848,7 +1848,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Shimmering Mirage</name>
-			<text>Create a token copy of target creature you control, it gets Ephemeral. Draw a card. (That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
+			<text>Create a token copy of target creature you control, it gets Ephemeral. Draw a card. (That creature has haste. At the end of turn, sacrifice it.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/94.png" num="160">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1866,7 +1866,7 @@ Draw a card.</text>
 			<name>Eternal Gladiator</name>
 			<text>Eternal Gladiator enters with a shield counter.
 When Eternal Gladiator enters, draw a card.
-At the beginning of your end step, Eternal Gladiator fights the creature with the highest power amongst creatures opponents control.</text>
+At the beginning of your end step, Eternal Gladiator and the creature with the highest power amongst creatures opponents control fight. (Each deals damage equal to its power to the other.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/95.png" num="116">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1883,7 +1883,7 @@ At the beginning of your end step, Eternal Gladiator fights the creature with th
 		</card>
 		<card>
 			<name>General&apos;s Palace</name>
-			<text>Creatures your opponents control have Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)
+			<text>Creatures your opponents control have Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
 At the end of the first combat phase on your turn, after this phase, there is an additional combat phase.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/96.png" num="119">LORT-EOTA</set>
 			<prop>
@@ -1966,7 +1966,7 @@ When Emperor&apos;s Guard enters, draw a card.</text>
 		</card>
 		<card>
 			<name>Song of the Isles</name>
-			<text>Target creature you control gets Lifelink, Fearsome, and Ephemeral. (Creatures with Fearsome cannot be blocked by creatures with power 2 or less. That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
+			<text>Target creature you control gets Lifelink, Fearsome, and Ephemeral. (Creatures with Fearsome cannot be blocked by creatures with power 2 or less. That creature has haste. At the end of turn, sacrifice it.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/101.png" num="44">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1982,7 +1982,7 @@ When Emperor&apos;s Guard enters, draw a card.</text>
 		</card>
 		<card>
 			<name>Spirit Leech</name>
-			<text>When Spirit Leech enters, sacrifice a creature you control to draw two cards.</text>
+			<text>When Spirit Leech enters, you may sacrifice another creature you control, if you do, draw two cards.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/102.png" num="47">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1999,8 +1999,8 @@ When Emperor&apos;s Guard enters, draw a card.</text>
 		</card>
 		<card>
 			<name>Sea Scarab</name>
-			<text>Deep (The first time your library has one third of the total starting cards left, you are Deep for the rest of the game. When you are Deep, all Deep creatures you control get +3/+3.)
-Whenever a creature you control is destroyed, Toss 1. (Exile a card from the bottom of your library.)</text>
+			<text>Deep (If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)
+Whenever a creature you control dies, Toss 1. (Exile a card from the bottom of your library.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/103.png" num="43">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2054,7 +2054,7 @@ When Mask Mother enters, mutate a creature you control under Mask Mother.</text>
 		<card>
 			<name>Unto Dusk</name>
 			<text>Draw a card.
-Nightfall: activate the Nightfall ability of target creature you control. You may choose new targets for that ability. (If this spell is not the first spell you have cast this turn, when this spell is cast, activate the Nightfall ability of target creature you control. You may choose new targets for that ability)</text>
+Nightfall — When this spell resolves, if it wasn&apos;t the first spell you cast this turn, trigger the nightfall ability of target creature you control.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/106.png" num="49">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2070,7 +2070,7 @@ Nightfall: activate the Nightfall ability of target creature you control. You ma
 		</card>
 		<card>
 			<name>Soulspinner</name>
-			<text>When Soulspinner enters, if a creature you control has been destroyed this turn, Soulspinner gets a +1/+1 counter and Fearsome. (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)</text>
+			<text>When Soulspinner enters, if a creature you control died this turn, put a +1/+1 counter and a fearsome counter on Soulspinner. (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/107.png" num="45">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2088,7 +2088,7 @@ Nightfall: activate the Nightfall ability of target creature you control. You ma
 		<card>
 			<name>The Etherfiend</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-When The Etherfiend enters, sacrifice a creature you control to destroy target creature an opponent controls.</text>
+When The Etherfiend enters, you may sacrifice another creature you control, if you do, destroy target creature an opponent controls.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/108.png" num="36">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2200,7 +2200,7 @@ At the beginning of your end step, each opponent sacrifices each creature they c
 		</card>
 		<card>
 			<name>Crimson Bloodletter</name>
-			<text>The first time a creature you control enters on the same turn Crimson Bloodletter entered, Crimson Bloodletter deals 1 damage to that creature and gets a +1/+1 counter.</text>
+			<text>The first time a creature you control enters on the same turn Crimson Bloodletter entered, Crimson Bloodletter deals 1 damage to that creature, then put a +1/+1 counter on Crimson Bloodletter.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/113.png" num="57">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2250,7 +2250,7 @@ At the beginning of your end step, each opponent sacrifices each creature they c
 		</card>
 		<card>
 			<name>Bloody Business</name>
-			<text>If you have Reputation: Bloody Business costs {2} less to cast. (Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)
+			<text>If you have Reputation, Bloody Business costs {2} less to cast. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)
 Target creature you control with power 5 or greater deals damage equal to its power to target creature an opponent controls.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/116.png" num="56">LORT-EOTA</set>
 			<prop>
@@ -2267,7 +2267,7 @@ Target creature you control with power 5 or greater deals damage equal to its po
 		</card>
 		<card>
 			<name>Thorn of the Rose</name>
-			<text>When Thorn of the Rose enters, put a stun counter onto target creature an opponent controls.</text>
+			<text>When Thorn of the Rose enters, put a stun counter on target creature an opponent controls.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/117.png" num="66">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2284,7 +2284,7 @@ Target creature you control with power 5 or greater deals damage equal to its po
 		</card>
 		<card>
 			<name>Black Rose Spy</name>
-			<text>If you have Reputation: When Black Rose Spy enters, you may have Black Rose Spy enter as copy of a creature you control that dealt combat damage this turn. (Whenever a creature you control deals 5 or more combat damage, gain a Reputation counter. You have Reputation if you have 4 or more Reputation counters)</text>
+			<text>If you have Reputation, when Black Rose Spy enters, you may have Black Rose Spy enter as copy of a creature you control that dealt combat damage this turn. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/118.png" num="55">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2302,7 +2302,7 @@ Target creature you control with power 5 or greater deals damage equal to its po
 		<card>
 			<name>LeBlanc, Pale Sorceress</name>
 			<text>First strike
-Whenever creatures you control deals combat damage, put that many Deceiver counters onto LeBlanc. At the end of any phase on your turn, if LeBlanc has fifteen or more Deceiver counters, remove all Deceiver counters from LeBlanc, then transform her. 
+Whenever a creature you control deals combat damage, put that many Deceiver counters on LeBlanc. At the end of any phase on your turn, if LeBlanc has fifteen or more Deceiver counters, remove all Deceiver counters from LeBlanc, then transform her.
 Partner
 ---
 (Back): LeBlanc, The Deceiver</text>
@@ -2324,7 +2324,8 @@ Partner
 		<card>
 			<name>LeBlanc, The Deceiver</name>
 			<text>First strike
-Whenever creatures you control deals a total of fifteen or more combat damage, create an exact token copy of target creature you control, it gets Ephemeral. (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)
+Whenever a creature you control deals combat damage, put that many Deceiver counters on LeBlanc.
+Remove fifteen Deceiver counters from LeBlanc: Create an exact token copy of target creature you control, it gets Ephemeral. (This creature has haste. At the end of turn, sacrifice it.)
 ---
 (Front): LeBlanc, Pale Sorceress</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/119_back.png" num="59b">LORT-EOTA</set>
@@ -2344,7 +2345,7 @@ Whenever creatures you control deals a total of fifteen or more combat damage, c
 		</card>
 		<card>
 			<name>Sigil of Malice</name>
-			<text>If you have Reputation: Sigil of Malice costs {2} less to cast. (Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)
+			<text>If you have Reputation, Sigil of Malice costs {2} less to cast. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)
 Sigil of Malice deals 2 damage to any target.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/120.png" num="64">LORT-EOTA</set>
 			<prop>
@@ -2361,7 +2362,7 @@ Sigil of Malice deals 2 damage to any target.</text>
 		</card>
 		<card>
 			<name>Whispered Words</name>
-			<text>If you have Reputation: Whispered Words costs {3} less to cast. (Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)
+			<text>If you have Reputation, Whispered Words costs {3} less to cast. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)
 Draw two cards.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/121.png" num="69">LORT-EOTA</set>
 			<prop>
@@ -2378,7 +2379,7 @@ Draw two cards.</text>
 		</card>
 		<card>
 			<name>Black Rose Mimicry</name>
-			<text>If you have Reputation: Black Rose Mimicry costs {3} less to cast. (Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)
+			<text>If you have Reputation, Black Rose Mimicry costs {3} less to cast. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)
 Copy the next spell you cast this turn targeting the same targets.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/122.png" num="54">LORT-EOTA</set>
 			<prop>
@@ -2446,7 +2447,7 @@ The first time you cast your third creature each turn, add {C}{C}{C} and draw a 
 		<card>
 			<name>Shadow Apprentice</name>
 			<text>Shadow (This creature can block or be blocked by only creatures with shadow.)
-Whenever a creature you control with Ephemeral enters, Shadow Apprentice gets +1/+0 until end of turn. (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
+Whenever a creature you control with ephemeral enters, Shadow Apprentice gets +1/+0 until end of turn. (This creature has haste. At the end of turn, sacrifice it.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/126.png" num="27">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2482,7 +2483,7 @@ Whenever a creature you control with Ephemeral enters, Shadow Apprentice gets +1
 		</card>
 		<card>
 			<name>Loaded Dice</name>
-			<text>During your next turn, whenever a source you control deals damage to an opponent, Nab 1 from that opponent. (Exile a card from the bottom of target opponents library. You may cast cards exiled this way for as long as it remains exiled, and you may spend mana as though it were mana of any colour to cast that copy. )</text>
+			<text>Choose an opponent. During your next turn, whenever a source you control deals damage to that opponent, Nab 1 from that opponent. (Look at the bottom card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/128.png" num="131">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2564,7 +2565,7 @@ After this phase, there is an additional combat phase.</text>
 		</card>
 		<card>
 			<name>Penitent Squire</name>
-			<text>When Penitent Squire enters, you may Behold a Knight, if you do, the next creature you cast enters with Challenger. (To behold a Knight, if you do, the next creature you cast enters with Challenger., choose a Knight, if you do, the next creature you cast enters with Challenger. you control or reveal a Knight, if you do, the next creature you cast enters with Challenger. card from your hand.)</text>
+			<text>When Penitent Squire enters, you may behold a Knight, if you do, the next creature you cast enters with a challenger counter. (To behold a Knight, choose a Knight you control or reveal a Knight card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/133.png" num="13">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2605,7 +2606,7 @@ Partner
 		<card>
 			<name>King Jarvan IV, The Exemplar of Demacia</name>
 			<text>When King Jarvan IV transforms, put a shield counter on him.
-At the start of your upkeep, you may have target creature you control fight target creature an opponent controls.
+At the beginning of your upkeep, you may have target creature you control and target creature an opponent controls fight. (Each deals damage equal to its power to the other.)
 Whenever one or more creatures block King Jarvan IV, put a shield counter on King Jarvan IV.
 ---
 (Front): King Jarvan IV</text>
@@ -2627,7 +2628,7 @@ Whenever one or more creatures block King Jarvan IV, put a shield counter on Kin
 		<card>
 			<name>King Jarvan III</name>
 			<text>Absorb 1
-When King Jarvan III enters, you may search your library for a card named King Jarvan IV, reveal it, put it into your hand, then shuffle. Then each other creature you control has Vigilance and Challenger until end of turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+When King Jarvan III enters, you may search your library for a card named King Jarvan IV, reveal it, put it into your hand, then shuffle. Then each other creature you control has vigilance and challenger until end of turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/135.png" num="11">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2644,7 +2645,7 @@ When King Jarvan III enters, you may search your library for a card named King J
 		</card>
 		<card>
 			<name>Towering Stonehorn</name>
-			<text>Towering Stonehorn has protection from instants, sorceries, and creature abilities opponents control.</text>
+			<text>Towering Stonehorn has protection from instants, sorceries, and abilities opponents control.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/136.png" num="16">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2695,7 +2696,7 @@ Reveal cards from the top of your library until you reveal X artifact creature c
 		</card>
 		<card>
 			<name>Concurrent Timelines</name>
-			<text>Until the end of the turn, whenever you cast a creature, reveal cards from the top of your library until you reveal three creature cards with the same mana value as that creature, pick one, then shuffle the cast creature and all other revealed cards into the library, then put the chosen creature onto the battlefield.</text>
+			<text>Until the end of the turn, whenever you cast a creature, reveal cards from the top of your library until you reveal three creature cards with the same mana value as that creature, choose one, then shuffle the cast creature and all other revealed cards into the library, then put the chosen creature onto the battlefield.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/139.png" num="104">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2711,8 +2712,8 @@ Reveal cards from the top of your library until you reveal X artifact creature c
 		</card>
 		<card>
 			<name>Ancestral Boon</name>
-			<text>The next creature you control enters with two +1/+1 counters.
-If you are Enlightened: Each creature you control enters with two +1/+1 counters for the rest of the turn instead. (The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)</text>
+			<text>Until the end of turn, the next creature you cast enters with two +1/+1 counters.
+If you are Enlightened, until the end of turn, each creature you cast enters with two +1/+1 counters instead. (The first time you spend 10 or more mana in the same turn, you are Enlightened for the rest of the game.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/140.png" num="71">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2728,8 +2729,8 @@ If you are Enlightened: Each creature you control enters with two +1/+1 counters
 		</card>
 		<card>
 			<name>Spoils of War</name>
-			<text>Target creature you control gets +1/+2.
-Plunder: target creature you control gets +2/+4 instead. (If an opponent was dealt damage this turn, when this spell is cast target creature you control gets +2/+4 instead.)</text>
+			<text>Put a +1/+2 counter on target creature you control.
+Plunder — If an opponent was dealt damage this turn, put two +1/+2 counters on target creature you control instead.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/141.png" num="82">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2762,8 +2763,8 @@ When Blighted Ravine is sacrificed with no time counters, Blighted Ravine deals 
 		</card>
 		<card>
 			<name>Cold Resistance</name>
-			<text>Add one of any colour.
-Target creature you control gets +0/+2.</text>
+			<text>Add one mana of any type.
+Put a +0/+2 counter on target creature you control.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/143.png" num="74">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2830,7 +2831,7 @@ Target creature you control gets +0/+2.</text>
 		</card>
 		<card>
 			<name>Draklorn Inquisitor</name>
-			<text>When Draklorn Inquisitor enters create a Frozen Thrall token.
+			<text>When Draklorn Inquisitor enters, create a Frozen Thrall token.
 At the beginning of your end step, if an enchantment you control named Frozen Thrall has 4 or less time counters, remove all time counters from that enchantment.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/147.png" num="75">LORT-EOTA</set>
 			<prop>
@@ -2889,8 +2890,8 @@ Partner
 			<name>Lissandra, Lady of Ice and Darkness</name>
 			<text>Absorb 1
 When Lissandra transforms, create a The Watcher token.
-At the start of your turn, Lissandra deals 1 damage to each player and each creature and planeswalker they control.
- If a source would deal damage to you, prevent 1 of that damage.
+At the beginning of your turn, Lissandra deals 1 damage to each player and each creature and planeswalker they control.
+If a source would deal damage to you, prevent 1 of that damage.
 ---
 (Front): Lissandra, The Ice Witch</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/149_back.png" num="80b">LORT-EOTA</set>
@@ -2926,7 +2927,7 @@ At the start of your turn, Lissandra deals 1 damage to each player and each crea
 		</card>
 		<card>
 			<name>Monster Harpoon</name>
-			<text>Plunder: Monster Harpoon costs {2} less to cast this turn. (If an opponent was dealt damage this turn, Monster Harpoon costs {2} less to cast this turn.)
+			<text>Plunder — If an opponent was dealt damage this turn, until the end of turn Monster Harpoon costs {2} less.
 Monster Harpoon deals 5 damage to target creature.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/151.png" num="134">LORT-EOTA</set>
 			<prop>
@@ -2943,7 +2944,7 @@ Monster Harpoon deals 5 damage to target creature.</text>
 		</card>
 		<card>
 			<name>Ardent Tracker</name>
-			<text>Scout (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)
+			<text>Scout (After your first main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)
 Ardent Tracker costs {1} less to cast for each Knight you&apos;ve cast this turn.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/152.png" num="1">LORT-EOTA</set>
 			<prop>
@@ -2961,8 +2962,8 @@ Ardent Tracker costs {1} less to cast for each Knight you&apos;ve cast this turn
 		</card>
 		<card>
 			<name>Cithria, Lady of Clouds</name>
-			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
-When Cithria enters, double the power and toughness of each creature you control and give them Challenger.</text>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+When Cithria enters, double the power and toughness of each creature you control and put a challenger counter on them.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/153.png" num="4">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2996,7 +2997,7 @@ Create a Frozen Thrall token.</text>
 		</card>
 		<card>
 			<name>Buried in Ice</name>
-			<text>Exile all creatures opponents control. Return those creatures to the battlefield under their owners control at the beginning of the end step on your next turn.</text>
+			<text>Exile each creature opponents control. Return those creatures to the battlefield under their owners control at the beginning of the end step on your next turn.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/155.png" num="73">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3012,7 +3013,7 @@ Create a Frozen Thrall token.</text>
 		</card>
 		<card>
 			<name>Incisive Tactician</name>
-			<text>If you have Reputation: Incisive Tactician costs {2} less to cast. (Whenever a creature you control deals 5 or more combat damage, you gain a Reputation counter. You have Reputation if you have four or more Reputation counters)
+			<text>If you have Reputation, Incisive Tactician costs {2} less to cast. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)
 When Incisive Tactician enters, after this phase, there is an additional combat phase.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/156.png" num="58">LORT-EOTA</set>
 			<prop>
@@ -3035,7 +3036,7 @@ When Incisive Tactician enters, after this phase, there is an additional combat 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Lizard</type>
+				<type>Creature — Lizard Berserker</type>
 				<maintype>Creature</maintype>
 				<manacost>R</manacost>
 				<cmc>1</cmc>
@@ -3048,7 +3049,7 @@ When Incisive Tactician enters, after this phase, there is an additional combat 
 		<card>
 			<name>Chirean Sumpworker</name>
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
-When another Chirean Sumpworker you control enters, transform all creatures named Chirean Sumpworker you control.
+When another creature named Chirean Sumpworker you control enters, transform each creature named Chirean Sumpworker you control.
 ---
 (Back): Sumpworks Posse</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/158_front.png" num="101a">LORT-EOTA</set>
@@ -3100,6 +3101,7 @@ Whenever Sumpworks Posse attacks, Sumpworks Posse deals 1 damage to the defendin
 				<cmc>1</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
+				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3125,7 +3127,7 @@ Whenever Sumpworks Posse attacks, Sumpworks Posse deals 1 damage to the defendin
 		</card>
 		<card>
 			<name>Last Wind</name>
-			<text>As an additional cost to cast this card, sacrifice a creature you control.
+			<text>As an additional cost to cast this spell, sacrifice a creature you control.
 ---
 (Front): First Wave</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/160_back.png" num="38b">LORT-EOTA</set>
@@ -3145,8 +3147,8 @@ Whenever Sumpworks Posse attacks, Sumpworks Posse deals 1 damage to the defendin
 		</card>
 		<card>
 			<name>Zinneia, Steel Crescendo</name>
-			<text>When Zinneia enters, create a tapped and attacking Blade token.
-Whenever one or more token creature you control attack, Zinneia attacks target opponent.</text>
+			<text>When Zinneia enters, create a Blade token.
+Whenever one or more token creature you control attack, Zinneia untaps and attacks target opponent.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/161.png" num="31">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3163,7 +3165,7 @@ Whenever one or more token creature you control attack, Zinneia attacks target o
 		</card>
 		<card>
 			<name>Vanguard&apos;s Edge</name>
-			<text>Target creature you control attacks target opponent. Create three tapped and attacking Blade tokens.</text>
+			<text>Choose a creature you control. After this phase, there is an additional combat phase. Only the chosen creature may attack in this phase and it gains vigilance until end of combat. Create three Blade tokens.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/162.png" num="30">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3179,7 +3181,7 @@ Whenever one or more token creature you control attack, Zinneia attacks target o
 		</card>
 		<card>
 			<name>Blossoming Blade</name>
-			<text>When Blossoming Blade enters, create two tapped and attacking Blade tokens.</text>
+			<text>When Blossoming Blade enters, create two Blade tokens.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/163.png" num="17">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3229,7 +3231,7 @@ Whenever one or more token creature you control attack, Zinneia attacks target o
 		</card>
 		<card>
 			<name>Ribbon Dancer</name>
-			<text>When Ribbon Dancer enters, create a tapped and attacking Blade token.</text>
+			<text>When Ribbon Dancer enters, create a Blade token.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/166.png" num="24">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3246,7 +3248,7 @@ Whenever one or more token creature you control attack, Zinneia attacks target o
 		</card>
 		<card>
 			<name>Lead and Follow</name>
-			<text>Recall target creature you control, then create two tapped and attacking Blade tokens. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
+			<text>Recall target creature you control, then create two Blade tokens. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/167.png" num="23">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3296,8 +3298,8 @@ Whenever one or more token creature you control attack, Zinneia attacks target o
 		<card>
 			<name>Irelia, The Blade Dancer</name>
 			<text>First strike, Attune {C} (When a creature with Attune enters, add {C}. This mana can only be used used to cast instants and sorceries.)
-When Irelia enters and at the beginning of your pre-combat main phase, create two tapped and attacking Blade tokens.
-Whenever one or more creatures you control attack, put that many Dancer counters onto Irelia. At the end of any phase on your turn, if Irelia has fourteen or more Dancer tokens, remove all Dancer tokens from Irelia, then transform her.
+When Irelia enters and at the beginning of your pre-combat main phase, create two Blade tokens.
+Whenever a creature you control attacks, put a Dancer counter onto Irelia. At the end of any phase on your turn, if Irelia has fourteen or more Dancer counters, remove all Dancer counters from Irelia, then transform her.
 Partner
 ---
 (Back): Irelia, The Defiant Blade</text>
@@ -3319,7 +3321,7 @@ Partner
 		<card>
 			<name>Irelia, The Defiant Blade</name>
 			<text>First strike
-At the beginning of your pre-combat main phase, create two tapped and attacking Blade tokens.
+At the beginning of your pre-combat main phase, create two Blade tokens.
 {U}: Remove Irelia from combat and untap her. Then if a spell or ability is targeting Irelia, you may choose another creature you control as the new target for target spell or ability. You may only activate this ability once per turn.
 ---
 (Front): Irelia, The Blade Dancer</text>
@@ -3356,7 +3358,7 @@ When Rockfall Path is sacrificed with no time counters, exile the creature with 
 		</card>
 		<card>
 			<name>Stonebreaker</name>
-			<text>When Stonebreaker enters, if there are four or more landmarks in your graveyard, Stonebreaker deals 4 damage to target creature or planeswalker and 2 damage to that permanents controller.</text>
+			<text>When Stonebreaker enters, if there are four or more landmark cards in your graveyard, Stonebreaker deals 4 damage to target creature or planeswalker and 2 damage to that permanents controller.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/172.png" num="169">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3374,7 +3376,7 @@ When Rockfall Path is sacrificed with no time counters, exile the creature with 
 		<card>
 			<name>Terra Elemental</name>
 			<text>Trample
-If there are four or more landmarks in your graveyard, Terra Elemental gets +3/+0.</text>
+When Terra Elemental enters, if there are four or more landmark cards in your graveyard, put three +1/+0 counters on Terra Elemental.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/173.png" num="171">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3408,7 +3410,7 @@ If there are four or more landmarks in your graveyard, Terra Elemental gets +3/+
 		</card>
 		<card>
 			<name>Chip</name>
-			<text>The first time a landmark you control enters, Chip gets two +1/+1 counters.</text>
+			<text>The first time a landmark you control enters, put two +1/+1 counters on Chip.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/175.png" num="194">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3442,8 +3444,8 @@ If there are four or more landmarks in your graveyard, Terra Elemental gets +3/+
 		<card>
 			<name>Eye of the Ra-Horak</name>
 			<text>Vanishing 1 
-When Eye of the Ra-Horak is sacrificed with no time counters, tap up to two target creatures with the lowest power among creatures opponents controls and put a stun counter on them.
-Daybreak: create a token copy of Eye of the Ra-Horak with Vanishing 2. (If this spell is the first spell you have cast this turn, when this spell is cast, create a token copy of Eye of the Ra-Horak with Vanishing 2. )</text>
+When Eye of the Ra-Horak is sacrificed with no time counters, tap up to two creatures with the lowest power among creatures opponents control and put a stun counter on them.
+Daybreak – When Eye of the Ra-Horak enters, if it was the first spell you cast this turn, create a token copy of Eye of the Ra-Horak with Vanishing 2.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/177.png" num="117">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3458,7 +3460,7 @@ Daybreak: create a token copy of Eye of the Ra-Horak with Vanishing 2. (If this 
 		</card>
 		<card>
 			<name>Solari Sunhawk</name>
-			<text>Daybreak: tap target creature an opponent controls and put a stun counter on it. (If this creature is the first spell you have cast this turn, when Solari Sunhawk enters, tap target creature an opponent controls and put a stun counter on it)</text>
+			<text>Daybreak – When Solari Sunhawk enters, if it was the first spell you cast this turn, tap target creature an opponent controls and put a stun counter on it.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/178.png" num="164">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3476,7 +3478,7 @@ Daybreak: create a token copy of Eye of the Ra-Horak with Vanishing 2. (If this 
 		<card>
 			<name>Spiral Stairs</name>
 			<text>Vanishing 3 
-When Spiral Stairs is sacrificed with no time counters, target creature you control gets +3/+2 and Trample.</text>
+When Spiral Stairs is sacrificed with no time counters, put two +1/+1 counters, a +1/+0 counter, and a trample counter on target creature you control.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/179.png" num="165">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3493,7 +3495,7 @@ When Spiral Stairs is sacrificed with no time counters, target creature you cont
 			<name>Malphite</name>
 			<text>Absorb 1
 When Malphite enters, tap target creature an opponent controls and put a stun counter on it.
-Whenever you cast a Landmark card, put X Terra counters on Malphite where X is that permanents mana value. At the end of any phase on your turn, if Malphite has ten or more Terra counters, remove all Terra counters from Malphite, then transform him. 
+Whenever a landmark card you control enters, put X Terra counters on Malphite where X is that permanents mana value. At the end of any phase on your turn, if Malphite has ten or more Terra counters, remove all Terra counters from Malphite, then transform him.
 Partner
 ---
 (Back): Malphite</text>
@@ -3516,7 +3518,7 @@ Partner
 			<name>Malphite</name>
 			<text>Absorb 1
 When Malphite transforms, tap target creature an opponent controls and put a stun counter on it.
-At the start of your upkeep, you may pay {1}{W}{U}, if you do, tap each creature target opponent controls and put a stun counter on each creature tapped this way.
+At the beginning of your upkeep, you may pay {1}{W}{U}, if you do, tap each creature target opponent controls and put a stun counter on each creature tapped this way.
 ---
 (Front): Malphite</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/180_back.png" num="133b">LORT-EOTA</set>
@@ -3536,8 +3538,8 @@ At the start of your upkeep, you may pay {1}{W}{U}, if you do, tap each creature
 		</card>
 		<card>
 			<name>Redfin Hammersnout</name>
-			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
-When Redfin Hammersnout enters, target creature an opponent controls gets Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
+When Redfin Hammersnout enters, put a vulnerable counter on target creature an opponent controls. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/181.png" num="145">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3554,8 +3556,9 @@ When Redfin Hammersnout enters, target creature an opponent controls gets Vulner
 		</card>
 		<card>
 			<name>Snapjaw Swarm</name>
-			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
-Snapjaw Swarm enters tapped and attacking.</text>
+			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
+Snapjaw Swarm enters with a haste counter.
+Snapjaw Swarm must attack each turn if it has a haste counter. Whenever Snapjaw Swarm attacks, remove a haste counter from Snapjaw Swarm.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/182.png" num="219">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3572,7 +3575,7 @@ Snapjaw Swarm enters tapped and attacking.</text>
 		</card>
 		<card>
 			<name>Pyke</name>
-			<text>First strike, Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
+			<text>First strike, Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
 Whenever Pyke deals damage, put that many Ripper counters on Pyke. At the end of any phase on your turn, if Pyke has fifteen or more Ripper counters, remove all Ripper counters from Pyke, then transform him.
 Partner
 ---
@@ -3594,8 +3597,8 @@ Partner
 		</card>
 		<card>
 			<name>Pyke, The Bloodharbor Ripper</name>
-			<text>First strike, Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
-Whenever Pyke destroys a creature an opponent controls, Pyke deals damage equal to his power to the creature with the lowest power among creatures opponents control.
+			<text>First strike, Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
+Whenever a creature dealt damage by Pyke this turn dies, Pyke deals damage equal to his power to the creature with the lowest power among creatures opponents control.
 ---
 (Front): Pyke</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/183_back.png" num="141b">LORT-EOTA</set>
@@ -3615,7 +3618,7 @@ Whenever Pyke destroys a creature an opponent controls, Pyke deals damage equal 
 		</card>
 		<card>
 			<name>The List</name>
-			<text>Target creature an opponent controls gets Vulnerable. If that creature already has Vulnerable, then the creature with the highest power you control and that creature fight. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)</text>
+			<text>Put a vulnerable counter on target creature an opponent controls. If that creature has vulnerable, then the creature with the highest power you control and that creature fight. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/184.png" num="130">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3631,8 +3634,8 @@ Whenever Pyke destroys a creature an opponent controls, Pyke deals damage equal 
 		</card>
 		<card>
 			<name>Jaull-fish</name>
-			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
-When Jaull-fish enters, each creature you control with Lurk randomly attacks an opponent. (Randomly choose a target for each creature.)</text>
+			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
+When Jaull-fish enters, after this phase, there is an additional combat phase. Only creatures with lurk may attack in this phase and they gain vigilance until end of combat.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/185.png" num="127">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3649,7 +3652,7 @@ When Jaull-fish enters, each creature you control with Lurk randomly attacks an 
 		</card>
 		<card>
 			<name>Ripper&apos;s Bay</name>
-			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
+			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
 The top card of your library is treated as if it has Lurk.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/186.png" num="209">LORT-EOTA</set>
 			<prop>
@@ -3667,7 +3670,7 @@ The top card of your library is treated as if it has Lurk.</text>
 			<name>Reaver&apos;s Row</name>
 			<text>Vanishing 2
 Whenever one or more time counters is removed from Reaver&apos;s Row, search your library for a creature with mana value 1, reveal it, put it into your hand, then shuffle.
-When Reaver&apos;s Row is sacrificed with no time counters, all creatures you control with mana value 1 get +2/+1 and Fearsome. (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)</text>
+When Reaver&apos;s Row is sacrificed with no time counters, put a +1/+2 counter and a fearsome counter on each creature you control with mana value 1.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/187.png" num="144">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3699,7 +3702,7 @@ Create a Powder Keg. If this spell was kicked, Line ‘Em Up deals 1 damage to a
 		</card>
 		<card>
 			<name>Sharkling</name>
-			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if the revealed card has Lurk, you get a Lurk counter. All creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)</text>
+			<text>Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/189.png" num="218">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3716,7 +3719,7 @@ Create a Powder Keg. If this spell was kicked, Line ‘Em Up deals 1 damage to a
 		</card>
 		<card>
 			<name>Field Promotion</name>
-			<text>The next creature that you control enters with Scout and is a Knight in addition to its creature types. (Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)</text>
+			<text>The next creature that you cast enters with a scout counter and is a Knight in addition to its other types. (After your first main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/190.png" num="6">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3732,9 +3735,9 @@ Create a Powder Keg. If this spell was kicked, Line ‘Em Up deals 1 damage to a
 		</card>
 		<card>
 			<name>Swiftwing Flight</name>
-			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
 When Swiftwing Flight enters, search your library and/or graveyard for a card named Silverwing Vanguard, Blinding Assault, or Fleetfeather Tracker, reveal it, and put it into your hand. If you search your library this way, shuffle.
-When Swiftwing Flight attacks, other attacking creatures you control with Challenger get +1/+1 until end of turn.</text>
+Whenever Swiftwing Flight attacks, other attacking creatures you control with challenger get +1/+1 until end of turn.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/191.png" num="15">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3768,7 +3771,7 @@ When Swiftwing Flight attacks, other attacking creatures you control with Challe
 		</card>
 		<card>
 			<name>Abominable Guardian</name>
-			<text>At the start of your pre-combat main phase, if you control two or more yeti creatures, you may put Abominable Guardian from your hand onto the battlefield, if you do, create an exiled copy of Abominable Guardian, you may cast that copy from exile for as long as it remains exiled.
+			<text>At the beginning of your pre-combat main phase, if you control two or more yeti creatures, you may put Abominable Guardian from your hand onto the battlefield, if you do, create an exiled copy of Abominable Guardian, you may cast that copy from exile for as long as it remains exiled.
 When you cast Abominable Guardian, reveal cards from the top of your library until you reveal a yeti creature card, add it to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/193.png" num="70">LORT-EOTA</set>
 			<prop>
@@ -3786,7 +3789,7 @@ When you cast Abominable Guardian, reveal cards from the top of your library unt
 		</card>
 		<card>
 			<name>Defiant Dance</name>
-			<text>Recall target creature you control, then create a tapped and attacking Blade token. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
+			<text>Recall target creature you control, then create a Blade token. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/194.png" num="20">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3820,13 +3823,13 @@ Creatures you control with a shield counter have double strike.</text>
 		<card>
 			<name>Starlit Epiphany</name>
 			<text>Reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
-For the rest of the turn whenever you cast a spell, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.</text>
+Until the end of turn, whenever you cast a spell, reveal cards from the top of your library until you reveal three Celestial cards, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/196.png" num="167">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>1WU</manacost>
 				<cmc>3</cmc>
 				<colors>WU</colors>
@@ -3837,8 +3840,8 @@ For the rest of the turn whenever you cast a spell, reveal cards from the top of
 		<card>
 			<name>Heavens Aligned</name>
 			<text>Focus (This instant cannot be cast during the combat phase or in response to another spell or ability.)
-Daybreak: reveal cards from the top of your library until you reveal a card with Nightfall, add it to your hand, then shuffle all other revealed cards into your library. (If this spell is the first spell you have cast this turn, when this spell is cast, reveal cards from the top of your library until you reveal a card with Nightfall, add it to your hand, then shuffle all other revealed cards into your library)
-Nightfall: reveal cards from the top of your library until you reveal a card with Daybreak, add it to your hand, then shuffle all other revealed cards into your library. (If this spell is not the first spell you have cast this turn, when this spell is cast, reveal cards from the top of your library until you reveal a card with Daybreak, add it to your hand, then shuffle all other revealed cards into your library)</text>
+Daybreak – When this spell resolves, if it was the first spell you cast this turn, reveal cards from the top of your library until you reveal a card with nightfall, add it to your hand, then shuffle all other revealed cards into your library.
+Nightfall – When this spell resolves, if it wasn&apos;t the first spell you cast this turn, reveal cards from the top of your library until you reveal a card with daybreak, add it to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/197.png" num="203">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3889,8 +3892,8 @@ When Atakhan attacks, it gets +X/+0 where X is equal to the total power of all o
 		</card>
 		<card>
 			<name>The Twisted Treeline</name>
-			<text>Whenever a creature you control with Fearsome or Nightfall attacks, put that many charge counters on The Twisted Treeline.
-When The Twisted Treeline has three or more charge counters, you may sacrifice it to create a Vilemaw token.</text>
+			<text>Whenever a creature you control with fearsome or nightfall attacks, put a charge counter on The Twisted Treeline.
+If The Twisted Treeline has three or more charge counters, you may sacrifice it to create a Vilemaw token.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/200.png" num="48">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3906,7 +3909,7 @@ When The Twisted Treeline has three or more charge counters, you may sacrifice i
 		<card>
 			<name>Astral Fox</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-When Astral Fox enters, sacrifice a creature you control to have Astral Fox deal 3 damage to target opponent.</text>
+When Astral Fox enters, you may sacrifice another creature you control, if you do, Astral Fox deals 3 damage to target opponent.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/201.png" num="32">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3924,7 +3927,7 @@ When Astral Fox enters, sacrifice a creature you control to have Astral Fox deal
 		<card>
 			<name>Glorious Evolution</name>
 			<text>Spells you control cost {1} less to cast.
-All creatures you control have Upgrade. (Whenever you cast an artifact, creatures you control with Upgrade get a +1/+1 counter.)
+All creatures you control have Upgrade. (Whenever you cast an artifact, put a +1/+1 counter on this creature.)
 All permanents you control are artifacts in addition to their other types.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/202.png" num="120">LORT-EOTA</set>
 			<prop>
@@ -3932,8 +3935,8 @@ All permanents you control are artifacts in addition to their other types.</text
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>UUURRR</manacost>
-				<cmc>6</cmc>
+				<manacost>UURR</manacost>
+				<cmc>4</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
 			</prop>
@@ -3975,7 +3978,7 @@ All permanents you control are artifacts in addition to their other types.</text
 		</card>
 		<card>
 			<name>Practical Perfectionist</name>
-			<text>When Practical Perfectionist enters, look at the top three cards of your library, choose and reveal one, create three exiled copies of the chosen card, then put it on the top of your library and the rest to the bottom in a random order. You may cast the copies from exile for as long as they remain in exile.</text>
+			<text>When Practical Perfectionist enters, look at the top three cards of your library, choose and reveal one, create three exiled copies of the chosen card, then put it on the top of your library and the rest to the bottom in a random order. You may cast the copies from exile for as long as they remain exiled.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/205.png" num="136">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3995,7 +3998,7 @@ All permanents you control are artifacts in addition to their other types.</text
 			<text>Focus (This instant cannot be cast during the combat phase or in response to another spell or ability.)
 Kicker {2}{U}{R} (You may pay an additional {2}{U}{R} as you cast this spell.)
 Draw a card.
-If this spell was kicked, create a tapped and attacking copy of each creature you control, except they have ephemeral. (That creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)</text>
+If this spell was kicked, create a copy of each creature you control, except they have ephemeral. (That creature has haste. At the end of turn, sacrifice it.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/206.png" num="99">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4103,7 +4106,7 @@ Partner
 			<name>Ekko, The Boy Who Shattered Time</name>
 			<text>First strike
 Whenever Ekko deals combat damage, Predict then draw a card. (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)
-{1}{U}{R}: Put all creatures you control that were destroyed this turn from the graveyard onto the battlefield. You may activate this ability once per turn. Activate only as a sorcery.
+{1}{U}{R}: Return each creature you control that was destroyed this turn from the graveyard onto the battlefield. You may only activate this ability once per turn. Activate only as a sorcery.
 ---
 (Front): Ekko, The Boy Savior</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/211_back.png" num="110b">LORT-EOTA</set>
@@ -4140,8 +4143,8 @@ Whenever Ekko deals combat damage, Predict then draw a card. (Look at the top th
 		</card>
 		<card>
 			<name>Kadregrin the Ruined</name>
-			<text>Fury (When this creature destroys another creature, put a +1/+1 counter on it.)
-When Kadregrin the Ruined enters, target other creature gets a +1/+1 counter and Challenger. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)</text>
+			<text>Fury (Whenever a creature dealt damage by Kadregrin this turn dies, put a +1/+1 counter on Kadregrin.)
+When Kadregrin the Ruined enters, put a +1/+1 counter and a challenger counter on target other creature you control. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/213.png" num="10">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4228,7 +4231,7 @@ If you are Enlightened, Scattered Pod has Shadow. (The first time you spend 10 o
 		<card>
 			<name>Retired Reckoner</name>
 			<text>Trample
-Whenever a source you control targets Retired Reckoner, Retired Reckoner gets a +1/+0 counter.</text>
+Whenever a source you control targets Retired Reckoner, put a +1/+0 counter on Retired Reckoner.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/218.png" num="61">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4245,7 +4248,7 @@ Whenever a source you control targets Retired Reckoner, Retired Reckoner gets a 
 		</card>
 		<card>
 			<name>Ruined Reckoner</name>
-			<text>When Ruined Reckoner enters, target other creature you control attacks target opponent.</text>
+			<text>When Ruined Reckoner enters, target other creature you control deals damage equal to its power to target opponent.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/219.png" num="62">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4313,8 +4316,8 @@ When Thrumming Swarm enters, if you control a transformed legendary creature, cr
 		</card>
 		<card>
 			<name>The Absolver</name>
-			<text>Kicker {U}{B} (You may pay an additional {U}{B} as you cast this spell.)
-Target creature you control gets +2/+1 until the end of your next turn. If this spell was kicked, the target creature gets Trample and +4/+2 until the end of your next turn instead.</text>
+			<text>Kicker {1}{UB} (You may pay an additional {1}{UB} as you cast this spell.)
+Target creature you control gets +2/+1 until the end of your next turn. If this spell was kicked, the target creature gets trample and +4/+2 until the end of your next turn instead.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/223.png" num="85">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4332,9 +4335,9 @@ Target creature you control gets +2/+1 until the end of your next turn. If this 
 			<name>Akshan the Vigilante</name>
 			<text>First strike
 When Akshan enters, or whenever Akshan deals combat damage, choose one —
-• Search your library and/or graveyard and/or exile for a card named Warlord&apos;s Palace, reveal it, and put it into your hand. If you search your library this way, shuffle.
-• Remove a time counter from a Warlord&apos;s Palace you control.
-When an Enchantment Landmark you control named Warlord&apos;s Palace is sacrificed with no time counters, transform Akshan.
+• Search your library, graveyard, and/or exile for a card named Warlord&apos;s Palace, reveal it, and put it into your hand. If you search your library this way, shuffle.
+• Remove a time counter from an enchantment named Warlord&apos;s Palace you control.
+When an enchantment you control named Warlord&apos;s Palace is sacrificed with no time counters, transform Akshan.
 Partner
 ---
 (Back): Akshan, The Rogue Sentinel</text>
@@ -4357,9 +4360,9 @@ Partner
 			<name>Akshan, The Rogue Sentinel</name>
 			<text>First strike
 Whenever Akshan deals combat damage, choose one —
-• All creatures opponents control get Vulnerable. Create an exiled copy of the creature with the highest power among creatures you control that was destroyed this turn, you may cast that copy from exile without paying its mana cost this turn. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature of your choice that you control, even if that creature cannot normally block.)
+• Put a vulnerable counter on each creature opponents control. Exile the creature with the highest power among creatures in your graveyard that entered the graveyard this turn. Until the end of turn, you may cast that card from exile without paying its mana cost. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
 • Draw two cards. Spells you control cost {1} less to cast this turn.
-• Legendary creatures you control get two +1/+1 counters and a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
+• Put two +1/+1 counters and a spellshield counter on each legendary creature you control. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
 ---
 (Front): Akshan the Vigilante</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/224_back.png" num="86b">LORT-EOTA</set>
@@ -4380,10 +4383,10 @@ Whenever Akshan deals combat damage, choose one —
 		<card>
 			<name>Warlord&apos;s Palace</name>
 			<text>Vanishing 8
-When Warlord&apos;s Palace is sacrificed with no time counters, choose one:
+When Warlord&apos;s Palace is sacrificed with no time counters, choose one —
 • Predict, then draw a card. (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)
 • Create a Sandstone Charger token.
-• All creatures you control gets a +1/+0 counter.</text>
+• Put a +1/+0 counter on each creature you control.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/225.png" num="226">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4398,10 +4401,10 @@ When Warlord&apos;s Palace is sacrificed with no time counters, choose one:
 		</card>
 		<card>
 			<name>Crawling Viperwyrm</name>
-			<text>As an additional cost to cast this card, choose one —
+			<text>As an additional cost to cast this spell, choose one —
 • Crawling Viperwyrm deals 3 damage to target creature you control.
 • You lose 3 life.
-Fury (When this creature destroys another creature, put a +1/+1 counter on it.)</text>
+Fury (Whenever a creature dealt damage by Crawling Viperwyrm this turn dies, put a +1/+1 counter on Crawling Viperwyrm.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/226.png" num="35">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4418,11 +4421,11 @@ Fury (When this creature destroys another creature, put a +1/+1 counter on it.)<
 		</card>
 		<card>
 			<name>Camavoran Dragon</name>
-			<text>As an additional cost to cast this card, choose one —
+			<text>As an additional cost to cast this spell, choose one —
 • Camavoran Dragon deals 3 damage to target creature you control.
 • You lose 3 life.
-Fearsome, Fury (Creatures with Fearsome cannot be blocked by creatures with power 2 or less. When this creature destroys another creature, put a +1/+1 counter on it.)
-Whenever Camavoran Dragon destroys a creature, target opponent loses 1 life and you gain 1 life.</text>
+Fearsome, Fury (Creatures with Fearsome cannot be blocked by creatures with power 2 or less. Whenever a creature dealt damage by Camavoran Dragon this turn dies, put a +1/+1 counter on Camavoran Dragon.)
+Whenever a creature dealt damage by Camavoran Dragon this turn dies, target opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/227.png" num="33">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4472,7 +4475,7 @@ Whenever Camavoran Dragon destroys a creature, target opponent loses 1 life and 
 		<card>
 			<name>Viego the Resurrected</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-The first time each turn a creature you control is destroyed, create an Encroaching Mist token. Whenever a creature you control named Encroaching Mist enters, you get an experience counter. Viego has +1/+1 for each experience counter you have.
+The first time each turn a creature you control is destroyed, create an Encroaching Mist token and you get an experience counter. Viego has +1/+1 for each experience counter you have.
 Whenever a creature you control is destroyed, put X Ruin counters on Viego where X is that creatures power. At the end of any phase on your turn, if Viego has twenty or more Ruin counters, remove all Ruin counters from Viego, then transform him.
 Partner
 ---
@@ -4495,8 +4498,8 @@ Partner
 		<card>
 			<name>Viego, The Ruined King</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-The first time each turn a creature you control is destroyed, create a Encroaching Mist token. Whenever a creature you control named Encroaching Mist enters, you get an experience counter. Viego has +1/+1 for each experience counter you have.
-At the beginning of your upkeep, gain control of the creature with the highest power among creature opponents control.
+The first time each turn a creature you control is destroyed, create an Encroaching Mist token and you get an experience counter. Viego has +1/+1 for each experience counter you have.
+At the beginning of your upkeep, gain control of the creature with the highest power among creatures opponents control.
 ---
 (Front): Viego the Resurrected</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/230_back.png" num="50b">LORT-EOTA</set>
@@ -4516,7 +4519,7 @@ At the beginning of your upkeep, gain control of the creature with the highest p
 		</card>
 		<card>
 			<name>Encroaching Mist LORT-EOTA</name>
-			<text>Ephemeral (This creature can attack and {T} as soon as it comes under your control. At the end of turn, or at end of combat if it attacked or blocked, sacrifice it.)
+			<text>Ephemeral (This creature has haste. At the end of turn, sacrifice it.)
 This creature has +1/+1 for each experience counter you have.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/231.png" num="2">LORT-EOTA</set>
 			<prop>
@@ -4570,7 +4573,7 @@ When Invasive Hydravine enters and at the beginning of your upkeep, create an En
 		</card>
 		<card>
 			<name>Gallant Rider</name>
-			<text>The first time Gallant Rider is blocked, transform Gallant Rider.
+			<text>The first time one or more creatures block Gallant Rider, transform Gallant Rider.
 ---
 (Back): Vanguard Cavalry</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/234_front.png" num="7a">LORT-EOTA</set>
@@ -4610,7 +4613,8 @@ When Invasive Hydravine enters and at the beginning of your upkeep, create an En
 		</card>
 		<card>
 			<name>Blade LORT-EOTA</name>
-			<text>Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<text>Ephemeral (This creature has haste. At the end of turn, sacrifice it.)
+This creature attacks each turn if able.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/235.png" num="1">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4646,7 +4650,7 @@ When Invasive Hydravine enters and at the beginning of your upkeep, create an En
 		</card>
 		<card>
 			<name>The Watcher LORT-EOTA</name>
-			<text>The Watcher enters tapped with 17 stun counters, while a stun counter is on The Watcher, it has protection from its controller. Whenever you cast a creature, remove X stun counters from The Watcher where X is that creatures mana value.
+			<text>The Watcher enters tapped with 17 stun counters, while one or more stun counters is on The Watcher, it has protection from its controller. Whenever you cast a creature, remove X stun counters from The Watcher where X is that creatures mana value.
 Whenever The Watcher attacks, exile the defending players library except the bottom three cards.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/237.png" num="6">LORT-EOTA</set>
 			<prop>
@@ -4747,7 +4751,7 @@ When this land enters, return a land you control to its owner&apos;s hand.
 		<card>
 			<name>Crest of Insight LORT-EOTA</name>
 			<text>Vanishing 1 (This permanent enters with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
-When Crest is sacrificed with no time counters, add one mana of any colour.</text>
+When Crest of Insight is sacrificed with no time counters, add one mana of any type. Until the end of turn, you don&apos;t lose this mana as steps and phases end.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/243.png" num="8">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4756,7 +4760,7 @@ When Crest is sacrificed with no time counters, add one mana of any colour.</tex
 				<maintype>Enchantment</maintype>
 				<manacost>WU</manacost>
 				<cmc>2</cmc>
-				<coloridentity>WUG</coloridentity>
+				<coloridentity>WU</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
 			<token>1</token>

@@ -1,4 +1,45 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+The Rekindler
+rules_text: When The Rekindler enters, put the legendary creature with the highest power from among cards in your graveyard onto the battlefield. => When The Rekindler enters, put a legendary creature with the highest power from among cards in your graveyard onto the battlefield.
+
+The Harrowing
+rules_text: Put up to six creatures with the highest power among cards in your graveyard onto the battlefield. Then put an ephemeral counter on each creature that enter this way. [i](That creature has haste. At the end of turn, sacrifice it.)[/i] => Put a creature with the highest power among cards in your graveyard onto the battlefield. Repeat this process five times. Put an ephemeral counter on each creature that entered this way. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+Rhasa the Sunderer
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+[i]Morbid[/i] — When Rhasa the Sunderer enters, if a creature you control died this turn, target opponent sacrifices two creatures with the lowest power among creatures they control. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+[i]Morbid[/i] — When Rhasa the Sunderer enters, if a creature you control died this turn, target opponent sacrifices a creature with the lowest power among creatures they control. Repeat this process once.
+
+Arena Bookie
+rules_text: At the beginning of your pre-combat main phase, reveal your hand and discard the card with the lowest mana value from among them, then draw a card. => At the beginning of your pre-combat main phase, reveal your hand and discard a card with the lowest mana value from among them, then draw a card.
+
+Minotaur Reckoner
+rules_text: At the beginning of your upkeep, put a stun counter onto the creature with the lowest power among creatures controlled by target opponent. => At the beginning of your upkeep, put a stun counter onto a creature with the lowest power among creatures controlled by target opponent.
+
+Ashe
+rules_text: Whenever Ashe attacks, frostbite the creature with the highest power among creatures target opponent controls. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i]
+Whenever a source you control frostbites a creature you don't control, put a Freljord counter on Ashe. At the end of any phase on your turn, if Ashe has five or more Freljord counters, remove all Freljord counters from Ashe, then transform her.
+Partner => Whenever Ashe attacks, frostbite a creature with the highest power among creatures target opponent controls. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i]
+Whenever a source you control frostbites a creature you don't control, put a Freljord counter on Ashe. At the end of any phase on your turn, if Ashe has five or more Freljord counters, remove all Freljord counters from Ashe, then transform her.
+Partner
+
+Poro Herder
+rules_text: When Poro Herder enters you may behold a poro, if you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle. [i](To behold a poro, choose a poro you control or reveal a poro card from your hand.)[/i] => When Poro Herder enters you may behold a poro, if you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle. [i](To behold a poro, if you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle., choose a poro, if you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle. you control or reveal a poro, if you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle. card from your hand.)[/i]
+
+Rimetusk Shaman
+rules_text: At the beginning of your upkeep, frostbite the creature with the highest power among creatures target opponent controls. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i] => At the beginning of your upkeep, frostbite a creature with the highest power among creatures target opponent controls. [i](A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)[/i]
+
+Greenglade Lookout
+rules_text: Whenever Greenglade Lookout deals combat damage to an opponent, you may reveal your hand, if you do, exile the creature with the highest mana value from among them. You may cast the creature exiled this way from exile for as long as it remains exiled. Creatures cast from exile this way costs {1} less to cast. => Whenever Greenglade Lookout deals combat damage to an opponent, you may reveal your hand, if you do, exile a creature with the highest mana value from among them. You may cast the creature exiled this way from exile for as long as it remains exiled. Creatures cast from exile this way costs {1} less to cast.
+
+Kalista
+
+
+VERSION 17 CHANGELOG
 ====================
 
 No changes.

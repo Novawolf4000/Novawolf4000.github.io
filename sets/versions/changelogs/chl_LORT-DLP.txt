@@ -1,4 +1,234 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+The Smokescaled Host
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Discard a card. Reveal cards from the top of your library until you reveal three Celestial cards with mana value 7 or greater, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+III — The first spell you cast this turn costs {5} less to cast.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Discard a card. Reveal cards from the top of your library until you reveal three Celestial cards with mana value 7 or greater, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+The first spell you cast this turn costs {5} less to cast.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Discard a card. Reveal cards from the top of your library until you reveal three Celestial cards with mana value 7 or greater, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+III — The first spell you cast this turn costs {5} less to cast.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Discard a card. Reveal cards from the top of your library until you reveal three Celestial cards with mana value 7 or greater, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+The first spell you cast this turn costs {5} less to cast.
+​
+
+The Emperor's Army
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two Sand Soldier tokens.
+II — Predict [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+III — Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two Sand Soldier tokens.
+I — Predict [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+II — Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two Sand Soldier tokens.
+II — Predict [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+III — Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two Sand Soldier tokens.
+I — Predict [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+II — Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.
+
+The Iron Conquest
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose a creature you control. Create a token copy of that creature except it has +1/+1 and ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+Return a creature with the highest power among creatures in your graveyard to the battlefield, it gets ephemeral.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Choose a creature you control. Create a token copy of that creature except it has +1/+1 and ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+III — Return a creature with the highest power among creatures in your graveyard to the battlefield, it gets ephemeral.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose a creature you control. Create a token copy of that creature except it has +1/+1 and ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+Return a creature with the highest power among creatures in your graveyard to the battlefield, it gets ephemeral.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Choose a creature you control. Create a token copy of that creature except it has +1/+1 and ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+III — Return a creature with the highest power among creatures in your graveyard to the battlefield, it gets ephemeral.
+​
+
+The Beautiful Disaster
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with total power and toughness 5 or less.
+II — Target opponent loses 2 life. You gain 2 life.
+III — Choose a creature you control. Create a token copy of that creature except it has base power and toughness 1/1 and ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with total power and toughness 5 or less.
+Target opponent loses 2 life. You gain 2 life.
+II — Choose a creature you control. Create a token copy of that creature except it has base power and toughness 1/1 and ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with total power and toughness 5 or less.
+II — Target opponent loses 2 life. You gain 2 life.
+III — Choose a creature you control. Create a token copy of that creature except it has base power and toughness 1/1 and ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature with total power and toughness 5 or less.
+Target opponent loses 2 life. You gain 2 life.
+II — Choose a creature you control. Create a token copy of that creature except it has base power and toughness 1/1 and ephemeral. [i](That creature has haste. At the end of turn, sacrifice it.)[/i]
+
+The Candlelit Prayer
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Shuffle a card from your hand into your library. Draw a card.
+Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Shuffle a card from your hand into your library. Draw a card.
+III — Draw a card.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Shuffle a card from your hand into your library. Draw a card.
+Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Shuffle a card from your hand into your library. Draw a card.
+III — Draw a card.
+​
+
+The Arena's Greatest
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target creature you control gets +2/+0 until end of turn.
+III — Target creature an opponent controls has “This creature can't block” until the beginning of your next upkeep.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature you control gets +2/+0 until end of turn.
+II, III — Target creature an opponent controls has “This creature can't block” until the beginning of your next upkeep.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Target creature you control gets +2/+0 until end of turn.
+III — Target creature an opponent controls has “This creature can't block” until the beginning of your next upkeep.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature you control gets +2/+0 until end of turn.
+II, III — Target creature an opponent controls has “This creature can't block” until the beginning of your next upkeep.
+​
+
+The Dewdrop Harvest
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Spritelings token.
+Target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Spritelings token.
+II — Target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Spritelings token.
+Target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a Spritelings token.
+II — Target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.
+
+The Rootbound Path
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+Until the end of turn, spells you control cost {1} less to cast.
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Draw a card.
+III — Until the end of turn, spells you control cost {1} less to cast.
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+Until the end of turn, spells you control cost {1} less to cast.
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Draw a card.
+III — Until the end of turn, spells you control cost {1} less to cast.
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.
+
+The Heart of the Tree
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You gain 3 life. Create a Spritelings token.
+Put a +1/+1 counter on each creature you control.
+Reveal cards from the top of your library until you reveal three cards with mana value 8 or greater. Choose one and exile it, then shuffle the rest of the revealed cards into your library. For as long as it remains exiled, it has “You may cast this card from exile and it costs {X} less to cast, where X is half it's mana value, rounded down.” => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You gain 3 life. Create a Spritelings token.
+I — Put a +1/+1 counter on each creature you control.
+II — Reveal cards from the top of your library until you reveal three cards with mana value 8 or greater. Choose one and exile it, then shuffle the rest of the revealed cards into your library. For as long as it remains exiled, it has “You may cast this card from exile and it costs {X} less to cast, where X is half it's mana value, rounded down.”
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You gain 3 life. Create a Spritelings token.
+Put a +1/+1 counter on each creature you control.
+Reveal cards from the top of your library until you reveal three cards with mana value 8 or greater. Choose one and exile it, then shuffle the rest of the revealed cards into your library. For as long as it remains exiled, it has “You may cast this card from exile and it costs {X} less to cast, where X is half it's mana value, rounded down.” => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You gain 3 life. Create a Spritelings token.
+I — Put a +1/+1 counter on each creature you control.
+II — Reveal cards from the top of your library until you reveal three cards with mana value 8 or greater. Choose one and exile it, then shuffle the rest of the revealed cards into your library. For as long as it remains exiled, it has “You may cast this card from exile and it costs {X} less to cast, where X is half it's mana value, rounded down.”
+
+The Poro Parade
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal cards from the top of your library until you reveal a creature with a creature type you don't control, add it to your hand, then shuffle all other revealed cards into your library.
+Put a number of +1/+1 counters on target creature you control for each unique creature type among creatures you control.
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Reveal cards from the top of your library until you reveal a creature with a creature type you don't control, add it to your hand, then shuffle all other revealed cards into your library.
+III — Put a number of +1/+1 counters on target creature you control for each unique creature type among creatures you control.
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal cards from the top of your library until you reveal a creature with a creature type you don't control, add it to your hand, then shuffle all other revealed cards into your library.
+Put a number of +1/+1 counters on target creature you control for each unique creature type among creatures you control.
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Reveal cards from the top of your library until you reveal a creature with a creature type you don't control, add it to your hand, then shuffle all other revealed cards into your library.
+III — Put a number of +1/+1 counters on target creature you control for each unique creature type among creatures you control.
+Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.
+
+The Petricite Hall
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature an opponent controls.
+Target opponent creates a Suppression Curse token.
+Exile target creature an opponent controls. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, III — Exile target creature an opponent controls.
+II — Target opponent creates a Curse of Suppression token.
+Exile target creature an opponent controls.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature an opponent controls.
+Target opponent creates a Suppression Curse token.
+Exile target creature an opponent controls. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, III — Exile target creature an opponent controls.
+II — Target opponent creates a Curse of Suppression token.
+Exile target creature an opponent controls.
+
+The Pit Champion
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature you control and target creature an opponent controls fight. [i](Each deals damage equal to its power to the other.)[/i]
+Remove all -1/-1 counters from target creature you control.
+Create three Gold tokens. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature you control and target creature an opponent controls fight. [i](Each deals damage equal to its power to the other.)[/i]
+II — Remove all -1/-1 counters from target creature you control.
+Create three Gold tokens.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature you control and target creature an opponent controls fight. [i](Each deals damage equal to its power to the other.)[/i]
+Remove all -1/-1 counters from target creature you control.
+Create three Gold tokens. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature you control and target creature an opponent controls fight. [i](Each deals damage equal to its power to the other.)[/i]
+II — Remove all -1/-1 counters from target creature you control.
+Create three Gold tokens.
+
+The Family Reunion
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a -1/-1 counter on target creature an opponent controls.
+Put an afflict 1 counter on target creature you control. [i](Whenever that creature becomes blocked, defending player loses 1 life.)[/i]
+Boost two creatures you control. [i](Give two creatures you control another ability and counter of each kind already there.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a -1/-1 counter on target creature an opponent controls.
+Put an afflict 1 counter on target creature you control. [i](Whenever that creature becomes blocked, defending player loses 1 life.)[/i]
+II — Boost two creatures you control. [i](Give two creatures you control another ability and counter of each kind already there.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put a -1/-1 counter on target creature an opponent controls.
+Put an afflict 1 counter on target creature you control. [i](Whenever that creature becomes blocked, defending player loses 1 life.)[/i]
+Boost two creatures you control. [i](Give two creatures you control another ability and counter of each kind already there.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Put a -1/-1 counter on target creature an opponent controls.
+Put an afflict 1 counter on target creature you control. [i](Whenever that creature becomes blocked, defending player loses 1 life.)[/i]
+II — Boost two creatures you control. [i](Give two creatures you control another ability and counter of each kind already there.)[/i]
+
+The Wingsgiving
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus one. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
+Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus two. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus one. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
+III — Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus two. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus one. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
+Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus two. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus one. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
+III — Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus two. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
+​
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

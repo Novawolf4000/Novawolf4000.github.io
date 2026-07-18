@@ -1,4 +1,60 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Dragonguard Lieutenant
+rules_text: When Dragonguard Lieutenant enters, you may behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. [i](To behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant., choose a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. you control or reveal a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. card from your hand.)[/i] => When Dragonguard Lieutenant enters, you may behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Dragonguard Lookout
+rules_text: When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap each creature you control. After this phase, there is an additional combat phase. [i](To behold a Dragon, if you do, untap each creature you control., choose a Dragon, if you do, untap each creature you control. you control or reveal a Dragon, if you do, untap each creature you control. card from your hand.)[/i] => When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap each creature you control. After this phase, there is an additional combat phase. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i]
+
+Stalking Broodmother
+rules_text: Fury, Scout [i](Whenever a creature dealt damage by Stalking Broodmother this turn dies, put a +1/+1 counter on Stalking Broodmother. Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)[/i] => Fury, Scout [i](Whenever a creature dealt damage by Stalking Broodmother this turn dies, put a +1/+1 counter on Stalking Broodmother. After your first main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)[/i]
+
+Doombeast
+rules_text: Nightfall — When Doombeast enters, if it wasn't the first spell you cast this turn, put a +1/+0 counter on it for each Nightfall you triggered this turn. => [i]Nightfall[/i] — When Doombeast enters, if it wasn't the first spell you cast this turn, put a +1/+0 counter on it for each Nightfall you triggered this turn.
+
+Unspeakable Horror
+rules_text: Unspeakable Horror deals 1 damage to any target. You gain that much life.
+Nightfall — When this spell resolves, if it wasn't the first spell you cast this turn, reveal cards from the top of your library until you reveal three creatures with nightfall, randomly choose one, add it to your hand, then shuffle all other cards into your library. => Unspeakable Horror deals 1 damage to any target. You gain that much life.
+[i]Nightfall[/i] — When this spell resolves, if it wasn't the first spell you cast this turn, reveal cards from the top of your library until you reveal three creatures with nightfall, randomly choose one, add it to your hand, then shuffle all other cards into your library.
+
+Grandfather Rumul
+type: Creature — Minotaur => Creature — Vastaya Druid
+rules_text: Grandfather Rumul enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+Trample
+When Grandfather Rumul enters, put four +0/+1 counter on up to two other target creatures you control. => Grandfather Rumul enters with a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+Trample
+When Grandfather Rumul enters, put four +0/+1 counters on up to two other target creatures you control. [i](Put four +0/+1 counters on each target creature.)[/i]
+
+Ballistic Bot
+rules_text: Upgrade [i](Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)[/i]
+At the beginning of your upkeep, Ballistic Bot deals 1 damage to target opponent. => Upgrade [i](Whenever you cast an artifact, put a +1/+1 counter on this creature.)[/i]
+At the beginning of your upkeep, Ballistic Bot deals 1 damage to target opponent.
+
+Armed Gearhead
+rules_text: First strike, Upgrade [i](Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)[/i] => First strike, Upgrade [i](Whenever you cast an artifact, put a +1/+1 counter on this creature.)[/i]
+
+Mechanized Mimic
+rules_text: Upgrade [i](Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)[/i]
+Whenever Mechanized Mimic attacks, it gets first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. => Upgrade [i](Whenever you cast an artifact, put a +1/+1 counter on this creature.)[/i]
+Whenever Mechanized Mimic attacks, it gets first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.
+
+Nyandroid
+rules_text: Skulk, Upgrade [i](This creature can't be blocked by creatures with greater power. Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)[/i] => Skulk, Upgrade [i](This creature can't be blocked by creatures with greater power. Whenever you cast an artifact, put a +1/+1 counter on this creature.)[/i]
+
+Viktor, The Machinist
+rules_text: Upgrade [i](Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)[/i]
+{UR}, {T}: Randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Viktor gets the chosen ability. Activate only as a sorcery.
+Whenever you cast an artifact, put a Herald counter on Viktor. At the end of any phase on your turn, if Viktor has seven or more Herald counters, remove all Hereld counters from Viktor, then transform him.
+Partner => Upgrade [i](Whenever you cast an artifact, put a +1/+1 counter on this creature.)[/i]
+{UR}, {T}: Randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Viktor gets the chosen ability. Activate only as a sorcery.
+Whenever you cast an artifact, put a Herald counter on Viktor. At the end of any phase on your turn, if Viktor has seven or more Herald counters, remove all Hereld counters from Viktor, then transform him.
+Partner
+
+
+VERSION 8 CHANGELOG
 ====================
 
 No changes.

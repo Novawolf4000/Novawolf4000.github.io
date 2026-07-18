@@ -5,7 +5,7 @@
 			<name>LORT-F</name>
 			<longname>Legends Of Runeterra Converted: Foundations</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-03</releasedate>
+			<releasedate>2026-07-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1189,7 +1189,7 @@ They can&apos;t be regenerated.</text>
 		</card>
 		<card>
 			<name>The Rekindler</name>
-			<text>When The Rekindler enters, put the legendary creature with the highest power from among cards in your graveyard onto the battlefield.</text>
+			<text>When The Rekindler enters, put a legendary creature with the highest power from among cards in your graveyard onto the battlefield.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/62.png" num="141">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -1206,7 +1206,7 @@ They can&apos;t be regenerated.</text>
 		</card>
 		<card>
 			<name>The Harrowing</name>
-			<text>Put up to six creatures with the highest power among cards in your graveyard onto the battlefield. Then put an ephemeral counter on each creature that enter this way. (That creature has haste. At the end of turn, sacrifice it.)</text>
+			<text>Put a creature with the highest power among cards in your graveyard onto the battlefield. Repeat this process five times. Put an ephemeral counter on each creature that entered this way. (That creature has haste. At the end of turn, sacrifice it.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/63.png" num="128">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -1441,7 +1441,7 @@ Scuttlegeist costs {1} less to cast for each creature in your graveyard.</text>
 		<card>
 			<name>Rhasa the Sunderer</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-Morbid — When Rhasa the Sunderer enters, if a creature you control died this turn, target opponent sacrifices two creatures with the lowest power among creatures they control.</text>
+Morbid — When Rhasa the Sunderer enters, if a creature you control died this turn, target opponent sacrifices a creature with the lowest power among creatures they control. Repeat this process once.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/75.png" num="142">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -2186,7 +2186,7 @@ Create an exiled copy of target creature. You may cast that copy from exile for 
 		</card>
 		<card>
 			<name>Arena Bookie</name>
-			<text>At the beginning of your pre-combat main phase, reveal your hand and discard the card with the lowest mana value from among them, then draw a card.</text>
+			<text>At the beginning of your pre-combat main phase, reveal your hand and discard a card with the lowest mana value from among them, then draw a card.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/114.png" num="167">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -2807,7 +2807,7 @@ Legion General enters with an additional +1/+1 counter for each creature that ha
 		</card>
 		<card>
 			<name>Minotaur Reckoner</name>
-			<text>At the beginning of your upkeep, put a stun counter onto the creature with the lowest power among creatures controlled by target opponent.</text>
+			<text>At the beginning of your upkeep, put a stun counter onto a creature with the lowest power among creatures controlled by target opponent.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/146.png" num="199">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -3235,7 +3235,7 @@ Whenever Anivia would leave the battlefield you may choose to exile Anivia inste
 		</card>
 		<card>
 			<name>Ashe</name>
-			<text>Whenever Ashe attacks, frostbite the creature with the highest power among creatures target opponent controls. (A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)
+			<text>Whenever Ashe attacks, frostbite a creature with the highest power among creatures target opponent controls. (A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)
 Whenever a source you control frostbites a creature you don&apos;t control, put a Freljord counter on Ashe. At the end of any phase on your turn, if Ashe has five or more Freljord counters, remove all Freljord counters from Ashe, then transform her.
 Partner
 ---
@@ -3257,8 +3257,8 @@ Partner
 		</card>
 		<card>
 			<name>Ashe, The Frost Archer</name>
-			<text>When Ashe transforms, Frostbite target creature you don&apos;t control, and each other creature you don&apos;t control with toughness 3 or less, then draw a card.
-Whenever Ashe attacks, frostbite the creature with the highest power among creatures target opponent controls. (A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)
+			<text>When Ashe transforms, frostbite target creature you don&apos;t control, and each other creature you don&apos;t control with toughness 3 or less, then draw a card.
+Whenever Ashe attacks, frostbite a creature with the highest power among creatures target opponent controls. (A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)
 Creatures your opponents control with power 0 can&apos;t block.
 ---
 (Front): Ashe</text>
@@ -3743,7 +3743,7 @@ When Omen Hawk enters, until the end of turn, the next two creatures you cast en
 		</card>
 		<card>
 			<name>Poro Herder</name>
-			<text>When Poro Herder enters you may behold a poro, if you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle. (To behold a poro, choose a poro you control or reveal a poro card from your hand.)</text>
+			<text>When Poro Herder enters you may behold a poro, if you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle. (To behold a poro, if you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle., choose a poro, if you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle. you control or reveal a poro, if you do, search your library for a poro creature, reveal it, add it to your hand, then shuffle. card from your hand.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/195.png" num="246">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -3794,7 +3794,7 @@ Whenever Rimefang Wolf deals damage to a creature with power 0, destroy that cre
 		</card>
 		<card>
 			<name>Rimetusk Shaman</name>
-			<text>At the beginning of your upkeep, frostbite the creature with the highest power among creatures target opponent controls. (A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)</text>
+			<text>At the beginning of your upkeep, frostbite a creature with the highest power among creatures target opponent controls. (A creature with frostbite gets -X/-0 where X is that creatures power until the end of the turn.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/198.png" num="249">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -4999,7 +4999,7 @@ Whenever you cast an instant or sorcery, copy it targeting the same targets.
 		</card>
 		<card>
 			<name>Greenglade Lookout</name>
-			<text>Whenever Greenglade Lookout deals combat damage to an opponent, you may reveal your hand, if you do, exile the creature with the highest mana value from among them. You may cast the creature exiled this way from exile for as long as it remains exiled. Creatures cast from exile this way costs {1} less to cast.</text>
+			<text>Whenever Greenglade Lookout deals combat damage to an opponent, you may reveal your hand, if you do, exile a creature with the highest mana value from among them. You may cast the creature exiled this way from exile for as long as it remains exiled. Creatures cast from exile this way costs {1} less to cast.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-F-files/img/261.png" num="65">LORT-F</set>
 			<prop>
 				<layout>normal</layout>
@@ -6654,7 +6654,7 @@ Partner
 		<card>
 			<name>Kalista, The Spear of Vengeance</name>
 			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
-Whenever Kalista attacks for the first time each turn, put the creature with the highest power among cards in your graveyard onto the battlefield tapped, attacking, and soulbond to Kalista. Creatures that enter this way have &quot;Sacrifice this creature at the beginning of the next end step&quot;. (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
+Whenever Kalista attacks for the first time each turn, put a creature with the highest power among cards in your graveyard onto the battlefield tapped, attacking, and soulbond to Kalista. Creatures that enter this way have &quot;Sacrifice this creature at the beginning of the next end step&quot;. (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
 As long as Kalista is soulbond with another creature, she has Hexproof and Indestructible.
 ---
 (Front): Kalista</text>

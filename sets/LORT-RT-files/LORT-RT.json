@@ -699,7 +699,7 @@
             "number": 80,
             "color_identity": "BR",
             "cost": "{B}{B}{R}",
-            "rules_text": "Nab 1 [i](Look at the bottom a card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast them.)[/i]\n[i]Plunder[/i] \u2014 If an opponent was dealt damage this turn, when this spell resolves Nab 1.",
+            "rules_text": "Nab 1 [i](Look at the bottom card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.)[/i]\n[i]Plunder[/i] \u2014 If an opponent was dealt damage this turn, when this spell resolves Nab 1.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1449,7 +1449,7 @@
             "number": 55,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "[i]Plunder[/i] \u2014 If an opponent was dealt damage this turn, when Black Market Merchant enters, nab 1. [i](Look at the bottom a card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast them.)[/i]\nSpells you control cost {1} less to cast from exile.",
+            "rules_text": "[i]Plunder[/i] \u2014 If an opponent was dealt damage this turn, when Black Market Merchant enters, nab 1. [i](Look at the bottom card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.)[/i]\nSpells you control cost {1} less to cast from exile.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3029,5 +3029,5 @@
             "notes": ""
         }
     ],
-    "version": 10
+    "version": 11
 }

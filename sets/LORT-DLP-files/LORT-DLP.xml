@@ -5,15 +5,15 @@
 			<name>LORT-DLP</name>
 			<longname>Legends Of Runeterra Conversion: Dreamlit Paths</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-12</releasedate>
+			<releasedate>2026-07-18</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>The Smokescaled Host</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II — Discard a card. Reveal cards from the top of your library until you reveal three Celestial cards with mana value 7 or greater, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
-III — The first spell you cast this turn costs {5} less to cast.
+I, II, III — Discard a card. Reveal cards from the top of your library until you reveal three Celestial cards with mana value 7 or greater, randomly choose one and add it to your hand, then shuffle all other revealed cards into your library.
+The first spell you cast this turn costs {5} less to cast.
 ​</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/0.png" num="46">LORT-DLP</set>
 			<prop>
@@ -64,9 +64,9 @@ III — The first spell you cast this turn costs {5} less to cast.
 		<card>
 			<name>The Emperor&apos;s Army</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Create two Sand Soldier tokens.
-II — Predict (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)
-III — Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.</text>
+Create two Sand Soldier tokens.
+I — Predict (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)
+II — Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/3.png" num="39">LORT-DLP</set>
 			<prop>
 				<layout>saga</layout>
@@ -133,8 +133,8 @@ When Empire Reconstructor enters, target enchantment landmark you control gets &
 		<card>
 			<name>The Iron Conquest</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Choose a creature you control. Create a token copy of that creature except it has +1/+1 and ephemeral. (That creature has haste. At the end of turn, sacrifice it.)
-Return a creature with the highest power among creatures in your graveyard to the battlefield, it gets ephemeral.
+I, II — Choose a creature you control. Create a token copy of that creature except it has +1/+1 and ephemeral. (That creature has haste. At the end of turn, sacrifice it.)
+III — Return a creature with the highest power among creatures in your graveyard to the battlefield, it gets ephemeral.
 ​</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/7.png" num="26">LORT-DLP</set>
 			<prop>
@@ -171,8 +171,8 @@ When Grimm enters, put four -1/-1 counters on target other creature.</text>
 			<name>The Beautiful Disaster</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Destroy target creature with total power and toughness 5 or less.
-II — Target opponent loses 2 life. You gain 2 life.
-III — Choose a creature you control. Create a token copy of that creature except it has base power and toughness 1/1 and ephemeral. (That creature has haste. At the end of turn, sacrifice it.)</text>
+Target opponent loses 2 life. You gain 2 life.
+II — Choose a creature you control. Create a token copy of that creature except it has base power and toughness 1/1 and ephemeral. (That creature has haste. At the end of turn, sacrifice it.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/9.png" num="23">LORT-DLP</set>
 			<prop>
 				<layout>saga</layout>
@@ -206,8 +206,8 @@ III — Choose a creature you control. Create a token copy of that creature exce
 		<card>
 			<name>The Candlelit Prayer</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Shuffle a card from your hand into your library. Draw a card.
-Draw a card.
+I, II — Shuffle a card from your hand into your library. Draw a card.
+III — Draw a card.
 ​</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/11.png" num="37">LORT-DLP</set>
 			<prop>
@@ -261,8 +261,8 @@ When Soaring Cartographer enters, reveal a card from your hand, then choose one 
 		<card>
 			<name>The Arena&apos;s Greatest</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II — Target creature you control gets +2/+0 until end of turn.
-III — Target creature an opponent controls has &quot;This creature can&apos;t block&quot; until the beginning of your next upkeep.
+I — Target creature you control gets +2/+0 until end of turn.
+II, III — Target creature an opponent controls has &quot;This creature can&apos;t block&quot; until the beginning of your next upkeep.
 ​</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/14.png" num="28">LORT-DLP</set>
 			<prop>
@@ -367,8 +367,8 @@ Equip {R}</text>
 		<card>
 			<name>The Dewdrop Harvest</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Create a Spritelings token.
-Target creature you control phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
+I — Create a Spritelings token.
+II — Target creature you control phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
 Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/20.png" num="13">LORT-DLP</set>
 			<prop>
@@ -386,8 +386,8 @@ Until the end of turn, creatures you control enter with +2/+0 until the beginnin
 		<card>
 			<name>The Rootbound Path</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Draw a card.
-Until the end of turn, spells you control cost {1} less to cast.
+I, II — Draw a card.
+III — Until the end of turn, spells you control cost {1} less to cast.
 Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/21.png" num="19">LORT-DLP</set>
 			<prop>
@@ -521,8 +521,8 @@ When Mister Root enters, draw a card.</text>
 			<name>The Heart of the Tree</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 You gain 3 life. Create a Spritelings token.
-Put a +1/+1 counter on each creature you control.
-Reveal cards from the top of your library until you reveal three cards with mana value 8 or greater. Choose one and exile it, then shuffle the rest of the revealed cards into your library. For as long as it remains exiled, it has &quot;You may cast this card from exile and it costs {X} less to cast, where X is half it&apos;s mana value, rounded down.&quot;</text>
+I — Put a +1/+1 counter on each creature you control.
+II — Reveal cards from the top of your library until you reveal three cards with mana value 8 or greater. Choose one and exile it, then shuffle the rest of the revealed cards into your library. For as long as it remains exiled, it has &quot;You may cast this card from exile and it costs {X} less to cast, where X is half it&apos;s mana value, rounded down.&quot;</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/27.png" num="14">LORT-DLP</set>
 			<prop>
 				<layout>saga</layout>
@@ -555,8 +555,8 @@ Reveal cards from the top of your library until you reveal three cards with mana
 		<card>
 			<name>The Poro Parade</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Reveal cards from the top of your library until you reveal a creature with a creature type you don&apos;t control, add it to your hand, then shuffle all other revealed cards into your library.
-Put a number of +1/+1 counters on target creature you control for each unique creature type among creatures you control.
+I, II — Reveal cards from the top of your library until you reveal a creature with a creature type you don&apos;t control, add it to your hand, then shuffle all other revealed cards into your library.
+III — Put a number of +1/+1 counters on target creature you control for each unique creature type among creatures you control.
 Until the end of turn, creatures you control enter with +2/+0 until the beginning of your next upkeep.</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/29.png" num="33">LORT-DLP</set>
 			<prop>
@@ -776,8 +776,8 @@ When Aberrant Mageseeker enters, put a +1/+1 counter on each other creature you 
 		<card>
 			<name>The Petricite Hall</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Exile target creature an opponent controls.
-Target opponent creates a Suppression Curse token.
+I, III — Exile target creature an opponent controls.
+II — Target opponent creates a Curse of Suppression token.
 Exile target creature an opponent controls.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/40.png" num="9">LORT-DLP</set>
 			<prop>
@@ -863,8 +863,8 @@ Create a Sandstone Charger token. Creatures you control get challenger until end
 		<card>
 			<name>The Pit Champion</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Target creature you control and target creature an opponent controls fight. (Each deals damage equal to its power to the other.)
-Remove all -1/-1 counters from target creature you control.
+I — Target creature you control and target creature an opponent controls fight. (Each deals damage equal to its power to the other.)
+II — Remove all -1/-1 counters from target creature you control.
 Create three Gold tokens.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/45.png" num="45">LORT-DLP</set>
 			<prop>
@@ -1051,9 +1051,9 @@ At the beginning of your upkeep, boost Beefcake Mayor. (Give Beefcake Mayor anot
 		<card>
 			<name>The Family Reunion</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Put a -1/-1 counter on target creature an opponent controls.
+I — Put a -1/-1 counter on target creature an opponent controls.
 Put an afflict 1 counter on target creature you control. (Whenever that creature becomes blocked, defending player loses 1 life.)
-Boost two creatures you control. (Give two creatures you control another ability and counter of each kind already there.)</text>
+II — Boost two creatures you control. (Give two creatures you control another ability and counter of each kind already there.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/54.png" num="41">LORT-DLP</set>
 			<prop>
 				<layout>saga</layout>
@@ -1070,8 +1070,8 @@ Boost two creatures you control. (Give two creatures you control another ability
 		<card>
 			<name>The Wingsgiving</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus one. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
-Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus two. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
+I, II — Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus one. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
+III — Choose a creature you control. Reveal cards from the top of your library until you reveal a creature with the same mana value as the chosen creature plus two. Put that creature onto the battlefield, then shuffle the chosen creature and the the rest of the revealed cards into your library.
 ​</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-DLP-files/img/55.png" num="53">LORT-DLP</set>
 			<prop>

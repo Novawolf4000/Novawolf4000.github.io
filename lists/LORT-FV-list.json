@@ -1,0 +1,1451 @@
+﻿[
+    {
+        "card_name": "Alatis the Gallant",
+        "number": 1,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Heisho, Shell of the World",
+        "number": 12,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Amalgamation Of Vile Rites",
+        "number": 17,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "Enraged Firespitter",
+        "number": 31,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Volibear, The Thunder's Roar",
+        "number": 50,
+        "shape": "transform double faced",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Cloud Drake",
+        "number": 2,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Empyrean Dance",
+        "number": 11,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Erastin, the Disgraced",
+        "number": 21,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "Headmistress Telsi",
+        "number": 32,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Boadir of Blackened Ice",
+        "number": 41,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "The Kingfisher",
+        "number": 5,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Ocean Drake",
+        "number": 13,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Realm of Death",
+        "number": 24,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Kashuri Swipe",
+        "number": 36,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Clash of Giants",
+        "number": 42,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Mageseeker Inquisitor",
+        "number": 6,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Oceanic Will",
+        "number": 14,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "Watery Grave",
+        "number": 28,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "Bladepierced Revenant",
+        "number": 30,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Handy Harness",
+        "number": 44,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Mountainous Vigor",
+        "number": 8,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Trusty Adnere",
+        "number": 16,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Chemtech Blight",
+        "number": 18,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Infernal Might",
+        "number": 34,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "Rhond, the Magma Serpent",
+        "number": 46,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Taloned Strike",
+        "number": 9,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Conjured Capsizing",
+        "number": 10,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Deathgrasp Cultist",
+        "number": 19,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "Iron Legionary",
+        "number": 35,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Berserker Ursine",
+        "number": 39,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Dragon Allegiant",
+        "number": 3,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Prancing Sea Spirits",
+        "number": 15,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Shackled Ghasts",
+        "number": 25,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Annie's Wildfire",
+        "number": 29,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Flamecaller Caprine",
+        "number": 43,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Gentlemen's Duel",
+        "number": 4,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Spectral Ironhound",
+        "number": 26,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "Indestructible",
+        "number": 33,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Invocation Of Thunder",
+        "number": 45,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Magical Fettering",
+        "number": 7,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Death's Grasp",
+        "number": 20,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "Lord Mallat",
+        "number": 37,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Stormbringer",
+        "number": 48,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Legion of the Severed",
+        "number": 22,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "Red-Barbed Razormace",
+        "number": 38,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Bladebound Berserker",
+        "number": 40,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lonely Chimeslime",
+        "number": 23,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sky Splitter",
+        "number": 47,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Valhir's Prophet",
+        "number": 49,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yadulski Snowdog",
+        "number": 51,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Morgana, The Veiled Lady",
+        "number": 84,
+        "shape": "transform double faced",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Dune Swallower",
+        "number": 64,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "Mordekaiser, The Iron Revenant",
+        "number": 83,
+        "shape": "transform double faced",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Portia the Peculiar",
+        "number": 87,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Herald of Celestial Convergence",
+        "number": 72,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "General of the Dunes",
+        "number": 70,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "Nilah",
+        "number": 85,
+        "shape": "transform double faced",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Skip, King of the Reef",
+        "number": 95,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Mihira, Aspect Ascendant",
+        "number": 82,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Tomb-Raider Barbara",
+        "number": 99,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Ashlesh's Deluge",
+        "number": 53,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Scholarly Pioneer",
+        "number": 90,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Ottrani Dragon-Worshiper",
+        "number": 86,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "Ancient Malediction",
+        "number": 52,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Chakram Dancer",
+        "number": 56,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sneaky Swap",
+        "number": 96,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Black Shield",
+        "number": 54,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Defenders of the Sun Disc",
+        "number": 62,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "Sefirsa, Scourge of the Deep",
+        "number": 91,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Bursting Backpack",
+        "number": 104,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Chained Caster",
+        "number": 55,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Horned Swarmcaller",
+        "number": 75,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "The Tidedancer",
+        "number": 98,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sugary Snare",
+        "number": 113,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Dark Binding",
+        "number": 60,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vikrash the Exuberant",
+        "number": 101,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Early Bird",
+        "number": 65,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Gentle Gemdragon",
+        "number": 71,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Dedicant of the Challenge",
+        "number": 61,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sinner's Vise",
+        "number": 94,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Honest Croupier",
+        "number": 74,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Veiled Protector",
+        "number": 100,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wizened Helmsman",
+        "number": 102,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lisa and Dolly",
+        "number": 79,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Master Lookout",
+        "number": 108,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Seismic Shard",
+        "number": 92,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Joy Unending",
+        "number": 78,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ruby-Eyed Conjurer",
+        "number": 111,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Formless Blade",
+        "number": 105,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Janna, Blue Bird of the Sea",
+        "number": 77,
+        "shape": "transform double faced",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Cloudbringer's Grace",
+        "number": 59,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Chemtech Drake",
+        "number": 58,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Iascylla, Figurehead of the Deep",
+        "number": 76,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Maryam, Temple Caretaker",
+        "number": 81,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Divine Whirlwind",
+        "number": 63,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Exalted Cloudwinder",
+        "number": 67,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Galesong Flock",
+        "number": 69,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Hextech Prowess",
+        "number": 73,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Prototype Porobot",
+        "number": 89,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shady Spectacles",
+        "number": 93,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Howling Gale",
+        "number": 107,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Charlatan Fishmonger",
+        "number": 57,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Eye Of The Storm",
+        "number": 68,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Galesong Call",
+        "number": 106,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Windborne Mariner",
+        "number": 114,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Armed Acquisitioner",
+        "number": 103,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Octo Adventurer",
+        "number": 109,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Portal Pioneer",
+        "number": 110,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Spectral Surveyor",
+        "number": 112,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "Elder Dragon",
+        "number": 66,
+        "shape": "transform double faced",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "Primordial Roar",
+        "number": 88,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Threshold of the Grey",
+        "number": 27,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Marai Reef Spire",
+        "number": 80,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sunken Temple",
+        "number": 97,
+        "shape": "normal",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Sigil of the Storm",
+        "number": 7,
+        "shape": "token",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Curse of Suppression",
+        "number": 1,
+        "shape": "token",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Adnere's Aviarists",
+        "number": 2,
+        "shape": "token",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Curse of Terror",
+        "number": 3,
+        "shape": "token",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Emblem",
+        "number": 4,
+        "shape": "token",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "Thousand-Clawed Deathwinder",
+        "number": 5,
+        "shape": "token",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "Curse of Ichor",
+        "number": 6,
+        "shape": "token",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Curse of Shackles",
+        "number": 8,
+        "shape": "token",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Galesong Swallow",
+        "number": 9,
+        "shape": "token",
+        "set": "LORT-FV",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

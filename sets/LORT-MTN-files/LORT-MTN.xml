@@ -5,7 +5,7 @@
 			<name>LORT-MTN</name>
 			<longname>Legends Of Runeterra Converted: Call of the Mountain</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-03</releasedate>
+			<releasedate>2026-07-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -648,7 +648,7 @@ When Captain Arrika enters, you may exile target creature an opponent controls u
 		</card>
 		<card>
 			<name>Dragonguard Lieutenant</name>
-			<text>When Dragonguard Lieutenant enters, you may behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. (To behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant., choose a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. you control or reveal a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. card from your hand.)</text>
+			<text>When Dragonguard Lieutenant enters, you may behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/36.png" num="3">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -665,7 +665,7 @@ When Captain Arrika enters, you may exile target creature an opponent controls u
 		</card>
 		<card>
 			<name>Dragonguard Lookout</name>
-			<text>When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap each creature you control. After this phase, there is an additional combat phase. (To behold a Dragon, if you do, untap each creature you control., choose a Dragon, if you do, untap each creature you control. you control or reveal a Dragon, if you do, untap each creature you control. card from your hand.)</text>
+			<text>When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap each creature you control. After this phase, there is an additional combat phase. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/37.png" num="4">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -827,7 +827,7 @@ Whenever Dragonguard Shyvana attacks, Dragonguard Shyvana gets +2/+2 until the b
 		</card>
 		<card>
 			<name>Stalking Broodmother</name>
-			<text>Fury, Scout (Whenever a creature dealt damage by Stalking Broodmother this turn dies, put a +1/+1 counter on Stalking Broodmother. Once in your pre-combat main phase, you may have any number of creatures with Scout declare an attack without tapping. Opponents may declare blockers as if it were the combat phase.)</text>
+			<text>Fury, Scout (Whenever a creature dealt damage by Stalking Broodmother this turn dies, put a +1/+1 counter on Stalking Broodmother. After your first main phase, there is an additional combat phase. Only creatures with Scout may attack in this phase and they gain vigilance until end of combat.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/45.png" num="13">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2552,12 +2552,12 @@ Fused Firebrand enters with a spellshield counter. (The first time an instant, s
 			<name>Grandfather Rumul</name>
 			<text>Grandfather Rumul enters with a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
 Trample
-When Grandfather Rumul enters, put four +0/+1 counter on up to two other target creatures you control.</text>
+When Grandfather Rumul enters, put four +0/+1 counters on up to two other target creatures you control. (Put four +0/+1 counters on each target creature.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/134.png" num="116">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Minotaur</type>
+				<type>Creature — Vastaya Druid</type>
 				<maintype>Creature</maintype>
 				<manacost>4WU</manacost>
 				<cmc>6</cmc>
@@ -3614,7 +3614,7 @@ Whenever Zoe deals combat damage to an opponent, reveal cards from the top of yo
 		</card>
 		<card>
 			<name>Ballistic Bot</name>
-			<text>Upgrade (Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)
+			<text>Upgrade (Whenever you cast an artifact, put a +1/+1 counter on this creature.)
 At the beginning of your upkeep, Ballistic Bot deals 1 damage to target opponent.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/192.png" num="187">LORT-MTN</set>
 			<prop>
@@ -3650,7 +3650,7 @@ At the beginning of your upkeep, Ballistic Bot deals 1 damage to target opponent
 		</card>
 		<card>
 			<name>Armed Gearhead</name>
-			<text>First strike, Upgrade (Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)</text>
+			<text>First strike, Upgrade (Whenever you cast an artifact, put a +1/+1 counter on this creature.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/194.png" num="186">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3751,7 +3751,7 @@ Exile Give It All.</text>
 		</card>
 		<card>
 			<name>Mechanized Mimic</name>
-			<text>Upgrade (Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)
+			<text>Upgrade (Whenever you cast an artifact, put a +1/+1 counter on this creature.)
 Whenever Mechanized Mimic attacks, it gets first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/200.png" num="129">LORT-MTN</set>
 			<prop>
@@ -3769,7 +3769,7 @@ Whenever Mechanized Mimic attacks, it gets first strike until end of turn if a c
 		</card>
 		<card>
 			<name>Nyandroid</name>
-			<text>Skulk, Upgrade (This creature can&apos;t be blocked by creatures with greater power. Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)</text>
+			<text>Skulk, Upgrade (This creature can&apos;t be blocked by creatures with greater power. Whenever you cast an artifact, put a +1/+1 counter on this creature.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/201.png" num="141">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3869,7 +3869,7 @@ If Stress Testing is discarded or milled, reveal the top card of your library un
 		</card>
 		<card>
 			<name>Viktor, The Machinist</name>
-			<text>Upgrade (Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)
+			<text>Upgrade (Whenever you cast an artifact, put a +1/+1 counter on this creature.)
 {UR}, {T}: Randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Viktor gets the chosen ability. Activate only as a sorcery.
 Whenever you cast an artifact, put a Herald counter on Viktor. At the end of any phase on your turn, if Viktor has seven or more Herald counters, remove all Hereld counters from Viktor, then transform him.
 Partner
@@ -3892,7 +3892,7 @@ Partner
 		</card>
 		<card>
 			<name>Viktor, The Machine Herald</name>
-			<text>Upgrade (Whenever you cast an artifact, put a +1/+1 counter on each creature you control with Upgrade.)
+			<text>Upgrade (Whenever you cast an artifact, put a +1/+1 counter on this creature.)
 Artifacts you control cost {UR} less to cast.
 {UR}, {T}: Randomly choose an ability from among first strike, flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance. Viktor gets the chosen ability. Activate only as a sorcery.
 ---

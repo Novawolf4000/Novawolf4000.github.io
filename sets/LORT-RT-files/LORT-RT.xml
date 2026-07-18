@@ -5,7 +5,7 @@
 			<name>LORT-RT</name>
 			<longname>Legends Of Runeterra Converted: Rising Tides</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-03</releasedate>
+			<releasedate>2026-07-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -603,7 +603,7 @@ After this phase, there is an additional combat phase.</text>
 		</card>
 		<card>
 			<name>Pilfered Goods</name>
-			<text>Nab 1 (Look at the bottom a card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast them.)
+			<text>Nab 1 (Look at the bottom card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.)
 Plunder — If an opponent was dealt damage this turn, when this spell resolves Nab 1.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/32.png" num="80">LORT-RT</set>
 			<prop>
@@ -1264,7 +1264,7 @@ When Brash Gambler attacks, exile two cards from the top of your library. You ma
 		</card>
 		<card>
 			<name>Black Market Merchant</name>
-			<text>Plunder — If an opponent was dealt damage this turn, when Black Market Merchant enters, nab 1. (Look at the bottom a card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast them.)
+			<text>Plunder — If an opponent was dealt damage this turn, when Black Market Merchant enters, nab 1. (Look at the bottom card of target opponents library and exile it face down. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast it.)
 Spells you control cost {1} less to cast from exile.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-RT-files/img/66.png" num="55">LORT-RT</set>
 			<prop>

@@ -1,0 +1,2305 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>LORT-FV</name>
+			<longname>Legends Of Runeterra Conversion: Fate&apos;s Voyage</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-18</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Skip, King of the Reef</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+When Skip enters, target opponent reveals their hand to you. You choose a nonland nonlegendary creature card from it. Exile that card. Return that card from exile to its owners hand when Skip leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/0.png" num="95">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nilah</name>
+			<text>Brash (Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)
+Whenever Nilah attacks, exile the top two cards of your library. You may play cards exiled this way this turn.
+Whenever you draw a card, put a Joy counter on Nilah. At the end of any phase on your turn, if Nilah has fifteen or more Joy counters, remove all Joy counters from Nilah, then transform her.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Nilah, The Joy Unbound</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/1_front.png" num="85a">LORT-FV</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Nilah, The Joy Unbound</related>
+		</card>
+		<card>
+			<name>Nilah, The Joy Unbound</name>
+			<text>Brash (Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)
+Whenever Nilah attacks, Nilah deals 2 damage to the defending player and each creature they control. Then exile the top two cards of your library. You may play cards exiled this way this turn.
+---
+(Front): Nilah</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/1_back.png" num="85b">LORT-FV</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Nilah</related>
+		</card>
+		<card>
+			<name>Portia the Peculiar</name>
+			<text>When Portia enters, reveal cards from the top of your library until you reveal three creatures with power and/or toughness 8 or greater, exile it. For as long as it remains exiled, it has &quot;You may cast this card from exile without paying its mana cost. When this creature enters from exile, it has base power and toughness 1/1.&quot;</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/2.png" num="87">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>7GW</manacost>
+				<cmc>9</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bursting Backpack</name>
+			<text>You create four Chime tokens. Target opponent creates four Puffcap tokens. Repeat this process for each card named Bursting Backpack in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/3.png" num="104">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G/W</manacost>
+				<cmc>1</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Portal Pioneer</name>
+			<text>Attune {C} (When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)
+When Portal Pioneer enters, you may choose one —
+• {U}{GW}: Destroy target equipment.
+• {U}{GW}: Destroy target landmark.
+• {U}{GW}: Target creature an opponent controls loses all abilities until the end of your next turn.
+• {U}{GW}: Remove all damage from target creature you control. You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/4.png" num="110">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Yordle Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>UG/W</manacost>
+				<cmc>2</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sugary Snare</name>
+			<text>As an additional cost to cast this spell, put a creature you control on the bottom of your library.
+Reveal cards from your top of your library until you reveal a creature card, put that creature onto the battlefield, then shuffle all other revealed cards into the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/5.png" num="113">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4G/WG/W</manacost>
+				<cmc>6</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Early Bird</name>
+			<text>Target opponent reveals their hand, then discards a card with the highest mana value.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/6.png" num="65">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sneaky Swap</name>
+			<text>Recall target creature you control. Create a Hungry Owlcat token. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/7.png" num="96">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Formless Blade</name>
+			<text>Formless Blade deals 2 damage to target creature.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/8.png" num="105">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wizened Helmsman</name>
+			<text>When Wizened Helmsman enters, reveal cards from the top of your library until you reveal six instant and/or sorcery cards, exile two. For as long as it remains exiled, cards exiled this way has &quot;You may cast this card from exile without paying its mana cost&quot;. Then shuffle all other revealed cards into your library.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/9.png" num="102">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant Mercenary Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost>5BR</manacost>
+				<cmc>7</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ashlesh&apos;s Deluge</name>
+			<text>Whenever an instant, sorcery, or creature ability you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/10.png" num="53">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Tidedancer</name>
+			<text>When The Tidedancer enters, search your library and/or graveyard for a card named Nilah, reveal it, and put it into your hand. If you search your library this way, shuffle.
+The first time each turn you cast your third spell, each creature you control gets +2/+0 and brash until end of turn. (Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/11.png" num="98">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Vehicle</type>
+				<maintype>Creature</maintype>
+				<manacost>4BR</manacost>
+				<cmc>6</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vikrash the Exuberant</name>
+			<text>Skulk, Attune {C} (This creature can&apos;t be blocked by creatures with greater power. When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)
+When Vikrash enters, exile the top two cards of your library. You may play cards exiled this way this turn.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/12.png" num="101">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master Lookout</name>
+			<text>The first time you draw your third card on the same turn while Master Lookout is on the battlefield, put a +1/+1 counter and a brash counter on Master Lookout. (Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/13.png" num="108">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Monkey Fish Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dedicant of the Challenge</name>
+			<text>When Dedicant of the Challenge enters, put a +1/+1 counter on Dedicant of the Challenge for each card in your hand, then shuffle your hand into your library and draw two cards.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/14.png" num="61">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Monkey Mercenary Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Octo Adventurer</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+When Octo Adventurer enters, you may choose one —
+• {UR}{BR}: Destroy target equipment.
+• {UR}{BR}: Destroy target landmark.
+• {UR}{BR}: Target creature an opponent controls loses all abilities until the end of your next turn.
+• {UR}{BR}: Remove all damage from target creature you control. You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/15.png" num="109">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>URB/R</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sefirsa, Scourge of the Deep</name>
+			<text>Deep (If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)
+Whenever you cast a creature card, reveal cards from the top of your library until you reveal a card with mana value X where X is that creatures mana value. Exile it. Until the end of turn, you may cast this card from exile without paying its mana cost. Then shuffle all other revealed cards into your library.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/16.png" num="91">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Leviathan Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>6BR</manacost>
+				<cmc>8</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>8/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Joy Unending</name>
+			<text>Each creature you control gets +1/+0 until end of turn. Remove 2 damage from each creature you control.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/17.png" num="78">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Marai Reef Spire</name>
+			<text>Whenever you cast a creature, add one mana of any type, you may only use this mana to cast instant and sorcery spells.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/18.png" num="80">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Landmark</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Honest Croupier</name>
+			<text>Brash (Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)
+Whenever you cast a spell with mana value equal to Honest Croupiers power, put a +1/+1 counter on Honest Croupier.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/19.png" num="74">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chakram Dancer</name>
+			<text>When Chakram Dancer enters, Chakram Dancer deals 1 damage to any target.
+Whenever a creature ability you control deals damage, you gain that much life.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/20.png" num="56">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scholarly Pioneer</name>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+When Scholarly Pioneer enters, you may choose one —
+• {G}{W}: Destroy target equipment.
+• {G}{W}: Destroy target landmark.
+• {G}{W}: Target creature an opponent controls loses all abilities until the end of your next turn.
+• {G}{W}: Remove all damage from target creature you control. You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/21.png" num="90">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gentlemen&apos;s Duel</name>
+			<text>Put two +0/+1 tokens on target creature you control. Then that creature and target creature an opponent controls fight. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/22.png" num="4">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragon Allegiant</name>
+			<text>When Dragon Allegiant enters, you may behold a dragon, if you do, reveal cards from the top of your library until you reveal a dragon creature, add it to your hand, then shuffle all other revealed cards into your library. (To behold a dragon, if you do, reveal cards from the top of your library until you reveal a dragon creature, add it to your hand, then shuffle all other revealed cards into your library, choose a dragon, if you do, reveal cards from the top of your library until you reveal a dragon creature, add it to your hand, then shuffle all other revealed cards into your library you control or reveal a dragon, if you do, reveal cards from the top of your library until you reveal a dragon creature, add it to your hand, then shuffle all other revealed cards into your library card from your hand.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/23.png" num="3">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mageseeker Inquisitor</name>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+When Mageseeker Inquisitor enters, target opponent creates a Curse of Suppression token.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/24.png" num="6">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Inquisitor</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Curse of Suppression LORT-FV</name>
+			<text>Enchant player.
+You can&apos;t cast spells.
+{2}, Sacrifice Curse of Shackles. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/25.png" num="1">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Curse of Ichor LORT-FV</name>
+			<text>Enchant player.
+At the beginning of your upkeep, you lose 1 life.
+{2}, Sacrifice Curse of Shackles. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/26.png" num="6">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Curse of Terror LORT-FV</name>
+			<text>Enchant creature.
+Enchanted creature has -3/-0.
+Enchanted creature has &quot;{2}: Sacrifice Curse of Terror. Activate only as a sorcery.&quot;</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/27.png" num="3">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Curse of Shackles LORT-FV</name>
+			<text>Enchant creature.
+Enchanted creature can&apos;t attack or block.
+Enchanted creature has &quot;{2}: Sacrifice Curse of Shackles. Activate only as a sorcery.&quot;</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/28.png" num="8">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Magical Fettering</name>
+			<text>Put two +0/+1 counters on target creature you control. Target opponent creates a Curse of Suppression token.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/29.png" num="7">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Kingfisher</name>
+			<text>When The Kingfisher enters, if you cast it, reveal cards from the top of your library until you reveal X legendary creature cards, where X is the amount of white mana spent to cast it. Put those cards into your hand, then shuffle the rest into your library.
+Whenever a legendary creature enters during your turn, after this phase, there is an additional combat phase. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/30.png" num="5">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Vehicle</type>
+				<maintype>Creature</maintype>
+				<manacost>6WWW</manacost>
+				<cmc>9</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cloud Drake</name>
+			<text>Fury (Whenever a creature dealt damage by Cloud Drake this turn dies, put a +1/+1 counter on Cloud Drake.)
+When Cloud Drake enters, until the end of turn, creatures you control cost {1} less to cast.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/31.png" num="2">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alatis the Gallant</name>
+			<text>Fury (Whenever a creature dealt damage by Alatis this turn dies, put a +1/+1 counter on Alatis.)
+Whenever you cast a dragon boon instant card, copy it targeting each dragon creature you control.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/32.png" num="1">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Taloned Strike</name>
+			<text>Put a +1/+1 creature on each bird creature you control. Then target bird creature you control deals damage equal to its power to target creature an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/33.png" num="9">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Volibear, The Thunder&apos;s Roar</name>
+			<text>When Volibear enters, Volibear deals 4 damage to a random creature an opponent controls, or 2 damage to a random opponent if there are no creatures opponents control. Repeat this process twice.
+Whenever a source you control deals damage, put that many Valhir counters on Volibear. At the end of any phase on your turn, if Volibear has fifty or more Valhir counters, remove all Valhir counters from Volibear, then transform him.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Volibear, The Stormlord</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/34_front.png" num="50a">LORT-FV</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bear Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>6GGG</manacost>
+				<cmc>9</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>10/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Volibear, The Stormlord</related>
+		</card>
+		<card>
+			<name>Volibear, The Stormlord</name>
+			<text>Trample
+Whenever Volibear transforms or attacks, Volibear deals 4 damage to a random creature an opponent controls, or 2 damage to a random opponent if there are no creatures opponents control. Repeat this process twice.
+Creatures you control have trample.
+---
+(Front): Volibear, The Thunder&apos;s Roar</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/34_back.png" num="50b">LORT-FV</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Bear Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>11/11</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Volibear, The Thunder&apos;s Roar</related>
+		</card>
+		<card>
+			<name>Valhir&apos;s Prophet</name>
+			<text>When Valhir&apos;s Prophet enters, create a Sigil of the Storm token.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/35.png" num="49">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sigil of the Storm LORT-FV</name>
+			<text>Titanic creature spells you control costs {1} less to cast. When you cast a titanic creature spell, sacrifice Sigil of the Storm. (A creature with power or toughness 8 or greater is titanic.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/36.png" num="7">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Landmark</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Berserker Ursine</name>
+			<text>Whenever you cast an instant or sorcery, or whenever you activate a creature ability you control, create a Sigil of the Storm token. (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/37.png" num="39">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bear Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stormbringer</name>
+			<text>Stormbringer deals 4 damage to all nontitanic creatures. (A creature with power or toughness 8 or greater is titanic.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/38.png" num="48">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flamecaller Caprine</name>
+			<text>Absorb 1 (If a source would deal damage to this creature, prevent 1 of that damage.)
+Whenever you cast an instant or sorcery, or whenever you activate a creature ability you control, forge and equipment attached to Flamecaller Caprine. (Target equipment gets &quot;Equipped creature has +1/+1&quot;.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/39.png" num="43">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Invocation Of Thunder</name>
+			<text>Draw a card. Create a Sigil of the Storm token. (When you cast this spell, copy it for each spell cast before it this turn.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/40.png" num="45">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rhond, the Magma Serpent</name>
+			<text>When Rhond enters, create three Sigil of the Storm tokens. (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/41.png" num="46">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clash of Giants</name>
+			<text>Clash of Giants costs {1} less to cast for each titanic creature you control, and for each titanic creature in your graveyard. (A creature with power or toughness 8 or greater is titanic.)
+Reveal cards from the top of your library until you reveal two titanic creatures, put them onto the battlefield, then shuffle the rest into your library.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/42.png" num="42">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>13GGG</manacost>
+				<cmc>16</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sky Splitter</name>
+			<text>Target creature you control gets +1/+3 until the beginning of your next upkeep.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/43.png" num="47">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Yadulski Snowdog</name>
+			<text>Whenever Yadulski Snowdog attacks, the next two creatures you cast this turn enters with an additional +1/+1 counter.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/44.png" num="51">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Handy Harness</name>
+			<text>Equipped creature has +1/+0 for each unique creature type among creatures you control.
+Equip {G}</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/45.png" num="44">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Boadir of Blackened Ice</name>
+			<text>When Boadir enters, create two Frozen Thrall tokens, then remove two time counters from them.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/46.png" num="41">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>6GG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bladebound Berserker</name>
+			<text>Whenever you cast a sorcery that targets a creature you control, copy it targeting Bladebound Berserker.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/47.png" num="40">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conjured Capsizing</name>
+			<text>Recall target creature an opponent controls. That creatures controller gets &quot;The next creature spell you cast costs {2} more to cast.&quot; (A recalled permanent is put back into its owners hand from the battlefield.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/48.png" num="10">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ocean Drake</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+Whenever you cast an instant or sorcery, or whenever you activate a creature ability you control, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/49.png" num="13">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heisho, Shell of the World</name>
+			<text>You may cast your first spell each turn without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/50.png" num="12">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Turtle</type>
+				<maintype>Creature</maintype>
+				<manacost>5UUU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trusty Adnere</name>
+			<text>When Trusty Adnere enters, create an Adnere&apos;s Aviarists token.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/51.png" num="16">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastaya Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adnere&apos;s Aviarists LORT-FV</name>
+			<text>Whenever Adnere&apos;s Aviarists attacks, it has base power and toughness equal to the power and toughness of target other attacking creature you control.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/52.png" num="2">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Vastaya Child</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Empyrean Dance</name>
+			<text>Counter target instant, sorcery, or activated or triggered ability. Create an The Empyrean token.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/53.png" num="11">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UUU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prancing Sea Spirits</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+When Prancing Sea Spirits enters, create a token copy of Prancing Sea Spirits except it has ephemeral. (This creature has haste. At the end of turn, sacrifice it.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/54.png" num="15">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morgana, The Veiled Lady</name>
+			<text>Lifelink
+When Morgana enters, enchant up to two creatures opponents control with a Curse of Shackles token.
+Whenever you target a creature an opponent controls, put a Fallen counter on Morgana. At the end of any phase on your turn, if Morgana has ten or more Fallen counters, remove all Fallen counters from Morgana, then transform her.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Morgana, The Sword of Shadow</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/55_front.png" num="84a">LORT-FV</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Morgana, The Sword of Shadow</related>
+		</card>
+		<card>
+			<name>Morgana, The Sword of Shadow</name>
+			<text>Lifelink
+When Morgana transforms, enchant up to two creatures opponents control with a Curse of Shackles token.
+Whenever Morgana attacks, enchant a creature with the highest power among creatures opponents control with a Curse of Shackles token that does not have one. Then Morgana deals 3 damage to each creature with an attached Curse of Shackles token and 2 damage to the defending opponent.
+---
+(Front): Morgana, The Veiled Lady</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/55_back.png" num="84b">LORT-FV</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Angel Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Morgana, The Veiled Lady</related>
+		</card>
+		<card>
+			<name>Mihira, Aspect Ascendant</name>
+			<text>Trample
+When Mihira enters, create two Curse of Shackles tokens attached to target creature an opponent controls. Repeat this process once.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/56.png" num="82">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>5WU</manacost>
+				<cmc>7</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>6/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Black Shield</name>
+			<text>Put a spellshield counter on target creature you control. Create a Curse of Shackles token attached to target creature an opponent controls. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/57.png" num="54">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Veiled Protector</name>
+			<text>Whenever Veiled Protector or a titanic creature you control enters, you gain 3 life. (A creature with power or toughness 8 or greater is titanic.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/58.png" num="100">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Wolf Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lisa and Dolly</name>
+			<text>When Lisa and Dolly enters, create a Curse of Shackles token attached to target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/59.png" num="79">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Child Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Binding</name>
+			<text>Put a stun counter on target creature an opponent controls, then create a Curse of Shackles token attached to that creature.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/60.png" num="60">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ruby-Eyed Conjurer</name>
+			<text>When Ruby-Eyed Conjurer enters, choose one —
+• Put a trample counter on target creature you control.
+• Put a spellshield counter on target creature you control. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/61.png" num="111">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/U</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seismic Shard</name>
+			<text>If you control one or more titanic creatures, Seismic Shard costs {3} less to cast. (A creature with power or toughness 8 or greater is titanic.)
+Seismic Shard deals 7 damage to target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/62.png" num="92">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5WU</manacost>
+				<cmc>7</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Herald of Celestial Convergence</name>
+			<text>Whenever Herald of Celestial Convergence enters, trigger the daybreak and nightfall ability of each other creature you control.
+Daybreak – When Herald of Celestial Convergence enters, if it was the first spell you cast this turn, put a trample counter on it.
+Nightfall – When Herald of Celestial Convergence enters, if it wasn&apos;t the first spell you cast this turn, put a spellshield counter on it. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/63.png" num="72">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4WU</manacost>
+				<cmc>6</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>5/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gentle Gemdragon</name>
+			<text>Fury (Whenever a creature dealt damage by Gentle Gemdragon this turn dies, put a +1/+1 counter on Gentle Gemdragon.)
+Whenever you cast an instant or sorcery, or whenever you activate another creature ability you control, put a +1/+1 counter on each other dragon creature you control.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/64.png" num="71">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4WU</manacost>
+				<cmc>6</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ottrani Dragon-Worshiper</name>
+			<text>When Ottrani Dragon-Worshiper enters, you gain 2 life. At the beginning of your first pre-combat main phase on your next turn, add one mana of any type.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/65.png" num="86">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastaya Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sinner&apos;s Vise</name>
+			<text>When Sinner&apos;s Vise enters, create a Curse of Shackles token attached to target creature an opponent controls.
+The activated ability of enchantment curse tokens opponents control costs {1} more to activate.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/66.png" num="94">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chained Caster</name>
+			<text>When Chained Caster enters, create a Curse of Shackles token attached to Chained Caster.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/67.png" num="55">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enraged Firespitter</name>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+When Enraged Firespitter enters, it deals 2 damage to target creature and 2 damage to that creatures controller.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/68.png" num="31">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lord Mallat</name>
+			<text>Lord Mallat enters with a deathless counter. (When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner&apos;s control with a stun counter on it.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/69.png" num="37">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Annie&apos;s Wildfire</name>
+			<text>Annie&apos;s Wildfire deals X+1 to target opponent where X is equal to the number of cards named Annie&apos;s Wildfire in your graveyard.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/70.png" num="29">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Armed Acquisitioner</name>
+			<text>When Armed Acquisitioner enters, you may choose one —
+• {R}{UB}: Destroy target equipment.
+• {R}{UB}: Destroy target landmark.
+• {R}{UB}: Target creature an opponent controls loses all abilities until the end of your next turn.
+• {R}{UB}: Remove all damage from target creature you control. You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/71.png" num="103">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Yordle Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>RU/B</manacost>
+				<cmc>2</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Headmistress Telsi</name>
+			<text>If a creature attacking causes its triggered ability to trigger, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/72.png" num="32">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Red-Barbed Razormace</name>
+			<text>Trample
+Whenever Red-Barbed Razormace deals combat damage to an opponent, that opponent creates a Curse of Ichor token.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/73.png" num="38">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iron Legionary</name>
+			<text>When Iron Legionary enters, it deals 3 damage to target other creature you control to deal 3 damage to target opponent.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/74.png" num="35">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wraith Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bladepierced Revenant</name>
+			<text>Bladepierced Revenant enters with a deathless counter. (When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner&apos;s control with a stun counter on it.)
+Whenever a creature you control is returned from the graveyard to the battlefield, put a challenger counter on it. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/75.png" num="30">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wraith Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Indestructible</name>
+			<text>Put a deathless counter on target creature you control. (When that creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner&apos;s control with a stun counter on it.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/76.png" num="33">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kashuri Swipe</name>
+			<text>Kashuri Swipe deals 2 damage to target creature. If that creature is damaged, destroy it instead.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/77.png" num="36">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Janna, Blue Bird of the Sea</name>
+			<text>When Janna enters, shuffle two cards from your hand into your library. At the beginning of your next upkeep, draw two cards.
+The first time each turn, if you would draw your third card, exile it instead. For as long as it remains exiled, it has &quot;You may cast this card from exile and it costs {1} less to cast&quot;.
+Whenever you cast a spell with a reduced mana cost, put a Wind counter on Janna. At the end of any phase on your turn, if Janna has eight or more Wind counters, remove all Wind counters from Janna, then transform her.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Janna, Spirit of Wisdom and Harmony</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/78_front.png" num="77a">LORT-FV</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Janna, Spirit of Wisdom and Harmony</related>
+		</card>
+		<card>
+			<name>Janna, Spirit of Wisdom and Harmony</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+At the beginning of your upkeep, draw a card.
+Whenever you would draw a card, exile it instead. For as long as it remains exiled, it has &quot;You may cast this card from exile and it costs {1} less to cast&quot;.
+---
+(Front): Janna, Blue Bird of the Sea</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/78_back.png" num="77b">LORT-FV</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Elf Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Janna, Blue Bird of the Sea</related>
+		</card>
+		<card>
+			<name>Howling Gale</name>
+			<text>Howling Gale deals X+2 damage to target creature where X equals each other spell you have cast this turn.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/79.png" num="107">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>URU/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Eye Of The Storm</name>
+			<text>Target creature you control gets +2/+0 until the beginning of your next upkeep. Draw two cards.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/80.png" num="68">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Iascylla, Figurehead of the Deep</name>
+			<text>Whenever you cast an instant or sorcery, or whenever you activate another creature ability you control, copy it targeting the same targets.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/81.png" num="76">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>2UURR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Galesong Flock</name>
+			<text>Create a Galesong Swallow token, then put a number of +1/+1 counters on it equal to the number of instant and sorcery spells you have cast this turn, and for each activated ability triggered among creatures you control.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/82.png" num="69">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Galesong Swallow LORT-FV</name>
+			<text></text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/83.png" num="9">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Maryam, Temple Caretaker</name>
+			<text>When Maryam enters, choose one —
+• Shuffle a card from your hand into your library to draw a card.
+• Shuffle a card from your hand into your library to add {C}{C}{C}. This mana can only be used to cast instant and sorcery spells.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/84.png" num="81">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunken Temple</name>
+			<text>At the beginning of your end step, note the number of cards in your hand, store that note on this enchantment, then shuffle your hand into your library.
+At the beginning of your upkeep, draw cards equal to the number noted on this enchantment, then clear all stored notes on this enchantment.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/85.png" num="97">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Landmark</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Windborne Mariner</name>
+			<text>First strike
+If you have drawn three or more cards this turn, Windborne Mariner costs {1}{UR} less to cast.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/86.png" num="114">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/R</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divine Whirlwind</name>
+			<text>If you have drawn three or more cards this turn, Divine Whirlwind costs {U}{R} less to cast.
+Divine Whirlwind deals 3 damage to target creature and 2 damage to that creatures controller.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/87.png" num="63">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exalted Cloudwinder</name>
+			<text>First strike
+If you have drawn three or more cards this turn, Exalted Cloudwinder costs {U}{R} less to cast.
+When Exalted Cloudwinder enters, at the beginning of your next upkeep, draw two cards.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/88.png" num="67">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charlatan Fishmonger</name>
+			<text>At the beginning of your upkeep, each player exiles the top card of their library. Cards exiled by opponents this way have &quot;Until the beginning of your next end step, you may cast this card from exile&quot;. Cards you exile this way has &quot;For as long as it remains exiled, you may cast this card from exile&quot;.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/89.png" num="57">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prototype Porobot</name>
+			<text>Skulk, Attune {C} (This creature can&apos;t be blocked by creatures with greater power. When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)
+When Prototype Porobot dies, until the end of turn, the next time you cast an instant or sorcery with mana value 6 or greater, return Prototype Porobot from the graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/90.png" num="89">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Poro Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Galesong Call</name>
+			<text>Create a Galesong Swallow token.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/91.png" num="106">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U/R</manacost>
+				<cmc>1</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chemtech Drake</name>
+			<text>Whenever you cast an instant or sorcery, draw a card.
+Whenever you draw a card while you have seven or more cards in hand, Chemtech Drake deals 1 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/92.png" num="58">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5UR</manacost>
+				<cmc>7</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>8/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shady Spectacles</name>
+			<text>As Shady Spectacles becomes attached to a creature, choose another creature you control.
+Equipped creature is a copy of the chosen creature.
+Equip {UR}</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/93.png" num="93">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>UUR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elder Dragon</name>
+			<text>Elder Dragon costs {1} less to cast for each dragon boon instant card in your graveyard and exile.
+Fury (Whenever a creature dealt damage by Elder Dragon this turn dies, put a +1/+1 counter on Elder Dragon.)
+Whenever another creature you control with mana value 6 or greater enters, search your library, graveyard, and/or exile for a dragon boon instant card. Cast that card targeting that creature without paying its mana cost. If you search your library this way, shuffle.
+Whenever one or more creatures you control attacks, put a number of Doom counters on Elder Dragon equal to the total power among attacking creatures you control. At the beginning of your end phase, if Elder Dragon has seventy five or more Doom counters, remove all Doom counters form Elder Dragon, then transform him.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Elder Dragon, Aspect of the Dragon</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/94_front.png" num="66a">LORT-FV</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Elder</type>
+				<maintype>Creature</maintype>
+				<manacost>6WUBRG</manacost>
+				<cmc>11</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>12/12</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Elder Dragon, Aspect of the Dragon</related>
+		</card>
+		<card>
+			<name>Elder Dragon, Aspect of the Dragon</name>
+			<text>Hexproof, Indestructible, Fury (Whenever a creature dealt damage by Elder Dragon this turn dies, put a +1/+1 counter on Elder Dragon.)
+Elder Dragon cannot be blocked, sacrificed, or exiled.
+---
+(Front): Elder Dragon</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/94_back.png" num="66b">LORT-FV</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Dragon Elder</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>30/30</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Elder Dragon</related>
+		</card>
+		<card>
+			<name>Mountainous Vigor</name>
+			<text>Put a +1/+0 counter and an absorb 1 counter on target creature. (If a source would deal damage to that creature, prevent 1 of that damage.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/95.png" num="8">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Dragon Boon</type>
+				<maintype>Instant</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chemtech Blight</name>
+			<text>Put a deathless counter on target creature. (When that creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner&apos;s control with a stun counter on it.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/96.png" num="18">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Dragon Boon</type>
+				<maintype>Instant</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hextech Prowess</name>
+			<text>Put a +1/+0 counter and two afflict 1 counters on target creature. (Whenever that creature becomes blocked, defending player loses 1 life.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/97.png" num="73">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Dragon Boon</type>
+				<maintype>Instant</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Infernal Might</name>
+			<text>Put a +1/+0 counter and a fearsome counter on target creature. (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/98.png" num="34">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Dragon Boon</type>
+				<maintype>Instant</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Oceanic Will</name>
+			<text>Remove all damage from creatures you control. You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/99.png" num="14">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Dragon Boon</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cloudbringer&apos;s Grace</name>
+			<text>Put a challenger counter on target creature. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/100.png" num="59">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant — Dragon Boon</type>
+				<maintype>Instant</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Primordial Roar</name>
+			<text>Untap each land you control. Then reveal the top six cards of your library, put each creature with mana value 6 into your hand, then shuffle all other revealed cards into your library.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/101.png" num="88">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3WUBRG</manacost>
+				<cmc>8</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dune Swallower</name>
+			<text>As an additional cost to cast this spell, sacrifice three creatures you control or three untapped lands you control.
+Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
+Dune Swallower enters with a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/102.png" num="64">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Voidling</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>9/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>General of the Dunes</name>
+			<text>Daybreak – When General of the Dunes enters, if it was the first spell you cast this turn, put a vulnerable counter on a creature with the lowest power among creatures opponents control. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
+Whenever you trigger a daybreak ability you control, put a vulnerable counter on a creature with the lowest power among creatures opponents control. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/103.png" num="70">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defenders of the Sun Disc</name>
+			<text>Daybreak – When Defenders of the Sun Disc enters, search your library and for a card named Defenders of the Sun Disc, reveal it, and put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/104.png" num="62">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Malediction</name>
+			<text>Create a Curse of Terror token attached to target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/105.png" num="52">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tomb-Raider Barbara</name>
+			<text>The first time each turn another creature you control dies, put a random counter on target creature you control from among trample, absorb 1, first strike, fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, or a spellshield counter.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/106.png" num="99">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horned Swarmcaller</name>
+			<text>Fury (Whenever a creature dealt damage by Horned Swarmcaller this turn dies, put a +1/+1 counter on Horned Swarmcaller.)
+When Horned Swarmcaller enters, put a -1/-0 counter on up to two target creatures opponents control. Those creatures have no abilities.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/107.png" num="75">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5UB</manacost>
+				<cmc>7</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shackled Ghasts</name>
+			<text>When Shackled Ghasts dies, if it would enter the graveyard, exile it instead. For as long as it remains exiled, it has &quot;The next time a creature you control returns from the graveyard to the battlefield, return this creature from exile to the battlefield.&quot;</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/108.png" num="25">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wraith Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Realm of Death</name>
+			<text>Target creature you control and a creature with the highest power among creatures opponents control fight. Then destroy each other creature. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/109.png" num="24">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BBB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Legion of the Severed</name>
+			<text>When Legion of the Severed enters, until the end of turn, the next creature you cast enters with a deathless counter. (When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner&apos;s control with a stun counter on it.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/110.png" num="22">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wraith Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Amalgamation Of Vile Rites</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Amalgamation Of Vile Rites enters with a deathless counter. (When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner&apos;s control with a stun counter on it.)
+When Amalgamation Of Vile Rites dies, you gain 2 life.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/111.png" num="17">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wraith Construct Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spectral Surveyor</name>
+			<text>Lifelink
+When Spectral Surveyor enters, you may choose one —
+• {B}{WU}: Destroy target equipment.
+• {B}{WU}: Destroy target landmark.
+• {B}{WU}: Target creature an opponent controls loses all abilities until the end of your next turn.
+• {B}{WU}: Remove all damage from target creature you control. You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/112.png" num="112">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mystic Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>BW/U</manacost>
+				<cmc>2</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lonely Chimeslime</name>
+			<text>Whenever a creature you control dies, create four Chime tokens.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/113.png" num="23">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Slug</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deathgrasp Cultist</name>
+			<text>Whenever Deathgrasp Cultist or a titanic creature you control enters, create a Curse of Terror token attached to a creature with the highest power among creatures opponents control. (A creature with power or toughness 8 or greater is titanic.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/114.png" num="19">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Watery Grave</name>
+			<text>Exile the bottom six cards of target opponents library.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/115.png" num="28">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Threshold of the Grey</name>
+			<text>When Threshold of the Grey enters, create a Curse of Terror token attached to target creature an opponent controls.
+When a titanic creature you control enters, sacrifice Threshold of the Grey, if you do, draw two cards. (A creature with power or toughness 8 or greater is titanic.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/116.png" num="27">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Landmark</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Spectral Ironhound</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature you control.
+When Spectral Ironhound enters, create a Thousand-Clawed Deathwinder token.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/117.png" num="26">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wraith Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thousand-Clawed Deathwinder LORT-FV</name>
+			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/118.png" num="5">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Serpent Wraith</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>8/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Erastin, the Disgraced</name>
+			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
+Erastin enters with a deathless counter. (When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner&apos;s control with a stun counter on it.)
+Whenever Erastin attacks, creatures opponents control get -1/-0 until the beginning of your next upkeep.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/119.png" num="21">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>8/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Death&apos;s Grasp</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Death&apos;s Grasp deals 5 damage to target creature.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/120.png" num="20">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mordekaiser, The Iron Revenant</name>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+When Mordekaiser enters, sacrifice two creatures you control.
+Whenever a source you control destroys a creature you control, return that creature from the graveyard to the battlefield. Then put a Revenant counter on Mordekaiser. If the destroyed creature had power 5 or greater, put two Revenant counters on Mordekaiser instead.
+At the end of any phase on your turn, if Mordekaiser has fifteen or more Revenant counters, remove all Revenant counters from Mordekaiser, then transform him.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Mordekaiser, The Lord of Death</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/121_front.png" num="83a">LORT-FV</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Wraith Construct Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>4BBR</manacost>
+				<cmc>7</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Mordekaiser, The Lord of Death</related>
+		</card>
+		<card>
+			<name>Mordekaiser, The Lord of Death</name>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+Whenever a source you control destroys a creature you control, return that creature from the graveyard to the battlefield.
+Whenever Mordekaiser attacks, you get an emblem with &quot;Whenever a source you control destroys a creature you control, each opponent loses 1 life. You gain that much life&quot;.
+---
+(Front): Mordekaiser, The Iron Revenant</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/121_back.png" num="83b">LORT-FV</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact Creature — Wraith Construct Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>6/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Mordekaiser, The Iron Revenant</related>
+		</card>
+		<card>
+			<name>Emblem LORT-FV</name>
+			<text>Whenever a source you control destroys a creature you control, each opponent loses 1 life. You gain that much life.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/122.png" num="4">LORT-FV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem — Mordekaiser</type>
+				<maintype>Emblem</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
