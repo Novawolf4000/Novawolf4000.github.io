@@ -5,7 +5,7 @@
 			<name>LORT-MTN</name>
 			<longname>Legends Of Runeterra Converted: Call of the Mountain</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-18</releasedate>
+			<releasedate>2026-08-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -648,7 +648,7 @@ When Captain Arrika enters, you may exile target creature an opponent controls u
 		</card>
 		<card>
 			<name>Dragonguard Lieutenant</name>
-			<text>When Dragonguard Lieutenant enters, you may behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
+			<text>When Dragonguard Lieutenant enters, you may behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. (To behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant, choose a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant you control or reveal a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant card from your hand.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/36.png" num="3">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -665,7 +665,7 @@ When Captain Arrika enters, you may exile target creature an opponent controls u
 		</card>
 		<card>
 			<name>Dragonguard Lookout</name>
-			<text>When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap each creature you control. After this phase, there is an additional combat phase. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)</text>
+			<text>When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap each creature you control. After this phase, there is an additional combat phase. (To behold a Dragon, if you do, untap each creature you control, choose a Dragon, if you do, untap each creature you control you control or reveal a Dragon, if you do, untap each creature you control card from your hand.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/37.png" num="4">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -734,7 +734,7 @@ When Kadregrin enters, put four +1/+1 counters on each other dragon creature you
 		</card>
 		<card>
 			<name>Molten Breath</name>
-			<text>Choose a creature you control with fury. That creature deals damage equal to its power to the two creatures with the lowest power among creatures target opponent controls.</text>
+			<text>Choose a creature you control with fury. That creature deals damage equal to its power to two creatures with the lowest power among creatures target opponent controls.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/41.png" num="9">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1496,7 +1496,7 @@ Nightfall — When this spell resolves, if it wasn&apos;t the first spell you ca
 		</card>
 		<card>
 			<name>Vaults of Helia</name>
-			<text>At the beginning of your upkeep, sacrifice a nontoken creature with the greatest mana value among creatures you control. Reveal cards from the top of your library until you reveal a creature card with mana value equal to 1 plus the sacrificed creature&apos;s mana value. Put that card onto the battlefield, then shuffle.</text>
+			<text>At the beginning of your upkeep, sacrifice a nontoken creature with the greatest mana value among creatures you control. Reveal cards from the top of your library until you reveal a creature card with mana value equal to the sacrificed creature plus 1. Put that card onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/80.png" num="47">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1527,7 +1527,7 @@ Nightfall — When this spell resolves, if it wasn&apos;t the first spell you ca
 		</card>
 		<card>
 			<name>Arrel the Tracker</name>
-			<text>At the beginning of your end step, if Arrel the Tracker was targeted by a source you control, Arrel the Tracker deals damage equal to its power to the creature with the lowest power among creatures target opponent controls.</text>
+			<text>At the beginning of your end step, if Arrel the Tracker was targeted by a source you control, Arrel the Tracker deals damage equal to its power to a creature with the lowest power among creatures target opponent controls.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/82.png" num="49">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1595,7 +1595,7 @@ Nightfall — When this spell resolves, if it wasn&apos;t the first spell you ca
 		</card>
 		<card>
 			<name>Hunt the Weak</name>
-			<text>Target opponent reveals their hand, then discards the creature card with the lowest power from among them.</text>
+			<text>Target opponent reveals their hand, then discards a creature card with the lowest power from among them.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/86.png" num="56">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1611,7 +1611,7 @@ Nightfall — When this spell resolves, if it wasn&apos;t the first spell you ca
 		</card>
 		<card>
 			<name>Noxkraya Arena</name>
-			<text>At the end of your turn, the creature with highest power among creatures you control, and the creature with lowest power among creatures target opponent controls fight. (Each deals damage equal to its power to the other.)</text>
+			<text>At the end of your turn, a creature with highest power among creatures you control, and a creature with lowest power among creatures target opponent controls fight. (Each deals damage equal to its power to the other.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/87.png" num="58">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1787,7 +1787,7 @@ If Survival Skills is discarded or milled, the creature with the highest power a
 		<card>
 			<name>Augur of the Old Ones</name>
 			<text>Trample, Juggernaut (After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)
-When Augur of the Old Ones enters, if you behold a card with mana value 8 or greater, give target creature Trample and Juggernaut. (To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)</text>
+When Augur of the Old Ones enters, if you behold a card with mana value 8 or greater, put a trample counter and a juggernaut counter on target creature. (To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/96.png" num="67">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1821,8 +1821,8 @@ When Augur of the Old Ones enters, if you behold a card with mana value 8 or gre
 		<card>
 			<name>Faces of the Old Ones</name>
 			<text>When Faces of the Old Ones enters, put a Freljord counter onto a land you control.
-At the beginning of your upkeep, you may Behold a card with mana value 8 or greater, if you do, put a Freljord counter onto a land you control. (To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)
-Whenever a land you control with a Freljord counter is tapped for mana, its controller adds an additional one mana of any type that land can produce.</text>
+At the beginning of your upkeep, you may behold a card with mana value 8 or greater, if you do, put a Freljord counter onto a land you control. (To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)
+If you tap a land with a Freljord counter for mana, it produces an additional one mana of any type that land can produce.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/98.png" num="69">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2027,7 +2027,7 @@ You may cast cards exiled this way for as long as it remains exiled.</text>
 			<text>Juggernaut (After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)
 When Trundle enters, search your library and/or graveyard for a card named Ice Pillar, and exile it. If you search your library this way, shuffle. You may cast the card exiled this way from exile for as long as it remains exiled.
 When a card named Ice Pillar you control enters, transform Trundle.
-Partner
+Partner (You can have two commanders if both have partner.)
 ---
 (Back): Trundle, The Troll King</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/110_front.png" num="81a">LORT-MTN</set>
@@ -2500,7 +2500,7 @@ Fused Firebrand enters with a spellshield counter. (The first time an instant, s
 		</card>
 		<card>
 			<name>Giddy Sparkleologist</name>
-			<text>When Giddy Sparkleologist enters, you may behold a Celestial, if you do, target creature you control gets a +1/+1 counter and a spellshield counter. (To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand. The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+			<text>When Giddy Sparkleologist enters, you may behold a Celestial, if you do, target creature you control gets a +1/+1 counter and a spellshield counter. (To behold a Celestial, if you do, target creature you control gets a +1/+1 counter and a spellshield counter, choose a Celestial, if you do, target creature you control gets a +1/+1 counter and a spellshield counter you control or reveal a Celestial, if you do, target creature you control gets a +1/+1 counter and a spellshield counter card from your hand.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/131.png" num="113">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3572,7 +3572,7 @@ Daybreak — When this spell resolves, if it was the first spell you cast this t
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
 Whenever Zoe deals combat damage to an opponent, reveal cards from the top of your library until you reveal three Celestial cards with mana value 3 or less, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
 At the end of any phase on your turn, if there are ten or more cards in your graveyard with different names, transform Zoe.
-Partner
+Partner (You can have two commanders if both have partner.)
 ---
 (Back): Zoe, The Aspect of Twilight</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/191_front.png" num="221a">LORT-MTN</set>
@@ -4141,7 +4141,7 @@ Whenever Tahm Kench attacks, exile all creatures mutated under Tahm Kench.
 		<card>
 			<name>The Slaughter Docks</name>
 			<text>At the beginning of your upkeep, Toss 1. (Exile a card from the bottom of your library.)
-At the end of any phase on your turn, if you are Deep, sacrifice The Slaughter Docks, then reveal cards from the top of your library until you reveal a Leviathan creature, put it onto the battlefield under your control, then shuffle. (If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)</text>
+At the end of any phase on your turn, if you are Deep, sacrifice The Slaughter Docks, if you do, reveal cards from the top of your library until you reveal a Leviathan creature, put it onto the battlefield under your control, then shuffle. (If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-MTN-files/img/220.png" num="154">LORT-MTN</set>
 			<prop>
 				<layout>normal</layout>

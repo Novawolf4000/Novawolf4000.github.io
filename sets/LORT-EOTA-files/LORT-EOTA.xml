@@ -5,7 +5,7 @@
 			<name>LORT-EOTA</name>
 			<longname>Legends Of Runeterra Conversion: Empires of the Ascended</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-18</releasedate>
+			<releasedate>2026-08-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -43,9 +43,9 @@
 		</card>
 		<card>
 			<name>Ancient Preparations</name>
-			<text>Vanishing 2
+			<text>Vanishing 2 (This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 When Ancient Preparations enters, Predict. (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)
-When Ancient Preparations is sacrificed with no time counters, create a Clockling token.</text>
+When Ancient Preparations is sacrificed, if it had no time counters on it, create a Clockling token.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/2.png" num="189">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -111,7 +111,7 @@ When Ancient Preparations is sacrificed with no time counters, create a Clocklin
 			<name>Azir, Shurima&apos;s Emperor</name>
 			<text>Ascended God-Warrior — Whenever one or more creatures you control attacks, create a tapped and attacking Sand Soldier token.
 Whenever you cast a creature or landmark, put an Emperor counter on Azir. At the end of any phase on your turn, if Azir has twelve or more Emperor counters, remove all Emperor counters from Azir, then transform him.
-Partner
+Partner (You can have two commanders if both have partner.)
 ---
 (Back): Azir, The Emperor of the Sands</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/6_front.png" num="92a">LORT-EOTA</set>
@@ -188,7 +188,7 @@ Whenever a source you control destroys a creature or planeswalker, put a +1/+0 c
 		</card>
 		<card>
 			<name>Boomerang Blade</name>
-			<text>Target creature you control deals damage equal to its power to the creature with the highest power and the creature with the lowest power among creatures target opponent controls.</text>
+			<text>Target creature you control deals damage equal to its power to a creature with the highest power and a creature with the lowest power among creatures target opponent controls.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/9.png" num="97">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -207,7 +207,7 @@ Whenever a source you control destroys a creature or planeswalker, put a +1/+0 c
 			<text>If Buried Sun Disc is in your opening hand, you may begin the game with it on the battlefield.
 Vanishing 25 (This permanent enters with twenty-five time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 Whenever a legendary creature you control transforms, remove nine time counters from Buried Sun Disc.
-If Buried Sun Disc would be sacrificed with no time counters, transform it instead.
+When Buried Sun Disc would be sacrificed, if it had no time counters on it, transform it instead.
 ---
 (Back): Restored Sun Disk</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/10_front.png" num="192a">LORT-EOTA</set>
@@ -553,8 +553,8 @@ Create six Sand Soldier tokens.</text>
 		</card>
 		<card>
 			<name>Hibernating Rockbear</name>
-			<text>Vanishing 3
-When Hibernating Rockbear is sacrificed with no time counters, create a Grumpy Rockbear token.</text>
+			<text>Vanishing 3 (This permanent enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Hibernating Rockbear is sacrificed, if it had no time counters on it, create a Grumpy Rockbear token.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/28.png" num="124">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -590,7 +590,7 @@ Choose one —
 			<name>Inner Sanctum</name>
 			<text>If you have Reputation, you may cast Inner Sanctum without paying its mana cost. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)
 Vanishing 1
-When Inner Sanctum is sacrificed with no time counters, put two random counters on target creature you control from among Trample, Absorb 1, First strike, Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, or a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
+When Inner Sanctum is sacrificed, if it had no time counters on it, put two random counters on target creature you control from among trample, absorb 1, first strike, fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, or a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/30.png" num="125">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -735,9 +735,9 @@ Ascended God-Warrior — Creatures your opponents control have -1/-0. If you con
 		</card>
 		<card>
 			<name>Preservarium</name>
-			<text>Vanishing 2
+			<text>Vanishing 2 (This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 When Preservarium enters, draw a card.
-When Preservarium is sacrificed with no time counters, draw a card.</text>
+When Preservarium is sacrificed, if it had no time counters on it, draw a card.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/37.png" num="137">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1119,8 +1119,8 @@ If you put a landmark to the top of your library during the Prediction, you may 
 		</card>
 		<card>
 			<name>Salt Spire</name>
-			<text>Vanishing 2
-When Salt Spire is sacrificed with no time counters, create a Grumpy Rockbear token, then if there are four or more landmarks in your graveyard, put two +1/+1 counters on the creature with the highest power among creatures you control.</text>
+			<text>Vanishing 2 (This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Salt Spire is sacrificed, if it had no time counters on it, create a Grumpy Rockbear token, then if there are four or more landmarks in your graveyard, put two +1/+1 counters on a creature with the highest power among creatures you control.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/56.png" num="154">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -1883,7 +1883,7 @@ At the beginning of your end step, Eternal Gladiator and the creature with the h
 		</card>
 		<card>
 			<name>General&apos;s Palace</name>
-			<text>Creatures your opponents control have Vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
+			<text>Creatures your opponents control have vulnerable. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
 At the end of the first combat phase on your turn, after this phase, there is an additional combat phase.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/96.png" num="119">LORT-EOTA</set>
 			<prop>
@@ -2105,7 +2105,7 @@ When The Etherfiend enters, you may sacrifice another creature you control, if y
 		</card>
 		<card>
 			<name>Lamb&apos;s Respite</name>
-			<text>The creature with the lowest power among creatures you control has Indestructible until the end of the turn.</text>
+			<text>A creature with the lowest power among creatures you control has Indestructible until the end of the turn.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/109.png" num="41">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2139,10 +2139,10 @@ When The Etherfiend enters, you may sacrifice another creature you control, if y
 		<card>
 			<name>Kindred, The Eternal Hunters</name>
 			<text>First strike
-The first time each turn, whenever a source you control destroys a creature or planeswalker, put a Slay counter onto the creature with the lowest power among creatures opponents control.
+The first time each turn, whenever a source you control destroys a creature or planeswalker, put a Slay counter onto a creature with the lowest power among creatures opponents control.
 At the beginning of your end step, each opponent sacrifices each creature they control with a Slay counter.
 Whenever a source you control destroys a creature or planeswalker, put a Reaper counter onto Kindred. At the end of any phase on your turn, if Kindred has two or more Reaper counters, remove all Reaper counters from Kindred, then transform Kindred.
-Partner
+Partner (You can have two commanders if both have partner.)
 ---
 (Back): Kindred, The Spirit of Death</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/111_front.png" num="40a">LORT-EOTA</set>
@@ -2163,7 +2163,7 @@ Partner
 		<card>
 			<name>Kindred, The Spirit of Death</name>
 			<text>First strike
-The first time each turn, whenever a source you control destroys a creature or planeswalker, put a Slay counter onto the creature with the lowest power among creatures opponents control, then put two +1/+1 counters on Kindred.
+The first time each turn, whenever a source you control destroys a creature or planeswalker, put a Slay counter onto a creature with the lowest power among creatures opponents control, then put two +1/+1 counters on Kindred.
 At the beginning of your end step, each opponent sacrifices each creature they control with a Slay counter.
 ---
 (Front): Kindred, The Eternal Hunters</text>
@@ -2284,7 +2284,7 @@ Target creature you control with power 5 or greater deals damage equal to its po
 		</card>
 		<card>
 			<name>Black Rose Spy</name>
-			<text>If you have Reputation, when Black Rose Spy enters, you may have Black Rose Spy enter as copy of a creature you control that dealt combat damage this turn. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)</text>
+			<text>If you have Reputation, when Black Rose Spy enters, you may have Black Rose Spy enter as a copy of a creature you control that dealt combat damage this turn. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/118.png" num="55">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2380,7 +2380,7 @@ Draw two cards.</text>
 		<card>
 			<name>Black Rose Mimicry</name>
 			<text>If you have Reputation, Black Rose Mimicry costs {3} less to cast. (Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)
-Copy the next spell you cast this turn targeting the same targets.</text>
+Copy the next instant or sorcery you cast this turn targeting the same targets.</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/122.png" num="54">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2396,8 +2396,8 @@ Copy the next spell you cast this turn targeting the same targets.</text>
 		</card>
 		<card>
 			<name>Startipped Peak</name>
-			<text>Vanishing 2
-When Startipped Peak is sacrificed with no time counters, reveal cards from the top of your library until you reveal four Celestial cards with mana value 3 or less, randomly choose two and add them to your hand, then shuffle all other revealed cards into your library.</text>
+			<text>Vanishing 2 (This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Startipped Peak is sacrificed, if it had no time counters on it, reveal cards from the top of your library until you reveal four Celestial cards with mana value 3 or less, randomly choose two and add them to your hand, then shuffle all other revealed cards into your library.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/123.png" num="168">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2565,7 +2565,7 @@ After this phase, there is an additional combat phase.</text>
 		</card>
 		<card>
 			<name>Penitent Squire</name>
-			<text>When Penitent Squire enters, you may behold a Knight, if you do, the next creature you cast enters with a challenger counter. (To behold a Knight, choose a Knight you control or reveal a Knight card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)</text>
+			<text>When Penitent Squire enters, you may behold a Knight, if you do, the next creature you cast enters with a challenger counter. (To behold a Knight, if you do, the next creature you cast enters with a challenger counter, choose a Knight, if you do, the next creature you cast enters with a challenger counter you control or reveal a Knight, if you do, the next creature you cast enters with a challenger counter card from your hand.)</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/133.png" num="13">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2746,9 +2746,9 @@ Plunder — If an opponent was dealt damage this turn, put two +1/+2 counters on
 		</card>
 		<card>
 			<name>Blighted Ravine</name>
-			<text>Vanishing 1
+			<text>Vanishing 1 (This permanent enters with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 When Blighted Ravine enters, you gain 2 life.
-When Blighted Ravine is sacrificed with no time counters, Blighted Ravine deals 2 damage to each opponent and each creature and planeswalker they control.</text>
+When Blighted Ravine is sacrificed, if it had no time counters on it, Blighted Ravine deals 2 damage to each opponent and each creature and planeswalker they control.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/142.png" num="72">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -2850,7 +2850,7 @@ At the beginning of your end step, if an enchantment you control named Frozen Th
 		<card>
 			<name>Frozen Thrall</name>
 			<text>Vanishing 9 (This permanent enters with nine time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
-When Frozen Thrall is sacrificed with no time counters, create a Frostguard Thrall token.</text>
+When Frozen Thrall is sacrificed, if it had no time counters on it, create a Frostguard Thrall token.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/148.png" num="78">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3342,8 +3342,8 @@ At the beginning of your pre-combat main phase, create two Blade tokens.
 		</card>
 		<card>
 			<name>Rockfall Path</name>
-			<text>Vanishing 2 
-When Rockfall Path is sacrificed with no time counters, exile the creature with the lowest power among creatures opponents control.</text>
+			<text>Vanishing 2 (This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Rockfall Path is sacrificed, if it had no time counters on it, exile a creature with the lowest power among creatures opponents control.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/171.png" num="150">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3443,9 +3443,9 @@ When Terra Elemental enters, if there are four or more landmark cards in your gr
 		</card>
 		<card>
 			<name>Eye of the Ra-Horak</name>
-			<text>Vanishing 1 
-When Eye of the Ra-Horak is sacrificed with no time counters, tap up to two creatures with the lowest power among creatures opponents control and put a stun counter on them.
-Daybreak – When Eye of the Ra-Horak enters, if it was the first spell you cast this turn, create a token copy of Eye of the Ra-Horak with Vanishing 2.</text>
+			<text>Vanishing 1 (This permanent enters with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+Daybreak – When Eye of the Ra-Horak enters, if it was the first spell you cast this turn, create a token copy of Eye of the Ra-Horak with Vanishing 2.
+When Eye of the Ra-Horak is sacrificed, if it had no time counters on it, tap up to two creatures with a lowest power among creatures opponents control and put a stun counter on them.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/177.png" num="117">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3477,8 +3477,8 @@ Daybreak – When Eye of the Ra-Horak enters, if it was the first spell you cast
 		</card>
 		<card>
 			<name>Spiral Stairs</name>
-			<text>Vanishing 3 
-When Spiral Stairs is sacrificed with no time counters, put two +1/+1 counters, a +1/+0 counter, and a trample counter on target creature you control.</text>
+			<text>Vanishing 3 (This permanent enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Spiral Stairs is sacrificed, if it had no time counters on it, put two +1/+1 counters, a +1/+0 counter, and a trample counter on target creature you control.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/179.png" num="165">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -3577,7 +3577,7 @@ Snapjaw Swarm must attack each turn if it has a haste counter. Whenever Snapjaw 
 			<name>Pyke</name>
 			<text>First strike, Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
 Whenever Pyke deals damage, put that many Ripper counters on Pyke. At the end of any phase on your turn, if Pyke has fifteen or more Ripper counters, remove all Ripper counters from Pyke, then transform him.
-Partner
+Partner (You can have two commanders if both have partner.)
 ---
 (Back): Pyke, The Bloodharbor Ripper</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/183_front.png" num="141a">LORT-EOTA</set>
@@ -3598,7 +3598,7 @@ Partner
 		<card>
 			<name>Pyke, The Bloodharbor Ripper</name>
 			<text>First strike, Lurk (The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)
-Whenever a creature dealt damage by Pyke this turn dies, Pyke deals damage equal to his power to the creature with the lowest power among creatures opponents control.
+Whenever a creature dealt damage by Pyke this turn dies, Pyke deals damage equal to his power to a creature with the lowest power among creatures opponents control.
 ---
 (Front): Pyke</text>
 			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/183_back.png" num="141b">LORT-EOTA</set>
@@ -3668,9 +3668,9 @@ The top card of your library is treated as if it has Lurk.</text>
 		</card>
 		<card>
 			<name>Reaver&apos;s Row</name>
-			<text>Vanishing 2
+			<text>Vanishing 2 (This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
 Whenever one or more time counters is removed from Reaver&apos;s Row, search your library for a creature with mana value 1, reveal it, put it into your hand, then shuffle.
-When Reaver&apos;s Row is sacrificed with no time counters, put a +1/+2 counter and a fearsome counter on each creature you control with mana value 1.</text>
+When Reaver&apos;s Row is sacrificed, if it had no time counters on it, put a +1/+2 counter and a fearsome counter on each creature you control with mana value 1.</text>
 			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/187.png" num="144">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>
@@ -4382,8 +4382,8 @@ Whenever Akshan deals combat damage, choose one —
 		</card>
 		<card>
 			<name>Warlord&apos;s Palace</name>
-			<text>Vanishing 8
-When Warlord&apos;s Palace is sacrificed with no time counters, choose one —
+			<text>Vanishing 8 (This permanent enters with eight time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Warlord&apos;s Palace is sacrificed, if it had no time counters on it, choose one —
 • Predict, then draw a card. (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)
 • Create a Sandstone Charger token.
 • Put a +1/+0 counter on each creature you control.</text>
@@ -4751,7 +4751,7 @@ When this land enters, return a land you control to its owner&apos;s hand.
 		<card>
 			<name>Crest of Insight LORT-EOTA</name>
 			<text>Vanishing 1 (This permanent enters with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
-When Crest of Insight is sacrificed with no time counters, add one mana of any type. Until the end of turn, you don&apos;t lose this mana as steps and phases end.</text>
+When Crest of Insight is sacrificed, if it had no time counters on it, add one mana of any type. Until the end of turn, you don&apos;t lose this mana as steps and phases end.</text>
 			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/243.png" num="8">LORT-EOTA</set>
 			<prop>
 				<layout>normal</layout>

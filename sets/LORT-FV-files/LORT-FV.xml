@@ -5,7 +5,7 @@
 			<name>LORT-FV</name>
 			<longname>Legends Of Runeterra Conversion: Fate&apos;s Voyage</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-18</releasedate>
+			<releasedate>2026-08-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1976,7 +1976,7 @@ Whenever you trigger a daybreak ability you control, put a vulnerable counter on
 		</card>
 		<card>
 			<name>Tomb-Raider Barbara</name>
-			<text>The first time each turn another creature you control dies, put a random counter on target creature you control from among trample, absorb 1, first strike, fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, or a spellshield counter.</text>
+			<text>The first time each turn another creature you control dies, put a random counter on target creature you control from among trample, absorb 1, first strike, fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.), challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.), +2/+0, +1/+1, +0/+2, or a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)</text>
 			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-FV-files/img/106.png" num="99">LORT-FV</set>
 			<prop>
 				<layout>normal</layout>

@@ -1,0 +1,1604 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Carved Bladetwirler",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact Creature — Yordle Construct",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/0.png"
+			}
+		},
+		{
+			"name": "Pie Toss",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/1.png"
+			}
+		},
+		{
+			"name": "Ferocious Fluffs",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/2.png"
+			}
+		},
+		{
+			"name": "Condense",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/3.png"
+			}
+		},
+		{
+			"name": "Return-o Wrench",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/4.png"
+			}
+		},
+		{
+			"name": "Portal Scholar",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Mouse Faeire",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/5.png"
+			}
+		},
+		{
+			"name": "Mister Thrift",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/6.png"
+			}
+		},
+		{
+			"name": "Risky Venture",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/7.png"
+			}
+		},
+		{
+			"name": "Pocket Picker",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Lizard Slug Rogue",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/8.png"
+			}
+		},
+		{
+			"name": "Prize Fight",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/9.png"
+			}
+		},
+		{
+			"name": "Angel, The Pit Fighter",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Vastayan Warrior",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/10.png"
+			}
+		},
+		{
+			"name": "Five-Punch Pablo",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Octopus Warrior",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/11.png"
+			}
+		},
+		{
+			"name": "Mad Ol' Babs",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Vastayan Mystic",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/12.png"
+			}
+		},
+		{
+			"name": "Brazen Buccaneer",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature — Human Pirate Warrior",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/13.png"
+			}
+		},
+		{
+			"name": "Inferna",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/14.png"
+			}
+		},
+		{
+			"name": "Barbed Chain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/15.png"
+			}
+		},
+		{
+			"name": "Father Fury",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Warrior Artificer",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/16.png"
+			}
+		},
+		{
+			"name": "The King's Court",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}{R}",
+			"type": "Artifact Creature — Vehicle",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/17.png"
+			}
+		},
+		{
+			"name": "The Swindler's Den",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{R}{R}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/18.png"
+			}
+		},
+		{
+			"name": "Dragon Prince Grinzo",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/19.png"
+			}
+		},
+		{
+			"name": "Barknuckles",
+			"rarity": "common",
+			"mana_cost": "{1}{B/R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/20.png"
+			}
+		},
+		{
+			"name": "Tidal Invocation",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/21.png"
+			}
+		},
+		{
+			"name": "Perfidious Promoter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Vastayan Rogue",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/22.png"
+			}
+		},
+		{
+			"name": "Jack, Crime Boss",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Vastayan Rogue",
+			"collector_number": "77",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/23_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/23_front.png"
+			}
+		},
+		{
+			"name": "Siren Song",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/24.png"
+			}
+		},
+		{
+			"name": "Nukkle",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Vastayan Warrior Rogue",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/25.png"
+			}
+		},
+		{
+			"name": "Mako",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Token Creature — Vastayan Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/26.png"
+			}
+		},
+		{
+			"name": "Bull",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Token Creature — Vastayan Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/27.png"
+			}
+		},
+		{
+			"name": "Deck Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{B/R}",
+			"type": "Creature — Cat",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/28.png"
+			}
+		},
+		{
+			"name": "Search Warrant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/29.png"
+			}
+		},
+		{
+			"name": "Form Up!",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/30.png"
+			}
+		},
+		{
+			"name": "Altar to Unity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/31.png"
+			}
+		},
+		{
+			"name": "Mageseeker Junior",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Inquisitor",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/32.png"
+			}
+		},
+		{
+			"name": "Scrutinizing Sergeant",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/33.png"
+			}
+		},
+		{
+			"name": "Crested Lionhawk",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/34.png"
+			}
+		},
+		{
+			"name": "Balen the Benevolent",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/35.png"
+			}
+		},
+		{
+			"name": "Thrall Bulwark",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Troll",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/36.png"
+			}
+		},
+		{
+			"name": "Frostcoat Cub",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dog",
+			"collector_number": "45",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/37_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/37_front.png"
+			}
+		},
+		{
+			"name": "Innovative Blacksmith",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Weaponmaster",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/38.png"
+			}
+		},
+		{
+			"name": "Snowy Razorclaw",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Bird Horror",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/39.png"
+			}
+		},
+		{
+			"name": "Temple to True Ice",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/40.png"
+			}
+		},
+		{
+			"name": "Ingvar the Younger",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Human Child",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/41.png"
+			}
+		},
+		{
+			"name": "Glacial Saurian",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/42.png"
+			}
+		},
+		{
+			"name": "Crystalline Stormraptor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental Bird Horror",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/43.png"
+			}
+		},
+		{
+			"name": "Facebreaker",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/44.png"
+			}
+		},
+		{
+			"name": "Attentive Accountant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Vastayan Advisor",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/45.png"
+			}
+		},
+		{
+			"name": "Sett, The Boss",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Vastayan Warrior",
+			"collector_number": "20",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/46_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/46_front.png"
+			}
+		},
+		{
+			"name": "Show Stopper",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Token Artifact",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/47.png"
+			}
+		},
+		{
+			"name": "Bout Security",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/48.png"
+			}
+		},
+		{
+			"name": "Pit Professional",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Vastayan Warrior",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/49.png"
+			}
+		},
+		{
+			"name": "Master Bingwen, the Sieve",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Creature — Vastayan Advisor",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/50.png"
+			}
+		},
+		{
+			"name": "Place Your Bets",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/51.png"
+			}
+		},
+		{
+			"name": "Smooth Mixologist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Vastayan Citizen",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/52.png"
+			}
+		},
+		{
+			"name": "Tag Out!",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "22",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/53_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/53_front.png"
+			}
+		},
+		{
+			"name": "The Old Timer",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Vastayan Warrior",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/54.png"
+			}
+		},
+		{
+			"name": "Rejuvenating Breeze",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/55.png"
+			}
+		},
+		{
+			"name": "All-Seeing Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Monk Mystic",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/56.png"
+			}
+		},
+		{
+			"name": "Royal Shimmerwing",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/57.png"
+			}
+		},
+		{
+			"name": "Beguiling Cobra",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Creature — Snake",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/58.png"
+			}
+		},
+		{
+			"name": "Airis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Vastayan Demon",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/59.png"
+			}
+		},
+		{
+			"name": "Falling Star",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/60.png"
+			}
+		},
+		{
+			"name": "Cosmic Youngling",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Unicorn Pegasus",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/61.png"
+			}
+		},
+		{
+			"name": "Star-Crossed Lovers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/62.png"
+			}
+		},
+		{
+			"name": "Sacrificial Scholar",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/63.png"
+			}
+		},
+		{
+			"name": "Age of Dragons",
+			"rarity": "common",
+			"mana_cost": "{7}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/64.png"
+			}
+		},
+		{
+			"name": "Cosmic Call",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/65_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/65_front.png"
+			}
+		},
+		{
+			"name": "Daring Demolisher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/66.png"
+			}
+		},
+		{
+			"name": "All Out",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/67.png"
+			}
+		},
+		{
+			"name": "Adroit Artificer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/68.png"
+			}
+		},
+		{
+			"name": "Captain Indari",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Human Weaponmaster",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/69.png"
+			}
+		},
+		{
+			"name": "Dashing Dandy",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/70.png"
+			}
+		},
+		{
+			"name": "Samira",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "42",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/71_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/71_front.png"
+			}
+		},
+		{
+			"name": "Elegant Edge",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/72.png"
+			}
+		},
+		{
+			"name": "Stylish Shot",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/73.png"
+			}
+		},
+		{
+			"name": "Pirouette",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/74.png"
+			}
+		},
+		{
+			"name": "Dame the Despoiler",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/75.png"
+			}
+		},
+		{
+			"name": "Captain Kalrix",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/76.png"
+			}
+		},
+		{
+			"name": "Ravenborn Tome",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/77.png"
+			}
+		},
+		{
+			"name": "Bonehide Tri-tail",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Creature — Cat Horror",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/78.png"
+			}
+		},
+		{
+			"name": "Crimson Banquet Hall",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/79.png"
+			}
+		},
+		{
+			"name": "Blowback",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/80.png"
+			}
+		},
+		{
+			"name": "Augmented Clockling",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/81.png"
+			}
+		},
+		{
+			"name": "Sump Monument",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/82.png"
+			}
+		},
+		{
+			"name": "Epic Scraptraption",
+			"rarity": "common",
+			"mana_cost": "{X}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/83.png"
+			}
+		},
+		{
+			"name": "Runaway Scraptrap",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/84.png"
+			}
+		},
+		{
+			"name": "Flashbomb Peddler",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/85.png"
+			}
+		},
+		{
+			"name": "Chemtech Catermobile",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact Creature — Vehicle",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/86.png"
+			}
+		},
+		{
+			"name": "Anura & Froop",
+			"rarity": "rare",
+			"mana_cost": "{2}{U/R}",
+			"type": "Creature — Human Lizard Artificer",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/87.png"
+			}
+		},
+		{
+			"name": "Divine Draft",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/88.png"
+			}
+		},
+		{
+			"name": "Neeko",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Vastayan Shapeshifter",
+			"collector_number": "80",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/89_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/89_front.png"
+			}
+		},
+		{
+			"name": "Ingvar's Plushie",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Artifact Creature — Poro Construct",
+			"collector_number": "76",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/90_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/90_front.png"
+			}
+		},
+		{
+			"name": "Proliferating Darkwraith",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Wraith",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/91.png"
+			}
+		},
+		{
+			"name": "Tufted Webspinner",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spider",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/92.png"
+			}
+		},
+		{
+			"name": "Necrotic Arachnoid",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Spider Horror",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/93.png"
+			}
+		},
+		{
+			"name": "Necrotic Nestling",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Token Creature — Spider",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/94.png"
+			}
+		},
+		{
+			"name": "Grave Companion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Dog Wraith",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/95.png"
+			}
+		},
+		{
+			"name": "Sacred Shears",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/96.png"
+			}
+		},
+		{
+			"name": "Soul Harvest",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/97.png"
+			}
+		},
+		{
+			"name": "Eradication",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/98.png"
+			}
+		},
+		{
+			"name": "Blimp-Pack Poacher",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/99.png"
+			}
+		},
+		{
+			"name": "Prowl",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/100.png"
+			}
+		},
+		{
+			"name": "Big Game Tycoon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/101.png"
+			}
+		},
+		{
+			"name": "Pack Attack",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/102.png"
+			}
+		},
+		{
+			"name": "Avenging Vastaya",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Vastayan Warrior",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/103.png"
+			}
+		},
+		{
+			"name": "Bushwhack Trap",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/104.png"
+			}
+		},
+		{
+			"name": "Nidalee, Queen of the Jungle",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Vastayan Shapeshifter",
+			"collector_number": "81",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/105_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/105_front.png"
+			}
+		},
+		{
+			"name": "Shurimun Secret Keeper",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/106.png"
+			}
+		},
+		{
+			"name": "Fallen Sands General",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/107.png"
+			}
+		},
+		{
+			"name": "Pakaa Cub",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Cat",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/108.png"
+			}
+		},
+		{
+			"name": "Pakaa Protector",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Creature — Cat",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/109.png"
+			}
+		},
+		{
+			"name": "All-Terrain Trooper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}",
+			"type": "Creature — Vastayan Warrior",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/110.png"
+			}
+		},
+		{
+			"name": "Bristlehog",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Hedgehog",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/111.png"
+			}
+		},
+		{
+			"name": "Facecheck",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/112.png"
+			}
+		},
+		{
+			"name": "Towering Pairofant",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Elephant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/113.png"
+			}
+		},
+		{
+			"name": "Aurora Hallunatis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/114.png"
+			}
+		},
+		{
+			"name": "Valley of Imitation",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-GIN-files/img/115.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Portal Scholar
+	2 Risky Venture
+	2 The King's Court
+	2 The Swindler's Den
+	1 Jack, Crime Boss
+	2 Scrutinizing Sergeant
+	2 Balen the Benevolent
+	2 Temple to True Ice
+	2 Ingvar the Younger
+	1 Sett, The Boss
+	2 Master Bingwen, the Sieve
+	2 Beguiling Cobra
+	2 Sacrificial Scholar
+	1 Samira
+	2 Stylish Shot
+	2 Captain Kalrix
+	2 Crimson Banquet Hall
+	2 Augmented Clockling
+	2 Sump Monument
+	2 Anura & Froop
+	1 Neeko
+	1 Ingvar's Plushie
+	2 Necrotic Arachnoid
+	2 Eradication
+	2 Blimp-Pack Poacher
+	1 Nidalee, Queen of the Jungle
+	2 Shurimun Secret Keeper
+	2 Towering Pairofant
+[uncommon(3)]
+	4 Pie Toss
+	4 Condense
+	4 Mister Thrift
+	4 Inferna
+	4 Barbed Chain
+	4 Father Fury
+	4 Dragon Prince Grinzo
+	4 Tidal Invocation
+	4 Perfidious Promoter
+	4 Nukkle
+	4 Search Warrant
+	4 Altar to Unity
+	4 Crested Lionhawk
+	4 Thrall Bulwark
+	4 Innovative Blacksmith
+	4 Glacial Saurian
+	4 Crystalline Stormraptor
+	4 Bout Security
+	4 Tag Out!
+	4 The Old Timer
+	4 All-Seeing Oracle
+	4 Royal Shimmerwing
+	4 Airis
+	4 Cosmic Youngling
+	4 Star-Crossed Lovers
+	4 Daring Demolisher
+	4 Adroit Artificer
+	4 Captain Indari
+	4 Ravenborn Tome
+	4 Blowback
+	4 Flashbomb Peddler
+	4 Chemtech Catermobile
+	4 Proliferating Darkwraith
+	4 Sacred Shears
+	4 Soul Harvest
+	4 Big Game Tycoon
+	4 Avenging Vastaya
+	4 Fallen Sands General
+	4 All-Terrain Trooper
+	4 Bristlehog
+	4 Aurora Hallunatis
+[common(6)]
+	8 Carved Bladetwirler
+	8 Ferocious Fluffs
+	8 Return-o Wrench
+	8 Pocket Picker
+	8 Prize Fight
+	8 Angel, The Pit Fighter
+	8 Five-Punch Pablo
+	8 Mad Ol' Babs
+	8 Brazen Buccaneer
+	8 Barknuckles
+	8 Siren Song
+	8 Deck Hunter
+	8 Form Up!
+	8 Mageseeker Junior
+	8 Frostcoat Cub
+	8 Snowy Razorclaw
+	8 Facebreaker
+	8 Attentive Accountant
+	8 Pit Professional
+	8 Place Your Bets
+	8 Smooth Mixologist
+	8 Rejuvenating Breeze
+	8 Falling Star
+	8 Age of Dragons
+	8 Cosmic Call
+	8 All Out
+	8 Dashing Dandy
+	8 Elegant Edge
+	8 Pirouette
+	8 Dame the Despoiler
+	8 Bonehide Tri-tail
+	8 Epic Scraptraption
+	8 Divine Draft
+	8 Tufted Webspinner
+	8 Grave Companion
+	8 Prowl
+	8 Pack Attack
+	8 Bushwhack Trap
+	8 Pakaa Cub
+	8 Facecheck
+	8 Valley of Imitation
+[common | masterpiece(1)]
+	8 Carved Bladetwirler
+	8 Ferocious Fluffs
+	8 Return-o Wrench
+	8 Pocket Picker
+	8 Prize Fight
+	8 Angel, The Pit Fighter
+	8 Five-Punch Pablo
+	8 Mad Ol' Babs
+	8 Brazen Buccaneer
+	8 Barknuckles
+	8 Siren Song
+	8 Deck Hunter
+	8 Form Up!
+	8 Mageseeker Junior
+	8 Frostcoat Cub
+	8 Snowy Razorclaw
+	8 Facebreaker
+	8 Attentive Accountant
+	8 Pit Professional
+	8 Place Your Bets
+	8 Smooth Mixologist
+	8 Rejuvenating Breeze
+	8 Falling Star
+	8 Age of Dragons
+	8 Cosmic Call
+	8 All Out
+	8 Dashing Dandy
+	8 Elegant Edge
+	8 Pirouette
+	8 Dame the Despoiler
+	8 Bonehide Tri-tail
+	8 Epic Scraptraption
+	8 Divine Draft
+	8 Tufted Webspinner
+	8 Grave Companion
+	8 Prowl
+	8 Pack Attack
+	8 Bushwhack Trap
+	8 Pakaa Cub
+	8 Facecheck
+	8 Valley of Imitation
+[foil(1)]
+	12 Carved Bladetwirler
+	6 Pie Toss
+	12 Ferocious Fluffs
+	6 Condense
+	12 Return-o Wrench
+	2 Portal Scholar
+	6 Mister Thrift
+	2 Risky Venture
+	12 Pocket Picker
+	12 Prize Fight
+	12 Angel, The Pit Fighter
+	12 Five-Punch Pablo
+	12 Mad Ol' Babs
+	12 Brazen Buccaneer
+	6 Inferna
+	6 Barbed Chain
+	6 Father Fury
+	2 The King's Court
+	2 The Swindler's Den
+	6 Dragon Prince Grinzo
+	12 Barknuckles
+	6 Tidal Invocation
+	6 Perfidious Promoter
+	1 Jack, Crime Boss
+	12 Siren Song
+	6 Nukkle
+	12 Deck Hunter
+	6 Search Warrant
+	12 Form Up!
+	6 Altar to Unity
+	12 Mageseeker Junior
+	2 Scrutinizing Sergeant
+	6 Crested Lionhawk
+	2 Balen the Benevolent
+	6 Thrall Bulwark
+	12 Frostcoat Cub
+	6 Innovative Blacksmith
+	12 Snowy Razorclaw
+	2 Temple to True Ice
+	2 Ingvar the Younger
+	6 Glacial Saurian
+	6 Crystalline Stormraptor
+	12 Facebreaker
+	12 Attentive Accountant
+	1 Sett, The Boss
+	6 Bout Security
+	12 Pit Professional
+	2 Master Bingwen, the Sieve
+	12 Place Your Bets
+	12 Smooth Mixologist
+	6 Tag Out!
+	6 The Old Timer
+	12 Rejuvenating Breeze
+	6 All-Seeing Oracle
+	6 Royal Shimmerwing
+	2 Beguiling Cobra
+	6 Airis
+	12 Falling Star
+	6 Cosmic Youngling
+	6 Star-Crossed Lovers
+	2 Sacrificial Scholar
+	12 Age of Dragons
+	12 Cosmic Call
+	6 Daring Demolisher
+	12 All Out
+	6 Adroit Artificer
+	6 Captain Indari
+	12 Dashing Dandy
+	1 Samira
+	12 Elegant Edge
+	2 Stylish Shot
+	12 Pirouette
+	12 Dame the Despoiler
+	2 Captain Kalrix
+	6 Ravenborn Tome
+	12 Bonehide Tri-tail
+	2 Crimson Banquet Hall
+	6 Blowback
+	2 Augmented Clockling
+	2 Sump Monument
+	12 Epic Scraptraption
+	6 Flashbomb Peddler
+	6 Chemtech Catermobile
+	2 Anura & Froop
+	12 Divine Draft
+	1 Neeko
+	1 Ingvar's Plushie
+	6 Proliferating Darkwraith
+	12 Tufted Webspinner
+	2 Necrotic Arachnoid
+	12 Grave Companion
+	6 Sacred Shears
+	6 Soul Harvest
+	2 Eradication
+	2 Blimp-Pack Poacher
+	12 Prowl
+	6 Big Game Tycoon
+	12 Pack Attack
+	6 Avenging Vastaya
+	12 Bushwhack Trap
+	1 Nidalee, Queen of the Jungle
+	2 Shurimun Secret Keeper
+	6 Fallen Sands General
+	12 Pakaa Cub
+	6 All-Terrain Trooper
+	6 Bristlehog
+	12 Facecheck
+	2 Towering Pairofant
+	6 Aurora Hallunatis
+	12 Valley of Imitation
+[wildcard(1)]
+	6 Carved Bladetwirler
+	15 Pie Toss
+	6 Ferocious Fluffs
+	15 Condense
+	6 Return-o Wrench
+	7 Portal Scholar
+	15 Mister Thrift
+	7 Risky Venture
+	6 Pocket Picker
+	6 Prize Fight
+	6 Angel, The Pit Fighter
+	6 Five-Punch Pablo
+	6 Mad Ol' Babs
+	6 Brazen Buccaneer
+	15 Inferna
+	15 Barbed Chain
+	15 Father Fury
+	7 The King's Court
+	7 The Swindler's Den
+	15 Dragon Prince Grinzo
+	6 Barknuckles
+	15 Tidal Invocation
+	15 Perfidious Promoter
+	4 Jack, Crime Boss
+	6 Siren Song
+	15 Nukkle
+	6 Deck Hunter
+	15 Search Warrant
+	6 Form Up!
+	15 Altar to Unity
+	6 Mageseeker Junior
+	7 Scrutinizing Sergeant
+	15 Crested Lionhawk
+	7 Balen the Benevolent
+	15 Thrall Bulwark
+	6 Frostcoat Cub
+	15 Innovative Blacksmith
+	6 Snowy Razorclaw
+	7 Temple to True Ice
+	7 Ingvar the Younger
+	15 Glacial Saurian
+	15 Crystalline Stormraptor
+	6 Facebreaker
+	6 Attentive Accountant
+	4 Sett, The Boss
+	15 Bout Security
+	6 Pit Professional
+	7 Master Bingwen, the Sieve
+	6 Place Your Bets
+	6 Smooth Mixologist
+	15 Tag Out!
+	15 The Old Timer
+	6 Rejuvenating Breeze
+	15 All-Seeing Oracle
+	15 Royal Shimmerwing
+	7 Beguiling Cobra
+	15 Airis
+	6 Falling Star
+	15 Cosmic Youngling
+	15 Star-Crossed Lovers
+	7 Sacrificial Scholar
+	6 Age of Dragons
+	6 Cosmic Call
+	15 Daring Demolisher
+	6 All Out
+	15 Adroit Artificer
+	15 Captain Indari
+	6 Dashing Dandy
+	4 Samira
+	6 Elegant Edge
+	7 Stylish Shot
+	6 Pirouette
+	6 Dame the Despoiler
+	7 Captain Kalrix
+	15 Ravenborn Tome
+	6 Bonehide Tri-tail
+	7 Crimson Banquet Hall
+	15 Blowback
+	7 Augmented Clockling
+	7 Sump Monument
+	6 Epic Scraptraption
+	15 Flashbomb Peddler
+	15 Chemtech Catermobile
+	7 Anura & Froop
+	6 Divine Draft
+	4 Neeko
+	4 Ingvar's Plushie
+	15 Proliferating Darkwraith
+	6 Tufted Webspinner
+	7 Necrotic Arachnoid
+	6 Grave Companion
+	15 Sacred Shears
+	15 Soul Harvest
+	7 Eradication
+	7 Blimp-Pack Poacher
+	6 Prowl
+	15 Big Game Tycoon
+	6 Pack Attack
+	15 Avenging Vastaya
+	6 Bushwhack Trap
+	4 Nidalee, Queen of the Jungle
+	7 Shurimun Secret Keeper
+	15 Fallen Sands General
+	6 Pakaa Cub
+	15 All-Terrain Trooper
+	15 Bristlehog
+	6 Facecheck
+	7 Towering Pairofant
+	15 Aurora Hallunatis
+	6 Valley of Imitation

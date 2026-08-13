@@ -1,0 +1,2268 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>LORT-GIN</name>
+			<longname>Legends Of Runeterra Conversion: Glory in Navori</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Carved Bladetwirler</name>
+			<text>First strike
+Upgrade (Whenever you cast an artifact, put a +1/+1 counter on this creature.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/0.png" num="62">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Yordle Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pie Toss // Perilous Pastry</name>
+			<text>Pie Toss deals 1 damage to any creature.
+
+---
+
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Perilous Pastry deals 1 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/1.png" num="105">LORT-GIN</set>
+			<prop>
+				<layout>aftermath</layout>
+				<side>front</side>
+				<type>Instant // Sorcery</type>
+				<maintype>Instant</maintype>
+				<manacost>G/W // GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ferocious Fluffs</name>
+			<text>Afflict 1 (Whenever this creature becomes blocked, defending player loses 1 life.)
+Ferocious Fluffs enters with a number of additional +1/+1 counters and afflict 1 counters for each other creature you control for each creature type that creature has.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/2.png" num="72">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>5GW</manacost>
+				<cmc>7</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Condense</name>
+			<text>Choose a creature you control. Create a token copy of that creature except it has base power and toughness 1/1.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/3.png" num="64">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Return-o Wrench</name>
+			<text>If Return-o Wrench is discarded, put it onto the battlefield and attach it to a random creature you control instead.
+Equipped creature has +0/+1.
+Equip {1}</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/4.png" num="109">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G/W</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Portal Scholar</name>
+			<text>When Portal Scholar enters, create a Mysterious Portal token.
+Whenever you create a creature token, put an afflict 1 counter on it. (Whenever this creature becomes blocked, defending player loses 1 life.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/5.png" num="85">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mouse Faeire</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mister Thrift</name>
+			<text>Whenever you sacrifice one or more Mysterious Portal or Chime tokens, create two of that token.
+Whenever an opponent sacrifices one or more Puffcap or Flashbomb tokens, that player creates two of that token.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/6.png" num="103">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>G/W</manacost>
+				<cmc>1</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Risky Venture</name>
+			<text>Risky Venture deals 3 damage to target creature. If that creature is destroyed, create two Gold tokens.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/7.png" num="86">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pocket Picker</name>
+			<text>When Pocket Picker dies, create a Gold token.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/8.png" num="106">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Slug Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prize Fight</name>
+			<text>Target creature you control and target creature an opponent controls fight. These creatures toughness can&apos;t be reduced below 1 this way. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/9.png" num="107">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Angel, The Pit Fighter</name>
+			<text>Brash (Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)
+Plunder — If an opponent was dealt damage this turn, when Angel enters, create three Gold tokens.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/10.png" num="53">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastayan Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Five-Punch Pablo</name>
+			<text>Attune {C} (When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)
+When Five-Punch Pablo enters, you may pay {BR}, if you do, target creature you control and target creature an opponent controls fight. These creatures toughness can&apos;t be reduced below 1 this way. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/11.png" num="73">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mad Ol&apos; Babs</name>
+			<text>Attune {C} (When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)
+When Mad Ol&apos; Babs enters, put a number of +1/+0 counters on Mad Ol&apos; Babs equal to the amount of mana in your mana pool.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/12.png" num="79">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastayan Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brazen Buccaneer</name>
+			<text>Brash (Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)
+Plunder — If an opponent was dealt damage this turn, when Brazen Buccaneer enters, reveal cards from the top of your library until you reveal a creature card with mana value 1 or less, put it onto the battlefield with a brash counter, then shuffle all other revealed cards into your library.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/13.png" num="98">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/R</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inferna</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+Whenever you trigger a plunder ability you control, exile the top card of your library. You may cast that card from exile until the end of turn.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/14.png" num="75">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Barbed Chain</name>
+			<text>Plunder — If an opponent was dealt damage this turn, Barbed Chain costs {2} less to cast.
+At the beginning of the next upkeep, exile the top two cards of your library, you may play these cards from exile until the end of turn.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/15.png" num="57">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Father Fury</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+Plunder — If an opponent was dealt damage this turn, when Father Fury enters, reveal cards from the top of your library until you reveal an instant or sorcery with mana value 1 or less, add it to your hand, add one mana of any type, then shuffle all other revealed cards into your library.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/16.png" num="71">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The King&apos;s Court</name>
+			<text>Attune {C} (When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)
+Brash (Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)
+When The King&apos;s Court enters, search your library and/or graveyard for a card named Jack, Crime Boss, reveal it, and put it into your hand. If you search your library this way, shuffle.
+Whenever a creature you control enters, you may pay {BR}, if you do, that creature and target creature an opponent controls fight. If the creature you control wins the fight, put a brash counter on it. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/17.png" num="78">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Vehicle</type>
+				<maintype>Creature</maintype>
+				<manacost>4BRR</manacost>
+				<cmc>7</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>7/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Swindler&apos;s Den</name>
+			<text>If you would draw a card, exile it instead, you may play cards exiled this way until the end of turn.
+Whenever you cast a spell, draw a card.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/18.png" num="92">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Landmark</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BBRR</manacost>
+				<cmc>6</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dragon Prince Grinzo</name>
+			<text>Attune {C} (When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)
+The first time each turn a creature you control with mana value 1 enters, add one mana of any type.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/19.png" num="68">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Barknuckles</name>
+			<text>Equipped creature has +1/+1.
+Whenever equipped creature deals combat damage, create a Gold token.
+Equip {BR}</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/20.png" num="97">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B/R</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tidal Invocation</name>
+			<text>Tidal Invocation deals 1 damage. Amass tentacles X where X is equal to the damage dealt this way. (Put X +1/+1 counters on an Army you control. It&apos;s also a tentacle. If you don&apos;t control an Army, create a 0/0 black tentacle Army creature token first.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/21.png" num="93">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Perfidious Promoter</name>
+			<text>Whenever you tap one or more permanents for mana, reveal cards from the top of your library until you reveal a creature card with mana value X or less where X is equal to the amount of mana in your mana pool, add it to your hand, then shuffle all other revealed cards into your library.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/22.png" num="84">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastayan Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jack, Crime Boss</name>
+			<text>Brash (Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)
+Whenever Jack deals combat damage, create a Gold token.
+Whenever you sacrifice a Gold token, remove 1 damage from Jack.
+At the beginning of your end phase, if you have spent twelve or mana this turn, transform Jack.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Jack, Champion Boxer</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/23_front.png" num="77a">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vastayan Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Jack, Champion Boxer</related>
+		</card>
+		<card>
+			<name>Jack, Champion Boxer</name>
+			<text>Trample
+Brash (Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)
+Whenever Jack deals combat damage, create two Gold tokens.
+Whenever you sacrifice a Gold token, put a +1/+0 counter on Jack, then remove 1 damage from Jack.
+---
+(Front): Jack, Crime Boss</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/23_back.png" num="77b">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Vastayan Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Jack, Crime Boss</related>
+		</card>
+		<card>
+			<name>Siren Song</name>
+			<text>Reveal cards from the top of your library until you reveal a husk creature card, put it onto the battlefield, then put a +1/+1 counter on each creature you control with mana value 1, shuffle all other revealed cards into your library.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/24.png" num="89">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4BR</manacost>
+				<cmc>6</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nukkle</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+When Nukkle enters, you may pay {2}{B}{R}, if you do, create a Mako token.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/25.png" num="82">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastayan Warrior Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mako LORT-GIN</name>
+			<text>Brash (Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)
+When Mako enters, you may pay {4}{B}{R}, if you do, create a Bull token.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/26.png" num="4">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Vastayan Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bull LORT-GIN</name>
+			<text>Trample
+When Bull enters, if it is your turn, after this phase, there is an additional combat phase.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/27.png" num="3">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Vastayan Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Deck Hunter</name>
+			<text>When Deck Hunter enters, reveal cards from the top of your library until you reveal a creature card that does not share any creature types among creatures you control, put it onto the battlefield, then shuffle all other revealed cards into your library.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/28.png" num="100">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/R</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Search Warrant</name>
+			<text>Choose a creature you control with power 4 or greater. Exile target creature or landmark. For as long as it remains in exile it has &quot;When the chosen creature leaves the battlefield, return this card from exile to the battlefield under its owners control&quot;.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/29.png" num="7">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Form Up!</name>
+			<text>Target creature gets +2/+2 until the beginning of your next upkeep.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/30.png" num="4">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Altar to Unity</name>
+			<text>When Altar to Unity enters, reveal cards from the top of your library until you reveal a creature card, add it to your hand, then shuffle all other revealed cards into your library.
+Whenever a creature you control enters, it has base power and toughness equal to its mana value.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/31.png" num="1">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Landmark</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mageseeker Junior</name>
+			<text>Each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast costs {2}{B} to cast instead.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/32.png" num="5">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Inquisitor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scrutinizing Sergeant</name>
+			<text>When Scrutinizing Sergeant enters, reveal the top five cards of your library, you may choose a creature with mana value 3 or less from among them, if you do, put that creature onto the battlefield. Shuffle all other revealed cards into your library.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/33.png" num="6">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crested Lionhawk</name>
+			<text>Absorb 1 (If a source would deal damage to this creature, prevent 1 of that damage.)
+When Crested Lionhawk enters, if you control a creature that does not share a creature type with Crested Lionhawk, reveal cards from the top of your library until you reveal a white card, add it to your hand, then shuffle all other revealed cards into your library.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/34.png" num="3">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Balen the Benevolent</name>
+			<text>Formidable (This creature assigns damage equal to its toughness rather than its power. Damage is dealt to this creature in the form of -1/-1 counters.)
+Whenever Balen attacks, put a +0/+1 counter on each other creature you control with formidable.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/35.png" num="2">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thrall Bulwark</name>
+			<text>Protection from its owner. (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything its owner controls.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/36.png" num="51">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostcoat Cub</name>
+			<text>---
+(Back): Frostcoat Mother</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/37_front.png" num="45a">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Frostcoat Mother</related>
+		</card>
+		<card>
+			<name>Frostcoat Mother</name>
+			<text>Trample
+---
+(Front): Frostcoat Cub</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/37_back.png" num="45b">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Frostcoat Cub</related>
+		</card>
+		<card>
+			<name>Innovative Blacksmith</name>
+			<text>When Innovative Blacksmith enters, reveal cards from the top of your library until you reveal two equipment cards, choose one and put it onto the battlefield, attach it to Innovative Blacksmith, then shuffle all other revealed cards into your library.
+The first time each turn you trigger a forge ability you control or attach an equipment to a creature you control, you gain 1 life. (Target equipment gets &quot;Equipped creature has +1/+1&quot;.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/38.png" num="48">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Weaponmaster</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snowy Razorclaw</name>
+			<text>Trample
+Plunder — If an opponent was dealt damage this turn, when Snowy Razorclaw enters, target creature you control has base power and toughness 7/7.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/39.png" num="49">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Temple to True Ice</name>
+			<text>Whenever a creature you control enters, it has base toughness equal to its power.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/40.png" num="50">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Landmark</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ingvar the Younger</name>
+			<text>When Ingvar enters, choose a creature you control. Put a number of +1/+1 counters on that creature for each other creature you control that shares a creature type with that creature.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/41.png" num="47">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Child</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glacial Saurian</name>
+			<text>Trample
+When Glacial Saurian enters, until the end of turn, the next three creatures you cast enters with an additional +1/+1 counter. If that creature shares a creature type with Glacial Saurian, draw a card.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/42.png" num="46">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystalline Stormraptor</name>
+			<text>When Crystalline Stormraptor enters, it deals 2 damage to each other creature.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/43.png" num="44">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Bird Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Facebreaker</name>
+			<text>Put a stun counter on two creatures opponents control. Create a Gold token.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/44.png" num="13">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Attentive Accountant</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+Whenever Attentive Accountant deals combat damage to an opponent, create a Gold token.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/45.png" num="10">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastayan Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sett, The Boss</name>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+Whenever Sett attacks, put a shield counter on him. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+Whenever you spend mana, put that many Boss counters on Sett. At the end of any phase on your turn, if Sett has forty or more Boss counters, remove all Boss counters from Sett, then transform him.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Sett, The Champion of Qayanvi</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/46_front.png" num="20a">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vastayan Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Sett, The Champion of Qayanvi</related>
+		</card>
+		<card>
+			<name>Sett, The Champion of Qayanvi</name>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+Sett has indestructible whenever he attacks.
+Whenever you expend 12, create a Show Stopper token. (You expend 12 as you spend your twelfth total mana to cast spells during a turn.)
+---
+(Front): Sett, The Boss</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/46_back.png" num="20b">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Vastayan Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Sett, The Boss</related>
+		</card>
+		<card>
+			<name>Show Stopper LORT-GIN</name>
+			<text>{0}, {T}: Exile target creature. Show Stopper deals 1 damage to each opponent and each creature they control.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/47.png" num="1">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bout Security</name>
+			<text>When Bout Security enters, create an exiled copy of Bout Security. For as long as it remains exiled, it has &quot;You may cast this card from exile&quot;.
+When Bout Security enters, put a +1/+1 counter on each other creature you control named Bout Security.
+Empowered 5: First strike (While this creature has power 5 or greater, it has First strike.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/48.png" num="12">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pit Professional</name>
+			<text>When Pit Professional enters, create a Gold token.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/49.png" num="16">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastayan Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master Bingwen, the Sieve</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+The first time each turn another creature you control enters, create a token copy of it except it has ephemeral. (This creature has haste. At the end of turn, sacrifice it.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/50.png" num="14">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastayan Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2UUU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Place Your Bets</name>
+			<text>Draw two cards. Create two Gold Tokens.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/51.png" num="17">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UUU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Smooth Mixologist</name>
+			<text>When Smooth Mixologist enters, choose one —
+• Remove 3 damage from target creature you control. Create a Gold token.
+• You gain 3 life. Create a Gold token.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/52.png" num="21">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastayan Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tag Out!</name>
+			<text>Recall a creature you control. Create a Gold token. (A recalled permanent is put back into its owners hand from the battlefield.)
+---
+(Back): Thrown Out!</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/53_front.png" num="22a">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Thrown Out!</related>
+		</card>
+		<card>
+			<name>Thrown Out!</name>
+			<text>Recall a creature an opponent controls. Create a Gold token. (A recalled permanent is put back into its owners hand from the battlefield.)
+---
+(Front): Tag Out!</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/53_back.png" num="22b">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Tag Out!</related>
+		</card>
+		<card>
+			<name>The Old Timer</name>
+			<text>Double strike
+When The Old Timer enters, recall a creature with the highest power among creatures opponents control. If you have spent sixteen or more mana this turn, recall all creatures opponents control instead. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/54.png" num="15">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastayan Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>6UU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rejuvenating Breeze</name>
+			<text>You gain 3 life. Draw two cards.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/55.png" num="18">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>All-Seeing Oracle</name>
+			<text>Choose a nonland card name. While All-Seeing Oracle is on the battlefield, opponents can&apos;t cast spells with the chosen name.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/56.png" num="9">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Royal Shimmerwing</name>
+			<text>First strike
+Other bird creatures you control have +1/+0 and first strike.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/57.png" num="19">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beguiling Cobra</name>
+			<text>The first time each turn another creature you control enters, create a token copy of it. If you control six or more creatures, put a number of +1/+0 counters on Beguiling Cobra equal to that creatures power.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/58.png" num="11">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake</type>
+				<maintype>Creature</maintype>
+				<manacost>4UUU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Airis</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+Whenever Airis deals combat damage to an opponent, reveal cards from the top of your library until you reveal a husk creature, put it onto the battlefield, then shuffle all other revealed cards into your library.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/59.png" num="8">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastayan Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Falling Star</name>
+			<text>Choose one —
+• Falling Star deals 4 damage to target creature that attacked this turn.
+• Falling Star deals 4 damage to target creature with a stun counter.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/60.png" num="70">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Youngling</name>
+			<text>At the beginning of your upkeep, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/61.png" num="66">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn Pegasus</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Star-Crossed Lovers</name>
+			<text>When Star-Crossed Lovers enters, recall a creature you control. Put a number of +1/+1 counters on Star-Crossed Lovers equal to that creatures power or toughness. (A recalled permanent is put back into its owners hand from the battlefield.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/62.png" num="90">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sacrificial Scholar</name>
+			<text>Fated (The first time each turn this creature is targeted by a source you control, put a +1/+1 counter on it.)
+When Sacrificial Scholar dies, return up to three instant and/or sorcery cards in your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/63.png" num="87">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Age of Dragons</name>
+			<text>Reveal the top nine cards from the top of your library, exile each dragon creature card from among them. Cards exiled this way have &quot;You may cast this card from exile without paying its mana cost&quot;. Shuffle all other revealed cards into your library.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/64.png" num="52">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>7WU</manacost>
+				<cmc>9</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Call</name>
+			<text>Invoke — Reveal cards from the top of your library until you reveal three Celestial cards with mana value 7 or greater, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
+---
+(Back): Cosmic Summons</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/65_front.png" num="65a">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Cosmic Summons</related>
+		</card>
+		<card>
+			<name>Cosmic Summons</name>
+			<text>Until the end of turn, Celestial spells you control costs X less to cast, where X is half it&apos;s mana value, rounded down.
+---
+(Front): Cosmic Call</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/65_back.png" num="65b">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>6WU</manacost>
+				<cmc>8</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Cosmic Call</related>
+		</card>
+		<card>
+			<name>Daring Demolisher</name>
+			<text>When Daring Demolisher enters, choose one —
+• Daring Demolisher deals 1 damage to target opponent.
+• Trigger target creatures plunder ability you control.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/66.png" num="37">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>All Out</name>
+			<text>Target creature you control gets +2/+0 until the beginning of your next upkeep.
+Plunder — If an opponent was dealt damage this turn, target creature you control gets +2/+1 until the beginning of your next upkeep instead.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/67.png" num="31">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Adroit Artificer</name>
+			<text>Challenger (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+When Adroit Artificer enters, trigger the plunder ability of each creature you control.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/68.png" num="30">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2RRR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Captain Indari</name>
+			<text>When Captain Indari enters, reveal cards from the top of your library until you reveal two equipment cards, choose one and put it onto the battlefield, attach it to Captain Indari, then shuffle all other revealed cards into your library.
+Plunder — If an opponent was dealt damage this turn, when Captain Indari enters, forge each equipment you control. (Target equipment gets &quot;Equipped creature has +1/+1&quot;.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/69.png" num="33">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Weaponmaster</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dashing Dandy</name>
+			<text>Trample
+Plunder — If an opponent was dealt damage this turn, when Dashing Dandy enters, put two +1/+0 counters on it.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/70.png" num="38">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Samira</name>
+			<text>First strike
+Plunder — If an opponent was dealt damage this turn, when Samira enters, you may pay {R}, if you do, choose one —
+• Samira gets challenger until end of turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+• Samira deals 1 damage to target opponent.
+Whenever Samira deals combat damage, trigger her plunder ability.
+At the beginning of your end phase, if you have cast six or more spells this turn, transform Samira.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Samira, The Desert Rose</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/71_front.png" num="42a">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Samira, The Desert Rose</related>
+		</card>
+		<card>
+			<name>Samira, The Desert Rose</name>
+			<text>First strike
+Whenever Samira transforms or deals combat damage, you may pay {R}, if you do, choose one —
+• Samira gets challenger until end of turn. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+• Samira deals 1 damage to target opponent.
+Whenever you cast your sixth card, if it is your turn, untap each creature you control, after this phase, there is an additional combat phase.
+---
+(Front): Samira</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/71_back.png" num="42b">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Samira</related>
+		</card>
+		<card>
+			<name>Elegant Edge</name>
+			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
+Plunder — If an opponent was dealt damage this turn, when Elegant Edge enters, put two +1/+0 counters on it.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/72.png" num="39">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stylish Shot</name>
+			<text>Focus (This instant cannot be cast during the combat phase or in response to another spell or ability.)
+Stylish Shot deals 1 damage to target opponent. Until the end of turn, if a creature you control deals combat damage to that opponent, return this card to your hand from the graveyard.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/73.png" num="43">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pirouette</name>
+			<text>Plunder — If an opponent was dealt damage this turn, Pirouette costs {2} less to cast.
+Pirouette deals 1 damage to any target. Put a stun counter on target creature.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/74.png" num="40">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dame the Despoiler</name>
+			<text>Trample
+Plunder — If an opponent was dealt damage this turn, when Dame the Despoiler enters, put a +1/+0 counter on each other creature you control.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/75.png" num="36">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Captain Kalrix</name>
+			<text>Trample
+Whenever Captain Kalrix deals combat damage to a player, they lose half their life, rounded up.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/76.png" num="34">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ravenborn Tome</name>
+			<text>Equipped creature has +0/+1.
+If the triggered ability of the equipped creature triggers, that ability triggers an additional time.
+Equip {R}</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/77.png" num="41">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bonehide Tri-tail</name>
+			<text>Trample
+Bonehide Tri-tail enters with a number of additional +1/+1 counters for each creature that doesn&apos;t share a creature type with Bonehide Tri-tail among creatures you control.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/78.png" num="32">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1RRR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crimson Banquet Hall</name>
+			<text>Creature spells you control costs {1} less to cast.
+Whenever a creature you control enters, Crimson Banquet Hall deals 2 damage to that creature.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/79.png" num="35">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Landmark</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blowback</name>
+			<text>As an additional cost to cast this spell, you may discard up to two cards.
+Blowback deals X+1 damage to target creature and that creatures controller, where X is equal to the number of cards discarded to cast this spell.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/80.png" num="60">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Augmented Clockling</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+When Augmented Clockling enters, predict, then exile the top card of your library. For as long as it remains exiled, it has &quot;You may cast this card from exile and it costs {1} less to cast&quot;. (Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/81.png" num="54">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sump Monument</name>
+			<text>Whenever you&apos;re dealt damage by sources controlled by opponents, create that many Puffcap tokens instead.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/82.png" num="91">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Landmark</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Epic Scraptraption</name>
+			<text>X cannot be 0.
+Create a Runaway Scraptrap token with power and toughness X/X.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/83.png" num="101">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XU/R</manacost>
+				<cmc>1</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Runaway Scraptrap LORT-GIN</name>
+			<text></text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/84.png" num="6">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Flashbomb Peddler</name>
+			<text>Whenever you cast an instant or sorcery, target opponent creates a Flashbomb token.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/85.png" num="74">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chemtech Catermobile</name>
+			<text>First strike
+Chemtech Catermobile enters with a number of +1/+0 counters for each creature you control with mana value 1.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/86.png" num="63">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Vehicle</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Anura &amp; Froop</name>
+			<text>Creature spells you control that doesn&apos;t share a creature type withe other creatures you control costs {1} less to cast.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/87.png" num="96">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Lizard Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divine Draft</name>
+			<text>Divine Draft deals 1 damage to any two targets.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/88.png" num="67">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Neeko</name>
+			<text>Rulebreaker — A deck with this commander can have any number of Bird, Cat, Dog, Elnuk, Faerie, Reptile, and Spider creatures of any colour not in this commander&apos;s colour identity and any basic land.
+Disguise {GU} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+Whenever Neeko and one or more other creatures you control attacks, if there are six or more unique nonchangeling creature types among them, at the beginning of your first post-combat main phase, transform Neeko.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Neeko, The Curious Chameleon</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/89_front.png" num="80a">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vastayan Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Neeko, The Curious Chameleon</related>
+		</card>
+		<card>
+			<name>Neeko, The Curious Chameleon</name>
+			<text>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Neeko attacks, put a number of +1/+1 counters on each creature you control for each nonchangeling creature type that creature has.
+---
+(Front): Neeko</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/89_back.png" num="80b">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Vastayan Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Neeko</related>
+		</card>
+		<card>
+			<name>Ingvar&apos;s Plushie</name>
+			<text>Rulebreaker — A deck with this commander can have any number of Poro creatures of any colour not in this commander&apos;s colour identity and any basic land.
+The first time each turn a poro creature you control enters, you may pay {3}, if you do, put a +1/+1 counter on each poro creature you control.
+Whenever you cast a poro creature, put a Story counter on Ingvar&apos;s Plushie. At the end of any phase on your turn, if Ingvar&apos;s Plushie has six or Story counters, remove all Story counters from Ingvar&apos;s Plushie, then transform him.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): The Poro King</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/90_front.png" num="76a">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Poro Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">The Poro King</related>
+		</card>
+		<card>
+			<name>The Poro King</name>
+			<text>The first time each turn a poro creature you control enters, you may pay {2}, if you do, randomly choose one —
+• Put a +1/+1 counter on each poro creature you control. Until the end of turn, poro creatures you control get afflict 1. (Whenever this creature becomes blocked, defending player loses 1 life.)
+• Put a +1/+1 counter on each poro creature you control. Frostbite target creature an opponent controls. (A creature with frostbite gains -X/-0 where X is that creatures power until the end of the turn.)
+• Put a +1/+1 counter on each poro creature you control. Until the end of turn, two target poro creatures you control get challenger. (Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can&apos;t block this creature.)
+• Put a +1/+1 counter on each poro creature and each legendary creature you control.
+---
+(Front): Ingvar&apos;s Plushie</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/90_back.png" num="76b">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Poro Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Ingvar&apos;s Plushie</related>
+		</card>
+		<card>
+			<name>Proliferating Darkwraith</name>
+			<text>When Proliferating Darkwraith enters, if it was cast from exile, put a number of +1/+1 counters on it for each creature card named Proliferating Darkwraith in your graveyard.
+When Proliferating Darkwraith dies, create an exiled copy of Proliferating Darkwraith. For as long as it remains exiled, it has &quot;You may cast this card from exile&quot;.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/91.png" num="26">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wraith</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tufted Webspinner</name>
+			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
+When Tufted Webspinner enters, if one or more creatures you control does not share a creature type with Tufted Webspinner, target creature opponent controls gets -2/-0 until end of turn.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/92.png" num="29">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Necrotic Arachnoid</name>
+			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
+When Necrotic Arachnoid enters, create two Necrotic Nestling tokens.
+Whenever a creature you control dies, each opponent loses 1 life, you gain that much life.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/93.png" num="25">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3BBB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Necrotic Nestling LORT-GIN</name>
+			<text>Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/94.png" num="2">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Grave Companion</name>
+			<text>The first time a creature you control dies each turn, draw a card.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/95.png" num="24">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Wraith</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sacred Shears</name>
+			<text>Equipped creature has hallowed. (Whenever this creature attacks alone, it gets +1/+0 until end of turn for each creature with Hallowed in your graveyard.)
+Equip {B}</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/96.png" num="27">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soul Harvest</name>
+			<text>As an additional cost to cast this spell, you may sacrifice a creature you control or pay {2}.
+Destroy target nonlegendary creature with power 3 or less. If additional mana was spent to cast this spell, destroy target creature with power 3 or less instead.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/97.png" num="28">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Eradication</name>
+			<text>Destroy each creature with power 3 or less.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/98.png" num="23">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blimp-Pack Poacher</name>
+			<text>Disguise {UB} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When Blimp-Pack Poacher is turned face up, until the end of turn Blimp-Pack Poacher gets &quot;Whenever a creature is dealt damage by Blimp-Pack Poacher, exile it&quot;.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/99.png" num="59">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prowl</name>
+			<text>Target creature gets +2/+0 until the beginning of your next upkeep. If that creature is face down, it gets +2/+2 until the beginning of your next upkeep instead.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/100.png" num="108">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U/B</manacost>
+				<cmc>1</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Big Game Tycoon</name>
+			<text>When Big Game Tycoon enters, reveal cards from the top of your library until you reveal a creature card with disguise, add it to your hand, then shuffle all other revealed cards into your library.
+Whenever another creature you control is turned face up, put +1/+1 counters on that creature equal to its power.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/101.png" num="58">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pack Attack</name>
+			<text>Create a token copy of each cat creature you control except they have ephemeral. After this phase, there is an additional combat phase. Only cat creatures you control with ephemeral can attack this phase and must attack if able. (That creature has haste. At the end of turn, sacrifice it.)</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/102.png" num="83">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Avenging Vastaya</name>
+			<text>Disguise {U}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+Avenging Vastaya enters with a spellshield counter. (The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)
+When Avenging Vastaya is turned face up, put a spellshield counter on it, then exile all other spells and counter all abilities.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/103.png" num="56">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastayan Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bushwhack Trap</name>
+			<text>When Bushwhack Trap enters, put a vulnerable counter on a creature with the lowest power among creatures opponents control. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)
+The first time each turn a creature you control is turned face up, put a vulnerable counter on a creature with the lowest power among creatures opponents control.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/104.png" num="61">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Landmark</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Nidalee, Queen of the Jungle</name>
+			<text>Disguise {U}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+First strike
+Whenever a creature you controls is turned face up or transforms, put a Jungle counter on Nidalee. At the end of any phase on your turn, if Nidalee has four or more Jungle counters, remove all Jungle counters from Nidalee, then transform her.
+Partner (You can have two commanders if both have partner.)
+---
+(Back): Packmother Nidalee</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/105_front.png" num="81a">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vastayan Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Packmother Nidalee</related>
+		</card>
+		<card>
+			<name>Packmother Nidalee</name>
+			<text>First strike, Trample
+Whenever Packmother Nidalee deals combat damage to an opponent, Packmother Nidalee deals 4 damage to any target, then transform Packmother Nidalee.
+---
+(Front): Nidalee, Queen of the Jungle</text>
+			<set rarity="mythic" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/105_back.png" num="81b">LORT-GIN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Vastayan Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Nidalee, Queen of the Jungle</related>
+		</card>
+		<card>
+			<name>Shurimun Secret Keeper</name>
+			<text>When Shurimun Secret Keeper enters, reveal cards from the bottom of your library until you reveal two legendary creature cards, exile them, then shuffle all other revealed cards into your library. For as long as it remains exiled, cards exiled this way have &quot;You may cast this card from exile&quot;.</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/106.png" num="88">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UUB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fallen Sands General</name>
+			<text>Trample
+Fallen Sands General enters with a number of +1/+0 counters equal to the number of creatures you control with ephemeral and/or decayed. (This creature has haste. At the end of turn, sacrifice it.)
+Whenever a creature you control with ephemeral or decayed enters, put a +1/+0 counter on Fallen Sands General.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/107.png" num="69">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>5UB</manacost>
+				<cmc>7</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>0/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pakaa Cub</name>
+			<text>Disguise {UB} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+Fearsome (Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)
+Whenever Pakaa Cub deals combat damage to an opponent, create a Pakaa Protector token.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/108.png" num="104">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>U/B</manacost>
+				<cmc>1</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pakaa Protector LORT-GIN</name>
+			<text></text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/109.png" num="5">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>All-Terrain Trooper</name>
+			<text>Disguise {1} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When All-Terrain Trooper enters or is turned face up, put a vulnerable counter on a creature with the lowest power among creatures opponents control. (When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/110.png" num="95">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vastayan Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/B</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bristlehog</name>
+			<text>The first time a creature you control transforms or is turned face up, put a +2/+1 counter on Bristlehog.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/111.png" num="99">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hedgehog</type>
+				<maintype>Creature</maintype>
+				<manacost>U/B</manacost>
+				<cmc>1</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Facecheck</name>
+			<text>Reveal cards from the top of your library until you reveal a creature card with disguise, add it to your hand, then shuffle all other revealed cards into your library.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/112.png" num="102">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U/B</manacost>
+				<cmc>1</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Towering Pairofant</name>
+			<text>Disguise {3}{U}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+Trample</text>
+			<set rarity="rare" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/113.png" num="94">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aurora Hallunatis</name>
+			<text>Disguise {2}{U}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)
+When Aurora Hallunatis is turned face up, create a token copy of Aurora Hallunatis.</text>
+			<set rarity="uncommon" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/114.png" num="55">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valley of Imitation</name>
+			<text>If a nonlegendary creature you control enters, sacrifice Valley of Imitation, if you do, create a token copy of that creature.</text>
+			<set rarity="common" picurl="https://Novawolf4000.github.io/sets/LORT-GIN-files/img/115.png" num="110">LORT-GIN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Landmark</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U/B</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

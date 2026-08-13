@@ -1,0 +1,4728 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Norra, The Portal Conjurer",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Yordle Spellshaper",
+			"collector_number": "216",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/0_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/0_front.png"
+			}
+		},
+		{
+			"name": "Sharesies",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{G/W}",
+			"type": "Instant — Weaponmaster",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/1.png"
+			}
+		},
+		{
+			"name": "Mysterious Portal",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Token Artifact — Boon",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/2.png"
+			}
+		},
+		{
+			"name": "Chime",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Token Artifact — Boon",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/3.png"
+			}
+		},
+		{
+			"name": "Magical Journey",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/4.png"
+			}
+		},
+		{
+			"name": "Living Library",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Artifact Creature — Faerie Construct",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/5.png"
+			}
+		},
+		{
+			"name": "Portalpalooza",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Instant",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/6.png"
+			}
+		},
+		{
+			"name": "The Tea Maker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Faerie",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/7.png"
+			}
+		},
+		{
+			"name": "Origami Slicer",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/8.png"
+			}
+		},
+		{
+			"name": "Junk Construct",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Artifact Creature — Faerie Construct",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/9.png"
+			}
+		},
+		{
+			"name": "Puzzling Signposts",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Instant",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/10.png"
+			}
+		},
+		{
+			"name": "Realm's Caretaker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}{W}{W}",
+			"type": "Creature — Yordle Faerie",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/11.png"
+			}
+		},
+		{
+			"name": "Blooming Cultist",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Plant Cultist",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/12.png"
+			}
+		},
+		{
+			"name": "The Darkin Blade",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Token Legendary Artifact — Demon Equipment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/13.png"
+			}
+		},
+		{
+			"name": "The Darkin Staff",
+			"rarity": "mythic",
+			"mana_cost": "{G/W}",
+			"type": "Artifact — Demon Equipment",
+			"collector_number": "285",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/14_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/14_front.png"
+			}
+		},
+		{
+			"name": "World Ender",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Token Legendary Artifact",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/15.png"
+			}
+		},
+		{
+			"name": "The Darkin Aegis",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Demon Equipment",
+			"collector_number": "5",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/16_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/16_front.png"
+			}
+		},
+		{
+			"name": "The Darkin Fan",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}",
+			"type": "Artifact — Demon Equipment",
+			"collector_number": "31",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/17_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/17_front.png"
+			}
+		},
+		{
+			"name": "The Darkin Halberd",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Artifact — Demon Equipment",
+			"collector_number": "62",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/18_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/18_front.png"
+			}
+		},
+		{
+			"name": "The Darkin Ballista",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Artifact — Demon Equipment",
+			"collector_number": "96",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/19_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/19_front.png"
+			}
+		},
+		{
+			"name": "Bellows Breath",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/20.png"
+			}
+		},
+		{
+			"name": "Ornn's Forge",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/21.png"
+			}
+		},
+		{
+			"name": "Ornn, Master of the Forge",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Legendary Creature — Goat Demigod Artificer",
+			"collector_number": "131",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/22_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/22_front.png"
+			}
+		},
+		{
+			"name": "Weaponsmith's Apprentice",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/23.png"
+			}
+		},
+		{
+			"name": "The Darkin Spear",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}",
+			"type": "Artifact — Demon Equipment",
+			"collector_number": "121",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/24_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/24_front.png"
+			}
+		},
+		{
+			"name": "The Darkin Lodestone",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact — Demon Equipment",
+			"collector_number": "173",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/25_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/25_front.png"
+			}
+		},
+		{
+			"name": "The Darkin Bloodletters",
+			"rarity": "mythic",
+			"mana_cost": "{U/B}",
+			"type": "Artifact — Demon Equipment",
+			"collector_number": "284",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/26_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/26_front.png"
+			}
+		},
+		{
+			"name": "The Darkin Harp",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact — Demon Equipment",
+			"collector_number": "171",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/27_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/27_front.png"
+			}
+		},
+		{
+			"name": "The Darkin Harpoon",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}",
+			"type": "Artifact — Demon Equipment",
+			"collector_number": "172",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/28_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/28_front.png"
+			}
+		},
+		{
+			"name": "Aatrox, The World Ender",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Demon Horror Warrior",
+			"collector_number": "145",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/29_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/29_front.png"
+			}
+		},
+		{
+			"name": "Xolaani the Bloodweaver",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Creature — Demon Horror Warrior",
+			"collector_number": "267",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/30_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/30_front.png"
+			}
+		},
+		{
+			"name": "Proximity Puffcap",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Sorcery",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/31.png"
+			}
+		},
+		{
+			"name": "Byrd, The Bellringer",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Artifact Creature — Construct Avatar",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/32.png"
+			}
+		},
+		{
+			"name": "Maduli, The Gatekeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/33.png"
+			}
+		},
+		{
+			"name": "Eclectic Collection",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}{W}{W}",
+			"type": "Instant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/34.png"
+			}
+		},
+		{
+			"name": "Mechapulverizer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/35.png"
+			}
+		},
+		{
+			"name": "The Papertree",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/36.png"
+			}
+		},
+		{
+			"name": "Paparo the Great",
+			"rarity": "rare",
+			"mana_cost": "{W}{G}{G/W}",
+			"type": "Creature — Yordle Citizen",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/37.png"
+			}
+		},
+		{
+			"name": "The Sudden Surge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Instant — Cultist",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/38.png"
+			}
+		},
+		{
+			"name": "Drop the Bomb",
+			"rarity": "common",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Sorcery",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/39.png"
+			}
+		},
+		{
+			"name": "Bandle Tellstones",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/40.png"
+			}
+		},
+		{
+			"name": "Skrappy's Partsapalooza",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/41.png"
+			}
+		},
+		{
+			"name": "Curious Changelings",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Lizard Shapeshifter",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/42.png"
+			}
+		},
+		{
+			"name": "Poro Stories",
+			"rarity": "common",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Instant",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/43.png"
+			}
+		},
+		{
+			"name": "Cosmic Binding",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G/W}{G/W}",
+			"type": "Instant",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/44.png"
+			}
+		},
+		{
+			"name": "Sneezy Biggledust!",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Instant",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/45.png"
+			}
+		},
+		{
+			"name": "Banana Blaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Yordle Avatar",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/46.png"
+			}
+		},
+		{
+			"name": "Test of Spirit",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}",
+			"type": "Instant",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/47.png"
+			}
+		},
+		{
+			"name": "Truth Bearer Illaoi",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Cleric Warrior",
+			"collector_number": "252",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/48_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/48_front.png"
+			}
+		},
+		{
+			"name": "Tentacle Army",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Token Creature — Tentacle Army",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/49.png"
+			}
+		},
+		{
+			"name": "Watchful Idol",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/50.png"
+			}
+		},
+		{
+			"name": "Buhru Leader",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Cleric Warrior",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/51.png"
+			}
+		},
+		{
+			"name": "Nagakabouros",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{R}{R}",
+			"type": "Legendary Creature — Kraken God",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/52.png"
+			}
+		},
+		{
+			"name": "Nagakabouros' Tentacle",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Token Creature — Tentacle",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/53.png"
+			}
+		},
+		{
+			"name": "Illaoi's Answered Prayer",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/54.png"
+			}
+		},
+		{
+			"name": "Buhru Lookout",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/55.png"
+			}
+		},
+		{
+			"name": "Steem",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Demon Vastayan",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/56.png"
+			}
+		},
+		{
+			"name": "Riptide Sermon",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/57.png"
+			}
+		},
+		{
+			"name": "Jagged Cutlass",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/58.png"
+			}
+		},
+		{
+			"name": "Buhru Cultist",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Human Cultist",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/59.png"
+			}
+		},
+		{
+			"name": "Parts Made Whole",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Instant — Weaponmaster",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/60.png"
+			}
+		},
+		{
+			"name": "Icathian Mirage",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Creature — Illusion",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/61.png"
+			}
+		},
+		{
+			"name": "Tentacle Smash",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}{B/R}{B/R}",
+			"type": "Sorcery",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/62.png"
+			}
+		},
+		{
+			"name": "Piltovan Castaway",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}{B/R}",
+			"type": "Creature — Human Weaponmaster",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/63.png"
+			}
+		},
+		{
+			"name": "Eye of Nagakabouros",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/64.png"
+			}
+		},
+		{
+			"name": "Heavy Metal",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/65.png"
+			}
+		},
+		{
+			"name": "The Sea's Voice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Cleric Spellshaper",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/66.png"
+			}
+		},
+		{
+			"name": "Wharf Rat",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Rat Shark",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/67.png"
+			}
+		},
+		{
+			"name": "Ransom Riches",
+			"rarity": "rare",
+			"mana_cost": "{X}{B/R}",
+			"type": "Instant",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/68.png"
+			}
+		},
+		{
+			"name": "Megatusk",
+			"rarity": "common",
+			"mana_cost": "{3}{B/R}",
+			"type": "Creature — Leviathan",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/69.png"
+			}
+		},
+		{
+			"name": "The Unending Wave",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Instant — Cultist",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/70.png"
+			}
+		},
+		{
+			"name": "Eye of God",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/71.png"
+			}
+		},
+		{
+			"name": "Swindle",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}{B/R}",
+			"type": "Instant",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/72.png"
+			}
+		},
+		{
+			"name": "Loaded Vessel",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}{R}{R}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/73.png"
+			}
+		},
+		{
+			"name": "Bilgewater Tellstones",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/74.png"
+			}
+		},
+		{
+			"name": "Wily Newtfish",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Lizard Fish",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/75.png"
+			}
+		},
+		{
+			"name": "Blood in the Water",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/76.png"
+			}
+		},
+		{
+			"name": "Mischievous Marai",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Vastayan Citizen",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/77.png"
+			}
+		},
+		{
+			"name": "Combat Cook",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Weaponmaster",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/78.png"
+			}
+		},
+		{
+			"name": "Ranger-Knight Defector",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Cultist",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/79.png"
+			}
+		},
+		{
+			"name": "Fish Fight",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery — Weaponmaster",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/80.png"
+			}
+		},
+		{
+			"name": "Vayne's Condemn",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/81.png"
+			}
+		},
+		{
+			"name": "Widowed Huntress",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/82.png"
+			}
+		},
+		{
+			"name": "Vayne, The Vigilante",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "26",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/83_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/83_front.png"
+			}
+		},
+		{
+			"name": "Catch!",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}",
+			"type": "Instant — Weaponmaster",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/84.png"
+			}
+		},
+		{
+			"name": "Kind-hearted Recruit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/85.png"
+			}
+		},
+		{
+			"name": "Parts Made Whole",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/86.png"
+			}
+		},
+		{
+			"name": "Golden Spatula",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/87.png"
+			}
+		},
+		{
+			"name": "Zealous Ranger-Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/88.png"
+			}
+		},
+		{
+			"name": "Bloodcursed Harpy",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Harpy",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/89.png"
+			}
+		},
+		{
+			"name": "Steadfast Elkin",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/90.png"
+			}
+		},
+		{
+			"name": "Allure",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/91.png"
+			}
+		},
+		{
+			"name": "Demacian Steel",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/92.png"
+			}
+		},
+		{
+			"name": "Silence and Suppress",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/93.png"
+			}
+		},
+		{
+			"name": "Faithful Wolfdog",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Wolf Dog",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/94.png"
+			}
+		},
+		{
+			"name": "Petricite Pillar",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/95.png"
+			}
+		},
+		{
+			"name": "Protective Broodfather",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/96.png"
+			}
+		},
+		{
+			"name": "Jarvan's Royal Decree",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/97.png"
+			}
+		},
+		{
+			"name": "Lord Eldred, Mageseeker Leader",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Legendary Creature — Human Inquisitor Noble",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/98.png"
+			}
+		},
+		{
+			"name": "Roar of Icathia",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Sorcery — Weaponmaster",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/99.png"
+			}
+		},
+		{
+			"name": "Tempting Prospect",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant — Cultist",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/100.png"
+			}
+		},
+		{
+			"name": "Champions' Strength",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/101.png"
+			}
+		},
+		{
+			"name": "Demacian Tellstones",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/102.png"
+			}
+		},
+		{
+			"name": "Trusty Ramhound",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dog Elk",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/103.png"
+			}
+		},
+		{
+			"name": "Petricite Charger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact Creature — Giant Construct",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/104.png"
+			}
+		},
+		{
+			"name": "Inspiring Light",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/105.png"
+			}
+		},
+		{
+			"name": "Blocking Badgerbear",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Badger Bear Knight",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/106.png"
+			}
+		},
+		{
+			"name": "Hearthblood Mender",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/107.png"
+			}
+		},
+		{
+			"name": "Adept Weaponsmith",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/108.png"
+			}
+		},
+		{
+			"name": "Spirit of the Ram",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Token Creature — Elemental Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/109.png"
+			}
+		},
+		{
+			"name": "Favored Artisan",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/110.png"
+			}
+		},
+		{
+			"name": "Icevale Cultist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Cultist",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/111.png"
+			}
+		},
+		{
+			"name": "Fractured Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/112.png"
+			}
+		},
+		{
+			"name": "Pouty Poro",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Poro",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/113.png"
+			}
+		},
+		{
+			"name": "Wrought Colossus",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Artifact Creature — Construct Artificer",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/114.png"
+			}
+		},
+		{
+			"name": "Bone Club",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/115.png"
+			}
+		},
+		{
+			"name": "Woolly Snailmoth",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Snail Elephant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/116.png"
+			}
+		},
+		{
+			"name": "Revna, the Lorekeeper",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Legendary Creature — Human Nomad Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/117.png"
+			}
+		},
+		{
+			"name": "Frozen in Fear",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/118.png"
+			}
+		},
+		{
+			"name": "Harbinger of Thralls",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Bird Horror",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/119.png"
+			}
+		},
+		{
+			"name": "Gift of the Hearthblood",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/120.png"
+			}
+		},
+		{
+			"name": "Hunting Boar",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Boar",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/121.png"
+			}
+		},
+		{
+			"name": "The Unforgiving Cold",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Instant — Cultist",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/122.png"
+			}
+		},
+		{
+			"name": "Here to Help",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/123.png"
+			}
+		},
+		{
+			"name": "Wild Mysticism",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/124.png"
+			}
+		},
+		{
+			"name": "Cracking Ice",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/125.png"
+			}
+		},
+		{
+			"name": "Wings of the Cryophoenix",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/126.png"
+			}
+		},
+		{
+			"name": "Wildclaw's Ferocity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/127.png"
+			}
+		},
+		{
+			"name": "Warden of the Tribes",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}{G}",
+			"type": "Creature — Chimera",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/128.png"
+			}
+		},
+		{
+			"name": "Winter's Touch",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/129.png"
+			}
+		},
+		{
+			"name": "Disciple of Doran",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Yordle Samurai",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/130.png"
+			}
+		},
+		{
+			"name": "The Stagehand",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Human Performer",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/131.png"
+			}
+		},
+		{
+			"name": "The Maker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Performer",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/132.png"
+			}
+		},
+		{
+			"name": "Gruesome Theater",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/133.png"
+			}
+		},
+		{
+			"name": "Master Yi",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "42",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/134_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/134_front.png"
+			}
+		},
+		{
+			"name": "Dragon Ambush",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/135.png"
+			}
+		},
+		{
+			"name": "Windswept Hillock",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/136.png"
+			}
+		},
+		{
+			"name": "Jun, the Prodigy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Samurai",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/137.png"
+			}
+		},
+		{
+			"name": "Kinkou's Call",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/138.png"
+			}
+		},
+		{
+			"name": "Wuju Style",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/139.png"
+			}
+		},
+		{
+			"name": "Vastayan Disciple",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Vastayan Samurai",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/140.png"
+			}
+		},
+		{
+			"name": "The Witness",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Performer",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/141.png"
+			}
+		},
+		{
+			"name": "Dragoncaller",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/142.png"
+			}
+		},
+		{
+			"name": "Shadowblade Fanatic",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Cultist",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/143.png"
+			}
+		},
+		{
+			"name": "Entrancing Lure",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U/R}",
+			"type": "Instant — Weaponmaster",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/144.png"
+			}
+		},
+		{
+			"name": "The Spirit of Wuju",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Creature — Incarnation",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/145.png"
+			}
+		},
+		{
+			"name": "Mistfall",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/146.png"
+			}
+		},
+		{
+			"name": "Soul Sword",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/147.png"
+			}
+		},
+		{
+			"name": "Unworthy Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/148.png"
+			}
+		},
+		{
+			"name": "Storm of Blades",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/149.png"
+			}
+		},
+		{
+			"name": "Momentous Choice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant — Cultist",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/150.png"
+			}
+		},
+		{
+			"name": "Kinkou Student",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Ninja",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/151.png"
+			}
+		},
+		{
+			"name": "Ionian Tellstones",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/152.png"
+			}
+		},
+		{
+			"name": "The Black Flame",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/153.png"
+			}
+		},
+		{
+			"name": "Moral Support",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/154.png"
+			}
+		},
+		{
+			"name": "Navori Longtail",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Lemur Bat Rogue Ally",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/155.png"
+			}
+		},
+		{
+			"name": "Twin Wind Technique",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/156.png"
+			}
+		},
+		{
+			"name": "Serene Sky-Singer",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Creature — Spirit Mystic",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/157.png"
+			}
+		},
+		{
+			"name": "Wandering Shepherd",
+			"rarity": "common",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Vastayan Weaponmaster",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/158.png"
+			}
+		},
+		{
+			"name": "Seraphic Wyvern",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Dragon Angel",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/159.png"
+			}
+		},
+		{
+			"name": "Kayle, The Winged Protector",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Angel Avatar",
+			"collector_number": "201",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/160_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/160_front.png"
+			}
+		},
+		{
+			"name": "Divine Judgment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/161.png"
+			}
+		},
+		{
+			"name": "Purifying Flames",
+			"rarity": "uncommon",
+			"mana_cost": "{2/W}{2/U}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/162.png"
+			}
+		},
+		{
+			"name": "Winged Messenger",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Bird Angel",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/163.png"
+			}
+		},
+		{
+			"name": "Divine Clerk",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/164.png"
+			}
+		},
+		{
+			"name": "Lawkeeper",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Angel Avatar",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/165.png"
+			}
+		},
+		{
+			"name": "Esmus, Breath of the World",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Avatar",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/166.png"
+			}
+		},
+		{
+			"name": "Mihira, Aspect of Justice",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}{U}{U}",
+			"type": "Legendary Creature — Angel Avatar",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/167.png"
+			}
+		},
+		{
+			"name": "Lunari Cultist",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Cultist",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/168.png"
+			}
+		},
+		{
+			"name": "Draconic Bands",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/169.png"
+			}
+		},
+		{
+			"name": "Celestial Impact",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/170.png"
+			}
+		},
+		{
+			"name": "Consult the Heavens",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/171.png"
+			}
+		},
+		{
+			"name": "Seal In Steel",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/172.png"
+			}
+		},
+		{
+			"name": "The Winding Light",
+			"rarity": "common",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Creature — Dragon Avatar",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/173.png"
+			}
+		},
+		{
+			"name": "Targon's Dragon Roost",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/174.png"
+			}
+		},
+		{
+			"name": "The Expanse's Protection",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Instant — Cultist",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/175.png"
+			}
+		},
+		{
+			"name": "Starhound Pack",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}{U}",
+			"type": "Creature — Dog",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/176.png"
+			}
+		},
+		{
+			"name": "Twilit Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/177.png"
+			}
+		},
+		{
+			"name": "Targonian Tellstones",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/178.png"
+			}
+		},
+		{
+			"name": "Solari Stellacorn",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}{U}",
+			"type": "Creature — Unicorn Pegasus",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/179.png"
+			}
+		},
+		{
+			"name": "Celestial Trifecta",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}{U}{U}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/180.png"
+			}
+		},
+		{
+			"name": "Mystic Vortex",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/181.png"
+			}
+		},
+		{
+			"name": "Mikhael's Blessing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/182.png"
+			}
+		},
+		{
+			"name": "Celestial Blessing",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}",
+			"type": "Instant",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/183.png"
+			}
+		},
+		{
+			"name": "Generous Gemcrafter",
+			"rarity": "rare",
+			"mana_cost": "{W/U}{W/U}{W/U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/184.png"
+			}
+		},
+		{
+			"name": "The Prefect",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/185.png"
+			}
+		},
+		{
+			"name": "Captive Greyback",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Fish",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/186.png"
+			}
+		},
+		{
+			"name": "Annie",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Child Shaman",
+			"collector_number": "91",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/187_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/187_front.png"
+			}
+		},
+		{
+			"name": "Tibbers",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Token Creature — Bear Demon",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/188.png"
+			}
+		},
+		{
+			"name": "Spell Slinger",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Spider",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/189.png"
+			}
+		},
+		{
+			"name": "Disintegrate",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/190.png"
+			}
+		},
+		{
+			"name": "Manasoul Student",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Lizard Shaman",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/191.png"
+			}
+		},
+		{
+			"name": "Noxian Defector",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior Cultist",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/192.png"
+			}
+		},
+		{
+			"name": "Legionary Charge",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/193.png"
+			}
+		},
+		{
+			"name": "Ionian Hookmaster",
+			"rarity": "common",
+			"mana_cost": "{U/R}{R}",
+			"type": "Creature — Human Weaponmaster",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/194.png"
+			}
+		},
+		{
+			"name": "Lord Broadmane",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Creature — Minotaur Soldier",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/195.png"
+			}
+		},
+		{
+			"name": "Great Hammers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/196.png"
+			}
+		},
+		{
+			"name": "Brutal Skirmish",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/197.png"
+			}
+		},
+		{
+			"name": "Ravenbloom Conservatory",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/198.png"
+			}
+		},
+		{
+			"name": "Tybaulk",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Token Creature — Bear Demon Elemental",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/199.png"
+			}
+		},
+		{
+			"name": "Tybaulk",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Emblem — Tybaulk",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/200.png"
+			}
+		},
+		{
+			"name": "The Gray Apothecary",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/201.png"
+			}
+		},
+		{
+			"name": "Legion Deserter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/202.png"
+			}
+		},
+		{
+			"name": "Captive Yeti",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Yeti",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/203.png"
+			}
+		},
+		{
+			"name": "Obedient Drakehound",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dog Dragon",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/204.png"
+			}
+		},
+		{
+			"name": "Strategic Execution",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/205.png"
+			}
+		},
+		{
+			"name": "Furious Wielder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Instant — Cultist",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/206.png"
+			}
+		},
+		{
+			"name": "Rune Squire",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/207.png"
+			}
+		},
+		{
+			"name": "Noxian Tellstones",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/208.png"
+			}
+		},
+		{
+			"name": "Reveler's Feast",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/209.png"
+			}
+		},
+		{
+			"name": "Trifarian Training Pits",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/210.png"
+			}
+		},
+		{
+			"name": "Crimson Pigeon",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Bird Vampire",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/211.png"
+			}
+		},
+		{
+			"name": "Skulking String-Puller",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Spider",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/212.png"
+			}
+		},
+		{
+			"name": "Encore",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/213.png"
+			}
+		},
+		{
+			"name": "Ambitious Cultist",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Artifact Creature — Construct Cultist",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/214.png"
+			}
+		},
+		{
+			"name": "Caustic Riff",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U/R}{U/R}",
+			"type": "Instant",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/215.png"
+			}
+		},
+		{
+			"name": "Acoustician",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/216.png"
+			}
+		},
+		{
+			"name": "Fanclub President",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/217.png"
+			}
+		},
+		{
+			"name": "High Note",
+			"rarity": "uncommon",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Instant",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/218.png"
+			}
+		},
+		{
+			"name": "Zaun Bouncer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/219.png"
+			}
+		},
+		{
+			"name": "Acorn, the Hextechnician",
+			"rarity": "rare",
+			"mana_cost": "{U/R}",
+			"type": "Creature — Squirrel Artificer",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/220.png"
+			}
+		},
+		{
+			"name": "Seraphine",
+			"rarity": "mythic",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Artificer Performer",
+			"collector_number": "233",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/221_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/221_front.png"
+			}
+		},
+		{
+			"name": "Drum Solo",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/222.png"
+			}
+		},
+		{
+			"name": "Demon of Solitude",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Demon Shapeshifter",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/223.png"
+			}
+		},
+		{
+			"name": "Discreet Invitation",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/224.png"
+			}
+		},
+		{
+			"name": "Crowd Pleaser",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/225.png"
+			}
+		},
+		{
+			"name": "Inspired Plans",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/226.png"
+			}
+		},
+		{
+			"name": "Hexbliterator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/227.png"
+			}
+		},
+		{
+			"name": "The Zaun Diva",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}{R}",
+			"type": "Creature — Human Performer",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/228.png"
+			}
+		},
+		{
+			"name": "Formula",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}{R}{R}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/229.png"
+			}
+		},
+		{
+			"name": "Sputtering Songspinner",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}{R}",
+			"type": "Instant",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/230.png"
+			}
+		},
+		{
+			"name": "Gatalyst v1.0",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/231.png"
+			}
+		},
+		{
+			"name": "The Violent Dischord",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Instant — Cultist",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/232.png"
+			}
+		},
+		{
+			"name": "Scavenged Camocloaker",
+			"rarity": "common",
+			"mana_cost": "{2}{U/R}",
+			"type": "Instant",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/233.png"
+			}
+		},
+		{
+			"name": "Salvaged Scrap",
+			"rarity": "uncommon",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Instant",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/234.png"
+			}
+		},
+		{
+			"name": "Back Alley Bar",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/235.png"
+			}
+		},
+		{
+			"name": "Cunning Kitten",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/236.png"
+			}
+		},
+		{
+			"name": "Evil Imperfectionist",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{R}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/237.png"
+			}
+		},
+		{
+			"name": "Piltovan Tellstones",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/238.png"
+			}
+		},
+		{
+			"name": "Bard, Cosmic Vagabond",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Avatar Nomad",
+			"collector_number": "155",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/239_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/239_front.png"
+			}
+		},
+		{
+			"name": "Jhin, Artisan Killer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Demon Performer",
+			"collector_number": "197",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/240_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/240_front.png"
+			}
+		},
+		{
+			"name": "Dancing Grenade",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/241.png"
+			}
+		},
+		{
+			"name": "Traveler's Call",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{G/W}",
+			"type": "Instant",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/242.png"
+			}
+		},
+		{
+			"name": "Kayne, The Shadow Reaper",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Creature — Human Demon Assassin",
+			"collector_number": "202",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/243_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/243_front.png"
+			}
+		},
+		{
+			"name": "Shadow Scythe",
+			"rarity": "common",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Token Legendary Artifact — Equipment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/244.png"
+			}
+		},
+		{
+			"name": "Rhaast's Scythe",
+			"rarity": "common",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Token Legendary Artifact — Equipment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/245.png"
+			}
+		},
+		{
+			"name": "Kayn's Shadowstep",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/246.png"
+			}
+		},
+		{
+			"name": "Ryze, The Rune Mage",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "226",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/247_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/247_front.png"
+			}
+		},
+		{
+			"name": "Shard of Madness",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Enchantment — Rune Landmark",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/248.png"
+			}
+		},
+		{
+			"name": "Shard of Betrayal",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Enchantment — Rune Landmark",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/249.png"
+			}
+		},
+		{
+			"name": "Shard of Violence",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Enchantment — Rune Landmark",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/250.png"
+			}
+		},
+		{
+			"name": "Shard of Hope",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Enchantment — Rune Landmark",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/251.png"
+			}
+		},
+		{
+			"name": "Shard of Reverence",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Enchantment — Rune Landmark",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/252.png"
+			}
+		},
+		{
+			"name": "Delve Into The Past",
+			"rarity": "common",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Token Artifact",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/253.png"
+			}
+		},
+		{
+			"name": "Ryze's Realm Warp",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/254.png"
+			}
+		},
+		{
+			"name": "Jax",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Troll Weaponmaster",
+			"collector_number": "195",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/255_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/255_front.png"
+			}
+		},
+		{
+			"name": "The Light of Icathia",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Legendary Artifact — Equipment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/256.png"
+			}
+		},
+		{
+			"name": "Jax's Counter Strike",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/257.png"
+			}
+		},
+		{
+			"name": "Varus, The Arrow of Retribution",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Human Demon Archer",
+			"collector_number": "257",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/258_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/258_front.png"
+			}
+		},
+		{
+			"name": "The Darkin Bow",
+			"rarity": "common",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Token Legendary Artifact — Equipment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/259.png"
+			}
+		},
+		{
+			"name": "Varus' Chain of Corruption",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/260.png"
+			}
+		},
+		{
+			"name": "The Fix-Em 5000",
+			"rarity": "common",
+			"mana_cost": "{U/R}{B/R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/261.png"
+			}
+		},
+		{
+			"name": "Pot O' Pain",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/262.png"
+			}
+		},
+		{
+			"name": "Evelynn, The Widowmaker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Demon Assassin",
+			"collector_number": "64",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/263_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/263_front.png"
+			}
+		},
+		{
+			"name": "Evelynn's Last Caress",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/264.png"
+			}
+		},
+		{
+			"name": "Desperate Husk",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Husk",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/265.png"
+			}
+		},
+		{
+			"name": "Stubborn Husk",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Husk",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/266.png"
+			}
+		},
+		{
+			"name": "Scattered Husk",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Creature — Husk",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/267.png"
+			}
+		},
+		{
+			"name": "Breakneck Husk",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Creature — Husk",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/268.png"
+			}
+		},
+		{
+			"name": "Haunted Husk",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Husk",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/269.png"
+			}
+		},
+		{
+			"name": "Warded Husk",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Husk",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/270.png"
+			}
+		},
+		{
+			"name": "Enraged Husk",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Creature — Husk",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/271.png"
+			}
+		},
+		{
+			"name": "Thrashing Husk",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Husk",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/272.png"
+			}
+		},
+		{
+			"name": "Hardy Husk",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Husk",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/273.png"
+			}
+		},
+		{
+			"name": "Fading Husk",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Husk",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/274.png"
+			}
+		},
+		{
+			"name": "Aatrox's Deathbringer Sweep",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/275.png"
+			}
+		},
+		{
+			"name": "Sandworn Amulet",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/276.png"
+			}
+		},
+		{
+			"name": "Fishawhack",
+			"rarity": "common",
+			"mana_cost": "{R}{U/R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/277.png"
+			}
+		},
+		{
+			"name": "Upcycled Rake",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/278.png"
+			}
+		},
+		{
+			"name": "Shepherd's Authority",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/279.png"
+			}
+		},
+		{
+			"name": "Combat Reel",
+			"rarity": "common",
+			"mana_cost": "{U}{U/R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/280.png"
+			}
+		},
+		{
+			"name": "Pan O' Pain",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/281.png"
+			}
+		},
+		{
+			"name": "Darkinthrall",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Creature — Cultist",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/282.png"
+			}
+		},
+		{
+			"name": "Forsaken Baccai",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Baccai Cultist",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/283.png"
+			}
+		},
+		{
+			"name": "Voidling",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Voidling",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/284.png"
+			}
+		},
+		{
+			"name": "Belvethi Elder",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/285.png"
+			}
+		},
+		{
+			"name": "Kai'Sa, The Girl Who Came Back",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Human Voidling Survivor",
+			"collector_number": "199",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/286_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/286_front.png"
+			}
+		},
+		{
+			"name": "Void Blaster",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/287.png"
+			}
+		},
+		{
+			"name": "Kai'Sa's Supercharge",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/288.png"
+			}
+		},
+		{
+			"name": "Void Abomination",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{B}",
+			"type": "Creature — Voidling Horror",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/289.png"
+			}
+		},
+		{
+			"name": "Hive Herald",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Voidling Horror",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/290.png"
+			}
+		},
+		{
+			"name": "Void Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}",
+			"type": "Sorcery",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/291.png"
+			}
+		},
+		{
+			"name": "Camouflaged Horror",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Creature — Voidling Horror",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/292.png"
+			}
+		},
+		{
+			"name": "Void Gate",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/293.png"
+			}
+		},
+		{
+			"name": "Buried Armory",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/294.png"
+			}
+		},
+		{
+			"name": "Treasure of the Sands",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/295.png"
+			}
+		},
+		{
+			"name": "Curse of the Tomb",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/296.png"
+			}
+		},
+		{
+			"name": "Domination",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Demon",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/297.png"
+			}
+		},
+		{
+			"name": "The Altar of Blood",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/298.png"
+			}
+		},
+		{
+			"name": "Chamber of Renewal",
+			"rarity": "rare",
+			"mana_cost": "{2}{U/B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/299.png"
+			}
+		},
+		{
+			"name": "Baccai Witherclaw",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Baccai Warrior",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/300.png"
+			}
+		},
+		{
+			"name": "Swinging Glaive",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/301.png"
+			}
+		},
+		{
+			"name": "Heedless Resurrection",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{B}",
+			"type": "Sorcery — Cultist",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/302.png"
+			}
+		},
+		{
+			"name": "Shuriman Tellstones",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/303.png"
+			}
+		},
+		{
+			"name": "Acolyte's Reliquary",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/304.png"
+			}
+		},
+		{
+			"name": "Rite of Passage",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Instant",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/305.png"
+			}
+		},
+		{
+			"name": "Glory's Call",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U/B}",
+			"type": "Instant",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/306.png"
+			}
+		},
+		{
+			"name": "Sands of Time",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Instant",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/307.png"
+			}
+		},
+		{
+			"name": "Rockbear Shepherd",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U/B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/308.png"
+			}
+		},
+		{
+			"name": "Priestess Of Desert Light",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{B}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/309.png"
+			}
+		},
+		{
+			"name": "Castigate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/310.png"
+			}
+		},
+		{
+			"name": "Fireth, Reaper of the Sands",
+			"rarity": "rare",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Human Weaponmaster",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/311.png"
+			}
+		},
+		{
+			"name": "Keeper of the Box",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cultist",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/312.png"
+			}
+		},
+		{
+			"name": "Gwen",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Spirit Warrior",
+			"collector_number": "68",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/313_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/313_front.png"
+			}
+		},
+		{
+			"name": "Eternal Dancers",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/314.png"
+			}
+		},
+		{
+			"name": "Opulent Foyer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/315.png"
+			}
+		},
+		{
+			"name": "Ghastly Band",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Token Creature — Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/316.png"
+			}
+		},
+		{
+			"name": "Strike Up The Band",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/317.png"
+			}
+		},
+		{
+			"name": "Boisterous Host",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/318.png"
+			}
+		},
+		{
+			"name": "Vora",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/319.png"
+			}
+		},
+		{
+			"name": "Sultur",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/320.png"
+			}
+		},
+		{
+			"name": "Hate Spike",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/321.png"
+			}
+		},
+		{
+			"name": "Ghostly Paramour",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/322.png"
+			}
+		},
+		{
+			"name": "Conductor Of The Mists",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/323.png"
+			}
+		},
+		{
+			"name": "Thread the Needle",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/324.png"
+			}
+		},
+		{
+			"name": "Phantom Butler",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/325.png"
+			}
+		},
+		{
+			"name": "Malefic Spear",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/326.png"
+			}
+		},
+		{
+			"name": "Formal Invitation",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/327.png"
+			}
+		},
+		{
+			"name": "Blades of the Fallen",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}",
+			"type": "Instant — Weaponmaster",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/328.png"
+			}
+		},
+		{
+			"name": "Quietus",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/329.png"
+			}
+		},
+		{
+			"name": "Haunted Tomb",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/330.png"
+			}
+		},
+		{
+			"name": "Wraith of Echoes",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Creature — Wraith",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/331.png"
+			}
+		},
+		{
+			"name": "Utter Devastation",
+			"rarity": "uncommon",
+			"mana_cost": "{8}{B}{B}{B}",
+			"type": "Sorcery — Cultist",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/332.png"
+			}
+		},
+		{
+			"name": "Shadow Isles Tellstones",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/333.png"
+			}
+		},
+		{
+			"name": "Redeemed Prodigy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/334.png"
+			}
+		},
+		{
+			"name": "Shape of Fear",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/335.png"
+			}
+		},
+		{
+			"name": "Harrowing Return",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/336.png"
+			}
+		},
+		{
+			"name": "Moonlit Glenkeeper",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Plant Wraith",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/337.png"
+			}
+		},
+		{
+			"name": "Isles Deathless Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Wraith",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/338.png"
+			}
+		},
+		{
+			"name": "Undergrowth",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/339.png"
+			}
+		},
+		{
+			"name": "Soul Cleave",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/340.png"
+			}
+		},
+		{
+			"name": "Ceaseless Sentry",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Wraith",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-WW-files/img/341.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Norra, The Portal Conjurer
+	1 The Darkin Staff
+	1 The Darkin Aegis
+	1 The Darkin Fan
+	1 The Darkin Halberd
+	1 The Darkin Ballista
+	2 Ornn's Forge
+	1 Ornn, Master of the Forge
+	1 The Darkin Spear
+	1 The Darkin Lodestone
+	1 The Darkin Bloodletters
+	1 The Darkin Harp
+	1 The Darkin Harpoon
+	1 Aatrox, The World Ender
+	1 Xolaani the Bloodweaver
+	2 Eclectic Collection
+	2 Paparo the Great
+	2 Sneezy Biggledust!
+	1 Truth Bearer Illaoi
+	2 Nagakabouros
+	2 Riptide Sermon
+	2 Wharf Rat
+	2 Ransom Riches
+	2 Loaded Vessel
+	1 Vayne, The Vigilante
+	2 Bloodcursed Harpy
+	2 Protective Broodfather
+	2 Lord Eldred, Mageseeker Leader
+	2 Champions' Strength
+	2 Wrought Colossus
+	2 Revna, the Lorekeeper
+	2 Frozen in Fear
+	2 Gift of the Hearthblood
+	2 Wild Mysticism
+	2 Warden of the Tribes
+	2 Winter's Touch
+	1 Master Yi
+	2 Windswept Hillock
+	2 Vastayan Disciple
+	2 Dragoncaller
+	2 Storm of Blades
+	2 The Black Flame
+	2 Serene Sky-Singer
+	1 Kayle, The Winged Protector
+	2 Mihira, Aspect of Justice
+	2 Consult the Heavens
+	2 Targon's Dragon Roost
+	2 Generous Gemcrafter
+	2 The Prefect
+	1 Annie
+	2 Legionary Charge
+	2 The Gray Apothecary
+	2 Trifarian Training Pits
+	2 Crimson Pigeon
+	2 Acoustician
+	2 Acorn, the Hextechnician
+	1 Seraphine
+	2 Sputtering Songspinner
+	2 Back Alley Bar
+	2 Evil Imperfectionist
+	1 Bard, Cosmic Vagabond
+	1 Jhin, Artisan Killer
+	1 Kayne, The Shadow Reaper
+	1 Ryze, The Rune Mage
+	2 Shard of Madness
+	2 Shard of Betrayal
+	2 Shard of Violence
+	2 Shard of Hope
+	2 Shard of Reverence
+	1 Jax
+	1 Varus, The Arrow of Retribution
+	1 Evelynn, The Widowmaker
+	1 Kai'Sa, The Girl Who Came Back
+	2 Void Abomination
+	2 Void Gate
+	2 Domination
+	2 Chamber of Renewal
+	2 Heedless Resurrection
+	2 Priestess Of Desert Light
+	2 Fireth, Reaper of the Sands
+	1 Gwen
+	2 Eternal Dancers
+	2 Opulent Foyer
+	2 Haunted Tomb
+	2 Wraith of Echoes
+	2 Harrowing Return
+[uncommon(3)]
+	4 Sharesies
+	4 Portalpalooza
+	4 Origami Slicer
+	4 Puzzling Signposts
+	4 Realm's Caretaker
+	4 Bellows Breath
+	4 Maduli, The Gatekeeper
+	4 The Papertree
+	4 The Sudden Surge
+	4 Bandle Tellstones
+	4 Skrappy's Partsapalooza
+	4 Cosmic Binding
+	4 Banana Blaster
+	4 Test of Spirit
+	4 Buhru Leader
+	4 Parts Made Whole
+	4 Tentacle Smash
+	4 Heavy Metal
+	4 The Sea's Voice
+	4 The Unending Wave
+	4 Eye of God
+	4 Swindle
+	4 Bilgewater Tellstones
+	4 Mischievous Marai
+	4 Ranger-Knight Defector
+	4 Catch!
+	4 Kind-hearted Recruit
+	4 Parts Made Whole
+	4 Zealous Ranger-Knight
+	4 Jarvan's Royal Decree
+	4 Roar of Icathia
+	4 Demacian Tellstones
+	4 Petricite Charger
+	4 Icevale Cultist
+	4 Fractured Blade
+	4 Woolly Snailmoth
+	4 Wings of the Cryophoenix
+	4 Wildclaw's Ferocity
+	4 The Maker
+	4 Jun, the Prodigy
+	4 Entrancing Lure
+	4 Mistfall
+	4 Unworthy Soul
+	4 Momentous Choice
+	4 Kinkou Student
+	4 Ionian Tellstones
+	4 Twin Wind Technique
+	4 Seraphic Wyvern
+	4 Divine Judgment
+	4 Purifying Flames
+	4 Divine Clerk
+	4 Celestial Impact
+	4 Seal In Steel
+	4 The Expanse's Protection
+	4 Twilit Protector
+	4 Targonian Tellstones
+	4 Celestial Trifecta
+	4 Mystic Vortex
+	4 Mikhael's Blessing
+	4 Lord Broadmane
+	4 Brutal Skirmish
+	4 Ravenbloom Conservatory
+	4 Legion Deserter
+	4 Strategic Execution
+	4 Furious Wielder
+	4 Noxian Tellstones
+	4 Encore
+	4 Caustic Riff
+	4 Fanclub President
+	4 High Note
+	4 Demon of Solitude
+	4 Inspired Plans
+	4 Hexbliterator
+	4 The Zaun Diva
+	4 The Violent Dischord
+	4 Salvaged Scrap
+	4 Piltovan Tellstones
+	4 Dancing Grenade
+	4 Traveler's Call
+	4 Kayn's Shadowstep
+	4 Ryze's Realm Warp
+	4 Jax's Counter Strike
+	4 Varus' Chain of Corruption
+	4 Evelynn's Last Caress
+	4 Aatrox's Deathbringer Sweep
+	4 Hive Herald
+	4 Void Seeker
+	4 Camouflaged Horror
+	4 Curse of the Tomb
+	4 The Altar of Blood
+	4 Shuriman Tellstones
+	4 Acolyte's Reliquary
+	4 Glory's Call
+	4 Sands of Time
+	4 Rockbear Shepherd
+	4 Castigate
+	4 Boisterous Host
+	4 Vora
+	4 Sultur
+	4 Conductor Of The Mists
+	4 Blades of the Fallen
+	4 Quietus
+	4 Utter Devastation
+	4 Shadow Isles Tellstones
+	4 Redeemed Prodigy
+	4 Isles Deathless Knight
+	4 Soul Cleave
+[common(6)]
+	8 Magical Journey
+	8 Living Library
+	8 The Tea Maker
+	8 Junk Construct
+	8 Blooming Cultist
+	8 Weaponsmith's Apprentice
+	8 Proximity Puffcap
+	8 Byrd, The Bellringer
+	8 Mechapulverizer
+	8 Drop the Bomb
+	8 Curious Changelings
+	8 Poro Stories
+	8 Watchful Idol
+	8 Illaoi's Answered Prayer
+	8 Buhru Lookout
+	8 Steem
+	8 Jagged Cutlass
+	8 Buhru Cultist
+	8 Piltovan Castaway
+	8 Eye of Nagakabouros
+	8 Megatusk
+	8 Wily Newtfish
+	8 Blood in the Water
+	8 Combat Cook
+	8 Fish Fight
+	8 Vayne's Condemn
+	8 Widowed Huntress
+	8 Steadfast Elkin
+	8 Allure
+	8 Demacian Steel
+	8 Silence and Suppress
+	8 Faithful Wolfdog
+	8 Petricite Pillar
+	8 Tempting Prospect
+	8 Trusty Ramhound
+	8 Inspiring Light
+	8 Blocking Badgerbear
+	8 Hearthblood Mender
+	8 Adept Weaponsmith
+	8 Favored Artisan
+	8 Pouty Poro
+	8 Bone Club
+	8 Harbinger of Thralls
+	8 Hunting Boar
+	8 The Unforgiving Cold
+	8 Here to Help
+	8 Cracking Ice
+	8 Disciple of Doran
+	8 The Stagehand
+	8 Gruesome Theater
+	8 Dragon Ambush
+	8 Kinkou's Call
+	8 Wuju Style
+	8 The Witness
+	8 Shadowblade Fanatic
+	8 The Spirit of Wuju
+	8 Soul Sword
+	8 Moral Support
+	8 Navori Longtail
+	8 Wandering Shepherd
+	8 Winged Messenger
+	8 Lawkeeper
+	8 Esmus, Breath of the World
+	8 Lunari Cultist
+	8 Draconic Bands
+	8 The Winding Light
+	8 Starhound Pack
+	8 Solari Stellacorn
+	8 Celestial Blessing
+	8 Captive Greyback
+	8 Spell Slinger
+	8 Disintegrate
+	8 Manasoul Student
+	8 Noxian Defector
+	8 Ionian Hookmaster
+	8 Great Hammers
+	8 Captive Yeti
+	8 Obedient Drakehound
+	8 Rune Squire
+	8 Reveler's Feast
+	8 Skulking String-Puller
+	8 Ambitious Cultist
+	8 Zaun Bouncer
+	8 Drum Solo
+	8 Discreet Invitation
+	8 Crowd Pleaser
+	8 Formula
+	8 Gatalyst v1.0
+	8 Scavenged Camocloaker
+	8 Cunning Kitten
+	8 The Fix-Em 5000
+	8 Pot O' Pain
+	8 Desperate Husk
+	8 Stubborn Husk
+	8 Scattered Husk
+	8 Breakneck Husk
+	8 Haunted Husk
+	8 Warded Husk
+	8 Enraged Husk
+	8 Thrashing Husk
+	8 Hardy Husk
+	8 Fading Husk
+	8 Sandworn Amulet
+	8 Fishawhack
+	8 Upcycled Rake
+	8 Shepherd's Authority
+	8 Combat Reel
+	8 Pan O' Pain
+	8 Forsaken Baccai
+	8 Voidling
+	8 Belvethi Elder
+	8 Void Blaster
+	8 Kai'Sa's Supercharge
+	8 Buried Armory
+	8 Baccai Witherclaw
+	8 Swinging Glaive
+	8 Rite of Passage
+	8 Keeper of the Box
+	8 Strike Up The Band
+	8 Hate Spike
+	8 Ghostly Paramour
+	8 Thread the Needle
+	8 Phantom Butler
+	8 Malefic Spear
+	8 Formal Invitation
+	8 Shape of Fear
+	8 Moonlit Glenkeeper
+	8 Undergrowth
+	8 Ceaseless Sentry
+[common | masterpiece(1)]
+	8 Magical Journey
+	8 Living Library
+	8 The Tea Maker
+	8 Junk Construct
+	8 Blooming Cultist
+	8 Weaponsmith's Apprentice
+	8 Proximity Puffcap
+	8 Byrd, The Bellringer
+	8 Mechapulverizer
+	8 Drop the Bomb
+	8 Curious Changelings
+	8 Poro Stories
+	8 Watchful Idol
+	8 Illaoi's Answered Prayer
+	8 Buhru Lookout
+	8 Steem
+	8 Jagged Cutlass
+	8 Buhru Cultist
+	8 Piltovan Castaway
+	8 Eye of Nagakabouros
+	8 Megatusk
+	8 Wily Newtfish
+	8 Blood in the Water
+	8 Combat Cook
+	8 Fish Fight
+	8 Vayne's Condemn
+	8 Widowed Huntress
+	8 Steadfast Elkin
+	8 Allure
+	8 Demacian Steel
+	8 Silence and Suppress
+	8 Faithful Wolfdog
+	8 Petricite Pillar
+	8 Tempting Prospect
+	8 Trusty Ramhound
+	8 Inspiring Light
+	8 Blocking Badgerbear
+	8 Hearthblood Mender
+	8 Adept Weaponsmith
+	8 Favored Artisan
+	8 Pouty Poro
+	8 Bone Club
+	8 Harbinger of Thralls
+	8 Hunting Boar
+	8 The Unforgiving Cold
+	8 Here to Help
+	8 Cracking Ice
+	8 Disciple of Doran
+	8 The Stagehand
+	8 Gruesome Theater
+	8 Dragon Ambush
+	8 Kinkou's Call
+	8 Wuju Style
+	8 The Witness
+	8 Shadowblade Fanatic
+	8 The Spirit of Wuju
+	8 Soul Sword
+	8 Moral Support
+	8 Navori Longtail
+	8 Wandering Shepherd
+	8 Winged Messenger
+	8 Lawkeeper
+	8 Esmus, Breath of the World
+	8 Lunari Cultist
+	8 Draconic Bands
+	8 The Winding Light
+	8 Starhound Pack
+	8 Solari Stellacorn
+	8 Celestial Blessing
+	8 Captive Greyback
+	8 Spell Slinger
+	8 Disintegrate
+	8 Manasoul Student
+	8 Noxian Defector
+	8 Ionian Hookmaster
+	8 Great Hammers
+	8 Captive Yeti
+	8 Obedient Drakehound
+	8 Rune Squire
+	8 Reveler's Feast
+	8 Skulking String-Puller
+	8 Ambitious Cultist
+	8 Zaun Bouncer
+	8 Drum Solo
+	8 Discreet Invitation
+	8 Crowd Pleaser
+	8 Formula
+	8 Gatalyst v1.0
+	8 Scavenged Camocloaker
+	8 Cunning Kitten
+	8 The Fix-Em 5000
+	8 Pot O' Pain
+	8 Desperate Husk
+	8 Stubborn Husk
+	8 Scattered Husk
+	8 Breakneck Husk
+	8 Haunted Husk
+	8 Warded Husk
+	8 Enraged Husk
+	8 Thrashing Husk
+	8 Hardy Husk
+	8 Fading Husk
+	8 Sandworn Amulet
+	8 Fishawhack
+	8 Upcycled Rake
+	8 Shepherd's Authority
+	8 Combat Reel
+	8 Pan O' Pain
+	8 Forsaken Baccai
+	8 Voidling
+	8 Belvethi Elder
+	8 Void Blaster
+	8 Kai'Sa's Supercharge
+	8 Buried Armory
+	8 Baccai Witherclaw
+	8 Swinging Glaive
+	8 Rite of Passage
+	8 Keeper of the Box
+	8 Strike Up The Band
+	8 Hate Spike
+	8 Ghostly Paramour
+	8 Thread the Needle
+	8 Phantom Butler
+	8 Malefic Spear
+	8 Formal Invitation
+	8 Shape of Fear
+	8 Moonlit Glenkeeper
+	8 Undergrowth
+	8 Ceaseless Sentry
+[foil(1)]
+	1 Norra, The Portal Conjurer
+	6 Sharesies
+	12 Magical Journey
+	12 Living Library
+	6 Portalpalooza
+	12 The Tea Maker
+	6 Origami Slicer
+	12 Junk Construct
+	6 Puzzling Signposts
+	6 Realm's Caretaker
+	12 Blooming Cultist
+	1 The Darkin Staff
+	1 The Darkin Aegis
+	1 The Darkin Fan
+	1 The Darkin Halberd
+	1 The Darkin Ballista
+	6 Bellows Breath
+	2 Ornn's Forge
+	1 Ornn, Master of the Forge
+	12 Weaponsmith's Apprentice
+	1 The Darkin Spear
+	1 The Darkin Lodestone
+	1 The Darkin Bloodletters
+	1 The Darkin Harp
+	1 The Darkin Harpoon
+	1 Aatrox, The World Ender
+	1 Xolaani the Bloodweaver
+	12 Proximity Puffcap
+	12 Byrd, The Bellringer
+	6 Maduli, The Gatekeeper
+	2 Eclectic Collection
+	12 Mechapulverizer
+	6 The Papertree
+	2 Paparo the Great
+	6 The Sudden Surge
+	12 Drop the Bomb
+	6 Bandle Tellstones
+	6 Skrappy's Partsapalooza
+	12 Curious Changelings
+	12 Poro Stories
+	6 Cosmic Binding
+	2 Sneezy Biggledust!
+	6 Banana Blaster
+	6 Test of Spirit
+	1 Truth Bearer Illaoi
+	12 Watchful Idol
+	6 Buhru Leader
+	2 Nagakabouros
+	12 Illaoi's Answered Prayer
+	12 Buhru Lookout
+	12 Steem
+	2 Riptide Sermon
+	12 Jagged Cutlass
+	12 Buhru Cultist
+	6 Parts Made Whole
+	6 Tentacle Smash
+	12 Piltovan Castaway
+	12 Eye of Nagakabouros
+	6 Heavy Metal
+	6 The Sea's Voice
+	2 Wharf Rat
+	2 Ransom Riches
+	12 Megatusk
+	6 The Unending Wave
+	6 Eye of God
+	6 Swindle
+	2 Loaded Vessel
+	6 Bilgewater Tellstones
+	12 Wily Newtfish
+	12 Blood in the Water
+	6 Mischievous Marai
+	12 Combat Cook
+	6 Ranger-Knight Defector
+	12 Fish Fight
+	12 Vayne's Condemn
+	12 Widowed Huntress
+	1 Vayne, The Vigilante
+	6 Catch!
+	6 Kind-hearted Recruit
+	6 Parts Made Whole
+	6 Zealous Ranger-Knight
+	2 Bloodcursed Harpy
+	12 Steadfast Elkin
+	12 Allure
+	12 Demacian Steel
+	12 Silence and Suppress
+	12 Faithful Wolfdog
+	12 Petricite Pillar
+	2 Protective Broodfather
+	6 Jarvan's Royal Decree
+	2 Lord Eldred, Mageseeker Leader
+	6 Roar of Icathia
+	12 Tempting Prospect
+	2 Champions' Strength
+	6 Demacian Tellstones
+	12 Trusty Ramhound
+	6 Petricite Charger
+	12 Inspiring Light
+	12 Blocking Badgerbear
+	12 Hearthblood Mender
+	12 Adept Weaponsmith
+	12 Favored Artisan
+	6 Icevale Cultist
+	6 Fractured Blade
+	12 Pouty Poro
+	2 Wrought Colossus
+	12 Bone Club
+	6 Woolly Snailmoth
+	2 Revna, the Lorekeeper
+	2 Frozen in Fear
+	12 Harbinger of Thralls
+	2 Gift of the Hearthblood
+	12 Hunting Boar
+	12 The Unforgiving Cold
+	12 Here to Help
+	2 Wild Mysticism
+	12 Cracking Ice
+	6 Wings of the Cryophoenix
+	6 Wildclaw's Ferocity
+	2 Warden of the Tribes
+	2 Winter's Touch
+	12 Disciple of Doran
+	12 The Stagehand
+	6 The Maker
+	12 Gruesome Theater
+	1 Master Yi
+	12 Dragon Ambush
+	2 Windswept Hillock
+	6 Jun, the Prodigy
+	12 Kinkou's Call
+	12 Wuju Style
+	2 Vastayan Disciple
+	12 The Witness
+	2 Dragoncaller
+	12 Shadowblade Fanatic
+	6 Entrancing Lure
+	12 The Spirit of Wuju
+	6 Mistfall
+	12 Soul Sword
+	6 Unworthy Soul
+	2 Storm of Blades
+	6 Momentous Choice
+	6 Kinkou Student
+	6 Ionian Tellstones
+	2 The Black Flame
+	12 Moral Support
+	12 Navori Longtail
+	6 Twin Wind Technique
+	2 Serene Sky-Singer
+	12 Wandering Shepherd
+	6 Seraphic Wyvern
+	1 Kayle, The Winged Protector
+	6 Divine Judgment
+	6 Purifying Flames
+	12 Winged Messenger
+	6 Divine Clerk
+	12 Lawkeeper
+	12 Esmus, Breath of the World
+	2 Mihira, Aspect of Justice
+	12 Lunari Cultist
+	12 Draconic Bands
+	6 Celestial Impact
+	2 Consult the Heavens
+	6 Seal In Steel
+	12 The Winding Light
+	2 Targon's Dragon Roost
+	6 The Expanse's Protection
+	12 Starhound Pack
+	6 Twilit Protector
+	6 Targonian Tellstones
+	12 Solari Stellacorn
+	6 Celestial Trifecta
+	6 Mystic Vortex
+	6 Mikhael's Blessing
+	12 Celestial Blessing
+	2 Generous Gemcrafter
+	2 The Prefect
+	12 Captive Greyback
+	1 Annie
+	12 Spell Slinger
+	12 Disintegrate
+	12 Manasoul Student
+	12 Noxian Defector
+	2 Legionary Charge
+	12 Ionian Hookmaster
+	6 Lord Broadmane
+	12 Great Hammers
+	6 Brutal Skirmish
+	6 Ravenbloom Conservatory
+	2 The Gray Apothecary
+	6 Legion Deserter
+	12 Captive Yeti
+	12 Obedient Drakehound
+	6 Strategic Execution
+	6 Furious Wielder
+	12 Rune Squire
+	6 Noxian Tellstones
+	12 Reveler's Feast
+	2 Trifarian Training Pits
+	2 Crimson Pigeon
+	12 Skulking String-Puller
+	6 Encore
+	12 Ambitious Cultist
+	6 Caustic Riff
+	2 Acoustician
+	6 Fanclub President
+	6 High Note
+	12 Zaun Bouncer
+	2 Acorn, the Hextechnician
+	1 Seraphine
+	12 Drum Solo
+	6 Demon of Solitude
+	12 Discreet Invitation
+	12 Crowd Pleaser
+	6 Inspired Plans
+	6 Hexbliterator
+	6 The Zaun Diva
+	12 Formula
+	2 Sputtering Songspinner
+	12 Gatalyst v1.0
+	6 The Violent Dischord
+	12 Scavenged Camocloaker
+	6 Salvaged Scrap
+	2 Back Alley Bar
+	12 Cunning Kitten
+	2 Evil Imperfectionist
+	6 Piltovan Tellstones
+	1 Bard, Cosmic Vagabond
+	1 Jhin, Artisan Killer
+	6 Dancing Grenade
+	6 Traveler's Call
+	1 Kayne, The Shadow Reaper
+	6 Kayn's Shadowstep
+	1 Ryze, The Rune Mage
+	2 Shard of Madness
+	2 Shard of Betrayal
+	2 Shard of Violence
+	2 Shard of Hope
+	2 Shard of Reverence
+	6 Ryze's Realm Warp
+	1 Jax
+	6 Jax's Counter Strike
+	1 Varus, The Arrow of Retribution
+	6 Varus' Chain of Corruption
+	12 The Fix-Em 5000
+	12 Pot O' Pain
+	1 Evelynn, The Widowmaker
+	6 Evelynn's Last Caress
+	12 Desperate Husk
+	12 Stubborn Husk
+	12 Scattered Husk
+	12 Breakneck Husk
+	12 Haunted Husk
+	12 Warded Husk
+	12 Enraged Husk
+	12 Thrashing Husk
+	12 Hardy Husk
+	12 Fading Husk
+	6 Aatrox's Deathbringer Sweep
+	12 Sandworn Amulet
+	12 Fishawhack
+	12 Upcycled Rake
+	12 Shepherd's Authority
+	12 Combat Reel
+	12 Pan O' Pain
+	12 Forsaken Baccai
+	12 Voidling
+	12 Belvethi Elder
+	1 Kai'Sa, The Girl Who Came Back
+	12 Void Blaster
+	12 Kai'Sa's Supercharge
+	2 Void Abomination
+	6 Hive Herald
+	6 Void Seeker
+	6 Camouflaged Horror
+	2 Void Gate
+	12 Buried Armory
+	6 Curse of the Tomb
+	2 Domination
+	6 The Altar of Blood
+	2 Chamber of Renewal
+	12 Baccai Witherclaw
+	12 Swinging Glaive
+	2 Heedless Resurrection
+	6 Shuriman Tellstones
+	6 Acolyte's Reliquary
+	12 Rite of Passage
+	6 Glory's Call
+	6 Sands of Time
+	6 Rockbear Shepherd
+	2 Priestess Of Desert Light
+	6 Castigate
+	2 Fireth, Reaper of the Sands
+	12 Keeper of the Box
+	1 Gwen
+	2 Eternal Dancers
+	2 Opulent Foyer
+	12 Strike Up The Band
+	6 Boisterous Host
+	6 Vora
+	6 Sultur
+	12 Hate Spike
+	12 Ghostly Paramour
+	6 Conductor Of The Mists
+	12 Thread the Needle
+	12 Phantom Butler
+	12 Malefic Spear
+	12 Formal Invitation
+	6 Blades of the Fallen
+	6 Quietus
+	2 Haunted Tomb
+	2 Wraith of Echoes
+	6 Utter Devastation
+	6 Shadow Isles Tellstones
+	6 Redeemed Prodigy
+	12 Shape of Fear
+	2 Harrowing Return
+	12 Moonlit Glenkeeper
+	6 Isles Deathless Knight
+	12 Undergrowth
+	6 Soul Cleave
+	12 Ceaseless Sentry
+[wildcard(1)]
+	4 Norra, The Portal Conjurer
+	15 Sharesies
+	6 Magical Journey
+	6 Living Library
+	15 Portalpalooza
+	6 The Tea Maker
+	15 Origami Slicer
+	6 Junk Construct
+	15 Puzzling Signposts
+	15 Realm's Caretaker
+	6 Blooming Cultist
+	4 The Darkin Staff
+	4 The Darkin Aegis
+	4 The Darkin Fan
+	4 The Darkin Halberd
+	4 The Darkin Ballista
+	15 Bellows Breath
+	7 Ornn's Forge
+	4 Ornn, Master of the Forge
+	6 Weaponsmith's Apprentice
+	4 The Darkin Spear
+	4 The Darkin Lodestone
+	4 The Darkin Bloodletters
+	4 The Darkin Harp
+	4 The Darkin Harpoon
+	4 Aatrox, The World Ender
+	4 Xolaani the Bloodweaver
+	6 Proximity Puffcap
+	6 Byrd, The Bellringer
+	15 Maduli, The Gatekeeper
+	7 Eclectic Collection
+	6 Mechapulverizer
+	15 The Papertree
+	7 Paparo the Great
+	15 The Sudden Surge
+	6 Drop the Bomb
+	15 Bandle Tellstones
+	15 Skrappy's Partsapalooza
+	6 Curious Changelings
+	6 Poro Stories
+	15 Cosmic Binding
+	7 Sneezy Biggledust!
+	15 Banana Blaster
+	15 Test of Spirit
+	4 Truth Bearer Illaoi
+	6 Watchful Idol
+	15 Buhru Leader
+	7 Nagakabouros
+	6 Illaoi's Answered Prayer
+	6 Buhru Lookout
+	6 Steem
+	7 Riptide Sermon
+	6 Jagged Cutlass
+	6 Buhru Cultist
+	15 Parts Made Whole
+	15 Tentacle Smash
+	6 Piltovan Castaway
+	6 Eye of Nagakabouros
+	15 Heavy Metal
+	15 The Sea's Voice
+	7 Wharf Rat
+	7 Ransom Riches
+	6 Megatusk
+	15 The Unending Wave
+	15 Eye of God
+	15 Swindle
+	7 Loaded Vessel
+	15 Bilgewater Tellstones
+	6 Wily Newtfish
+	6 Blood in the Water
+	15 Mischievous Marai
+	6 Combat Cook
+	15 Ranger-Knight Defector
+	6 Fish Fight
+	6 Vayne's Condemn
+	6 Widowed Huntress
+	4 Vayne, The Vigilante
+	15 Catch!
+	15 Kind-hearted Recruit
+	15 Parts Made Whole
+	15 Zealous Ranger-Knight
+	7 Bloodcursed Harpy
+	6 Steadfast Elkin
+	6 Allure
+	6 Demacian Steel
+	6 Silence and Suppress
+	6 Faithful Wolfdog
+	6 Petricite Pillar
+	7 Protective Broodfather
+	15 Jarvan's Royal Decree
+	7 Lord Eldred, Mageseeker Leader
+	15 Roar of Icathia
+	6 Tempting Prospect
+	7 Champions' Strength
+	15 Demacian Tellstones
+	6 Trusty Ramhound
+	15 Petricite Charger
+	6 Inspiring Light
+	6 Blocking Badgerbear
+	6 Hearthblood Mender
+	6 Adept Weaponsmith
+	6 Favored Artisan
+	15 Icevale Cultist
+	15 Fractured Blade
+	6 Pouty Poro
+	7 Wrought Colossus
+	6 Bone Club
+	15 Woolly Snailmoth
+	7 Revna, the Lorekeeper
+	7 Frozen in Fear
+	6 Harbinger of Thralls
+	7 Gift of the Hearthblood
+	6 Hunting Boar
+	6 The Unforgiving Cold
+	6 Here to Help
+	7 Wild Mysticism
+	6 Cracking Ice
+	15 Wings of the Cryophoenix
+	15 Wildclaw's Ferocity
+	7 Warden of the Tribes
+	7 Winter's Touch
+	6 Disciple of Doran
+	6 The Stagehand
+	15 The Maker
+	6 Gruesome Theater
+	4 Master Yi
+	6 Dragon Ambush
+	7 Windswept Hillock
+	15 Jun, the Prodigy
+	6 Kinkou's Call
+	6 Wuju Style
+	7 Vastayan Disciple
+	6 The Witness
+	7 Dragoncaller
+	6 Shadowblade Fanatic
+	15 Entrancing Lure
+	6 The Spirit of Wuju
+	15 Mistfall
+	6 Soul Sword
+	15 Unworthy Soul
+	7 Storm of Blades
+	15 Momentous Choice
+	15 Kinkou Student
+	15 Ionian Tellstones
+	7 The Black Flame
+	6 Moral Support
+	6 Navori Longtail
+	15 Twin Wind Technique
+	7 Serene Sky-Singer
+	6 Wandering Shepherd
+	15 Seraphic Wyvern
+	4 Kayle, The Winged Protector
+	15 Divine Judgment
+	15 Purifying Flames
+	6 Winged Messenger
+	15 Divine Clerk
+	6 Lawkeeper
+	6 Esmus, Breath of the World
+	7 Mihira, Aspect of Justice
+	6 Lunari Cultist
+	6 Draconic Bands
+	15 Celestial Impact
+	7 Consult the Heavens
+	15 Seal In Steel
+	6 The Winding Light
+	7 Targon's Dragon Roost
+	15 The Expanse's Protection
+	6 Starhound Pack
+	15 Twilit Protector
+	15 Targonian Tellstones
+	6 Solari Stellacorn
+	15 Celestial Trifecta
+	15 Mystic Vortex
+	15 Mikhael's Blessing
+	6 Celestial Blessing
+	7 Generous Gemcrafter
+	7 The Prefect
+	6 Captive Greyback
+	4 Annie
+	6 Spell Slinger
+	6 Disintegrate
+	6 Manasoul Student
+	6 Noxian Defector
+	7 Legionary Charge
+	6 Ionian Hookmaster
+	15 Lord Broadmane
+	6 Great Hammers
+	15 Brutal Skirmish
+	15 Ravenbloom Conservatory
+	7 The Gray Apothecary
+	15 Legion Deserter
+	6 Captive Yeti
+	6 Obedient Drakehound
+	15 Strategic Execution
+	15 Furious Wielder
+	6 Rune Squire
+	15 Noxian Tellstones
+	6 Reveler's Feast
+	7 Trifarian Training Pits
+	7 Crimson Pigeon
+	6 Skulking String-Puller
+	15 Encore
+	6 Ambitious Cultist
+	15 Caustic Riff
+	7 Acoustician
+	15 Fanclub President
+	15 High Note
+	6 Zaun Bouncer
+	7 Acorn, the Hextechnician
+	4 Seraphine
+	6 Drum Solo
+	15 Demon of Solitude
+	6 Discreet Invitation
+	6 Crowd Pleaser
+	15 Inspired Plans
+	15 Hexbliterator
+	15 The Zaun Diva
+	6 Formula
+	7 Sputtering Songspinner
+	6 Gatalyst v1.0
+	15 The Violent Dischord
+	6 Scavenged Camocloaker
+	15 Salvaged Scrap
+	7 Back Alley Bar
+	6 Cunning Kitten
+	7 Evil Imperfectionist
+	15 Piltovan Tellstones
+	4 Bard, Cosmic Vagabond
+	4 Jhin, Artisan Killer
+	15 Dancing Grenade
+	15 Traveler's Call
+	4 Kayne, The Shadow Reaper
+	15 Kayn's Shadowstep
+	4 Ryze, The Rune Mage
+	7 Shard of Madness
+	7 Shard of Betrayal
+	7 Shard of Violence
+	7 Shard of Hope
+	7 Shard of Reverence
+	15 Ryze's Realm Warp
+	4 Jax
+	15 Jax's Counter Strike
+	4 Varus, The Arrow of Retribution
+	15 Varus' Chain of Corruption
+	6 The Fix-Em 5000
+	6 Pot O' Pain
+	4 Evelynn, The Widowmaker
+	15 Evelynn's Last Caress
+	6 Desperate Husk
+	6 Stubborn Husk
+	6 Scattered Husk
+	6 Breakneck Husk
+	6 Haunted Husk
+	6 Warded Husk
+	6 Enraged Husk
+	6 Thrashing Husk
+	6 Hardy Husk
+	6 Fading Husk
+	15 Aatrox's Deathbringer Sweep
+	6 Sandworn Amulet
+	6 Fishawhack
+	6 Upcycled Rake
+	6 Shepherd's Authority
+	6 Combat Reel
+	6 Pan O' Pain
+	6 Forsaken Baccai
+	6 Voidling
+	6 Belvethi Elder
+	4 Kai'Sa, The Girl Who Came Back
+	6 Void Blaster
+	6 Kai'Sa's Supercharge
+	7 Void Abomination
+	15 Hive Herald
+	15 Void Seeker
+	15 Camouflaged Horror
+	7 Void Gate
+	6 Buried Armory
+	15 Curse of the Tomb
+	7 Domination
+	15 The Altar of Blood
+	7 Chamber of Renewal
+	6 Baccai Witherclaw
+	6 Swinging Glaive
+	7 Heedless Resurrection
+	15 Shuriman Tellstones
+	15 Acolyte's Reliquary
+	6 Rite of Passage
+	15 Glory's Call
+	15 Sands of Time
+	15 Rockbear Shepherd
+	7 Priestess Of Desert Light
+	15 Castigate
+	7 Fireth, Reaper of the Sands
+	6 Keeper of the Box
+	4 Gwen
+	7 Eternal Dancers
+	7 Opulent Foyer
+	6 Strike Up The Band
+	15 Boisterous Host
+	15 Vora
+	15 Sultur
+	6 Hate Spike
+	6 Ghostly Paramour
+	15 Conductor Of The Mists
+	6 Thread the Needle
+	6 Phantom Butler
+	6 Malefic Spear
+	6 Formal Invitation
+	15 Blades of the Fallen
+	15 Quietus
+	7 Haunted Tomb
+	7 Wraith of Echoes
+	15 Utter Devastation
+	15 Shadow Isles Tellstones
+	15 Redeemed Prodigy
+	6 Shape of Fear
+	7 Harrowing Return
+	6 Moonlit Glenkeeper
+	15 Isles Deathless Knight
+	6 Undergrowth
+	15 Soul Cleave
+	6 Ceaseless Sentry

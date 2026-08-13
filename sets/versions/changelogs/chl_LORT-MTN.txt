@@ -1,4 +1,69 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Dragonguard Lieutenant
+rules_text: When Dragonguard Lieutenant enters, you may behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i] => When Dragonguard Lieutenant enters, you may behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant. [i](To behold a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant, choose a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant you control or reveal a Dragon, if you do, put a challenger counter on Dragonguard Lieutenant card from your hand.)[/i]
+
+Dragonguard Lookout
+rules_text: When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap each creature you control. After this phase, there is an additional combat phase. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i] => When Dragonguard Lookout enters, you may behold a Dragon, if you do, untap each creature you control. After this phase, there is an additional combat phase. [i](To behold a Dragon, if you do, untap each creature you control, choose a Dragon, if you do, untap each creature you control you control or reveal a Dragon, if you do, untap each creature you control card from your hand.)[/i]
+
+Molten Breath
+rules_text: Choose a creature you control with fury. That creature deals damage equal to its power to the two creatures with the lowest power among creatures target opponent controls. => Choose a creature you control with fury. That creature deals damage equal to its power to two creatures with the lowest power among creatures target opponent controls.
+
+Vaults of Helia
+rules_text: At the beginning of your upkeep, sacrifice a nontoken creature with the greatest mana value among creatures you control. Reveal cards from the top of your library until you reveal a creature card with mana value equal to 1 plus the sacrificed creature's mana value. Put that card onto the battlefield, then shuffle. => At the beginning of your upkeep, sacrifice a nontoken creature with the greatest mana value among creatures you control. Reveal cards from the top of your library until you reveal a creature card with mana value equal to the sacrificed creature plus 1. Put that card onto the battlefield, then shuffle.
+
+Arrel the Tracker
+rules_text: At the beginning of your end step, if Arrel the Tracker was targeted by a source you control, Arrel the Tracker deals damage equal to its power to the creature with the lowest power among creatures target opponent controls. => At the beginning of your end step, if Arrel the Tracker was targeted by a source you control, Arrel the Tracker deals damage equal to its power to a creature with the lowest power among creatures target opponent controls.
+
+Hunt the Weak
+rules_text: Target opponent reveals their hand, then discards the creature card with the lowest power from among them. => Target opponent reveals their hand, then discards a creature card with the lowest power from among them.
+
+Noxkraya Arena
+rules_text: At the end of your turn, the creature with highest power among creatures you control, and the creature with lowest power among creatures target opponent controls fight. [i](Each deals damage equal to its power to the other.)[/i] => At the end of your turn, a creature with highest power among creatures you control, and a creature with lowest power among creatures target opponent controls fight. [i](Each deals damage equal to its power to the other.)[/i]
+
+Augur of the Old Ones
+rules_text: Trample, Juggernaut [i](After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i]
+When Augur of the Old Ones enters, if you behold a card with mana value 8 or greater, give target creature Trample and Juggernaut. [i](To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)[/i] => Trample, Juggernaut [i](After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i]
+When Augur of the Old Ones enters, if you behold a card with mana value 8 or greater, put a trample counter and a juggernaut counter on target creature. [i](To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)[/i]
+
+Faces of the Old Ones
+rules_text: When Faces of the Old Ones enters, put a Freljord counter onto a land you control.
+At the beginning of your upkeep, you may Behold a card with mana value 8 or greater, if you do, put a Freljord counter onto a land you control. [i](To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)
+[/i]Whenever a land you control with a Freljord counter is tapped for mana, its controller adds an additional one mana of any type that land can produce. => When Faces of the Old Ones enters, put a Freljord counter onto a land you control.
+At the beginning of your upkeep, you may behold a card with mana value 8 or greater, if you do, put a Freljord counter onto a land you control. [i](To behold a card with mana value 8 or greater, choose a card with mana value 8 or greater you control or reveal a card with mana value 8 or greater from your hand.)[/i]
+If you tap a land with a Freljord counter for mana, it produces an additional one mana of any type that land can produce.
+
+Trundle
+rules_text: Juggernaut [i](After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i]
+When Trundle enters, search your library and/or graveyard for a card named Ice Pillar, and exile it. If you search your library this way, shuffle. You may cast the card exiled this way from exile for as long as it remains exiled.
+When a card named Ice Pillar you control enters, transform Trundle.
+Partner => Juggernaut [i](After the combat damage step on your turn, if this creature has not been destroyed, remove all damage from this creature.)[/i]
+When Trundle enters, search your library and/or graveyard for a card named Ice Pillar, and exile it. If you search your library this way, shuffle. You may cast the card exiled this way from exile for as long as it remains exiled.
+When a card named Ice Pillar you control enters, transform Trundle.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Giddy Sparkleologist
+rules_text: When Giddy Sparkleologist enters, you may behold a Celestial, if you do, target creature you control gets a +1/+1 counter and a spellshield counter. [i](To behold a Celestial, choose a Celestial you control or reveal a Celestial card from your hand. The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i] => When Giddy Sparkleologist enters, you may behold a Celestial, if you do, target creature you control gets a +1/+1 counter and a spellshield counter. [i](To behold a Celestial, if you do, target creature you control gets a +1/+1 counter and a spellshield counter, choose a Celestial, if you do, target creature you control gets a +1/+1 counter and a spellshield counter you control or reveal a Celestial, if you do, target creature you control gets a +1/+1 counter and a spellshield counter card from your hand.)[/i]
+
+Zoe, The Everchild
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+Whenever Zoe deals combat damage to an opponent, reveal cards from the top of your library until you reveal three Celestial cards with mana value 3 or less, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
+At the end of any phase on your turn, if there are ten or more cards in your graveyard with different names, transform Zoe.
+Partner => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+Whenever Zoe deals combat damage to an opponent, reveal cards from the top of your library until you reveal three Celestial cards with mana value 3 or less, randomly choose one, add it to your hand, then shuffle all other revealed cards into your library.
+At the end of any phase on your turn, if there are ten or more cards in your graveyard with different names, transform Zoe.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+The Slaughter Docks
+rules_text: At the beginning of your upkeep, Toss 1. [i](Exile a card from the bottom of your library.)[/i]
+At the end of any phase on your turn, if you are Deep, sacrifice The Slaughter Docks, then reveal cards from the top of your library until you reveal a Leviathan creature, put it onto the battlefield under your control, then shuffle. [i](If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i] => At the beginning of your upkeep, Toss 1. [i](Exile a card from the bottom of your library.)[/i]
+At the end of any phase on your turn, if you are Deep, sacrifice The Slaughter Docks, if you do, reveal cards from the top of your library until you reveal a Leviathan creature, put it onto the battlefield under your control, then shuffle. [i](If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i]
+
+
+VERSION 9 CHANGELOG
 ====================
 
 

@@ -1,4 +1,154 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Ancient Preparations
+rules_text: Vanishing 2
+When Ancient Preparations enters, Predict. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+When Ancient Preparations is sacrificed with no time counters, create a Clockling token. => Vanishing 2 [i](This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Ancient Preparations enters, Predict. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+When Ancient Preparations is sacrificed, if it had no time counters on it, create a Clockling token.
+
+Azir, Shurima's Emperor
+rules_text: [i]Ascended God-Warrior[/i] — Whenever one or more creatures you control attacks, create a tapped and attacking Sand Soldier token.
+Whenever you cast a creature or landmark, put an Emperor counter on Azir. At the end of any phase on your turn, if Azir has twelve or more Emperor counters, remove all Emperor counters from Azir, then transform him.
+Partner => [i]Ascended God-Warrior[/i] — Whenever one or more creatures you control attacks, create a tapped and attacking Sand Soldier token.
+Whenever you cast a creature or landmark, put an Emperor counter on Azir. At the end of any phase on your turn, if Azir has twelve or more Emperor counters, remove all Emperor counters from Azir, then transform him.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Boomerang Blade
+rules_text: Target creature you control deals damage equal to its power to the creature with the highest power and the creature with the lowest power among creatures target opponent controls. => Target creature you control deals damage equal to its power to a creature with the highest power and a creature with the lowest power among creatures target opponent controls.
+
+Buried Sun Disc
+rules_text: If Buried Sun Disc is in your opening hand, you may begin the game with it on the battlefield.
+Vanishing 25 [i](This permanent enters with twenty-five time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+Whenever a legendary creature you control transforms, remove nine time counters from Buried Sun Disc.
+If Buried Sun Disc would be sacrificed with no time counters, transform it instead. => If Buried Sun Disc is in your opening hand, you may begin the game with it on the battlefield.
+Vanishing 25 [i](This permanent enters with twenty-five time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+Whenever a legendary creature you control transforms, remove nine time counters from Buried Sun Disc.
+When Buried Sun Disc would be sacrificed, if it had no time counters on it, transform it instead.
+
+Hibernating Rockbear
+rules_text: Vanishing 3
+When Hibernating Rockbear is sacrificed with no time counters, create a Grumpy Rockbear token. => Vanishing 3 [i](This permanent enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Hibernating Rockbear is sacrificed, if it had no time counters on it, create a Grumpy Rockbear token.
+
+Inner Sanctum
+rules_text: If you have Reputation, you may cast Inner Sanctum without paying its mana cost. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Vanishing 1
+When Inner Sanctum is sacrificed with no time counters, put two random counters on target creature you control from among Trample, Absorb 1, First strike, Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i], Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i], +2/+0, +1/+1, +0/+2, or a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i] => If you have Reputation, you may cast Inner Sanctum without paying its mana cost. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Vanishing 1
+When Inner Sanctum is sacrificed, if it had no time counters on it, put two random counters on target creature you control from among trample, absorb 1, first strike, fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i], challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i], +2/+0, +1/+1, +0/+2, or a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]
+
+Preservarium
+rules_text: Vanishing 2
+When Preservarium enters, draw a card.
+When Preservarium is sacrificed with no time counters, draw a card. => Vanishing 2 [i](This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Preservarium enters, draw a card.
+When Preservarium is sacrificed, if it had no time counters on it, draw a card.
+
+Salt Spire
+rules_text: Vanishing 2
+When Salt Spire is sacrificed with no time counters, create a Grumpy Rockbear token, then if there are four or more landmarks in your graveyard, put two +1/+1 counters on the creature with the highest power among creatures you control. => Vanishing 2 [i](This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Salt Spire is sacrificed, if it had no time counters on it, create a Grumpy Rockbear token, then if there are four or more landmarks in your graveyard, put two +1/+1 counters on a creature with the highest power among creatures you control.
+
+General's Palace
+rules_text: Creatures your opponents control have Vulnerable. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+At the end of the first combat phase on your turn, after this phase, there is an additional combat phase. => Creatures your opponents control have vulnerable. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+At the end of the first combat phase on your turn, after this phase, there is an additional combat phase.
+
+Lamb's Respite
+rules_text: The creature with the lowest power among creatures you control has Indestructible until the end of the turn. => A creature with the lowest power among creatures you control has Indestructible until the end of the turn.
+
+Kindred, The Eternal Hunters
+rules_text: First strike
+The first time each turn, whenever a source you control destroys a creature or planeswalker, put a Slay counter onto the creature with the lowest power among creatures opponents control.
+At the beginning of your end step, each opponent sacrifices each creature they control with a Slay counter.
+Whenever a source you control destroys a creature or planeswalker, put a Reaper counter onto Kindred. At the end of any phase on your turn, if Kindred has two or more Reaper counters, remove all Reaper counters from Kindred, then transform Kindred.
+Partner => First strike
+The first time each turn, whenever a source you control destroys a creature or planeswalker, put a Slay counter onto a creature with the lowest power among creatures opponents control.
+At the beginning of your end step, each opponent sacrifices each creature they control with a Slay counter.
+Whenever a source you control destroys a creature or planeswalker, put a Reaper counter onto Kindred. At the end of any phase on your turn, if Kindred has two or more Reaper counters, remove all Reaper counters from Kindred, then transform Kindred.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Black Rose Spy
+rules_text: If you have Reputation, when Black Rose Spy enters, you may have Black Rose Spy enter as copy of a creature you control that dealt combat damage this turn. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i] => If you have Reputation, when Black Rose Spy enters, you may have Black Rose Spy enter as a copy of a creature you control that dealt combat damage this turn. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+
+Black Rose Mimicry
+rules_text: If you have Reputation, Black Rose Mimicry costs {3} less to cast. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Copy the next spell you cast this turn targeting the same targets. => If you have Reputation, Black Rose Mimicry costs {3} less to cast. [i](Whenever a creature you control with power 5 or greater deals combat damage, you get a Reputation counter. You have Reputation if you have four or more Reputation counters)[/i]
+Copy the next instant or sorcery you cast this turn targeting the same targets.
+
+Startipped Peak
+rules_text: Vanishing 2
+When Startipped Peak is sacrificed with no time counters, reveal cards from the top of your library until you reveal four Celestial cards with mana value 3 or less, randomly choose two and add them to your hand, then shuffle all other revealed cards into your library. => Vanishing 2 [i](This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Startipped Peak is sacrificed, if it had no time counters on it, reveal cards from the top of your library until you reveal four Celestial cards with mana value 3 or less, randomly choose two and add them to your hand, then shuffle all other revealed cards into your library.
+
+Penitent Squire
+rules_text: When Penitent Squire enters, you may behold a Knight, if you do, the next creature you cast enters with a challenger counter. [i](To behold a Knight, choose a Knight you control or reveal a Knight card from your hand. Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i] => When Penitent Squire enters, you may behold a Knight, if you do, the next creature you cast enters with a challenger counter. [i](To behold a Knight, if you do, the next creature you cast enters with a challenger counter, choose a Knight, if you do, the next creature you cast enters with a challenger counter you control or reveal a Knight, if you do, the next creature you cast enters with a challenger counter card from your hand.)[/i]
+
+Blighted Ravine
+rules_text: Vanishing 1
+When Blighted Ravine enters, you gain 2 life.
+When Blighted Ravine is sacrificed with no time counters, Blighted Ravine deals 2 damage to each opponent and each creature and planeswalker they control. => Vanishing 1 [i](This permanent enters with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Blighted Ravine enters, you gain 2 life.
+When Blighted Ravine is sacrificed, if it had no time counters on it, Blighted Ravine deals 2 damage to each opponent and each creature and planeswalker they control.
+
+Frozen Thrall
+rules_text: Vanishing 9 [i](This permanent enters with nine time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Frozen Thrall is sacrificed with no time counters, create a Frostguard Thrall token. => Vanishing 9 [i](This permanent enters with nine time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Frozen Thrall is sacrificed, if it had no time counters on it, create a Frostguard Thrall token.
+
+Rockfall Path
+rules_text: Vanishing 2 
+When Rockfall Path is sacrificed with no time counters, exile the creature with the lowest power among creatures opponents control. => Vanishing 2 [i](This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Rockfall Path is sacrificed, if it had no time counters on it, exile a creature with the lowest power among creatures opponents control.
+
+Eye of the Ra-Horak
+rules_text: Vanishing 1 
+When Eye of the Ra-Horak is sacrificed with no time counters, tap up to two creatures with the lowest power among creatures opponents control and put a stun counter on them.
+[i]Daybreak[/i] – When Eye of the Ra-Horak enters, if it was the first spell you cast this turn, create a token copy of Eye of the Ra-Horak with Vanishing 2. => Vanishing 1 [i](This permanent enters with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+[i]Daybreak [/i]– When Eye of the Ra-Horak enters, if it was the first spell you cast this turn, create a token copy of Eye of the Ra-Horak with Vanishing 2.
+When Eye of the Ra-Horak is sacrificed, if it had no time counters on it, tap up to two creatures with a lowest power among creatures opponents control and put a stun counter on them.
+
+Spiral Stairs
+rules_text: Vanishing 3 
+When Spiral Stairs is sacrificed with no time counters, put two +1/+1 counters, a +1/+0 counter, and a trample counter on target creature you control. => Vanishing 3 [i](This permanent enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Spiral Stairs is sacrificed, if it had no time counters on it, put two +1/+1 counters, a +1/+0 counter, and a trample counter on target creature you control.
+
+Pyke
+rules_text: First strike, Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+Whenever Pyke deals damage, put that many Ripper counters on Pyke. At the end of any phase on your turn, if Pyke has fifteen or more Ripper counters, remove all Ripper counters from Pyke, then transform him.
+Partner => First strike, Lurk [i](The first time each turn one or more creatures you control with Lurk attacks, reveal the top card of your library, if it has Lurk, you get a Lurk counter. Creatures you control with Lurk have +X/+0 where X is equal to the number of Lurk counters you have.)[/i]
+Whenever Pyke deals damage, put that many Ripper counters on Pyke. At the end of any phase on your turn, if Pyke has fifteen or more Ripper counters, remove all Ripper counters from Pyke, then transform him.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Reaver's Row
+rules_text: Vanishing 2
+Whenever one or more time counters is removed from Reaver's Row, search your library for a creature with mana value 1, reveal it, put it into your hand, then shuffle.
+When Reaver's Row is sacrificed with no time counters, put a +1/+2 counter and a fearsome counter on each creature you control with mana value 1. => Vanishing 2 [i](This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+Whenever one or more time counters is removed from Reaver's Row, search your library for a creature with mana value 1, reveal it, put it into your hand, then shuffle.
+When Reaver's Row is sacrificed, if it had no time counters on it, put a +1/+2 counter and a fearsome counter on each creature you control with mana value 1.
+
+Warlord's Palace
+rules_text: Vanishing 8
+When Warlord's Palace is sacrificed with no time counters, choose one —
+• Predict, then draw a card. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+• Create a Sandstone Charger token.
+• Put a +1/+0 counter on each creature you control. => Vanishing 8 [i](This permanent enters with eight time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Warlord's Palace is sacrificed, if it had no time counters on it, choose one —
+• Predict, then draw a card. [i](Look at the top three cards of your library, put one on the top of your library and the rest to the bottom in a random order.)[/i]
+• Create a Sandstone Charger token.
+• Put a +1/+0 counter on each creature you control.
+
+Crest of Insight
+rules_text: Vanishing 1 [i](This permanent enters with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Crest of Insight is sacrificed with no time counters, add one mana of any type. Until the end of turn, you don't lose this mana as steps and phases end. => Vanishing 1 [i](This permanent enters with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Crest of Insight is sacrificed, if it had no time counters on it, add one mana of any type. Until the end of turn, you don't lose this mana as steps and phases end.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

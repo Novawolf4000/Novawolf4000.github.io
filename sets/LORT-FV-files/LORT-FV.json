@@ -2301,7 +2301,7 @@
             "number": 99,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "The first time each turn another creature you control dies, put a random counter on target creature you control from among trample, absorb 1, first strike, fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i], challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i], +2/+0, +1/+1, +0/+2, or a spellshield counter.",
+            "rules_text": "The first time each turn another creature you control dies, put a random counter on target creature you control from among trample, absorb 1, first strike, fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i], challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they are not normally able to block this creature.)[/i], +2/+0, +1/+1, +0/+2, or a spellshield counter. [i](The first time an instant, sorcery, or ability an opponent controls targets this permanent, remove a spellshield counter from this permanent and counter that spell or ability.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2663,5 +2663,5 @@
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

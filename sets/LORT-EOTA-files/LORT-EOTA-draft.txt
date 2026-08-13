@@ -1,0 +1,3389 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Feral Prescience",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/0.png"
+			}
+		},
+		{
+			"name": "Ancient Hourglass",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/1.png"
+			}
+		},
+		{
+			"name": "Ancient Preparations",
+			"rarity": "rare",
+			"mana_cost": "{U/B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/2.png"
+			}
+		},
+		{
+			"name": "Arise!",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}{B}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/3.png"
+			}
+		},
+		{
+			"name": "Ascended's Rise",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/4.png"
+			}
+		},
+		{
+			"name": "Aspiring Chronomancer",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/5.png"
+			}
+		},
+		{
+			"name": "Azir, Shurima's Emperor",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Bird Noble Demigod",
+			"collector_number": "92",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/6_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/6_front.png"
+			}
+		},
+		{
+			"name": "Baccai Reaper",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Baccai Warrior",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/7.png"
+			}
+		},
+		{
+			"name": "Baccai Sandspinner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Baccai Mystic",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/8.png"
+			}
+		},
+		{
+			"name": "Boomerang Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/9.png"
+			}
+		},
+		{
+			"name": "Buried Sun Disc",
+			"rarity": "rare",
+			"mana_cost": "{U/B}",
+			"type": "Legendary Enchantment — Landmark",
+			"collector_number": "192",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/10_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/10_front.png"
+			}
+		},
+		{
+			"name": "Call the Pack",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/11.png"
+			}
+		},
+		{
+			"name": "Callous Bonecrusher",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/12.png"
+			}
+		},
+		{
+			"name": "Careful Preparation",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/13.png"
+			}
+		},
+		{
+			"name": "Chronoshift",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/14.png"
+			}
+		},
+		{
+			"name": "Clockling",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Artifact Creature — Clockling",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/15.png"
+			}
+		},
+		{
+			"name": "Clockwork Curator",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/16.png"
+			}
+		},
+		{
+			"name": "Desert Naturalist",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/17.png"
+			}
+		},
+		{
+			"name": "Desert's Wrath",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/18.png"
+			}
+		},
+		{
+			"name": "Destined Poro",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Poro",
+			"collector_number": "197",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/19_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/19_front.png"
+			}
+		},
+		{
+			"name": "Devoted Council",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/20.png"
+			}
+		},
+		{
+			"name": "Dunekeeper",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/21.png"
+			}
+		},
+		{
+			"name": "Emperor's Dais",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/22.png"
+			}
+		},
+		{
+			"name": "Emperor's Divide",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/23.png"
+			}
+		},
+		{
+			"name": "Esteemed Hierophant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/24.png"
+			}
+		},
+		{
+			"name": "Exhaust",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/25.png"
+			}
+		},
+		{
+			"name": "Golden Ambassador",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/26.png"
+			}
+		},
+		{
+			"name": "Grumpy Rockbear",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Creature — Beast",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/27.png"
+			}
+		},
+		{
+			"name": "Hibernating Rockbear",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/28.png"
+			}
+		},
+		{
+			"name": "Imagined Possibilities",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/29.png"
+			}
+		},
+		{
+			"name": "Inner Sanctum",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/30.png"
+			}
+		},
+		{
+			"name": "Inspiring Marshal",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/31.png"
+			}
+		},
+		{
+			"name": "Khahiri the Returned",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/32.png"
+			}
+		},
+		{
+			"name": "Khahiri the Student",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/33.png"
+			}
+		},
+		{
+			"name": "Merciless Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}",
+			"type": "Creature — Human Lizard Warrior",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/34.png"
+			}
+		},
+		{
+			"name": "Nasus, The Curator of the Sands",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Dog Warrior Demigod",
+			"collector_number": "135",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/35_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/35_front.png"
+			}
+		},
+		{
+			"name": "Payday",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/36.png"
+			}
+		},
+		{
+			"name": "Preservarium",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/37.png"
+			}
+		},
+		{
+			"name": "Preservationist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/38.png"
+			}
+		},
+		{
+			"name": "Profiteer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/39.png"
+			}
+		},
+		{
+			"name": "Promising Future",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/40.png"
+			}
+		},
+		{
+			"name": "Quicksand",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/41.png"
+			}
+		},
+		{
+			"name": "Rampaging Baccai",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Baccai Berserker",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/42.png"
+			}
+		},
+		{
+			"name": "Raz Bloodmane",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Creature — Human Crocodile Warrior",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/43.png"
+			}
+		},
+		{
+			"name": "Rek'Sai, The Void Burrower",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Voidling Leviathan",
+			"collector_number": "146",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/44_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/44_front.png"
+			}
+		},
+		{
+			"name": "Renekton, Gatekeeper of Shurima",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Crocodile Warrior Demigod",
+			"collector_number": "147",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/45_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/45_front.png"
+			}
+		},
+		{
+			"name": "Ricochet",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/46.png"
+			}
+		},
+		{
+			"name": "Rite of Calling",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/47.png"
+			}
+		},
+		{
+			"name": "Rite of Dominance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}",
+			"type": "Instant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/48.png"
+			}
+		},
+		{
+			"name": "Rite of Negation",
+			"rarity": "rare",
+			"mana_cost": "{2/U}{U}{B}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/49.png"
+			}
+		},
+		{
+			"name": "Rock Hopper",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/50.png"
+			}
+		},
+		{
+			"name": "Roiling Sands",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Enchantment — Roiling Sands",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/51.png"
+			}
+		},
+		{
+			"name": "Ruin Runner",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/52.png"
+			}
+		},
+		{
+			"name": "Ruinous Path",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/53.png"
+			}
+		},
+		{
+			"name": "Ruthless Predator",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Instant",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/54.png"
+			}
+		},
+		{
+			"name": "Sai Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/55.png"
+			}
+		},
+		{
+			"name": "Salt Spire",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/56.png"
+			}
+		},
+		{
+			"name": "Sanctum Conservator",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}{B}{B}",
+			"type": "Creature — Baccai Warrior",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/57.png"
+			}
+		},
+		{
+			"name": "Sand Soldier",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Artifact Creature — Construct Warrior",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/58.png"
+			}
+		},
+		{
+			"name": "Sandcrafter",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/59.png"
+			}
+		},
+		{
+			"name": "Sandstone Charger",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Artifact Creature — Construct Warrior",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/60.png"
+			}
+		},
+		{
+			"name": "Sandstone Chimera",
+			"rarity": "uncommon",
+			"mana_cost": "{10}{U}{B}",
+			"type": "Creature — Chimera",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/61.png"
+			}
+		},
+		{
+			"name": "Sandswept Tomb",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/62.png"
+			}
+		},
+		{
+			"name": "Scrying Sands",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Instant",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/63.png"
+			}
+		},
+		{
+			"name": "Shaped Stone",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/64.png"
+			}
+		},
+		{
+			"name": "Shifting Sands",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}{B}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/65.png"
+			}
+		},
+		{
+			"name": "Siphoning Strike",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/66.png"
+			}
+		},
+		{
+			"name": "Sivir, The Battle Mistress",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Mercenary",
+			"collector_number": "163",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/67_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/67_front.png"
+			}
+		},
+		{
+			"name": "Shaman Soothsayer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/68.png"
+			}
+		},
+		{
+			"name": "Spirit Fire",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/69.png"
+			}
+		},
+		{
+			"name": "Stoneweaving",
+			"rarity": "rare",
+			"mana_cost": "{U/B}",
+			"type": "Instant",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/70.png"
+			}
+		},
+		{
+			"name": "Taliyah, The Wanderer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Mystic",
+			"collector_number": "170",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/71_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/71_front.png"
+			}
+		},
+		{
+			"name": "The Clock Hand",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}{B}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/72.png"
+			}
+		},
+		{
+			"name": "The Time Has Come",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U/B}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/73.png"
+			}
+		},
+		{
+			"name": "Time Bomb",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Artifact",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/74.png"
+			}
+		},
+		{
+			"name": "Time in a Bottle",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/75.png"
+			}
+		},
+		{
+			"name": "Treasure Seeker",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/76.png"
+			}
+		},
+		{
+			"name": "Unraveled Earth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/77.png"
+			}
+		},
+		{
+			"name": "Unworthy",
+			"rarity": "rare",
+			"mana_cost": "{U/B}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/78.png"
+			}
+		},
+		{
+			"name": "Vekauran Bruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Human Warrior Rogue",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/79.png"
+			}
+		},
+		{
+			"name": "Vekauran Safecracker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/80.png"
+			}
+		},
+		{
+			"name": "Vekauran Vagabond",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/81.png"
+			}
+		},
+		{
+			"name": "Voice of the Risen",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{B}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/82.png"
+			}
+		},
+		{
+			"name": "Waking Sands",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/83.png"
+			}
+		},
+		{
+			"name": "Weight of Judgment",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/84.png"
+			}
+		},
+		{
+			"name": "Xenotype Researchers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/85.png"
+			}
+		},
+		{
+			"name": "Xer'sai Caller",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Voidling",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/86.png"
+			}
+		},
+		{
+			"name": "Xer'sai Dunebreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Voidling",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/87.png"
+			}
+		},
+		{
+			"name": "Xer'sai Hatchling",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Voidling",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/88.png"
+			}
+		},
+		{
+			"name": "Xerxa'Reth, The Undertitan",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Voidling Leviathan",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/89.png"
+			}
+		},
+		{
+			"name": "Zilean",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "186",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/90_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/90_front.png"
+			}
+		},
+		{
+			"name": "Golden Herald",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/91.png"
+			}
+		},
+		{
+			"name": "Emperor's Prosperity",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/92.png"
+			}
+		},
+		{
+			"name": "Crumbling Sands",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/93.png"
+			}
+		},
+		{
+			"name": "Shimmering Mirage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/94.png"
+			}
+		},
+		{
+			"name": "Eternal Gladiator",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/95.png"
+			}
+		},
+		{
+			"name": "General's Palace",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/96.png"
+			}
+		},
+		{
+			"name": "Emperor's Guard",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/97.png"
+			}
+		},
+		{
+			"name": "Shurima's Sandstorm",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/98.png"
+			}
+		},
+		{
+			"name": "Ascended's Call",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/99.png"
+			}
+		},
+		{
+			"name": "Bloodthirsty Marauder",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Creature — Human Crocodile Nomad",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/100.png"
+			}
+		},
+		{
+			"name": "Song of the Isles",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/101.png"
+			}
+		},
+		{
+			"name": "Spirit Leech",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Wraith",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/102.png"
+			}
+		},
+		{
+			"name": "Sea Scarab",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Lobster",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/103.png"
+			}
+		},
+		{
+			"name": "Prey",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Token Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/104.png"
+			}
+		},
+		{
+			"name": "Mask Mother",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Spirit Avatar",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/105.png"
+			}
+		},
+		{
+			"name": "Unto Dusk",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/106.png"
+			}
+		},
+		{
+			"name": "Soulspinner",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spider",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/107.png"
+			}
+		},
+		{
+			"name": "The Etherfiend",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Bird Spirit Avatar",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/108.png"
+			}
+		},
+		{
+			"name": "Lamb's Respite",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/109.png"
+			}
+		},
+		{
+			"name": "Honored Lord",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/110.png"
+			}
+		},
+		{
+			"name": "Kindred, The Eternal Hunters",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Sheep Wolf Spirit Avatar",
+			"collector_number": "40",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/111_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/111_front.png"
+			}
+		},
+		{
+			"name": "Spirit Journey",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/112.png"
+			}
+		},
+		{
+			"name": "Crimson Bloodletter",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Cat",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/113.png"
+			}
+		},
+		{
+			"name": "Strength in Numbers",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/114.png"
+			}
+		},
+		{
+			"name": "Shrieking Spinner",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spider",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/115.png"
+			}
+		},
+		{
+			"name": "Bloody Business",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/116.png"
+			}
+		},
+		{
+			"name": "Thorn of the Rose",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/117.png"
+			}
+		},
+		{
+			"name": "Black Rose Spy",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/118.png"
+			}
+		},
+		{
+			"name": "LeBlanc, Pale Sorceress",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "59",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/119_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/119_front.png"
+			}
+		},
+		{
+			"name": "Sigil of Malice",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/120.png"
+			}
+		},
+		{
+			"name": "Whispered Words",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/121.png"
+			}
+		},
+		{
+			"name": "Black Rose Mimicry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/122.png"
+			}
+		},
+		{
+			"name": "Startipped Peak",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/123.png"
+			}
+		},
+		{
+			"name": "Destiny's Call",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/124.png"
+			}
+		},
+		{
+			"name": "Field Musicians",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Bard",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/125.png"
+			}
+		},
+		{
+			"name": "Shadow Apprentice",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/126.png"
+			}
+		},
+		{
+			"name": "Lost Riches",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/127.png"
+			}
+		},
+		{
+			"name": "Loaded Dice",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/128.png"
+			}
+		},
+		{
+			"name": "Fading Icon",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit Wraith",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/129.png"
+			}
+		},
+		{
+			"name": "Golden Aegis",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/130.png"
+			}
+		},
+		{
+			"name": "Cataclysm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/131.png"
+			}
+		},
+		{
+			"name": "Battlefield Prowess",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/132.png"
+			}
+		},
+		{
+			"name": "Penitent Squire",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/133.png"
+			}
+		},
+		{
+			"name": "King Jarvan IV",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}{W}{W}",
+			"type": "Legendary Creature — Human Knight Noble",
+			"collector_number": "12",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/134_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/134_front.png"
+			}
+		},
+		{
+			"name": "King Jarvan III",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Creature — Human Knight Noble",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/135.png"
+			}
+		},
+		{
+			"name": "Towering Stonehorn",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Elk",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/136.png"
+			}
+		},
+		{
+			"name": "Dragon Chow",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elephant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/137.png"
+			}
+		},
+		{
+			"name": "Production Surge",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/138.png"
+			}
+		},
+		{
+			"name": "Concurrent Timelines",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/139.png"
+			}
+		},
+		{
+			"name": "Ancestral Boon",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/140.png"
+			}
+		},
+		{
+			"name": "Spoils of War",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/141.png"
+			}
+		},
+		{
+			"name": "Blighted Ravine",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/142.png"
+			}
+		},
+		{
+			"name": "Cold Resistance",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/143.png"
+			}
+		},
+		{
+			"name": "Three Sisters",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/144.png"
+			}
+		},
+		{
+			"name": "Ice Shard",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/145.png"
+			}
+		},
+		{
+			"name": "Entomb",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/146.png"
+			}
+		},
+		{
+			"name": "Draklorn Inquisitor",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Warrior Inquisitor",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/147.png"
+			}
+		},
+		{
+			"name": "Frozen Thrall",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/148.png"
+			}
+		},
+		{
+			"name": "Lissandra, The Ice Witch",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "80",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/149_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/149_front.png"
+			}
+		},
+		{
+			"name": "Bone Skewer",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/150.png"
+			}
+		},
+		{
+			"name": "Monster Harpoon",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/151.png"
+			}
+		},
+		{
+			"name": "Ardent Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/152.png"
+			}
+		},
+		{
+			"name": "Cithria, Lady of Clouds",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Creature — Human Bird Knight",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/153.png"
+			}
+		},
+		{
+			"name": "Succumb to the Cold",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/154.png"
+			}
+		},
+		{
+			"name": "Buried in Ice",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/155.png"
+			}
+		},
+		{
+			"name": "Incisive Tactician",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/156.png"
+			}
+		},
+		{
+			"name": "Thrashing Snapper",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Lizard Berserker",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/157.png"
+			}
+		},
+		{
+			"name": "Chirean Sumpworker",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "101",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/158_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/158_front.png"
+			}
+		},
+		{
+			"name": "Adaptatron 3000",
+			"rarity": "rare",
+			"mana_cost": "{U/R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/159.png"
+			}
+		},
+		{
+			"name": "First Wave",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Frog Spirit Avatar",
+			"collector_number": "38",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/160_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/160_front.png"
+			}
+		},
+		{
+			"name": "Zinneia, Steel Crescendo",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Mystic Warrior",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/161.png"
+			}
+		},
+		{
+			"name": "Vanguard's Edge",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/162.png"
+			}
+		},
+		{
+			"name": "Blossoming Blade",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Mystic Warrior",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/163.png"
+			}
+		},
+		{
+			"name": "Coastal Defender",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/164.png"
+			}
+		},
+		{
+			"name": "Syncopation",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/165.png"
+			}
+		},
+		{
+			"name": "Ribbon Dancer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Mystic Warrior",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/166.png"
+			}
+		},
+		{
+			"name": "Lead and Follow",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/167.png"
+			}
+		},
+		{
+			"name": "Shadows of the Past",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/168.png"
+			}
+		},
+		{
+			"name": "Dancing Droplet",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/169.png"
+			}
+		},
+		{
+			"name": "Irelia, The Blade Dancer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Mystic Warrior",
+			"collector_number": "22",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/170_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/170_front.png"
+			}
+		},
+		{
+			"name": "Rockfall Path",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/171.png"
+			}
+		},
+		{
+			"name": "Stonebreaker",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Giant Elemental",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/172.png"
+			}
+		},
+		{
+			"name": "Terra Elemental",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Giant Elemental",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/173.png"
+			}
+		},
+		{
+			"name": "Blue Sentinel",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/174.png"
+			}
+		},
+		{
+			"name": "Chip",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Creature — Elemental",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/175.png"
+			}
+		},
+		{
+			"name": "Ground Slam",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/176.png"
+			}
+		},
+		{
+			"name": "Eye of the Ra-Horak",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{U}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/177.png"
+			}
+		},
+		{
+			"name": "Solari Sunhawk",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/178.png"
+			}
+		},
+		{
+			"name": "Spiral Stairs",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/179.png"
+			}
+		},
+		{
+			"name": "Malphite",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}{U}{U}",
+			"type": "Legendary Creature — Giant Elemental",
+			"collector_number": "133",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/180_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/180_front.png"
+			}
+		},
+		{
+			"name": "Redfin Hammersnout",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Fish",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/181.png"
+			}
+		},
+		{
+			"name": "Snapjaw Swarm",
+			"rarity": "common",
+			"mana_cost": "{1}{B/R}",
+			"type": "Creature — Fish",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/182.png"
+			}
+		},
+		{
+			"name": "Pyke",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Zombie Assassin",
+			"collector_number": "141",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/183_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/183_front.png"
+			}
+		},
+		{
+			"name": "The List",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/184.png"
+			}
+		},
+		{
+			"name": "Jaull-fish",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Creature — Leviathan",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/185.png"
+			}
+		},
+		{
+			"name": "Ripper's Bay",
+			"rarity": "rare",
+			"mana_cost": "{B/R}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/186.png"
+			}
+		},
+		{
+			"name": "Reaver's Row",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/187.png"
+			}
+		},
+		{
+			"name": "Line 'Em Up",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/188.png"
+			}
+		},
+		{
+			"name": "Sharkling",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Fish",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/189.png"
+			}
+		},
+		{
+			"name": "Field Promotion",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/190.png"
+			}
+		},
+		{
+			"name": "Swiftwing Flight",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Bird Knight",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/191.png"
+			}
+		},
+		{
+			"name": "Fabled Poro",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Poro",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/192.png"
+			}
+		},
+		{
+			"name": "Abominable Guardian",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Yeti",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/193.png"
+			}
+		},
+		{
+			"name": "Defiant Dance",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/194.png"
+			}
+		},
+		{
+			"name": "Sacred Protector",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment Creature — Landmark",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/195.png"
+			}
+		},
+		{
+			"name": "Starlit Epiphany",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/196.png"
+			}
+		},
+		{
+			"name": "Heavens Aligned",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/197.png"
+			}
+		},
+		{
+			"name": "Thorned Blade",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/198.png"
+			}
+		},
+		{
+			"name": "Atakhan, Bringer of Ruin",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Legendary Creature — Demon Horror",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/199.png"
+			}
+		},
+		{
+			"name": "The Twisted Treeline",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/200.png"
+			}
+		},
+		{
+			"name": "Astral Fox",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Fox Spirit Avatar",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/201.png"
+			}
+		},
+		{
+			"name": "Glorious Evolution",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/202.png"
+			}
+		},
+		{
+			"name": "Boom Baboon",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Monkey Artificer",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/203.png"
+			}
+		},
+		{
+			"name": "Volunteer Elnuk",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Elnuk",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/204.png"
+			}
+		},
+		{
+			"name": "Practical Perfectionist",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/205.png"
+			}
+		},
+		{
+			"name": "Called Shot",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/206.png"
+			}
+		},
+		{
+			"name": "Time Trick",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/207.png"
+			}
+		},
+		{
+			"name": "Dropboarder",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/208.png"
+			}
+		},
+		{
+			"name": "Timewinder",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Instant",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/209.png"
+			}
+		},
+		{
+			"name": "Fallen Feline",
+			"rarity": "uncommon",
+			"mana_cost": "{U/R}",
+			"type": "Creature — Cat Artificer",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/210.png"
+			}
+		},
+		{
+			"name": "Ekko, The Boy Savior",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "110",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/211_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/211_front.png"
+			}
+		},
+		{
+			"name": "Ruined Rex",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Shark Wraith Pirate",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/212.png"
+			}
+		},
+		{
+			"name": "Kadregrin the Ruined",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Dragon Wraith",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/213.png"
+			}
+		},
+		{
+			"name": "Ruined Dragonguard",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wraith Warrior",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/214.png"
+			}
+		},
+		{
+			"name": "Rimefang Denmother",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/215.png"
+			}
+		},
+		{
+			"name": "Scattered Pod",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/216.png"
+			}
+		},
+		{
+			"name": "Frightened Ibex",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Creature — Elk",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/217.png"
+			}
+		},
+		{
+			"name": "Retired Reckoner",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/218.png"
+			}
+		},
+		{
+			"name": "Ruined Reckoner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Minotaur Wraith Warrior",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/219.png"
+			}
+		},
+		{
+			"name": "Defective Swapbot",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Artifact Creature — Construct Wraith",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/220.png"
+			}
+		},
+		{
+			"name": "Akshan's Grappling Hook",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/221.png"
+			}
+		},
+		{
+			"name": "Thrumming Swarm",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Creature — Insect Wraith",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/222.png"
+			}
+		},
+		{
+			"name": "The Absolver",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/223.png"
+			}
+		},
+		{
+			"name": "Akshan the Vigilante",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "86",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/224_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/224_front.png"
+			}
+		},
+		{
+			"name": "Warlord's Palace",
+			"rarity": "rare",
+			"mana_cost": "{U/B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/225.png"
+			}
+		},
+		{
+			"name": "Crawling Viperwyrm",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Dragon Wraith",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/226.png"
+			}
+		},
+		{
+			"name": "Camavoran Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Dragon Wraith",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/227.png"
+			}
+		},
+		{
+			"name": "Viego's Despair",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/228.png"
+			}
+		},
+		{
+			"name": "Withering Mist",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/229.png"
+			}
+		},
+		{
+			"name": "Viego the Resurrected",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}{B}",
+			"type": "Legendary Creature — Human Wraith Noble",
+			"collector_number": "50",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/230_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/230_front.png"
+			}
+		},
+		{
+			"name": "Encroaching Mist",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Token Creature — Wraith",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/231.png"
+			}
+		},
+		{
+			"name": "Camavoran Soldier",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Wraith Soldier",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/232.png"
+			}
+		},
+		{
+			"name": "Invasive Hydravine",
+			"rarity": "rare",
+			"mana_cost": "{7}{B}{B}{B}",
+			"type": "Creature — Hydra Plant Wraith",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/233.png"
+			}
+		},
+		{
+			"name": "Gallant Rider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "7",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/234_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/234_front.png"
+			}
+		},
+		{
+			"name": "Blade",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/235.png"
+			}
+		},
+		{
+			"name": "Frostguard Thrall",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Token Creature — Troll",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/236.png"
+			}
+		},
+		{
+			"name": "The Watcher",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Token Legendary Creature — Avatar Horror",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/237.png"
+			}
+		},
+		{
+			"name": "Rimefang Pack",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Token Creature — Wolf",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/238.png"
+			}
+		},
+		{
+			"name": "Watery Grave",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/239.png"
+			}
+		},
+		{
+			"name": "Underground Sea",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/240.png"
+			}
+		},
+		{
+			"name": "Dimir Aqueduct",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/241.png"
+			}
+		},
+		{
+			"name": "Darkwater Catacombs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/242.png"
+			}
+		},
+		{
+			"name": "Crest of Insight",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Token Enchantment — Landmark",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Novawolf4000.github.io/sets/LORT-EOTA-files/img/243.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Ancient Preparations
+	2 Ascended's Rise
+	1 Azir, Shurima's Emperor
+	2 Buried Sun Disc
+	2 Emperor's Dais
+	2 Emperor's Divide
+	2 Hibernating Rockbear
+	2 Inner Sanctum
+	1 Nasus, The Curator of the Sands
+	2 Preservarium
+	2 Promising Future
+	2 Raz Bloodmane
+	1 Rek'Sai, The Void Burrower
+	1 Renekton, Gatekeeper of Shurima
+	2 Rite of Negation
+	2 Salt Spire
+	2 Sanctum Conservator
+	2 Sandswept Tomb
+	1 Sivir, The Battle Mistress
+	2 Stoneweaving
+	1 Taliyah, The Wanderer
+	2 The Clock Hand
+	2 Unworthy
+	2 Voice of the Risen
+	2 Xerxa'Reth, The Undertitan
+	1 Zilean
+	2 Golden Herald
+	2 Emperor's Prosperity
+	2 Crumbling Sands
+	2 Shimmering Mirage
+	2 Eternal Gladiator
+	2 General's Palace
+	2 Emperor's Guard
+	2 Shurima's Sandstorm
+	2 Ascended's Call
+	2 Lamb's Respite
+	1 Kindred, The Eternal Hunters
+	2 Black Rose Spy
+	1 LeBlanc, Pale Sorceress
+	2 Startipped Peak
+	2 Destiny's Call
+	2 Field Musicians
+	2 Loaded Dice
+	1 King Jarvan IV
+	2 King Jarvan III
+	2 Concurrent Timelines
+	2 Blighted Ravine
+	2 Draklorn Inquisitor
+	2 Frozen Thrall
+	1 Lissandra, The Ice Witch
+	2 Bone Skewer
+	2 Cithria, Lady of Clouds
+	2 Buried in Ice
+	2 Thrashing Snapper
+	2 Adaptatron 3000
+	2 First Wave
+	2 Zinneia, Steel Crescendo
+	1 Irelia, The Blade Dancer
+	2 Rockfall Path
+	2 Stonebreaker
+	2 Eye of the Ra-Horak
+	2 Spiral Stairs
+	1 Malphite
+	1 Pyke
+	2 Jaull-fish
+	2 Ripper's Bay
+	2 Reaver's Row
+	2 Swiftwing Flight
+	2 Abominable Guardian
+	2 Sacred Protector
+	2 Starlit Epiphany
+	2 Atakhan, Bringer of Ruin
+	2 The Twisted Treeline
+	2 Glorious Evolution
+	2 Called Shot
+	1 Ekko, The Boy Savior
+	2 Thrumming Swarm
+	1 Akshan the Vigilante
+	2 Warlord's Palace
+	1 Viego the Resurrected
+	2 Invasive Hydravine
+	2 Watery Grave
+	2 Underground Sea
+	2 Darkwater Catacombs
+[uncommon(3)]
+	4 Ancient Hourglass
+	4 Arise!
+	4 Baccai Sandspinner
+	4 Boomerang Blade
+	4 Chronoshift
+	4 Desert's Wrath
+	4 Devoted Council
+	4 Inspiring Marshal
+	4 Khahiri the Returned
+	4 Khahiri the Student
+	4 Preservationist
+	4 Rampaging Baccai
+	4 Ricochet
+	4 Rite of Dominance
+	4 Ruinous Path
+	4 Sandstone Chimera
+	4 Shifting Sands
+	4 Siphoning Strike
+	4 Shaman Soothsayer
+	4 Spirit Fire
+	4 Unraveled Earth
+	4 Vekauran Bruiser
+	4 Vekauran Safecracker
+	4 Vekauran Vagabond
+	4 Xenotype Researchers
+	4 Xer'sai Dunebreaker
+	4 Sea Scarab
+	4 Unto Dusk
+	4 Whispered Words
+	4 Black Rose Mimicry
+	4 Lost Riches
+	4 Golden Aegis
+	4 Cataclysm
+	4 Production Surge
+	4 Three Sisters
+	4 Entomb
+	4 Ardent Tracker
+	4 Incisive Tactician
+	4 Syncopation
+	4 Shadows of the Past
+	4 Ground Slam
+	4 The List
+	4 Fabled Poro
+	4 Volunteer Elnuk
+	4 Practical Perfectionist
+	4 Fallen Feline
+	4 Ruined Rex
+	4 Kadregrin the Ruined
+	4 Rimefang Denmother
+	4 Retired Reckoner
+	4 Ruined Reckoner
+	4 Akshan's Grappling Hook
+	4 Camavoran Dragon
+	4 Gallant Rider
+	4 Dimir Aqueduct
+[common(6)]
+	8 Feral Prescience
+	8 Aspiring Chronomancer
+	8 Baccai Reaper
+	8 Call the Pack
+	8 Callous Bonecrusher
+	8 Careful Preparation
+	8 Clockwork Curator
+	8 Desert Naturalist
+	8 Destined Poro
+	8 Dunekeeper
+	8 Esteemed Hierophant
+	8 Exhaust
+	8 Golden Ambassador
+	8 Imagined Possibilities
+	8 Merciless Hunter
+	8 Payday
+	8 Profiteer
+	8 Quicksand
+	8 Rite of Calling
+	8 Rock Hopper
+	8 Ruin Runner
+	8 Ruthless Predator
+	8 Sai Scout
+	8 Sandcrafter
+	8 Scrying Sands
+	8 Shaped Stone
+	8 The Time Has Come
+	8 Time in a Bottle
+	8 Treasure Seeker
+	8 Waking Sands
+	8 Weight of Judgment
+	8 Xer'sai Caller
+	8 Xer'sai Hatchling
+	8 Bloodthirsty Marauder
+	8 Song of the Isles
+	8 Spirit Leech
+	8 Mask Mother
+	8 Soulspinner
+	8 The Etherfiend
+	8 Honored Lord
+	8 Spirit Journey
+	8 Crimson Bloodletter
+	8 Strength in Numbers
+	8 Shrieking Spinner
+	8 Bloody Business
+	8 Thorn of the Rose
+	8 Sigil of Malice
+	8 Shadow Apprentice
+	8 Fading Icon
+	8 Battlefield Prowess
+	8 Penitent Squire
+	8 Towering Stonehorn
+	8 Dragon Chow
+	8 Ancestral Boon
+	8 Spoils of War
+	8 Cold Resistance
+	8 Ice Shard
+	8 Monster Harpoon
+	8 Succumb to the Cold
+	8 Chirean Sumpworker
+	8 Vanguard's Edge
+	8 Blossoming Blade
+	8 Coastal Defender
+	8 Ribbon Dancer
+	8 Lead and Follow
+	8 Dancing Droplet
+	8 Terra Elemental
+	8 Blue Sentinel
+	8 Chip
+	8 Solari Sunhawk
+	8 Redfin Hammersnout
+	8 Snapjaw Swarm
+	8 Line 'Em Up
+	8 Sharkling
+	8 Field Promotion
+	8 Defiant Dance
+	8 Heavens Aligned
+	8 Thorned Blade
+	8 Astral Fox
+	8 Boom Baboon
+	8 Time Trick
+	8 Dropboarder
+	8 Timewinder
+	8 Ruined Dragonguard
+	8 Scattered Pod
+	8 Frightened Ibex
+	8 Defective Swapbot
+	8 The Absolver
+	8 Crawling Viperwyrm
+	8 Viego's Despair
+	8 Withering Mist
+	8 Camavoran Soldier
+[common | masterpiece(1)]
+	8 Feral Prescience
+	8 Aspiring Chronomancer
+	8 Baccai Reaper
+	8 Call the Pack
+	8 Callous Bonecrusher
+	8 Careful Preparation
+	8 Clockwork Curator
+	8 Desert Naturalist
+	8 Destined Poro
+	8 Dunekeeper
+	8 Esteemed Hierophant
+	8 Exhaust
+	8 Golden Ambassador
+	8 Imagined Possibilities
+	8 Merciless Hunter
+	8 Payday
+	8 Profiteer
+	8 Quicksand
+	8 Rite of Calling
+	8 Rock Hopper
+	8 Ruin Runner
+	8 Ruthless Predator
+	8 Sai Scout
+	8 Sandcrafter
+	8 Scrying Sands
+	8 Shaped Stone
+	8 The Time Has Come
+	8 Time in a Bottle
+	8 Treasure Seeker
+	8 Waking Sands
+	8 Weight of Judgment
+	8 Xer'sai Caller
+	8 Xer'sai Hatchling
+	8 Bloodthirsty Marauder
+	8 Song of the Isles
+	8 Spirit Leech
+	8 Mask Mother
+	8 Soulspinner
+	8 The Etherfiend
+	8 Honored Lord
+	8 Spirit Journey
+	8 Crimson Bloodletter
+	8 Strength in Numbers
+	8 Shrieking Spinner
+	8 Bloody Business
+	8 Thorn of the Rose
+	8 Sigil of Malice
+	8 Shadow Apprentice
+	8 Fading Icon
+	8 Battlefield Prowess
+	8 Penitent Squire
+	8 Towering Stonehorn
+	8 Dragon Chow
+	8 Ancestral Boon
+	8 Spoils of War
+	8 Cold Resistance
+	8 Ice Shard
+	8 Monster Harpoon
+	8 Succumb to the Cold
+	8 Chirean Sumpworker
+	8 Vanguard's Edge
+	8 Blossoming Blade
+	8 Coastal Defender
+	8 Ribbon Dancer
+	8 Lead and Follow
+	8 Dancing Droplet
+	8 Terra Elemental
+	8 Blue Sentinel
+	8 Chip
+	8 Solari Sunhawk
+	8 Redfin Hammersnout
+	8 Snapjaw Swarm
+	8 Line 'Em Up
+	8 Sharkling
+	8 Field Promotion
+	8 Defiant Dance
+	8 Heavens Aligned
+	8 Thorned Blade
+	8 Astral Fox
+	8 Boom Baboon
+	8 Time Trick
+	8 Dropboarder
+	8 Timewinder
+	8 Ruined Dragonguard
+	8 Scattered Pod
+	8 Frightened Ibex
+	8 Defective Swapbot
+	8 The Absolver
+	8 Crawling Viperwyrm
+	8 Viego's Despair
+	8 Withering Mist
+	8 Camavoran Soldier
+[foil(1)]
+	12 Feral Prescience
+	6 Ancient Hourglass
+	2 Ancient Preparations
+	6 Arise!
+	2 Ascended's Rise
+	12 Aspiring Chronomancer
+	1 Azir, Shurima's Emperor
+	12 Baccai Reaper
+	6 Baccai Sandspinner
+	6 Boomerang Blade
+	2 Buried Sun Disc
+	12 Call the Pack
+	12 Callous Bonecrusher
+	12 Careful Preparation
+	6 Chronoshift
+	12 Clockwork Curator
+	12 Desert Naturalist
+	6 Desert's Wrath
+	12 Destined Poro
+	6 Devoted Council
+	12 Dunekeeper
+	2 Emperor's Dais
+	2 Emperor's Divide
+	12 Esteemed Hierophant
+	12 Exhaust
+	12 Golden Ambassador
+	2 Hibernating Rockbear
+	12 Imagined Possibilities
+	2 Inner Sanctum
+	6 Inspiring Marshal
+	6 Khahiri the Returned
+	6 Khahiri the Student
+	12 Merciless Hunter
+	1 Nasus, The Curator of the Sands
+	12 Payday
+	2 Preservarium
+	6 Preservationist
+	12 Profiteer
+	2 Promising Future
+	12 Quicksand
+	6 Rampaging Baccai
+	2 Raz Bloodmane
+	1 Rek'Sai, The Void Burrower
+	1 Renekton, Gatekeeper of Shurima
+	6 Ricochet
+	12 Rite of Calling
+	6 Rite of Dominance
+	2 Rite of Negation
+	12 Rock Hopper
+	12 Ruin Runner
+	6 Ruinous Path
+	12 Ruthless Predator
+	12 Sai Scout
+	2 Salt Spire
+	2 Sanctum Conservator
+	12 Sandcrafter
+	6 Sandstone Chimera
+	2 Sandswept Tomb
+	12 Scrying Sands
+	12 Shaped Stone
+	6 Shifting Sands
+	6 Siphoning Strike
+	1 Sivir, The Battle Mistress
+	6 Shaman Soothsayer
+	6 Spirit Fire
+	2 Stoneweaving
+	1 Taliyah, The Wanderer
+	2 The Clock Hand
+	12 The Time Has Come
+	12 Time in a Bottle
+	12 Treasure Seeker
+	6 Unraveled Earth
+	2 Unworthy
+	6 Vekauran Bruiser
+	6 Vekauran Safecracker
+	6 Vekauran Vagabond
+	2 Voice of the Risen
+	12 Waking Sands
+	12 Weight of Judgment
+	6 Xenotype Researchers
+	12 Xer'sai Caller
+	6 Xer'sai Dunebreaker
+	12 Xer'sai Hatchling
+	2 Xerxa'Reth, The Undertitan
+	1 Zilean
+	2 Golden Herald
+	2 Emperor's Prosperity
+	2 Crumbling Sands
+	2 Shimmering Mirage
+	2 Eternal Gladiator
+	2 General's Palace
+	2 Emperor's Guard
+	2 Shurima's Sandstorm
+	2 Ascended's Call
+	12 Bloodthirsty Marauder
+	12 Song of the Isles
+	12 Spirit Leech
+	6 Sea Scarab
+	12 Mask Mother
+	6 Unto Dusk
+	12 Soulspinner
+	12 The Etherfiend
+	2 Lamb's Respite
+	12 Honored Lord
+	1 Kindred, The Eternal Hunters
+	12 Spirit Journey
+	12 Crimson Bloodletter
+	12 Strength in Numbers
+	12 Shrieking Spinner
+	12 Bloody Business
+	12 Thorn of the Rose
+	2 Black Rose Spy
+	1 LeBlanc, Pale Sorceress
+	12 Sigil of Malice
+	6 Whispered Words
+	6 Black Rose Mimicry
+	2 Startipped Peak
+	2 Destiny's Call
+	2 Field Musicians
+	12 Shadow Apprentice
+	6 Lost Riches
+	2 Loaded Dice
+	12 Fading Icon
+	6 Golden Aegis
+	6 Cataclysm
+	12 Battlefield Prowess
+	12 Penitent Squire
+	1 King Jarvan IV
+	2 King Jarvan III
+	12 Towering Stonehorn
+	12 Dragon Chow
+	6 Production Surge
+	2 Concurrent Timelines
+	12 Ancestral Boon
+	12 Spoils of War
+	2 Blighted Ravine
+	12 Cold Resistance
+	6 Three Sisters
+	12 Ice Shard
+	6 Entomb
+	2 Draklorn Inquisitor
+	2 Frozen Thrall
+	1 Lissandra, The Ice Witch
+	2 Bone Skewer
+	12 Monster Harpoon
+	6 Ardent Tracker
+	2 Cithria, Lady of Clouds
+	12 Succumb to the Cold
+	2 Buried in Ice
+	6 Incisive Tactician
+	2 Thrashing Snapper
+	12 Chirean Sumpworker
+	2 Adaptatron 3000
+	2 First Wave
+	2 Zinneia, Steel Crescendo
+	12 Vanguard's Edge
+	12 Blossoming Blade
+	12 Coastal Defender
+	6 Syncopation
+	12 Ribbon Dancer
+	12 Lead and Follow
+	6 Shadows of the Past
+	12 Dancing Droplet
+	1 Irelia, The Blade Dancer
+	2 Rockfall Path
+	2 Stonebreaker
+	12 Terra Elemental
+	12 Blue Sentinel
+	12 Chip
+	6 Ground Slam
+	2 Eye of the Ra-Horak
+	12 Solari Sunhawk
+	2 Spiral Stairs
+	1 Malphite
+	12 Redfin Hammersnout
+	12 Snapjaw Swarm
+	1 Pyke
+	6 The List
+	2 Jaull-fish
+	2 Ripper's Bay
+	2 Reaver's Row
+	12 Line 'Em Up
+	12 Sharkling
+	12 Field Promotion
+	2 Swiftwing Flight
+	6 Fabled Poro
+	2 Abominable Guardian
+	12 Defiant Dance
+	2 Sacred Protector
+	2 Starlit Epiphany
+	12 Heavens Aligned
+	12 Thorned Blade
+	2 Atakhan, Bringer of Ruin
+	2 The Twisted Treeline
+	12 Astral Fox
+	2 Glorious Evolution
+	12 Boom Baboon
+	6 Volunteer Elnuk
+	6 Practical Perfectionist
+	2 Called Shot
+	12 Time Trick
+	12 Dropboarder
+	12 Timewinder
+	6 Fallen Feline
+	1 Ekko, The Boy Savior
+	6 Ruined Rex
+	6 Kadregrin the Ruined
+	12 Ruined Dragonguard
+	6 Rimefang Denmother
+	12 Scattered Pod
+	12 Frightened Ibex
+	6 Retired Reckoner
+	6 Ruined Reckoner
+	12 Defective Swapbot
+	6 Akshan's Grappling Hook
+	2 Thrumming Swarm
+	12 The Absolver
+	1 Akshan the Vigilante
+	2 Warlord's Palace
+	12 Crawling Viperwyrm
+	6 Camavoran Dragon
+	12 Viego's Despair
+	12 Withering Mist
+	1 Viego the Resurrected
+	12 Camavoran Soldier
+	2 Invasive Hydravine
+	6 Gallant Rider
+	2 Watery Grave
+	2 Underground Sea
+	6 Dimir Aqueduct
+	2 Darkwater Catacombs
+[wildcard(1)]
+	6 Feral Prescience
+	15 Ancient Hourglass
+	7 Ancient Preparations
+	15 Arise!
+	7 Ascended's Rise
+	6 Aspiring Chronomancer
+	4 Azir, Shurima's Emperor
+	6 Baccai Reaper
+	15 Baccai Sandspinner
+	15 Boomerang Blade
+	7 Buried Sun Disc
+	6 Call the Pack
+	6 Callous Bonecrusher
+	6 Careful Preparation
+	15 Chronoshift
+	6 Clockwork Curator
+	6 Desert Naturalist
+	15 Desert's Wrath
+	6 Destined Poro
+	15 Devoted Council
+	6 Dunekeeper
+	7 Emperor's Dais
+	7 Emperor's Divide
+	6 Esteemed Hierophant
+	6 Exhaust
+	6 Golden Ambassador
+	7 Hibernating Rockbear
+	6 Imagined Possibilities
+	7 Inner Sanctum
+	15 Inspiring Marshal
+	15 Khahiri the Returned
+	15 Khahiri the Student
+	6 Merciless Hunter
+	4 Nasus, The Curator of the Sands
+	6 Payday
+	7 Preservarium
+	15 Preservationist
+	6 Profiteer
+	7 Promising Future
+	6 Quicksand
+	15 Rampaging Baccai
+	7 Raz Bloodmane
+	4 Rek'Sai, The Void Burrower
+	4 Renekton, Gatekeeper of Shurima
+	15 Ricochet
+	6 Rite of Calling
+	15 Rite of Dominance
+	7 Rite of Negation
+	6 Rock Hopper
+	6 Ruin Runner
+	15 Ruinous Path
+	6 Ruthless Predator
+	6 Sai Scout
+	7 Salt Spire
+	7 Sanctum Conservator
+	6 Sandcrafter
+	15 Sandstone Chimera
+	7 Sandswept Tomb
+	6 Scrying Sands
+	6 Shaped Stone
+	15 Shifting Sands
+	15 Siphoning Strike
+	4 Sivir, The Battle Mistress
+	15 Shaman Soothsayer
+	15 Spirit Fire
+	7 Stoneweaving
+	4 Taliyah, The Wanderer
+	7 The Clock Hand
+	6 The Time Has Come
+	6 Time in a Bottle
+	6 Treasure Seeker
+	15 Unraveled Earth
+	7 Unworthy
+	15 Vekauran Bruiser
+	15 Vekauran Safecracker
+	15 Vekauran Vagabond
+	7 Voice of the Risen
+	6 Waking Sands
+	6 Weight of Judgment
+	15 Xenotype Researchers
+	6 Xer'sai Caller
+	15 Xer'sai Dunebreaker
+	6 Xer'sai Hatchling
+	7 Xerxa'Reth, The Undertitan
+	4 Zilean
+	7 Golden Herald
+	7 Emperor's Prosperity
+	7 Crumbling Sands
+	7 Shimmering Mirage
+	7 Eternal Gladiator
+	7 General's Palace
+	7 Emperor's Guard
+	7 Shurima's Sandstorm
+	7 Ascended's Call
+	6 Bloodthirsty Marauder
+	6 Song of the Isles
+	6 Spirit Leech
+	15 Sea Scarab
+	6 Mask Mother
+	15 Unto Dusk
+	6 Soulspinner
+	6 The Etherfiend
+	7 Lamb's Respite
+	6 Honored Lord
+	4 Kindred, The Eternal Hunters
+	6 Spirit Journey
+	6 Crimson Bloodletter
+	6 Strength in Numbers
+	6 Shrieking Spinner
+	6 Bloody Business
+	6 Thorn of the Rose
+	7 Black Rose Spy
+	4 LeBlanc, Pale Sorceress
+	6 Sigil of Malice
+	15 Whispered Words
+	15 Black Rose Mimicry
+	7 Startipped Peak
+	7 Destiny's Call
+	7 Field Musicians
+	6 Shadow Apprentice
+	15 Lost Riches
+	7 Loaded Dice
+	6 Fading Icon
+	15 Golden Aegis
+	15 Cataclysm
+	6 Battlefield Prowess
+	6 Penitent Squire
+	4 King Jarvan IV
+	7 King Jarvan III
+	6 Towering Stonehorn
+	6 Dragon Chow
+	15 Production Surge
+	7 Concurrent Timelines
+	6 Ancestral Boon
+	6 Spoils of War
+	7 Blighted Ravine
+	6 Cold Resistance
+	15 Three Sisters
+	6 Ice Shard
+	15 Entomb
+	7 Draklorn Inquisitor
+	7 Frozen Thrall
+	4 Lissandra, The Ice Witch
+	7 Bone Skewer
+	6 Monster Harpoon
+	15 Ardent Tracker
+	7 Cithria, Lady of Clouds
+	6 Succumb to the Cold
+	7 Buried in Ice
+	15 Incisive Tactician
+	7 Thrashing Snapper
+	6 Chirean Sumpworker
+	7 Adaptatron 3000
+	7 First Wave
+	7 Zinneia, Steel Crescendo
+	6 Vanguard's Edge
+	6 Blossoming Blade
+	6 Coastal Defender
+	15 Syncopation
+	6 Ribbon Dancer
+	6 Lead and Follow
+	15 Shadows of the Past
+	6 Dancing Droplet
+	4 Irelia, The Blade Dancer
+	7 Rockfall Path
+	7 Stonebreaker
+	6 Terra Elemental
+	6 Blue Sentinel
+	6 Chip
+	15 Ground Slam
+	7 Eye of the Ra-Horak
+	6 Solari Sunhawk
+	7 Spiral Stairs
+	4 Malphite
+	6 Redfin Hammersnout
+	6 Snapjaw Swarm
+	4 Pyke
+	15 The List
+	7 Jaull-fish
+	7 Ripper's Bay
+	7 Reaver's Row
+	6 Line 'Em Up
+	6 Sharkling
+	6 Field Promotion
+	7 Swiftwing Flight
+	15 Fabled Poro
+	7 Abominable Guardian
+	6 Defiant Dance
+	7 Sacred Protector
+	7 Starlit Epiphany
+	6 Heavens Aligned
+	6 Thorned Blade
+	7 Atakhan, Bringer of Ruin
+	7 The Twisted Treeline
+	6 Astral Fox
+	7 Glorious Evolution
+	6 Boom Baboon
+	15 Volunteer Elnuk
+	15 Practical Perfectionist
+	7 Called Shot
+	6 Time Trick
+	6 Dropboarder
+	6 Timewinder
+	15 Fallen Feline
+	4 Ekko, The Boy Savior
+	15 Ruined Rex
+	15 Kadregrin the Ruined
+	6 Ruined Dragonguard
+	15 Rimefang Denmother
+	6 Scattered Pod
+	6 Frightened Ibex
+	15 Retired Reckoner
+	15 Ruined Reckoner
+	6 Defective Swapbot
+	15 Akshan's Grappling Hook
+	7 Thrumming Swarm
+	6 The Absolver
+	4 Akshan the Vigilante
+	7 Warlord's Palace
+	6 Crawling Viperwyrm
+	15 Camavoran Dragon
+	6 Viego's Despair
+	6 Withering Mist
+	4 Viego the Resurrected
+	6 Camavoran Soldier
+	7 Invasive Hydravine
+	15 Gallant Rider
+	7 Watery Grave
+	7 Underground Sea
+	15 Dimir Aqueduct
+	7 Darkwater Catacombs
