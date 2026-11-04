@@ -2,26 +2,26 @@
     {
         "card_name": "The Darkin Aegis",
         "number": 5,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "16"
+        "position": "301"
     },
     {
         "card_name": "The Darkin Fan",
         "number": 31,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "17"
+        "position": "303"
     },
     {
         "card_name": "The Darkin Halberd",
         "number": 62,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "18"
+        "position": "305"
     },
     {
         "card_name": "Annie",
@@ -29,15 +29,15 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "187"
+        "position": "338"
     },
     {
         "card_name": "The Darkin Spear",
         "number": 121,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "24"
+        "position": "311"
     },
     {
         "card_name": "Vayne, The Vigilante",
@@ -45,7 +45,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "83"
+        "position": "330"
     },
     {
         "card_name": "Master Yi",
@@ -53,7 +53,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "134"
+        "position": "334"
     },
     {
         "card_name": "Evelynn, The Widowmaker",
@@ -61,15 +61,15 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "263"
+        "position": "362"
     },
     {
         "card_name": "The Darkin Ballista",
         "number": 96,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "19"
+        "position": "307"
     },
     {
         "card_name": "Ornn, Master of the Forge",
@@ -77,7 +77,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "22"
+        "position": "309"
     },
     {
         "card_name": "Bloodcursed Harpy",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "89"
+        "position": "65"
     },
     {
         "card_name": "Dragoncaller",
@@ -93,7 +93,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "142"
+        "position": "116"
     },
     {
         "card_name": "Gwen",
@@ -101,7 +101,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "313"
+        "position": "368"
     },
     {
         "card_name": "Crimson Pigeon",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "211"
+        "position": "180"
     },
     {
         "card_name": "Frozen in Fear",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "118"
+        "position": "93"
     },
     {
         "card_name": "Champions' Strength",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "101"
+        "position": "77"
     },
     {
         "card_name": "Serene Sky-Singer",
@@ -133,7 +133,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "157"
+        "position": "131"
     },
     {
         "card_name": "Eternal Dancers",
@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "314"
+        "position": "266"
     },
     {
         "card_name": "Legionary Charge",
@@ -149,7 +149,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "193"
+        "position": "164"
     },
     {
         "card_name": "Gift of the Hearthblood",
@@ -157,7 +157,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "120"
+        "position": "95"
     },
     {
         "card_name": "Lord Eldred, Mageseeker Leader",
@@ -165,7 +165,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "98"
+        "position": "74"
     },
     {
         "card_name": "Storm of Blades",
@@ -173,7 +173,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "149"
+        "position": "123"
     },
     {
         "card_name": "Harrowing Return",
@@ -181,7 +181,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "336"
+        "position": "287"
     },
     {
         "card_name": "The Prefect",
@@ -189,7 +189,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "185"
+        "position": "158"
     },
     {
         "card_name": "Revna, the Lorekeeper",
@@ -197,7 +197,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "117"
+        "position": "92"
     },
     {
         "card_name": "Protective Broodfather",
@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "96"
+        "position": "72"
     },
     {
         "card_name": "Vastayan Disciple",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "140"
+        "position": "114"
     },
     {
         "card_name": "Wraith of Echoes",
@@ -221,7 +221,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "331"
+        "position": "282"
     },
     {
         "card_name": "Brutal Skirmish",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "197"
+        "position": "168"
     },
     {
         "card_name": "Warden of the Tribes",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "128"
+        "position": "103"
     },
     {
         "card_name": "Demacian Tellstones",
@@ -245,7 +245,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "102"
+        "position": "78"
     },
     {
         "card_name": "Ionian Tellstones",
@@ -253,7 +253,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "152"
+        "position": "126"
     },
     {
         "card_name": "Boisterous Host",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "318"
+        "position": "269"
     },
     {
         "card_name": "Furious Wielder",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "206"
+        "position": "175"
     },
     {
         "card_name": "Wild Mysticism",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "124"
+        "position": "99"
     },
     {
         "card_name": "Jarvan's Royal Decree",
@@ -285,7 +285,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "97"
+        "position": "73"
     },
     {
         "card_name": "Jun, the Prodigy",
@@ -293,7 +293,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "137"
+        "position": "111"
     },
     {
         "card_name": "Conductor Of The Mists",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "323"
+        "position": "274"
     },
     {
         "card_name": "Legion Deserter",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "202"
+        "position": "171"
     },
     {
         "card_name": "Winter's Touch",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "129"
+        "position": "104"
     },
     {
         "card_name": "Kind-hearted Recruit",
@@ -325,7 +325,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "85"
+        "position": "62"
     },
     {
         "card_name": "Kinkou Student",
@@ -333,7 +333,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "151"
+        "position": "125"
     },
     {
         "card_name": "Evelynn's Last Caress",
@@ -341,7 +341,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "264"
+        "position": "220"
     },
     {
         "card_name": "Lord Broadmane",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "195"
+        "position": "166"
     },
     {
         "card_name": "Wrought Colossus",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "114"
+        "position": "89"
     },
     {
         "card_name": "Parts Made Whole",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "86"
+        "position": "63"
     },
     {
         "card_name": "The Maker",
@@ -373,7 +373,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "132"
+        "position": "107"
     },
     {
         "card_name": "Isles Deathless Knight",
@@ -381,7 +381,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "338"
+        "position": "289"
     },
     {
         "card_name": "Noxian Tellstones",
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "208"
+        "position": "177"
     },
     {
         "card_name": "Bellows Breath",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "20"
+        "position": "10"
     },
     {
         "card_name": "Petricite Charger",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "104"
+        "position": "80"
     },
     {
         "card_name": "Momentous Choice",
@@ -413,7 +413,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "150"
+        "position": "124"
     },
     {
         "card_name": "Quietus",
@@ -421,7 +421,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "329"
+        "position": "280"
     },
     {
         "card_name": "Strategic Execution",
@@ -429,7 +429,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "205"
+        "position": "174"
     },
     {
         "card_name": "Fractured Blade",
@@ -437,7 +437,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "112"
+        "position": "87"
     },
     {
         "card_name": "Ranger-Knight Defector",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "79"
+        "position": "57"
     },
     {
         "card_name": "Twin Wind Technique",
@@ -453,7 +453,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "156"
+        "position": "130"
     },
     {
         "card_name": "Redeemed Prodigy",
@@ -461,7 +461,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "334"
+        "position": "285"
     },
     {
         "card_name": "Captive Greyback",
@@ -469,7 +469,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "186"
+        "position": "159"
     },
     {
         "card_name": "Icevale Cultist",
@@ -477,7 +477,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "111"
+        "position": "86"
     },
     {
         "card_name": "Roar of Icathia",
@@ -485,7 +485,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "99"
+        "position": "75"
     },
     {
         "card_name": "Unworthy Soul",
@@ -493,7 +493,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "148"
+        "position": "122"
     },
     {
         "card_name": "Shadow Isles Tellstones",
@@ -501,7 +501,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "333"
+        "position": "284"
     },
     {
         "card_name": "Captive Yeti",
@@ -509,7 +509,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "203"
+        "position": "172"
     },
     {
         "card_name": "Wildclaw's Ferocity",
@@ -517,7 +517,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "127"
+        "position": "102"
     },
     {
         "card_name": "Zealous Ranger-Knight",
@@ -525,7 +525,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "88"
+        "position": "64"
     },
     {
         "card_name": "Disciple of Doran",
@@ -533,7 +533,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "130"
+        "position": "105"
     },
     {
         "card_name": "Soul Cleave",
@@ -541,7 +541,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "340"
+        "position": "291"
     },
     {
         "card_name": "Desperate Husk",
@@ -549,7 +549,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "265"
+        "position": "221"
     },
     {
         "card_name": "Wings of the Cryophoenix",
@@ -557,7 +557,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "126"
+        "position": "101"
     },
     {
         "card_name": "Allure",
@@ -565,7 +565,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "91"
+        "position": "67"
     },
     {
         "card_name": "Dragon Ambush",
@@ -573,7 +573,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "135"
+        "position": "109"
     },
     {
         "card_name": "Sultur",
@@ -581,7 +581,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "320"
+        "position": "271"
     },
     {
         "card_name": "Disintegrate",
@@ -589,7 +589,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "190"
+        "position": "161"
     },
     {
         "card_name": "Woolly Snailmoth",
@@ -597,7 +597,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "116"
+        "position": "91"
     },
     {
         "card_name": "Blocking Badgerbear",
@@ -605,7 +605,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "106"
+        "position": "82"
     },
     {
         "card_name": "Fading Husk",
@@ -613,7 +613,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "274"
+        "position": "230"
     },
     {
         "card_name": "Utter Devastation",
@@ -621,7 +621,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "332"
+        "position": "283"
     },
     {
         "card_name": "Great Hammers",
@@ -629,7 +629,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "196"
+        "position": "167"
     },
     {
         "card_name": "Adept Weaponsmith",
@@ -637,7 +637,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "108"
+        "position": "84"
     },
     {
         "card_name": "Demacian Steel",
@@ -645,7 +645,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "92"
+        "position": "68"
     },
     {
         "card_name": "Gruesome Theater",
@@ -653,7 +653,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "133"
+        "position": "108"
     },
     {
         "card_name": "Vora",
@@ -661,7 +661,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "319"
+        "position": "270"
     },
     {
         "card_name": "Manasoul Student",
@@ -669,7 +669,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "191"
+        "position": "162"
     },
     {
         "card_name": "Bone Club",
@@ -677,7 +677,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "115"
+        "position": "90"
     },
     {
         "card_name": "Faithful Wolfdog",
@@ -685,7 +685,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "94"
+        "position": "70"
     },
     {
         "card_name": "Kinkou's Call",
@@ -693,7 +693,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "138"
+        "position": "112"
     },
     {
         "card_name": "Ceaseless Sentry",
@@ -701,7 +701,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "341"
+        "position": "292"
     },
     {
         "card_name": "Noxian Defector",
@@ -709,7 +709,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "192"
+        "position": "163"
     },
     {
         "card_name": "Cracking Ice",
@@ -717,7 +717,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "125"
+        "position": "100"
     },
     {
         "card_name": "Fish Fight",
@@ -725,7 +725,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "80"
+        "position": "58"
     },
     {
         "card_name": "Moral Support",
@@ -733,7 +733,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "154"
+        "position": "128"
     },
     {
         "card_name": "Formal Invitation",
@@ -741,7 +741,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "327"
+        "position": "278"
     },
     {
         "card_name": "Obedient Drakehound",
@@ -749,7 +749,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "204"
+        "position": "173"
     },
     {
         "card_name": "Favored Artisan",
@@ -757,7 +757,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "110"
+        "position": "85"
     },
     {
         "card_name": "Hardy Husk",
@@ -765,7 +765,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "273"
+        "position": "229"
     },
     {
         "card_name": "Navori Longtail",
@@ -773,7 +773,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "155"
+        "position": "129"
     },
     {
         "card_name": "Ghostly Paramour",
@@ -781,7 +781,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "322"
+        "position": "273"
     },
     {
         "card_name": "Reveler's Feast",
@@ -789,7 +789,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "209"
+        "position": "178"
     },
     {
         "card_name": "Harbinger of Thralls",
@@ -797,7 +797,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "119"
+        "position": "94"
     },
     {
         "card_name": "Inspiring Light",
@@ -805,7 +805,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "105"
+        "position": "81"
     },
     {
         "card_name": "Shadowblade Fanatic",
@@ -813,7 +813,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "143"
+        "position": "117"
     },
     {
         "card_name": "Hate Spike",
@@ -821,7 +821,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "321"
+        "position": "272"
     },
     {
         "card_name": "Rune Squire",
@@ -829,7 +829,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "207"
+        "position": "176"
     },
     {
         "card_name": "Hearthblood Mender",
@@ -837,7 +837,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "107"
+        "position": "83"
     },
     {
         "card_name": "Pan O' Pain",
@@ -845,7 +845,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "281"
+        "position": "237"
     },
     {
         "card_name": "Soul Sword",
@@ -853,7 +853,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "147"
+        "position": "121"
     },
     {
         "card_name": "Haunted Husk",
@@ -861,7 +861,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "269"
+        "position": "225"
     },
     {
         "card_name": "Skulking String-Puller",
@@ -869,7 +869,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "212"
+        "position": "181"
     },
     {
         "card_name": "Here to Help",
@@ -877,7 +877,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "123"
+        "position": "98"
     },
     {
         "card_name": "Silence and Suppress",
@@ -885,7 +885,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "93"
+        "position": "69"
     },
     {
         "card_name": "The Spirit of Wuju",
@@ -893,7 +893,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "145"
+        "position": "119"
     },
     {
         "card_name": "Keeper of the Box",
@@ -901,7 +901,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "312"
+        "position": "265"
     },
     {
         "card_name": "Spell Slinger",
@@ -909,7 +909,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "189"
+        "position": "160"
     },
     {
         "card_name": "Hunting Boar",
@@ -917,7 +917,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "121"
+        "position": "96"
     },
     {
         "card_name": "Steadfast Elkin",
@@ -925,7 +925,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "90"
+        "position": "66"
     },
     {
         "card_name": "The Stagehand",
@@ -933,7 +933,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "131"
+        "position": "106"
     },
     {
         "card_name": "Malefic Spear",
@@ -941,7 +941,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "326"
+        "position": "277"
     },
     {
         "card_name": "e"
@@ -952,7 +952,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "113"
+        "position": "88"
     },
     {
         "card_name": "Tempting Prospect",
@@ -960,7 +960,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "100"
+        "position": "76"
     },
     {
         "card_name": "The Witness",
@@ -968,7 +968,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "141"
+        "position": "115"
     },
     {
         "card_name": "Moonlit Glenkeeper",
@@ -976,7 +976,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "337"
+        "position": "288"
     },
     {
         "card_name": "e"
@@ -987,7 +987,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "266"
+        "position": "222"
     },
     {
         "card_name": "Trusty Ramhound",
@@ -995,7 +995,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "103"
+        "position": "79"
     },
     {
         "card_name": "Wuju Style",
@@ -1003,7 +1003,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "139"
+        "position": "113"
     },
     {
         "card_name": "Phantom Butler",
@@ -1011,7 +1011,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "325"
+        "position": "276"
     },
     {
         "card_name": "e"
@@ -1022,7 +1022,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "122"
+        "position": "97"
     },
     {
         "card_name": "Vayne's Condemn",
@@ -1030,7 +1030,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "81"
+        "position": "59"
     },
     {
         "card_name": "e"
@@ -1041,7 +1041,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "335"
+        "position": "286"
     },
     {
         "card_name": "e"
@@ -1052,7 +1052,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "23"
+        "position": "12"
     },
     {
         "card_name": "Widowed Huntress",
@@ -1060,7 +1060,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "82"
+        "position": "60"
     },
     {
         "card_name": "e"
@@ -1071,7 +1071,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "317"
+        "position": "268"
     },
     {
         "card_name": "e"
@@ -1091,7 +1091,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "324"
+        "position": "275"
     },
     {
         "card_name": "e"
@@ -1111,7 +1111,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "339"
+        "position": "290"
     },
     {
         "card_name": "e"
@@ -1135,10 +1135,10 @@
     {
         "card_name": "The Darkin Lodestone",
         "number": 173,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "25"
+        "position": "313"
     },
     {
         "card_name": "Jax",
@@ -1146,15 +1146,15 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "255"
+        "position": "356"
     },
     {
         "card_name": "The Darkin Harpoon",
         "number": 172,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "28"
+        "position": "319"
     },
     {
         "card_name": "e"
@@ -1165,7 +1165,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "239"
+        "position": "345"
     },
     {
         "card_name": "Kayle, The Winged Protector",
@@ -1173,7 +1173,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "160"
+        "position": "336"
     },
     {
         "card_name": "Kai'Sa, The Girl Who Came Back",
@@ -1181,7 +1181,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "286"
+        "position": "365"
     },
     {
         "card_name": "Truth Bearer Illaoi",
@@ -1189,7 +1189,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "48"
+        "position": "325"
     },
     {
         "card_name": "e"
@@ -1200,7 +1200,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "0"
+        "position": "293"
     },
     {
         "card_name": "Consult the Heavens",
@@ -1208,15 +1208,15 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "171"
+        "position": "144"
     },
     {
         "card_name": "The Darkin Bloodletters",
         "number": 284,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "26"
+        "position": "315"
     },
     {
         "card_name": "Loaded Vessel",
@@ -1224,7 +1224,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "73"
+        "position": "51"
     },
     {
         "card_name": "e"
@@ -1232,10 +1232,10 @@
     {
         "card_name": "The Darkin Staff",
         "number": 285,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "14"
+        "position": "298"
     },
     {
         "card_name": "Mihira, Aspect of Justice",
@@ -1243,7 +1243,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "167"
+        "position": "140"
     },
     {
         "card_name": "Domination",
@@ -1251,7 +1251,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "297"
+        "position": "250"
     },
     {
         "card_name": "Nagakabouros",
@@ -1259,7 +1259,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "52"
+        "position": "32"
     },
     {
         "card_name": "e"
@@ -1270,7 +1270,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "34"
+        "position": "16"
     },
     {
         "card_name": "Generous Gemcrafter",
@@ -1278,7 +1278,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "184"
+        "position": "157"
     },
     {
         "card_name": "Heedless Resurrection",
@@ -1286,7 +1286,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "302"
+        "position": "255"
     },
     {
         "card_name": "Riptide Sermon",
@@ -1294,7 +1294,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "57"
+        "position": "36"
     },
     {
         "card_name": "e"
@@ -1305,7 +1305,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "45"
+        "position": "27"
     },
     {
         "card_name": "Celestial Impact",
@@ -1313,7 +1313,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "170"
+        "position": "143"
     },
     {
         "card_name": "Priestess Of Desert Light",
@@ -1321,7 +1321,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "309"
+        "position": "262"
     },
     {
         "card_name": "Wharf Rat",
@@ -1329,7 +1329,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "67"
+        "position": "45"
     },
     {
         "card_name": "e"
@@ -1340,7 +1340,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "37"
+        "position": "19"
     },
     {
         "card_name": "Celestial Trifecta",
@@ -1348,7 +1348,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "180"
+        "position": "153"
     },
     {
         "card_name": "Void Abomination",
@@ -1356,7 +1356,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "289"
+        "position": "243"
     },
     {
         "card_name": "Ransom Riches",
@@ -1364,7 +1364,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "68"
+        "position": "46"
     },
     {
         "card_name": "e"
@@ -1375,7 +1375,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "46"
+        "position": "28"
     },
     {
         "card_name": "Divine Judgment",
@@ -1383,7 +1383,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "161"
+        "position": "134"
     },
     {
         "card_name": "Fireth, Reaper of the Sands",
@@ -1391,7 +1391,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "311"
+        "position": "264"
     },
     {
         "card_name": "Aatrox's Deathbringer Sweep",
@@ -1399,7 +1399,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "275"
+        "position": "231"
     },
     {
         "card_name": "e"
@@ -1410,7 +1410,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "40"
+        "position": "22"
     },
     {
         "card_name": "The Expanse's Protection",
@@ -1418,7 +1418,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "175"
+        "position": "148"
     },
     {
         "card_name": "Camouflaged Horror",
@@ -1426,7 +1426,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "292"
+        "position": "246"
     },
     {
         "card_name": "Bilgewater Tellstones",
@@ -1434,7 +1434,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "74"
+        "position": "52"
     },
     {
         "card_name": "e"
@@ -1445,7 +1445,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "33"
+        "position": "15"
     },
     {
         "card_name": "Mikhael's Blessing",
@@ -1453,7 +1453,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "182"
+        "position": "155"
     },
     {
         "card_name": "Castigate",
@@ -1461,7 +1461,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "310"
+        "position": "263"
     },
     {
         "card_name": "Buhru Leader",
@@ -1469,7 +1469,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "51"
+        "position": "31"
     },
     {
         "card_name": "e"
@@ -1480,7 +1480,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "6"
+        "position": "3"
     },
     {
         "card_name": "Purifying Flames",
@@ -1488,7 +1488,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "162"
+        "position": "135"
     },
     {
         "card_name": "Curse of the Tomb",
@@ -1496,7 +1496,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "296"
+        "position": "249"
     },
     {
         "card_name": "Heavy Metal",
@@ -1504,7 +1504,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "65"
+        "position": "43"
     },
     {
         "card_name": "e"
@@ -1515,7 +1515,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "10"
+        "position": "7"
     },
     {
         "card_name": "Seal In Steel",
@@ -1523,7 +1523,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "172"
+        "position": "145"
     },
     {
         "card_name": "Hive Herald",
@@ -1531,7 +1531,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "290"
+        "position": "244"
     },
     {
         "card_name": "Mischievous Marai",
@@ -1539,7 +1539,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "77"
+        "position": "55"
     },
     {
         "card_name": "e"
@@ -1550,7 +1550,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "11"
+        "position": "8"
     },
     {
         "card_name": "Seraphic Wyvern",
@@ -1558,7 +1558,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "159"
+        "position": "133"
     },
     {
         "card_name": "Jax's Counter Strike",
@@ -1566,7 +1566,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "257"
+        "position": "216"
     },
     {
         "card_name": "The Sea's Voice",
@@ -1574,7 +1574,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "66"
+        "position": "44"
     },
     {
         "card_name": "e"
@@ -1585,7 +1585,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "38"
+        "position": "20"
     },
     {
         "card_name": "Targonian Tellstones",
@@ -1593,7 +1593,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "178"
+        "position": "151"
     },
     {
         "card_name": "Sands of Time",
@@ -1601,7 +1601,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "307"
+        "position": "260"
     },
     {
         "card_name": "The Unending Wave",
@@ -1609,7 +1609,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "70"
+        "position": "48"
     },
     {
         "card_name": "e"
@@ -1620,7 +1620,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "84"
+        "position": "61"
     },
     {
         "card_name": "Twilit Protector",
@@ -1628,7 +1628,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "177"
+        "position": "150"
     },
     {
         "card_name": "Shuriman Tellstones",
@@ -1636,7 +1636,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "303"
+        "position": "256"
     },
     {
         "card_name": "Eye of God",
@@ -1644,7 +1644,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "71"
+        "position": "49"
     },
     {
         "card_name": "e"
@@ -1655,7 +1655,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "44"
+        "position": "26"
     },
     {
         "card_name": "Divine Clerk",
@@ -1663,7 +1663,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "164"
+        "position": "137"
     },
     {
         "card_name": "Blades of the Fallen",
@@ -1671,7 +1671,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "328"
+        "position": "279"
     },
     {
         "card_name": "Swindle",
@@ -1679,7 +1679,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "72"
+        "position": "50"
     },
     {
         "card_name": "e"
@@ -1690,7 +1690,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "8"
+        "position": "5"
     },
     {
         "card_name": "Draconic Bands",
@@ -1698,7 +1698,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "169"
+        "position": "142"
     },
     {
         "card_name": "Glory's Call",
@@ -1706,7 +1706,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "306"
+        "position": "259"
     },
     {
         "card_name": "Tentacle Smash",
@@ -1714,7 +1714,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "62"
+        "position": "40"
     },
     {
         "card_name": "e"
@@ -1725,7 +1725,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "242"
+        "position": "208"
     },
     {
         "card_name": "Esmus, Breath of the World",
@@ -1733,7 +1733,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "166"
+        "position": "139"
     },
     {
         "card_name": "Rockbear Shepherd",
@@ -1741,7 +1741,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "308"
+        "position": "261"
     },
     {
         "card_name": "Test of Spirit",
@@ -1749,7 +1749,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "47"
+        "position": "29"
     },
     {
         "card_name": "e"
@@ -1760,7 +1760,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "78"
+        "position": "56"
     },
     {
         "card_name": "Lawkeeper",
@@ -1768,7 +1768,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "165"
+        "position": "138"
     },
     {
         "card_name": "Void Seeker",
@@ -1776,7 +1776,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "291"
+        "position": "245"
     },
     {
         "card_name": "Blood in the Water",
@@ -1784,7 +1784,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "76"
+        "position": "54"
     },
     {
         "card_name": "e"
@@ -1795,7 +1795,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "42"
+        "position": "24"
     },
     {
         "card_name": "Lunari Cultist",
@@ -1803,7 +1803,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "168"
+        "position": "141"
     },
     {
         "card_name": "Baccai Witherclaw",
@@ -1811,7 +1811,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "300"
+        "position": "253"
     },
     {
         "card_name": "Buhru Lookout",
@@ -1819,7 +1819,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "55"
+        "position": "34"
     },
     {
         "card_name": "e"
@@ -1830,7 +1830,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "9"
+        "position": "6"
     },
     {
         "card_name": "Shepherd's Authority",
@@ -1838,7 +1838,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "279"
+        "position": "235"
     },
     {
         "card_name": "Belvethi Elder",
@@ -1846,7 +1846,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "285"
+        "position": "240"
     },
     {
         "card_name": "Eye of Nagakabouros",
@@ -1854,7 +1854,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "64"
+        "position": "42"
     },
     {
         "card_name": "e"
@@ -1865,7 +1865,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "5"
+        "position": "2"
     },
     {
         "card_name": "Solari Stellacorn",
@@ -1873,7 +1873,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "179"
+        "position": "152"
     },
     {
         "card_name": "Kai'Sa's Supercharge",
@@ -1881,7 +1881,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "288"
+        "position": "242"
     },
     {
         "card_name": "Illaoi's Answered Prayer",
@@ -1889,7 +1889,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "54"
+        "position": "33"
     },
     {
         "card_name": "e"
@@ -1900,7 +1900,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "4"
+        "position": "1"
     },
     {
         "card_name": "Starhound Pack",
@@ -1908,7 +1908,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "176"
+        "position": "149"
     },
     {
         "card_name": "Sandworn Amulet",
@@ -1916,7 +1916,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "276"
+        "position": "232"
     },
     {
         "card_name": "Steem",
@@ -1924,7 +1924,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "56"
+        "position": "35"
     },
     {
         "card_name": "e"
@@ -1935,7 +1935,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "35"
+        "position": "17"
     },
     {
         "card_name": "The Winding Light",
@@ -1943,7 +1943,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "173"
+        "position": "146"
     },
     {
         "card_name": "Swinging Glaive",
@@ -1951,7 +1951,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "301"
+        "position": "254"
     },
     {
         "card_name": "Wily Newtfish",
@@ -1959,7 +1959,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "75"
+        "position": "53"
     },
     {
         "card_name": "e"
@@ -1970,7 +1970,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "7"
+        "position": "4"
     },
     {
         "card_name": "Winged Messenger",
@@ -1978,7 +1978,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "163"
+        "position": "136"
     },
     {
         "card_name": "Upcycled Rake",
@@ -1986,7 +1986,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "278"
+        "position": "234"
     },
     {
         "card_name": "Buhru Cultist",
@@ -1994,7 +1994,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "59"
+        "position": "38"
     },
     {
         "card_name": "e"
@@ -2005,7 +2005,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "12"
+        "position": "9"
     },
     {
         "card_name": "Celestial Blessing",
@@ -2013,7 +2013,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "183"
+        "position": "156"
     },
     {
         "card_name": "Void Blaster",
@@ -2021,7 +2021,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "287"
+        "position": "241"
     },
     {
         "card_name": "Jagged Cutlass",
@@ -2029,7 +2029,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "58"
+        "position": "37"
     },
     {
         "card_name": "e"
@@ -2040,7 +2040,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "32"
+        "position": "14"
     },
     {
         "card_name": "Enraged Husk",
@@ -2048,7 +2048,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "271"
+        "position": "227"
     },
     {
         "card_name": "Forsaken Baccai",
@@ -2056,7 +2056,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "283"
+        "position": "238"
     },
     {
         "card_name": "Megatusk",
@@ -2064,7 +2064,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "69"
+        "position": "47"
     },
     {
         "card_name": "e"
@@ -2075,7 +2075,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "39"
+        "position": "21"
     },
     {
         "card_name": "e"
@@ -2086,7 +2086,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "305"
+        "position": "258"
     },
     {
         "card_name": "Thrashing Husk",
@@ -2094,7 +2094,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "272"
+        "position": "228"
     },
     {
         "card_name": "e"
@@ -2105,7 +2105,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "43"
+        "position": "25"
     },
     {
         "card_name": "e"
@@ -2116,7 +2116,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "284"
+        "position": "239"
     },
     {
         "card_name": "Watchful Idol",
@@ -2124,7 +2124,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "50"
+        "position": "30"
     },
     {
         "card_name": "e"
@@ -2135,7 +2135,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "262"
+        "position": "219"
     },
     {
         "card_name": "e"
@@ -2146,7 +2146,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "270"
+        "position": "226"
     },
     {
         "card_name": "e"
@@ -2160,7 +2160,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "31"
+        "position": "13"
     },
     {
         "card_name": "e"
@@ -2180,7 +2180,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "267"
+        "position": "223"
     },
     {
         "card_name": "er"
@@ -2203,10 +2203,10 @@
     {
         "card_name": "The Darkin Harp",
         "number": 171,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "27"
+        "position": "317"
     },
     {
         "card_name": "e"
@@ -2226,7 +2226,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "240"
+        "position": "347"
     },
     {
         "card_name": "e"
@@ -2246,7 +2246,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "221"
+        "position": "343"
     },
     {
         "card_name": "e"
@@ -2266,7 +2266,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "216"
+        "position": "185"
     },
     {
         "card_name": "e"
@@ -2286,7 +2286,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "237"
+        "position": "205"
     },
     {
         "card_name": "e"
@@ -2306,7 +2306,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "230"
+        "position": "198"
     },
     {
         "card_name": "e"
@@ -2326,7 +2326,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "220"
+        "position": "189"
     },
     {
         "card_name": "e"
@@ -2346,7 +2346,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "241"
+        "position": "207"
     },
     {
         "card_name": "e"
@@ -2366,7 +2366,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "223"
+        "position": "191"
     },
     {
         "card_name": "e"
@@ -2386,7 +2386,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "213"
+        "position": "182"
     },
     {
         "card_name": "e"
@@ -2406,7 +2406,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "217"
+        "position": "186"
     },
     {
         "card_name": "e"
@@ -2426,7 +2426,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "227"
+        "position": "195"
     },
     {
         "card_name": "e"
@@ -2446,7 +2446,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "226"
+        "position": "194"
     },
     {
         "card_name": "e"
@@ -2466,7 +2466,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "238"
+        "position": "206"
     },
     {
         "card_name": "e"
@@ -2486,7 +2486,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "232"
+        "position": "200"
     },
     {
         "card_name": "e"
@@ -2506,7 +2506,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "228"
+        "position": "196"
     },
     {
         "card_name": "e"
@@ -2526,7 +2526,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "215"
+        "position": "184"
     },
     {
         "card_name": "e"
@@ -2546,7 +2546,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "144"
+        "position": "118"
     },
     {
         "card_name": "e"
@@ -2566,7 +2566,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "218"
+        "position": "187"
     },
     {
         "card_name": "e"
@@ -2586,7 +2586,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "234"
+        "position": "202"
     },
     {
         "card_name": "e"
@@ -2606,7 +2606,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "214"
+        "position": "183"
     },
     {
         "card_name": "e"
@@ -2626,7 +2626,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "225"
+        "position": "193"
     },
     {
         "card_name": "e"
@@ -2646,7 +2646,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "224"
+        "position": "192"
     },
     {
         "card_name": "e"
@@ -2666,7 +2666,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "222"
+        "position": "190"
     },
     {
         "card_name": "e"
@@ -2686,7 +2686,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "229"
+        "position": "197"
     },
     {
         "card_name": "e"
@@ -2706,7 +2706,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "231"
+        "position": "199"
     },
     {
         "card_name": "e"
@@ -2726,7 +2726,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "219"
+        "position": "188"
     },
     {
         "card_name": "e"
@@ -2746,7 +2746,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "268"
+        "position": "224"
     },
     {
         "card_name": "e"
@@ -2766,7 +2766,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "280"
+        "position": "236"
     },
     {
         "card_name": "e"
@@ -2786,7 +2786,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "236"
+        "position": "204"
     },
     {
         "card_name": "e"
@@ -2806,7 +2806,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "277"
+        "position": "233"
     },
     {
         "card_name": "e"
@@ -2826,7 +2826,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "194"
+        "position": "165"
     },
     {
         "card_name": "e"
@@ -2846,7 +2846,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "233"
+        "position": "201"
     },
     {
         "card_name": "e"
@@ -2878,7 +2878,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "258"
+        "position": "359"
     },
     {
         "card_name": "Kayne, The Shadow Reaper",
@@ -2886,7 +2886,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "243"
+        "position": "349"
     },
     {
         "card_name": "e"
@@ -2900,7 +2900,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "1"
+        "position": "0"
     },
     {
         "card_name": "Xolaani the Bloodweaver",
@@ -2908,7 +2908,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "30"
+        "position": "323"
     },
     {
         "card_name": "Kayn's Shadowstep",
@@ -2916,7 +2916,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "246"
+        "position": "209"
     },
     {
         "card_name": "e"
@@ -2930,7 +2930,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "158"
+        "position": "132"
     },
     {
         "card_name": "Ryze's Realm Warp",
@@ -2938,7 +2938,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "254"
+        "position": "215"
     },
     {
         "card_name": "Parts Made Whole",
@@ -2946,7 +2946,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "60"
+        "position": "39"
     },
     {
         "card_name": "e"
@@ -2963,7 +2963,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "260"
+        "position": "217"
     },
     {
         "card_name": "The Fix-Em 5000",
@@ -2971,7 +2971,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "261"
+        "position": "218"
     },
     {
         "card_name": "e"
@@ -2991,7 +2991,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "63"
+        "position": "41"
     },
     {
         "card_name": "e"
@@ -3023,7 +3023,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "29"
+        "position": "321"
     },
     {
         "card_name": "Ryze, The Rune Mage",
@@ -3031,7 +3031,7 @@
         "shape": "transform double faced",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "247"
+        "position": "353"
     },
     {
         "card_name": "e"
@@ -3061,7 +3061,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "95"
+        "position": "71"
     },
     {
         "card_name": "The Black Flame",
@@ -3069,7 +3069,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "153"
+        "position": "127"
     },
     {
         "card_name": "Haunted Tomb",
@@ -3077,7 +3077,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "330"
+        "position": "281"
     },
     {
         "card_name": "The Gray Apothecary",
@@ -3085,7 +3085,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "201"
+        "position": "170"
     },
     {
         "card_name": "Ornn's Forge",
@@ -3093,7 +3093,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "21"
+        "position": "11"
     },
     {
         "card_name": "e"
@@ -3104,7 +3104,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "136"
+        "position": "110"
     },
     {
         "card_name": "Opulent Foyer",
@@ -3112,7 +3112,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "315"
+        "position": "267"
     },
     {
         "card_name": "Trifarian Training Pits",
@@ -3120,7 +3120,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "210"
+        "position": "179"
     },
     {
         "card_name": "e"
@@ -3134,7 +3134,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "146"
+        "position": "120"
     },
     {
         "card_name": "e"
@@ -3145,7 +3145,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "198"
+        "position": "169"
     },
     {
         "card_name": "e"
@@ -3171,7 +3171,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "174"
+        "position": "147"
     },
     {
         "card_name": "Shard of Madness",
@@ -3179,7 +3179,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "248"
+        "position": "210"
     },
     {
         "card_name": "Shard of Violence",
@@ -3187,7 +3187,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "250"
+        "position": "212"
     },
     {
         "card_name": "Shard of Reverence",
@@ -3195,7 +3195,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "252"
+        "position": "214"
     },
     {
         "card_name": "Shard of Hope",
@@ -3203,7 +3203,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "251"
+        "position": "213"
     },
     {
         "card_name": "Mystic Vortex",
@@ -3211,7 +3211,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "181"
+        "position": "154"
     },
     {
         "card_name": "Void Gate",
@@ -3219,7 +3219,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "293"
+        "position": "247"
     },
     {
         "card_name": "e"
@@ -3233,7 +3233,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "36"
+        "position": "18"
     },
     {
         "card_name": "e"
@@ -3244,7 +3244,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "299"
+        "position": "252"
     },
     {
         "card_name": "e"
@@ -3258,7 +3258,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "41"
+        "position": "23"
     },
     {
         "card_name": "e"
@@ -3269,7 +3269,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "304"
+        "position": "257"
     },
     {
         "card_name": "e"
@@ -3289,7 +3289,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "298"
+        "position": "251"
     },
     {
         "card_name": "e"
@@ -3309,7 +3309,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "294"
+        "position": "248"
     },
     {
         "card_name": "e"
@@ -3341,7 +3341,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "249"
+        "position": "211"
     },
     {
         "card_name": "Back Alley Bar",
@@ -3349,7 +3349,7 @@
         "shape": "normal",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "235"
+        "position": "203"
     },
     {
         "card_name": "e"
@@ -3379,7 +3379,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "87"
+        "position": "332"
     },
     {
         "card_name": "Ghastly Band",
@@ -3387,7 +3387,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "316"
+        "position": "370"
     },
     {
         "card_name": "Tibbers",
@@ -3395,7 +3395,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "188"
+        "position": "340"
     },
     {
         "card_name": "Tybaulk",
@@ -3403,7 +3403,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "199"
+        "position": "341"
     },
     {
         "card_name": "Tybaulk",
@@ -3411,7 +3411,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "200"
+        "position": "342"
     },
     {
         "card_name": "Spirit of the Ram",
@@ -3419,7 +3419,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "109"
+        "position": "333"
     },
     {
         "card_name": "Chime",
@@ -3427,7 +3427,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "3"
+        "position": "296"
     },
     {
         "card_name": "Darkinthrall",
@@ -3435,7 +3435,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "282"
+        "position": "364"
     },
     {
         "card_name": "Icathian Mirage",
@@ -3443,7 +3443,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "61"
+        "position": "329"
     },
     {
         "card_name": "The Light of Icathia",
@@ -3451,7 +3451,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "256"
+        "position": "358"
     },
     {
         "card_name": "Mysterious Portal",
@@ -3459,7 +3459,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "2"
+        "position": "295"
     },
     {
         "card_name": "Nagakabouros' Tentacle",
@@ -3467,7 +3467,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "53"
+        "position": "327"
     },
     {
         "card_name": "Tentacle Army",
@@ -3475,7 +3475,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "49"
+        "position": "328"
     },
     {
         "card_name": "Treasure of the Sands",
@@ -3483,7 +3483,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "295"
+        "position": "367"
     },
     {
         "card_name": "The Darkin Bow",
@@ -3491,7 +3491,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "259"
+        "position": "361"
     },
     {
         "card_name": "Rhaast's Scythe",
@@ -3499,7 +3499,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "245"
+        "position": "352"
     },
     {
         "card_name": "Shadow Scythe",
@@ -3507,7 +3507,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "244"
+        "position": "351"
     },
     {
         "card_name": "The Darkin Blade",
@@ -3515,7 +3515,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "13"
+        "position": "297"
     },
     {
         "card_name": "World Ender",
@@ -3523,7 +3523,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "15"
+        "position": "300"
     },
     {
         "card_name": "Delve Into The Past",
@@ -3531,7 +3531,7 @@
         "shape": "token",
         "set": "LORT-WW",
         "rotated": false,
-        "position": "253"
+        "position": "355"
     },
     {
         "card_name": "er"

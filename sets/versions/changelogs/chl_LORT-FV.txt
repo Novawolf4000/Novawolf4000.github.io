@@ -1,4 +1,393 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Skip, King of the Reef
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When Skip enters, target opponent reveals their hand to you. You choose a nonland nonlegendary creature card from it. Exile that card. Return that card from exile to its owners hand when Skip leaves the battlefield. => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When Skip enters, target opponent reveals their hand to you. Choose a nonland nonlegendary creature card from it, exile that card. Return that card from exile to its owners hand when Skip leaves the battlefield.
+
+Portia the Peculiar
+
+Bursting Backpack
+
+Portal Pioneer
+rules_text: Attune {C} [i](When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)[/i]
+When Portal Pioneer enters, you may choose one —
+• {U}{GW}: Destroy target equipment.
+• {U}{GW}: Destroy target landmark.
+• {U}{GW}: Target creature an opponent controls loses all abilities until the end of your next turn.
+• {U}{GW}: Remove all damage from target creature you control. You gain 2 life. => Attune {C} [i](When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)[/i]
+When Portal Pioneer enters, you may choose one —
+• You may pay {U}{GW}, if you do, destroy target equipment.
+• You may pay {U}{GW}, if you do, destroy target landmark.
+• You may pay {U}{GW}, if you do, target creature an opponent controls loses all abilities until the end of your next turn.
+• You may pay {U}{GW}, if you do, remove all damage from target creature you control. You gain 2 life.
+
+Sugary Snare
+
+Early Bird
+
+Sneaky Swap
+
+Formless Blade
+
+Wizened Helmsman
+rules_text: When Wizened Helmsman enters, reveal cards from the top of your library until you reveal six instant and/or sorcery cards, exile two. For as long as it remains exiled, cards exiled this way has “You may cast this card from exile without paying its mana cost”. Then shuffle all other revealed cards into your library. => When Wizened Helmsman enters, reveal cards from the top of your library until you reveal six instant and/or sorcery cards, exile two, then shuffle all other revealed cards into your library. For as long as it remains exiled, cards exiled this way has “You may cast this card from exile without paying its mana cost”.
+
+Ashlesh's Deluge
+
+The Tidedancer
+rules_text: When The Tidedancer enters, search your library and/or graveyard for a card named Nilah, reveal it, and put it into your hand. If you search your library this way, shuffle.
+The first time each turn you cast your third spell, each creature you control gets +2/+0 and brash until end of turn. [i](Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)[/i] => When The Tidedancer enters, search your library and/or graveyard for a card named Nilah, reveal it, and put it into your hand. If you search your library this way, shuffle.
+Whenever you cast your third spell each turn, each creature you control gets +2/+0 and brash until end of turn. [i](Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)[/i]
+
+Vikrash the Exuberant
+rules_text: Skulk, Attune {C} [i](This creature can't be blocked by creatures with greater power. When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)[/i]
+When Vikrash enters, exile the top two cards of your library. You may play cards exiled this way this turn. => Skulk, Attune {C} [i](This creature can't be blocked by creatures with greater power. When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)[/i]
+When Vikrash enters, exile the top two cards of your library. You may cast them this turn.
+
+Master Lookout
+rules_text: The first time you draw your third card on the same turn while Master Lookout is on the battlefield, put a +1/+1 counter and a brash counter on Master Lookout. [i](Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)[/i] => Whenever you draw your third card each turn, put a +1/+1 counter and a brash counter on Master Lookout. [i](Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)[/i]
+
+Dedicant of the Challenge
+rules_text: When Dedicant of the Challenge enters, put a +1/+1 counter on Dedicant of the Challenge for each card in your hand, then shuffle your hand into your library and draw two cards. => When Dedicant of the Challenge enters, put a number of +1/+1 counters on Dedicant of the Challenge for each card in your hand, then shuffle your hand into your library and draw two cards.
+
+Octo Adventurer
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When Octo Adventurer enters, you may choose one —
+• {UR}{BR}: Destroy target equipment.
+• {UR}{BR}: Destroy target landmark.
+• {UR}{BR}: Target creature an opponent controls loses all abilities until the end of your next turn.
+• {UR}{BR}: Remove all damage from target creature you control. You gain 2 life. => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When Octo Adventurer enters, you may choose one —
+• You may pay {UR}{BR}, if you do, destroy target equipment.
+• You may pay {UR}{BR}, if you do, destroy target landmark.
+• You may pay {UR}{BR}, if you do, target creature an opponent controls loses all abilities until the end of your next turn.
+• You may pay {UR}{BR}, if you do, remove all damage from target creature you control. You gain 2 life.
+
+Sefirsa, Scourge of the Deep
+rules_text: Deep [i](If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i]
+Whenever you cast a creature card, reveal cards from the top of your library until you reveal a card with mana value X where X is that creatures mana value. Exile it. Until the end of turn, you may cast this card from exile without paying its mana cost. Then shuffle all other revealed cards into your library. => Deep [i](If your library has one third or fewer cards remaining, rounded down, you get The Abyssal Blessing for the rest of the game. Deep creatures you control get +3/+3 if you have The Abyssal Blessing.)[/i]
+Whenever you cast a creature from your hand, reveal cards from the top of your library until you reveal a card with mana value X where X is that creatures mana value, exile it, then shuffle all other revealed cards into your library. Until the end of turn, you may cast the card exiled this way from exile without paying its mana cost.
+
+Joy Unending
+
+Marai Reef Spire
+
+Honest Croupier
+
+Chakram Dancer
+
+Scholarly Pioneer
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+When Scholarly Pioneer enters, you may choose one —
+• {G}{W}: Destroy target equipment.
+• {G}{W}: Destroy target landmark.
+• {G}{W}: Target creature an opponent controls loses all abilities until the end of your next turn.
+• {G}{W}: Remove all damage from target creature you control. You gain 2 life. => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+When Scholarly Pioneer enters, you may choose one —
+• You may pay {G}{W}, if you do, destroy target equipment.
+• You may pay {G}{W}, if you do, destroy target landmark.
+• You may pay {G}{W}, if you do, target creature an opponent controls loses all abilities until the end of your next turn.
+• You may pay {G}{W}, if you do, remove all damage from target creature you control. You gain 2 life.
+
+Gentlemen's Duel
+
+Dragon Allegiant
+rules_text: When Dragon Allegiant enters, you may behold a dragon, if you do, reveal cards from the top of your library until you reveal a dragon creature, add it to your hand, then shuffle all other revealed cards into your library. [i](To behold a dragon, if you do, reveal cards from the top of your library until you reveal a dragon creature, add it to your hand, then shuffle all other revealed cards into your library, choose a dragon, if you do, reveal cards from the top of your library until you reveal a dragon creature, add it to your hand, then shuffle all other revealed cards into your library you control or reveal a dragon, if you do, reveal cards from the top of your library until you reveal a dragon creature, add it to your hand, then shuffle all other revealed cards into your library card from your hand.)[/i] => When Dragon Allegiant enters, you may behold a dragon, if you do, reveal cards from the top of your library until you reveal a dragon creature, add it to your hand, then shuffle all other revealed cards into your library. [i](To behold a dragon, choose a dragon you control or reveal a dragon card from your hand.)[/i]
+
+Mageseeker Inquisitor
+
+Magical Fettering
+
+The Kingfisher
+
+Cloud Drake
+
+Alatis the Gallant
+rules_text: Fury [i](Whenever a creature dealt damage by Alatis this turn dies, put a +1/+1 counter on Alatis.)[/i]
+Whenever you cast a dragon boon instant card, copy it targeting each dragon creature you control. => Fury [i](Whenever a creature dealt damage by Alatis this turn dies, put a +1/+1 counter on Alatis.)[/i]
+Whenever you cast a dragon boon instant, copy it targeting each dragon creature you control.
+
+Taloned Strike
+
+Valhir's Prophet
+
+Berserker Ursine
+
+Stormbringer
+
+Flamecaller Caprine
+rules_text: Absorb 1 [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i]
+Whenever you cast an instant or sorcery, or whenever you activate a creature ability you control, forge and equipment attached to Flamecaller Caprine. [i](Target equipment gets “Equipped creature has +1/+1”.)[/i] => Absorb 1 [i](If a source would deal damage to this creature, prevent 1 of that damage.)[/i]
+Whenever you cast an instant or sorcery, or whenever you activate a creature ability you control, put a forge counter on an equipment attached to Flamecaller Caprine. [i](Each forge counter on an Equipment grants +1/+1 to equipped creature.)[/i]
+
+Invocation Of Thunder
+
+Rhond, the Magma Serpent
+
+Clash of Giants
+rules_text: Clash of Giants costs {1} less to cast for each titanic creature you control, and for each titanic creature in your graveyard. [i](A creature with power or toughness 8 or greater is titanic.)[/i]
+Reveal cards from the top of your library until you reveal two titanic creatures, put them onto the battlefield, then shuffle the rest into your library. => Clash of Giants costs {1} less to cast for each titanic creature you control, and for each titanic creature in your graveyard. [i](A creature with power or toughness 8 or greater is titanic.)[/i]
+Reveal cards from the top of your library until you reveal two titanic creatures, put them onto the battlefield, then shuffle all other revealed cards into your library.
+
+Sky Splitter
+
+Yadulski Snowdog
+
+Handy Harness
+rules_text: Equipped creature has +1/+0 for each unique creature type among creatures you control.
+Equip {G} => Equipped creature has +1/+0 for each creature type among creatures you control.
+Equip {G}
+
+Boadir of Blackened Ice
+
+Bladebound Berserker
+
+Conjured Capsizing
+
+Ocean Drake
+
+Heisho, Shell of the World
+
+Trusty Adnere
+
+Empyrean Dance
+
+Prancing Sea Spirits
+
+Mihira, Aspect Ascendant
+
+Black Shield
+
+Veiled Protector
+
+Lisa and Dolly
+
+Dark Binding
+
+Ruby-Eyed Conjurer
+pt: 2 => 2/2
+
+Seismic Shard
+
+Herald of Celestial Convergence
+
+Gentle Gemdragon
+
+Ottrani Dragon-Worshiper
+
+Sinner's Vise
+
+Chained Caster
+rules_text: When Chained Caster enters, create a Curse of Shackles token attached to Chained Caster. => This creature is white and blue.
+When Chained Caster enters, create a Curse of Shackles token attached to Chained Caster.
+
+Enraged Firespitter
+
+Lord Mallat
+rules_text: Lord Mallat enters with a deathless counter. [i](When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner's control with a stun counter on it.)[/i] => If Lord Mallat was cast, it enters with a deathless counter. [i](When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner's control with a stun counter on it.)[/i]
+
+Annie's Wildfire
+
+Armed Acquisitioner
+rules_text: When Armed Acquisitioner enters, you may choose one —
+• {R}{UB}: Destroy target equipment.
+• {R}{UB}: Destroy target landmark.
+• {R}{UB}: Target creature an opponent controls loses all abilities until the end of your next turn.
+• {R}{UB}: Remove all damage from target creature you control. You gain 2 life. => When Armed Acquisitioner enters, you may choose one —
+• You may pay {R}{UB}, if you do, destroy target equipment.
+• You may pay {R}{UB}, if you do, destroy target landmark.
+• You may pay {R}{UB}, if you do, target creature an opponent controls loses all abilities until the end of your next turn.
+• You may pay {R}{UB}, if you do, remove all damage from target creature you control. You gain 2 life.
+
+Headmistress Telsi
+
+Red-Barbed Razormace
+
+Iron Legionary
+
+Bladepierced Revenant
+rules_text: Bladepierced Revenant enters with a deathless counter. [i](When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner's control with a stun counter on it.)[/i]
+Whenever a creature you control is returned from the graveyard to the battlefield, put a challenger counter on it. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i] => If Bladepierced Revenant was cast, it enters with a deathless counter. [i](When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner's control with a stun counter on it.)[/i]
+Whenever a creature you control returns from the graveyard to the battlefield, put a challenger counter on it. [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+
+Indestructible
+
+Kashuri Swipe
+
+Howling Gale
+rules_text: Howling Gale deals X+2 damage to target creature where X equals each other spell you have cast this turn. => Howling Gale deals X+2 damage to target creature where X is equal to the number of other spells you have cast this turn.
+
+Eye Of The Storm
+
+Iascylla, Figurehead of the Deep
+
+Galesong Flock
+
+Maryam, Temple Caretaker
+
+Sunken Temple
+
+Windborne Mariner
+
+Divine Whirlwind
+
+Exalted Cloudwinder
+
+Charlatan Fishmonger
+
+Prototype Porobot
+
+Galesong Call
+
+Chemtech Drake
+
+Shady Spectacles
+
+Mountainous Vigor
+
+Chemtech Blight
+
+Hextech Prowess
+
+Infernal Might
+
+Oceanic Will
+
+Cloudbringer's Grace
+
+Primordial Roar
+
+Dune Swallower
+
+General of the Dunes
+rules_text: [i]Daybreak[/i] – When General of the Dunes enters, if it was the first spell you cast this turn, put a vulnerable counter on a creature with the lowest power among creatures opponents control. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+Whenever you trigger a daybreak ability you control, put a vulnerable counter on a creature with the lowest power among creatures opponents control. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i] => [i]Daybreak[/i] – When General of the Dunes enters, if it was the first spell you cast this turn, put a vulnerable counter on a creature with the lowest power among creatures opponents control. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+Whenever you trigger a daybreak ability you control, put a vulnerable counter on a creature with the lowest power among creatures opponents control.
+
+Defenders of the Sun Disc
+rules_text: [i]Daybreak[/i] – When Defenders of the Sun Disc enters, search your library and for a card named Defenders of the Sun Disc, reveal it, and put it into your hand, then shuffle. => [i]Daybreak[/i] – When Defenders of the Sun Disc enters, if it was the first spell you cast this turn, search your library and for a card named Defenders of the Sun Disc, reveal it, and put it into your hand, then shuffle.
+
+Ancient Malediction
+
+Tomb-Raider Barbara
+
+Horned Swarmcaller
+rules_text: Fury [i](Whenever a creature dealt damage by Horned Swarmcaller this turn dies, put a +1/+1 counter on Horned Swarmcaller.)[/i]
+When Horned Swarmcaller enters, put a -1/-0 counter on up to two target creatures opponents control. Those creatures have no abilities. => Fury [i](Whenever a creature dealt damage by Horned Swarmcaller this turn dies, put a +1/+1 counter on Horned Swarmcaller.)[/i]
+When Horned Swarmcaller enters, put a -1/-0 counter on up to two target creatures opponents control. Those creatures loses all abilities.
+
+Shackled Ghasts
+rules_text: When Shackled Ghasts dies, if it would enter the graveyard, exile it instead. For as long as it remains exiled, it has “The next time a creature you control returns from the graveyard to the battlefield, return this creature from exile to the battlefield.” => When Shackled Ghasts dies, if it would enter the graveyard, exile it instead. For as long as it remains exiled, it has “Whenever a creature you control returns from the graveyard to the battlefield, return this creature from exile to the battlefield.”
+
+Realm of Death
+
+Legion of the Severed
+
+Amalgamation Of Vile Rites
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Amalgamation Of Vile Rites enters with a deathless counter. [i](When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner's control with a stun counter on it.)[/i]
+When Amalgamation Of Vile Rites dies, you gain 2 life. => As an additional cost to cast this spell, sacrifice a creature.
+If Amalgamation Of Vile Rites was cast, it enters with a deathless counter. [i](When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner's control with a stun counter on it.)[/i]
+When Amalgamation Of Vile Rites dies, you gain 2 life.
+
+Spectral Surveyor
+rules_text: Lifelink
+When Spectral Surveyor enters, you may choose one —
+• {B}{WU}: Destroy target equipment.
+• {B}{WU}: Destroy target landmark.
+• {B}{WU}: Target creature an opponent controls loses all abilities until the end of your next turn.
+• {B}{WU}: Remove all damage from target creature you control. You gain 2 life. => Lifelink
+When Spectral Surveyor enters, you may choose one —
+• You may pay {B}{WU}, if you do, destroy target equipment.
+• You may pay {B}{WU}, if you do, destroy target landmark.
+• You may pay {B}{WU}, if you do, target creature an opponent controls loses all abilities until the end of your next turn.
+• You may pay {B}{WU}, if you do, remove all damage from target creature you control. You gain 2 life.
+
+Lonely Chimeslime
+
+Deathgrasp Cultist
+
+Watery Grave
+
+Threshold of the Grey
+
+Spectral Ironhound
+
+Erastin, the Disgraced
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+Erastin enters with a deathless counter. [i](When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner's control with a stun counter on it.)[/i]
+Whenever Erastin attacks, creatures opponents control get -1/-0 until the beginning of your next upkeep. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+If Erastin was cast, it enters with a deathless counter. [i](When this creature dies, if it had one or more deathless counters on it, return it to the battlefield under its owner's control with a stun counter on it.)[/i]
+Whenever Erastin attacks, creatures opponents control get -1/-0 until the beginning of your next upkeep.
+
+Death's Grasp
+
+Nilah
+rules_text: Brash [i](Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)[/i]
+Whenever Nilah attacks, exile the top two cards of your library. You may play cards exiled this way this turn.
+Whenever you draw a card, put a Joy counter on Nilah. At the end of any phase on your turn, if Nilah has fifteen or more Joy counters, remove all Joy counters from Nilah, then transform her.
+Partner [i](You can have two commanders if both have partner.)[/i] => Brash [i](Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)[/i]
+Whenever Nilah attacks, exile the top two cards of your library. You may cast them this turn.
+Whenever you draw a card, put a Joy counter on Nilah. At the end of any phase on your turn, if Nilah has fifteen or more Joy counters, remove all Joy counters from Nilah, then transform her.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Curse of Suppression
+
+Curse of Ichor
+
+Curse of Terror
+
+Curse of Shackles
+
+Volibear, The Thunder's Roar
+rules_text: When Volibear enters, Volibear deals 4 damage to a random creature an opponent controls, or 2 damage to a random opponent if there are no creatures opponents control. Repeat this process twice.
+Whenever a source you control deals damage, put that many Valhir counters on Volibear. At the end of any phase on your turn, if Volibear has fifty or more Valhir counters, remove all Valhir counters from Volibear, then transform him.
+Partner [i](You can have two commanders if both have partner.)[/i] => Whenever Volibear enters, Volibear deals 4 damage to a random creature an opponent controls. If there are no creatures under opponents control, Volibear deals 2 damage to a random opponent instead. Repeat this process twice.
+Whenever a source you control deals damage, put that many Valhir counters on Volibear. At the end of any phase on your turn, if Volibear has fifty or more Valhir counters, remove all Valhir counters from Volibear, then transform him.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Sigil of the Storm
+rules_text: Titanic creature spells you control costs {1} less to cast. When you cast a titanic creature spell, sacrifice Sigil of the Storm. [i](A creature with power or toughness 8 or greater is titanic.)[/i] => Titanic creatures you control costs {1} less to cast. When you cast a titanic creature spell, sacrifice Sigil of the Storm. [i](A creature with power or toughness 8 or greater is titanic.)[/i]
+
+Adnere's Aviarists
+
+Morgana, The Veiled Lady
+
+Janna, Blue Bird of the Sea
+rules_text: When Janna enters, shuffle two cards from your hand into your library. At the beginning of your next upkeep, draw two cards.
+The first time each turn, if you would draw your third card, exile it instead. For as long as it remains exiled, it has “You may cast this card from exile and it costs {1} less to cast”.
+Whenever you cast a spell with a reduced mana cost, put a Wind counter on Janna. At the end of any phase on your turn, if Janna has eight or more Wind counters, remove all Wind counters from Janna, then transform her.
+Partner [i](You can have two commanders if both have partner.)[/i] => When Janna enters, shuffle two cards from your hand into your library. At the beginning of your next upkeep, draw two cards.
+Each turn, if you would draw your third card, exile it instead. For as long as it remains exiled, it has “You may cast this card from exile, it costs {1} less to cast”.
+Whenever you cast a spell with a reduced mana cost, put a Wind counter on Janna. At the end of any phase on your turn, if Janna has eight or more Wind counters, remove all Wind counters from Janna, then transform her.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Galesong Swallow
+
+Elder Dragon
+type: Legendary Creature — Dragon Elder => Legendary Creature — Elder Dragon
+
+Thousand-Clawed Deathwinder
+
+Mordekaiser, The Iron Revenant
+rules_text: Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+When Mordekaiser enters, sacrifice two creatures you control.
+Whenever a source you control destroys a creature you control, return that creature from the graveyard to the battlefield. Then put a Revenant counter on Mordekaiser. If the destroyed creature had power 5 or greater, put two Revenant counters on Mordekaiser instead.
+At the end of any phase on your turn, if Mordekaiser has fifteen or more Revenant counters, remove all Revenant counters from Mordekaiser, then transform him.
+Partner [i](You can have two commanders if both have partner.)[/i] => Challenger [i](Whenever this creature attacks, you may have target creature defending player controls untap and block this creature, even if they can't block this creature.)[/i]
+When Mordekaiser enters, destroy two other creatures you control.
+Whenever a source you control destroys a creature you control, return that creature from the graveyard to the battlefield. Then put a Revenant counter on Mordekaiser. If the destroyed creature had power 5 or greater, put two Revenant counters on Mordekaiser instead.
+At the end of any phase on your turn, if Mordekaiser has fifteen or more Revenant counters, remove all Revenant counters from Mordekaiser, then transform him.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Emblem
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

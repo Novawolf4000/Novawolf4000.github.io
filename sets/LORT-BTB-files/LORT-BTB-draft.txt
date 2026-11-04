@@ -1,0 +1,3645 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "We Stand Together",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/0.png"
+			}
+		},
+		{
+			"name": "Camphor, the Doubt",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Demon",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/1.png"
+			}
+		},
+		{
+			"name": "Saga Seeker",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/2.png"
+			}
+		},
+		{
+			"name": "Wounded Whiteflame",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/3.png"
+			}
+		},
+		{
+			"name": "Shield Vault",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/U}",
+			"type": "Instant",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/4.png"
+			}
+		},
+		{
+			"name": "Battle Bonds",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/5.png"
+			}
+		},
+		{
+			"name": "Blinded Mystic",
+			"rarity": "common",
+			"mana_cost": "{W}{W}{U}{U}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/6.png"
+			}
+		},
+		{
+			"name": "Against the Odds",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/7.png"
+			}
+		},
+		{
+			"name": "Freed Colossus",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/8.png"
+			}
+		},
+		{
+			"name": "Iula, The Scorned",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/9.png"
+			}
+		},
+		{
+			"name": "Celestial Wonder",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/10.png"
+			}
+		},
+		{
+			"name": "Waste Walker",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact Creature — Construct Wizard",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/11.png"
+			}
+		},
+		{
+			"name": "Obelisk of Power",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/12.png"
+			}
+		},
+		{
+			"name": "Unleashed Energy",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/13.png"
+			}
+		},
+		{
+			"name": "Rite of the Arcane",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/14.png"
+			}
+		},
+		{
+			"name": "Risen Altar",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/15.png"
+			}
+		},
+		{
+			"name": "Sandseer",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Artifact Creature — Construct Wizard",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/16.png"
+			}
+		},
+		{
+			"name": "Ruinous Acolyte",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/17.png"
+			}
+		},
+		{
+			"name": "Herald of the Magus",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U/B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/18.png"
+			}
+		},
+		{
+			"name": "Servitude of Desolation",
+			"rarity": "rare",
+			"mana_cost": "{3}{U/B}{U/B}{U/B}",
+			"type": "Instant",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/19.png"
+			}
+		},
+		{
+			"name": "Construct of Desolation",
+			"rarity": "common",
+			"mana_cost": "{U/B}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/20.png"
+			}
+		},
+		{
+			"name": "Desert Duel",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/21.png"
+			}
+		},
+		{
+			"name": "Piercing Darkness",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/22.png"
+			}
+		},
+		{
+			"name": "Watcher on the Isles",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/23.png"
+			}
+		},
+		{
+			"name": "Ixtali Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/24.png"
+			}
+		},
+		{
+			"name": "Dess and Ada",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/25.png"
+			}
+		},
+		{
+			"name": "Burgeoning Sentinel",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/26.png"
+			}
+		},
+		{
+			"name": "Solari Sentinel",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Mystic Warrior",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/27.png"
+			}
+		},
+		{
+			"name": "Mistkeepers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/28.png"
+			}
+		},
+		{
+			"name": "Catalogue of Regrets",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/29.png"
+			}
+		},
+		{
+			"name": "Buhru Sentinel",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/30.png"
+			}
+		},
+		{
+			"name": "Dawning Shadow",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/31.png"
+			}
+		},
+		{
+			"name": "Insider Knowledge",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/32.png"
+			}
+		},
+		{
+			"name": "Officer Squad",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/33.png"
+			}
+		},
+		{
+			"name": "Station Archivist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/34.png"
+			}
+		},
+		{
+			"name": "Coup de Grace",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/35.png"
+			}
+		},
+		{
+			"name": "Sump Fumes",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Instant",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/36.png"
+			}
+		},
+		{
+			"name": "Most Wanted",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/37.png"
+			}
+		},
+		{
+			"name": "Enforcers Ambush",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/38.png"
+			}
+		},
+		{
+			"name": "The Forge Of Tomorrow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/39.png"
+			}
+		},
+		{
+			"name": "Ferros Financier",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/40.png"
+			}
+		},
+		{
+			"name": "Forge Chief",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/41.png"
+			}
+		},
+		{
+			"name": "Assembly Line",
+			"rarity": "common",
+			"mana_cost": "{U/R}{U/R}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/42.png"
+			}
+		},
+		{
+			"name": "Shock Blast",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/43.png"
+			}
+		},
+		{
+			"name": "Ferros Skycruiser",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Artifact Creature — Thopter",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/44.png"
+			}
+		},
+		{
+			"name": "Hextech Handler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/45.png"
+			}
+		},
+		{
+			"name": "Hextech Anomaly",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Artifact",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/46.png"
+			}
+		},
+		{
+			"name": "Albus Ferros",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{R}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/47.png"
+			}
+		},
+		{
+			"name": "Stinky Whump",
+			"rarity": "uncommon",
+			"mana_cost": "{U/R}",
+			"type": "Creature — Raccoon Rat",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/48.png"
+			}
+		},
+		{
+			"name": "Rocket Barrage",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/49.png"
+			}
+		},
+		{
+			"name": "Sting Officer",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Creature — Human Detective",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/50.png"
+			}
+		},
+		{
+			"name": "Advanced Intel",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/51.png"
+			}
+		},
+		{
+			"name": "Piltover Peacemaker",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/52.png"
+			}
+		},
+		{
+			"name": "Corina, Mastermind",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{R}",
+			"type": "Creature — Human Artificer Villain",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/53.png"
+			}
+		},
+		{
+			"name": "Justice Rider",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Detective",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/54.png"
+			}
+		},
+		{
+			"name": "Noble Rebel",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Zombie Berserker",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/55.png"
+			}
+		},
+		{
+			"name": "Salt And Stitches",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/56.png"
+			}
+		},
+		{
+			"name": "Grave Physician",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/57.png"
+			}
+		},
+		{
+			"name": "Ancient Warmonger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Creature — Zombie Berserker",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/58.png"
+			}
+		},
+		{
+			"name": "Reborn Grenadier",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Zombie Berserker",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/59.png"
+			}
+		},
+		{
+			"name": "Lost Soul",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Zombie Berserker",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/60.png"
+			}
+		},
+		{
+			"name": "Roar of the Slayer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/61.png"
+			}
+		},
+		{
+			"name": "Fallen Rider",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Zombie Basilisk Berserker",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/62.png"
+			}
+		},
+		{
+			"name": "Weapons of the Lost",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/63.png"
+			}
+		},
+		{
+			"name": "Fallen Reckoner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Zombie Minotaur Berserker",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/64.png"
+			}
+		},
+		{
+			"name": "The Lady of Blood",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Soldier Noble",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/65.png"
+			}
+		},
+		{
+			"name": "For Glory!",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/66.png"
+			}
+		},
+		{
+			"name": "Memory's Cloak",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/67.png"
+			}
+		},
+		{
+			"name": "Pathless Ancient",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Vastayan Monkey Monk",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/68.png"
+			}
+		},
+		{
+			"name": "Sai'nen, Thousand-Tailed",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Creature — Fox Spirit Avatar",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/69.png"
+			}
+		},
+		{
+			"name": "Windsinger",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Vastayan Bird Mystic",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/70.png"
+			}
+		},
+		{
+			"name": "God-Willow Seedling",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/71.png"
+			}
+		},
+		{
+			"name": "Charm",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/72.png"
+			}
+		},
+		{
+			"name": "Children of the Forest",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/73.png"
+			}
+		},
+		{
+			"name": "Tail-Cloak Matriarch",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Vastayan Fox Mystic",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/74.png"
+			}
+		},
+		{
+			"name": "The Mourned",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Elk Centaur",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/75.png"
+			}
+		},
+		{
+			"name": "Vulpine Wanderer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/76.png"
+			}
+		},
+		{
+			"name": "Bone Scryer",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Human Nomad Shaman",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/77.png"
+			}
+		},
+		{
+			"name": "Tusk Speaker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Nomad Shaman",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/78.png"
+			}
+		},
+		{
+			"name": "Hyara Allseer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Nomad Shaman",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/79.png"
+			}
+		},
+		{
+			"name": "Wrath of the Freljord",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Legendary Creature — Boar Spirit Incarnation",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/80.png"
+			}
+		},
+		{
+			"name": "Spirits Unleashed",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/81.png"
+			}
+		},
+		{
+			"name": "Shaman's Call",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/82.png"
+			}
+		},
+		{
+			"name": "Inner Beast",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/83.png"
+			}
+		},
+		{
+			"name": "Gorlith the Unscalable",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}{W}{W}",
+			"type": "Legendary Artifact Creature — Giant Construct",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/84.png"
+			}
+		},
+		{
+			"name": "Durand Sculptor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/85.png"
+			}
+		},
+		{
+			"name": "Petricite Broadwing",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Artifact Creature — Giant Bird Construct",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/86.png"
+			}
+		},
+		{
+			"name": "Durand Protege",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/87.png"
+			}
+		},
+		{
+			"name": "Mountain Drake",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Elemental Dragon",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/88.png"
+			}
+		},
+		{
+			"name": "Winds of War",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/89.png"
+			}
+		},
+		{
+			"name": "Petricite Hound",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Dog Construct",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/90.png"
+			}
+		},
+		{
+			"name": "Shield of Durand",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/91.png"
+			}
+		},
+		{
+			"name": "Durand Architect",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/92.png"
+			}
+		},
+		{
+			"name": "Petricite Stag",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact Creature — Giant Construct",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/93.png"
+			}
+		},
+		{
+			"name": "Marai Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/R}",
+			"type": "Creature — Vastayan Soldier",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/94.png"
+			}
+		},
+		{
+			"name": "Journeying Sandhopper",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Vastayan Soldier",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/95.png"
+			}
+		},
+		{
+			"name": "Colossal Wave",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/96.png"
+			}
+		},
+		{
+			"name": "Avatar of the Tides",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Whale Incarnation",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/97.png"
+			}
+		},
+		{
+			"name": "Ebb and Flow",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/98.png"
+			}
+		},
+		{
+			"name": "Abyssal Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Vastayan Soldier",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/99.png"
+			}
+		},
+		{
+			"name": "Marai Greatmother",
+			"rarity": "common",
+			"mana_cost": "{B}{B}{R}{R}",
+			"type": "Creature — Vastayan Spellshaper",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/100.png"
+			}
+		},
+		{
+			"name": "Fleet Admiral Shelly",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Turtle Lizard Soldier",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/101.png"
+			}
+		},
+		{
+			"name": "Marai Songstress",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Vastayan Spellshaper",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/102.png"
+			}
+		},
+		{
+			"name": "Minimorph",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/103.png"
+			}
+		},
+		{
+			"name": "Kelp Maidens",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/W}",
+			"type": "Creature — Plant Fish",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/104.png"
+			}
+		},
+		{
+			"name": "Otterpus",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Creature — Otter Fish",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/105.png"
+			}
+		},
+		{
+			"name": "Stone Stackers",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Creature — Yordle",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/106.png"
+			}
+		},
+		{
+			"name": "Shark Trainer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B/R}{G}{W}",
+			"type": "Creature — Yordle",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/107.png"
+			}
+		},
+		{
+			"name": "Tricksy Tentacles",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/108.png"
+			}
+		},
+		{
+			"name": "Pompous Cavalier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Yordle Soldier",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/109.png"
+			}
+		},
+		{
+			"name": "Rainbowfish",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment Creature — Faerie Fish",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/110.png"
+			}
+		},
+		{
+			"name": "Assistant Librarian",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Yordle",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/111.png"
+			}
+		},
+		{
+			"name": "Bouncing Bomb",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/112.png"
+			}
+		},
+		{
+			"name": "Hidden Pathways",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/113.png"
+			}
+		},
+		{
+			"name": "Gleaming Lantern",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Faerie",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/114.png"
+			}
+		},
+		{
+			"name": "Gruff Grenadier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Yordle Soldier",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/115.png"
+			}
+		},
+		{
+			"name": "Hexplosive Minefield",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/116.png"
+			}
+		},
+		{
+			"name": "Trinket Trade",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/117.png"
+			}
+		},
+		{
+			"name": "Purpleberry Shake",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/118.png"
+			}
+		},
+		{
+			"name": "Conchologist",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Yordle Scientist",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/119.png"
+			}
+		},
+		{
+			"name": "Benemone",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Plant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/120.png"
+			}
+		},
+		{
+			"name": "Quick Quill",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Enchantment Creature — Faerie Construct",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/121.png"
+			}
+		},
+		{
+			"name": "Electro Harpoon",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/122.png"
+			}
+		},
+		{
+			"name": "Treasured Trash",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/123.png"
+			}
+		},
+		{
+			"name": "Gust Monk",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{G/W}",
+			"type": "Creature — Yordle Monk",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/124.png"
+			}
+		},
+		{
+			"name": "Tornado Warrior",
+			"rarity": "common",
+			"mana_cost": "{U}{G/W}",
+			"type": "Creature — Yordle Ninja",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/125.png"
+			}
+		},
+		{
+			"name": "Lecturing Yordle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Yordle Scout",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/126.png"
+			}
+		},
+		{
+			"name": "Ava Achiever",
+			"rarity": "rare",
+			"mana_cost": "{3}{G/W}{G/W}",
+			"type": "Creature — Yordle Scout",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/127.png"
+			}
+		},
+		{
+			"name": "The Arsenal",
+			"rarity": "rare",
+			"mana_cost": "{6}{G/W}{G/W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/128.png"
+			}
+		},
+		{
+			"name": "Inventive Chemist",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/129.png"
+			}
+		},
+		{
+			"name": "Junkyard Squeaker",
+			"rarity": "common",
+			"mana_cost": "{R}{G/W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/130.png"
+			}
+		},
+		{
+			"name": "Bilgerat Rascal",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/131.png"
+			}
+		},
+		{
+			"name": "Arena Promoter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/132.png"
+			}
+		},
+		{
+			"name": "Masa, Crashing Thunder",
+			"rarity": "common",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Yordle Ninja",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/133.png"
+			}
+		},
+		{
+			"name": "Stilted Robemaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Creature — Yordle Warlock",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/134.png"
+			}
+		},
+		{
+			"name": "Darkbulb Acolyte",
+			"rarity": "common",
+			"mana_cost": "{B}{G/W}",
+			"type": "Creature — Yordle Warlock",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/135.png"
+			}
+		},
+		{
+			"name": "Twisted Catalyzer",
+			"rarity": "common",
+			"mana_cost": "{B}{G/W}",
+			"type": "Creature — Yordle Warlock",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/136.png"
+			}
+		},
+		{
+			"name": "Tenor of Terror",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Creature — Yordle Warlock",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/137.png"
+			}
+		},
+		{
+			"name": "Wizened Wizard",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G/W}",
+			"type": "Creature — Yordle Wizard",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/138.png"
+			}
+		},
+		{
+			"name": "Minion",
+			"rarity": "common",
+			"mana_cost": "{B}{G/W}",
+			"type": "Creature — Homunculus Warlock",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/139.png"
+			}
+		},
+		{
+			"name": "Mirror Mage",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Creature — Yordle Wizard",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/140.png"
+			}
+		},
+		{
+			"name": "Swole Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Yordle Scout",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/141.png"
+			}
+		},
+		{
+			"name": "Puffcap Pup",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Dog Scout",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/142.png"
+			}
+		},
+		{
+			"name": "Primal Strength",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/143.png"
+			}
+		},
+		{
+			"name": "Bandle Gunners",
+			"rarity": "uncommon",
+			"mana_cost": "{8}{G}{W}",
+			"type": "Creature — Yordle Soldier",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/144.png"
+			}
+		},
+		{
+			"name": "Grumbleslug",
+			"rarity": "common",
+			"mana_cost": "{B/R}{G/W}",
+			"type": "Creature — Slug",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/145.png"
+			}
+		},
+		{
+			"name": "Yordle Explorer",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Yordle Scout",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/146.png"
+			}
+		},
+		{
+			"name": "Scholarly Climber",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature — Yordle Scout",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/147.png"
+			}
+		},
+		{
+			"name": "Yordles in Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/148.png"
+			}
+		},
+		{
+			"name": "Blastcone Seedling",
+			"rarity": "common",
+			"mana_cost": "{U}{G/W}",
+			"type": "Creature — Faerie",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/149.png"
+			}
+		},
+		{
+			"name": "Bandle City Mayor",
+			"rarity": "rare",
+			"mana_cost": "{W}{G}{G/W}",
+			"type": "Creature — Yordle Noble",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/150.png"
+			}
+		},
+		{
+			"name": "Yordle Captain",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Yordle Soldier",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/151.png"
+			}
+		},
+		{
+			"name": "Yordle Newbie",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Creature — Yordle Soldier",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/152.png"
+			}
+		},
+		{
+			"name": "Rissu, The Silent Storm",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Yordle Monk",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/153.png"
+			}
+		},
+		{
+			"name": "Arena Kingpin",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G/W}",
+			"type": "Creature — Yordle Rogue",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/154.png"
+			}
+		},
+		{
+			"name": "Hothead",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}{G/W}",
+			"type": "Creature — Yordle Artificer Warrior",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/155.png"
+			}
+		},
+		{
+			"name": "Buster Shot",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/156.png"
+			}
+		},
+		{
+			"name": "Junkyard",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/157.png"
+			}
+		},
+		{
+			"name": "Fix-Em-Uppers",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Squirrel Artificer",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/158.png"
+			}
+		},
+		{
+			"name": "Poro Sled",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}{W}",
+			"type": "Creature — Poro",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/159.png"
+			}
+		},
+		{
+			"name": "Heroic Refrain",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/160.png"
+			}
+		},
+		{
+			"name": "Yordle Squire",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Creature — Yordle Soldier",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/161.png"
+			}
+		},
+		{
+			"name": "Bandle Painter",
+			"rarity": "common",
+			"mana_cost": "{U/R}{U/R}{G/W}",
+			"type": "Creature — Yordle Citizen",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/162.png"
+			}
+		},
+		{
+			"name": "Furious Faefolk",
+			"rarity": "common",
+			"mana_cost": "{4}{U/R}{G/W}",
+			"type": "Creature — Faerie",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/163.png"
+			}
+		},
+		{
+			"name": "Aloof Travelers",
+			"rarity": "common",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Creature — Yordle Citizen",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/164.png"
+			}
+		},
+		{
+			"name": "Ember Monk",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Yordle Monk",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/165.png"
+			}
+		},
+		{
+			"name": "Proto Poro",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Creature — Poro Beast",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/166.png"
+			}
+		},
+		{
+			"name": "Chief Nakotak",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Yordle Beast Mystic",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/167.png"
+			}
+		},
+		{
+			"name": "Poison Dart",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/168.png"
+			}
+		},
+		{
+			"name": "Pokey Stick",
+			"rarity": "common",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Instant",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/169.png"
+			}
+		},
+		{
+			"name": "Bandle Commando",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Yordle Soldier",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/170.png"
+			}
+		},
+		{
+			"name": "Friendship!",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/171.png"
+			}
+		},
+		{
+			"name": "Prowling Projectile",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Instant",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/172.png"
+			}
+		},
+		{
+			"name": "Papercraft Dragon",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Enchantment Creature — Faerie Dragon",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/173.png"
+			}
+		},
+		{
+			"name": "Yordle Ranger",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}{W}",
+			"type": "Creature — Yordle",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/174.png"
+			}
+		},
+		{
+			"name": "Ninjas Quickness",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Instant",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/175.png"
+			}
+		},
+		{
+			"name": "Cloud Stance",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/176.png"
+			}
+		},
+		{
+			"name": "Lightning Rush",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}{W/U}",
+			"type": "Instant",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/177.png"
+			}
+		},
+		{
+			"name": "Grandfather Fae",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{G/W}",
+			"type": "Creature — Faerie Fungus",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/178.png"
+			}
+		},
+		{
+			"name": "Babbling Balladeers",
+			"rarity": "common",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Yordle Citizen",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/179.png"
+			}
+		},
+		{
+			"name": "Shell Game",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/180.png"
+			}
+		},
+		{
+			"name": "Curious Shellfolk",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{2/G}{G/W}{G/W}",
+			"type": "Creature — Plant Fish",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/181.png"
+			}
+		},
+		{
+			"name": "Loping Telescope",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Artifact Creature — Faerie",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/182.png"
+			}
+		},
+		{
+			"name": "Arena Mechacaster",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/183.png"
+			}
+		},
+		{
+			"name": "Keeper's Verdict",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/184.png"
+			}
+		},
+		{
+			"name": "Bomber Twins",
+			"rarity": "common",
+			"mana_cost": "{U/B}{G/W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/185.png"
+			}
+		},
+		{
+			"name": "The Bandle Tree",
+			"rarity": "rare",
+			"mana_cost": "{W}{G}{G/W}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/186.png"
+			}
+		},
+		{
+			"name": "Group Shot",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/187.png"
+			}
+		},
+		{
+			"name": "Yordle Portal",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/188.png"
+			}
+		},
+		{
+			"name": "Event Horizon",
+			"rarity": "common",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/189.png"
+			}
+		},
+		{
+			"name": "Heroic Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/190.png"
+			}
+		},
+		{
+			"name": "Stress Defense",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Instant",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/191.png"
+			}
+		},
+		{
+			"name": "Flamespitter",
+			"rarity": "common",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/192.png"
+			}
+		},
+		{
+			"name": "Safety Inspector",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G/W}{U/B}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/193.png"
+			}
+		},
+		{
+			"name": "Gnar's Wallop",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/194.png"
+			}
+		},
+		{
+			"name": "Mega Inferno Bomb",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/W}{U/B}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/195.png"
+			}
+		},
+		{
+			"name": "Yordle Contraption",
+			"rarity": "common",
+			"mana_cost": "{3}{G/W}",
+			"type": "Instant",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/196.png"
+			}
+		},
+		{
+			"name": "Fae Sprout",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/197.png"
+			}
+		},
+		{
+			"name": "Fae Aid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/198.png"
+			}
+		},
+		{
+			"name": "Mushroom Ring",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Faerie Fungus",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/199.png"
+			}
+		},
+		{
+			"name": "Entrapment",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/200.png"
+			}
+		},
+		{
+			"name": "Ninjas Transposition",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/201.png"
+			}
+		},
+		{
+			"name": "Spirit Portal",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/202.png"
+			}
+		},
+		{
+			"name": "Yordle Smith",
+			"rarity": "common",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Creature — Yordle Citizen",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/203.png"
+			}
+		},
+		{
+			"name": "Lil Dipper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/204.png"
+			}
+		},
+		{
+			"name": "Smash & Dash",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{G}{G/W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/205.png"
+			}
+		},
+		{
+			"name": "Bouncer & Bolt",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/206.png"
+			}
+		},
+		{
+			"name": "Yordle Earthshaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/207.png"
+			}
+		},
+		{
+			"name": "Trumpetecher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}{W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/208.png"
+			}
+		},
+		{
+			"name": "Shadowtech Walker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/209.png"
+			}
+		},
+		{
+			"name": "Furyhorn Crasher",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/210.png"
+			}
+		},
+		{
+			"name": "Geode Mechaforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{G/W}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/211.png"
+			}
+		},
+		{
+			"name": "Professor Von Mech",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/212.png"
+			}
+		},
+		{
+			"name": "Salty Spinner",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/213.png"
+			}
+		},
+		{
+			"name": "Dunehopper Mech",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G/W}{U/B}",
+			"type": "Creature — Yordle Artificer",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/214.png"
+			}
+		},
+		{
+			"name": "Double Tap",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/215.png"
+			}
+		},
+		{
+			"name": "Savannah",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/216.png"
+			}
+		},
+		{
+			"name": "Temple Garden",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/217.png"
+			}
+		},
+		{
+			"name": "Sungrass Prairie",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/218.png"
+			}
+		},
+		{
+			"name": "Selesnya Sanctuary",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/219.png"
+			}
+		},
+		{
+			"name": "Might of the Vanguard",
+			"rarity": "rare",
+			"mana_cost": "{X}{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/220.png"
+			}
+		},
+		{
+			"name": "Pantheon, The Spear of Targon",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Avatar Warrior",
+			"collector_number": "124",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/221_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/221_front.png"
+			}
+		},
+		{
+			"name": "Endless Devout",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact Creature — Construct Serf",
+			"collector_number": "85",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/223_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/223_front.png"
+			}
+		},
+		{
+			"name": "Xerath, Archmage",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Artifact Creature — Construct Wizard Demigod",
+			"collector_number": "160",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/225_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/225_front.png"
+			}
+		},
+		{
+			"name": "Forge Worker",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Token Creature — Human",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/227.png"
+			}
+		},
+		{
+			"name": "Flashbomb",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Token Artifact — Flashbomb",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/228.png"
+			}
+		},
+		{
+			"name": "Caitlyn, Piltover's Finest",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "75",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/229_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/229_front.png"
+			}
+		},
+		{
+			"name": "Jayce Talis",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "106",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/231_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/231_front.png"
+			}
+		},
+		{
+			"name": "Acceleration Gate",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Token Legendary Artifact — Construct",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/233.png"
+			}
+		},
+		{
+			"name": "Sion, Resurrected",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Legendary Creature — Zombie Berserker",
+			"collector_number": "45",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/234_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/234_front.png"
+			}
+		},
+		{
+			"name": "Sion Returned",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Token Creature — Zombie Berserker",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/236.png"
+			}
+		},
+		{
+			"name": "Twinblade Revenant",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Token Creature — Zombie Berserker",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/237.png"
+			}
+		},
+		{
+			"name": "Risen Rider",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Token Creature — Zombie Basilisk Berserker",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/238.png"
+			}
+		},
+		{
+			"name": "Risen Reckoner",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Token Creature — Zombie Minotaur Berserker",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/239.png"
+			}
+		},
+		{
+			"name": "Liminal Guardian",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Vastayan Cat Monk",
+			"collector_number": "17",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/240_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/240_front.png"
+			}
+		},
+		{
+			"name": "Ahri, The Nine-Tailed Fox",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Vastayan Fox Mystic",
+			"collector_number": "13",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/242_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/242_front.png"
+			}
+		},
+		{
+			"name": "Murkwolf Shaman",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "51",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/244_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/244_front.png"
+			}
+		},
+		{
+			"name": "Mammoth Shaman",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "50",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/246_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/246_front.png"
+			}
+		},
+		{
+			"name": "Udyr, Monk",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Human Nomad Druid",
+			"collector_number": "55",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/248_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/248_front.png"
+			}
+		},
+		{
+			"name": "Galio, The Colossus",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Artifact Creature — Giant Construct",
+			"collector_number": "4",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/250_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/250_front.png"
+			}
+		},
+		{
+			"name": "Nami",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Vastayan Spellshaper",
+			"collector_number": "121",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/252_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/252_front.png"
+			}
+		},
+		{
+			"name": "Short Tooth",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Token Creature — Shark",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/254.png"
+			}
+		},
+		{
+			"name": "Teenydactyl",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Beast Bird",
+			"collector_number": "149",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/255_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/255_front.png"
+			}
+		},
+		{
+			"name": "Bitsy Lizard",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Creature — Beast Lizard",
+			"collector_number": "175",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/257_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/257_front.png"
+			}
+		},
+		{
+			"name": "Minitee",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{W}",
+			"type": "Creature — Beast Seal",
+			"collector_number": "117",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/259_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/259_front.png"
+			}
+		},
+		{
+			"name": "Yuumi, Norra's Familiar",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Enchantment Creature — Cat Faerie",
+			"collector_number": "166",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/261_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/261_front.png"
+			}
+		},
+		{
+			"name": "Poppy, Keeper of the Hammer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{W}",
+			"type": "Legendary Creature — Yordle Warrior",
+			"collector_number": "128",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/263_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/263_front.png"
+			}
+		},
+		{
+			"name": "Rumble, The Scrapheap King",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Yordle Artificer",
+			"collector_number": "137",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/265_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/265_front.png"
+			}
+		},
+		{
+			"name": "Master Kennen",
+			"rarity": "mythic",
+			"mana_cost": "{U}{G/W}",
+			"type": "Legendary Creature — Yordle Ninja",
+			"collector_number": "209",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/267_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/267_front.png"
+			}
+		},
+		{
+			"name": "Scrappy Bomb",
+			"rarity": "common",
+			"mana_cost": "{G}{W}{U}{B}",
+			"type": "Token Enchantment — Landmark",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/269.png"
+			}
+		},
+		{
+			"name": "Veigar, Master of Boleham Tower",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}{B}{G}",
+			"type": "Legendary Creature — Yordle Warlock",
+			"collector_number": "156",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/270_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/270_front.png"
+			}
+		},
+		{
+			"name": "Bass of Burden",
+			"rarity": "common",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Token Creature — Yordle Warlock",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/272.png"
+			}
+		},
+		{
+			"name": "Rissu's Stormcloud",
+			"rarity": "common",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Token Creature — Elemental",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/273.png"
+			}
+		},
+		{
+			"name": "Ziggs, The Hexplosives Expert",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}{B}",
+			"type": "Legendary Creature — Yordle Artificer",
+			"collector_number": "167",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/274_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/274_front.png"
+			}
+		},
+		{
+			"name": "Tristana",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Yordle Soldier",
+			"collector_number": "153",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/276_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/276_front.png"
+			}
+		},
+		{
+			"name": "Gnar, The Missing Link",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}{W}",
+			"type": "Legendary Creature — Yordle Beast",
+			"collector_number": "97",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/278_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/278_front.png"
+			}
+		},
+		{
+			"name": "Hungry Owlcat",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Token Creature — Faerie Bird Cat",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/280.png"
+			}
+		},
+		{
+			"name": "Spotted Toad",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Beast Frog",
+			"collector_number": "145",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/281_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/281_front.png"
+			}
+		},
+		{
+			"name": "Restored Devout",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Artifact Creature — Construct Serf",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/283.png"
+			}
+		},
+		{
+			"name": "Dami'yin the Unbound",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Token Creature — Construct Wizard",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/284.png"
+			}
+		},
+		{
+			"name": "Emblem",
+			"rarity": "common",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Emblem",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-BTB-files/img/285.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Camphor, the Doubt
+	2 Against the Odds
+	2 Risen Altar
+	2 Sandseer
+	2 Servitude of Desolation
+	2 Dess and Ada
+	2 Catalogue of Regrets
+	2 Most Wanted
+	2 Albus Ferros
+	2 Corina, Mastermind
+	2 Justice Rider
+	2 Lost Soul
+	2 The Lady of Blood
+	2 Sai'nen, Thousand-Tailed
+	2 Children of the Forest
+	2 Wrath of the Freljord
+	2 Gorlith the Unscalable
+	2 Mountain Drake
+	2 Petricite Stag
+	2 Avatar of the Tides
+	2 Fleet Admiral Shelly
+	2 Ava Achiever
+	2 The Arsenal
+	2 Mirror Mage
+	2 Bandle City Mayor
+	2 Rissu, The Silent Storm
+	2 Poro Sled
+	2 Papercraft Dragon
+	2 Yordle Ranger
+	2 Curious Shellfolk
+	2 Arena Mechacaster
+	2 The Bandle Tree
+	2 Yordle Earthshaker
+	2 Savannah
+	2 Temple Garden
+	2 Sungrass Prairie
+	2 Might of the Vanguard
+	1 Pantheon, The Spear of Targon
+	1 Xerath, Archmage
+	1 Caitlyn, Piltover's Finest
+	1 Jayce Talis
+	1 Sion, Resurrected
+	2 Liminal Guardian
+	1 Ahri, The Nine-Tailed Fox
+	1 Udyr, Monk
+	1 Galio, The Colossus
+	1 Nami
+	2 Minitee
+	1 Yuumi, Norra's Familiar
+	1 Poppy, Keeper of the Hammer
+	1 Rumble, The Scrapheap King
+	1 Master Kennen
+	1 Veigar, Master of Boleham Tower
+	1 Ziggs, The Hexplosives Expert
+	1 Tristana
+	1 Gnar, The Missing Link
+[uncommon(3)]
+	4 We Stand Together
+	4 Wounded Whiteflame
+	4 Shield Vault
+	4 Rite of the Arcane
+	4 Herald of the Magus
+	4 Watcher on the Isles
+	4 Ixtali Sentinel
+	4 Mistkeepers
+	4 Officer Squad
+	4 Station Archivist
+	4 Coup de Grace
+	4 The Forge Of Tomorrow
+	4 Shock Blast
+	4 Hextech Handler
+	4 Hextech Anomaly
+	4 Stinky Whump
+	4 Salt And Stitches
+	4 Ancient Warmonger
+	4 Fallen Reckoner
+	4 For Glory!
+	4 God-Willow Seedling
+	4 Tail-Cloak Matriarch
+	4 The Mourned
+	4 Hyara Allseer
+	4 Spirits Unleashed
+	4 Petricite Broadwing
+	4 Winds of War
+	4 Shield of Durand
+	4 Durand Architect
+	4 Marai Warden
+	4 Colossal Wave
+	4 Marai Songstress
+	4 Minimorph
+	4 Kelp Maidens
+	4 Shark Trainer
+	4 Pompous Cavalier
+	4 Gleaming Lantern
+	4 Gruff Grenadier
+	4 Conchologist
+	4 Electro Harpoon
+	4 Treasured Trash
+	4 Gust Monk
+	4 Lecturing Yordle
+	4 Bilgerat Rascal
+	4 Stilted Robemaker
+	4 Tenor of Terror
+	4 Swole Scout
+	4 Bandle Gunners
+	4 Yordles in Arms
+	4 Ember Monk
+	4 Chief Nakotak
+	4 Friendship!
+	4 Grandfather Fae
+	4 Shell Game
+	4 Loping Telescope
+	4 Keeper's Verdict
+	4 Heroic Charge
+	4 Safety Inspector
+	4 Mega Inferno Bomb
+	4 Fae Sprout
+	4 Fae Aid
+	4 Mushroom Ring
+	4 Entrapment
+	4 Ninjas Transposition
+	4 Lil Dipper
+	4 Smash & Dash
+	4 Bouncer & Bolt
+	4 Trumpetecher
+	4 Shadowtech Walker
+	4 Furyhorn Crasher
+	4 Geode Mechaforcer
+	4 Professor Von Mech
+	4 Salty Spinner
+	4 Dunehopper Mech
+	4 Selesnya Sanctuary
+	4 Endless Devout
+	4 Mammoth Shaman
+	4 Spotted Toad
+[common(6)]
+	8 Saga Seeker
+	8 Battle Bonds
+	8 Blinded Mystic
+	8 Freed Colossus
+	8 Iula, The Scorned
+	8 Celestial Wonder
+	8 Waste Walker
+	8 Obelisk of Power
+	8 Unleashed Energy
+	8 Ruinous Acolyte
+	8 Construct of Desolation
+	8 Desert Duel
+	8 Piercing Darkness
+	8 Burgeoning Sentinel
+	8 Solari Sentinel
+	8 Buhru Sentinel
+	8 Dawning Shadow
+	8 Insider Knowledge
+	8 Sump Fumes
+	8 Enforcers Ambush
+	8 Ferros Financier
+	8 Forge Chief
+	8 Assembly Line
+	8 Ferros Skycruiser
+	8 Rocket Barrage
+	8 Sting Officer
+	8 Advanced Intel
+	8 Piltover Peacemaker
+	8 Noble Rebel
+	8 Grave Physician
+	8 Reborn Grenadier
+	8 Roar of the Slayer
+	8 Fallen Rider
+	8 Weapons of the Lost
+	8 Memory's Cloak
+	8 Pathless Ancient
+	8 Windsinger
+	8 Charm
+	8 Vulpine Wanderer
+	8 Bone Scryer
+	8 Tusk Speaker
+	8 Shaman's Call
+	8 Inner Beast
+	8 Durand Sculptor
+	8 Durand Protege
+	8 Petricite Hound
+	8 Journeying Sandhopper
+	8 Ebb and Flow
+	8 Abyssal Guard
+	8 Marai Greatmother
+	8 Otterpus
+	8 Stone Stackers
+	8 Tricksy Tentacles
+	8 Rainbowfish
+	8 Assistant Librarian
+	8 Bouncing Bomb
+	8 Hidden Pathways
+	8 Hexplosive Minefield
+	8 Trinket Trade
+	8 Purpleberry Shake
+	8 Benemone
+	8 Quick Quill
+	8 Tornado Warrior
+	8 Inventive Chemist
+	8 Junkyard Squeaker
+	8 Arena Promoter
+	8 Masa, Crashing Thunder
+	8 Darkbulb Acolyte
+	8 Twisted Catalyzer
+	8 Wizened Wizard
+	8 Minion
+	8 Puffcap Pup
+	8 Primal Strength
+	8 Grumbleslug
+	8 Yordle Explorer
+	8 Scholarly Climber
+	8 Blastcone Seedling
+	8 Yordle Captain
+	8 Yordle Newbie
+	8 Arena Kingpin
+	8 Hothead
+	8 Buster Shot
+	8 Junkyard
+	8 Fix-Em-Uppers
+	8 Heroic Refrain
+	8 Yordle Squire
+	8 Bandle Painter
+	8 Furious Faefolk
+	8 Aloof Travelers
+	8 Proto Poro
+	8 Poison Dart
+	8 Pokey Stick
+	8 Bandle Commando
+	8 Prowling Projectile
+	8 Ninjas Quickness
+	8 Cloud Stance
+	8 Lightning Rush
+	8 Babbling Balladeers
+	8 Bomber Twins
+	8 Group Shot
+	8 Yordle Portal
+	8 Event Horizon
+	8 Stress Defense
+	8 Flamespitter
+	8 Gnar's Wallop
+	8 Yordle Contraption
+	8 Spirit Portal
+	8 Yordle Smith
+	8 Double Tap
+	8 Murkwolf Shaman
+	8 Teenydactyl
+	8 Bitsy Lizard
+[common | masterpiece(1)]
+	8 Saga Seeker
+	8 Battle Bonds
+	8 Blinded Mystic
+	8 Freed Colossus
+	8 Iula, The Scorned
+	8 Celestial Wonder
+	8 Waste Walker
+	8 Obelisk of Power
+	8 Unleashed Energy
+	8 Ruinous Acolyte
+	8 Construct of Desolation
+	8 Desert Duel
+	8 Piercing Darkness
+	8 Burgeoning Sentinel
+	8 Solari Sentinel
+	8 Buhru Sentinel
+	8 Dawning Shadow
+	8 Insider Knowledge
+	8 Sump Fumes
+	8 Enforcers Ambush
+	8 Ferros Financier
+	8 Forge Chief
+	8 Assembly Line
+	8 Ferros Skycruiser
+	8 Rocket Barrage
+	8 Sting Officer
+	8 Advanced Intel
+	8 Piltover Peacemaker
+	8 Noble Rebel
+	8 Grave Physician
+	8 Reborn Grenadier
+	8 Roar of the Slayer
+	8 Fallen Rider
+	8 Weapons of the Lost
+	8 Memory's Cloak
+	8 Pathless Ancient
+	8 Windsinger
+	8 Charm
+	8 Vulpine Wanderer
+	8 Bone Scryer
+	8 Tusk Speaker
+	8 Shaman's Call
+	8 Inner Beast
+	8 Durand Sculptor
+	8 Durand Protege
+	8 Petricite Hound
+	8 Journeying Sandhopper
+	8 Ebb and Flow
+	8 Abyssal Guard
+	8 Marai Greatmother
+	8 Otterpus
+	8 Stone Stackers
+	8 Tricksy Tentacles
+	8 Rainbowfish
+	8 Assistant Librarian
+	8 Bouncing Bomb
+	8 Hidden Pathways
+	8 Hexplosive Minefield
+	8 Trinket Trade
+	8 Purpleberry Shake
+	8 Benemone
+	8 Quick Quill
+	8 Tornado Warrior
+	8 Inventive Chemist
+	8 Junkyard Squeaker
+	8 Arena Promoter
+	8 Masa, Crashing Thunder
+	8 Darkbulb Acolyte
+	8 Twisted Catalyzer
+	8 Wizened Wizard
+	8 Minion
+	8 Puffcap Pup
+	8 Primal Strength
+	8 Grumbleslug
+	8 Yordle Explorer
+	8 Scholarly Climber
+	8 Blastcone Seedling
+	8 Yordle Captain
+	8 Yordle Newbie
+	8 Arena Kingpin
+	8 Hothead
+	8 Buster Shot
+	8 Junkyard
+	8 Fix-Em-Uppers
+	8 Heroic Refrain
+	8 Yordle Squire
+	8 Bandle Painter
+	8 Furious Faefolk
+	8 Aloof Travelers
+	8 Proto Poro
+	8 Poison Dart
+	8 Pokey Stick
+	8 Bandle Commando
+	8 Prowling Projectile
+	8 Ninjas Quickness
+	8 Cloud Stance
+	8 Lightning Rush
+	8 Babbling Balladeers
+	8 Bomber Twins
+	8 Group Shot
+	8 Yordle Portal
+	8 Event Horizon
+	8 Stress Defense
+	8 Flamespitter
+	8 Gnar's Wallop
+	8 Yordle Contraption
+	8 Spirit Portal
+	8 Yordle Smith
+	8 Double Tap
+	8 Murkwolf Shaman
+	8 Teenydactyl
+	8 Bitsy Lizard
+[foil(1)]
+	6 We Stand Together
+	2 Camphor, the Doubt
+	12 Saga Seeker
+	6 Wounded Whiteflame
+	6 Shield Vault
+	12 Battle Bonds
+	12 Blinded Mystic
+	2 Against the Odds
+	12 Freed Colossus
+	12 Iula, The Scorned
+	12 Celestial Wonder
+	12 Waste Walker
+	12 Obelisk of Power
+	12 Unleashed Energy
+	6 Rite of the Arcane
+	2 Risen Altar
+	2 Sandseer
+	12 Ruinous Acolyte
+	6 Herald of the Magus
+	2 Servitude of Desolation
+	12 Construct of Desolation
+	12 Desert Duel
+	12 Piercing Darkness
+	6 Watcher on the Isles
+	6 Ixtali Sentinel
+	2 Dess and Ada
+	12 Burgeoning Sentinel
+	12 Solari Sentinel
+	6 Mistkeepers
+	2 Catalogue of Regrets
+	12 Buhru Sentinel
+	12 Dawning Shadow
+	12 Insider Knowledge
+	6 Officer Squad
+	6 Station Archivist
+	6 Coup de Grace
+	12 Sump Fumes
+	2 Most Wanted
+	12 Enforcers Ambush
+	6 The Forge Of Tomorrow
+	12 Ferros Financier
+	12 Forge Chief
+	12 Assembly Line
+	6 Shock Blast
+	12 Ferros Skycruiser
+	6 Hextech Handler
+	6 Hextech Anomaly
+	2 Albus Ferros
+	6 Stinky Whump
+	12 Rocket Barrage
+	12 Sting Officer
+	12 Advanced Intel
+	12 Piltover Peacemaker
+	2 Corina, Mastermind
+	2 Justice Rider
+	12 Noble Rebel
+	6 Salt And Stitches
+	12 Grave Physician
+	6 Ancient Warmonger
+	12 Reborn Grenadier
+	2 Lost Soul
+	12 Roar of the Slayer
+	12 Fallen Rider
+	12 Weapons of the Lost
+	6 Fallen Reckoner
+	2 The Lady of Blood
+	6 For Glory!
+	12 Memory's Cloak
+	12 Pathless Ancient
+	2 Sai'nen, Thousand-Tailed
+	12 Windsinger
+	6 God-Willow Seedling
+	12 Charm
+	2 Children of the Forest
+	6 Tail-Cloak Matriarch
+	6 The Mourned
+	12 Vulpine Wanderer
+	12 Bone Scryer
+	12 Tusk Speaker
+	6 Hyara Allseer
+	2 Wrath of the Freljord
+	6 Spirits Unleashed
+	12 Shaman's Call
+	12 Inner Beast
+	2 Gorlith the Unscalable
+	12 Durand Sculptor
+	6 Petricite Broadwing
+	12 Durand Protege
+	2 Mountain Drake
+	6 Winds of War
+	12 Petricite Hound
+	6 Shield of Durand
+	6 Durand Architect
+	2 Petricite Stag
+	6 Marai Warden
+	12 Journeying Sandhopper
+	6 Colossal Wave
+	2 Avatar of the Tides
+	12 Ebb and Flow
+	12 Abyssal Guard
+	12 Marai Greatmother
+	2 Fleet Admiral Shelly
+	6 Marai Songstress
+	6 Minimorph
+	6 Kelp Maidens
+	12 Otterpus
+	12 Stone Stackers
+	6 Shark Trainer
+	12 Tricksy Tentacles
+	6 Pompous Cavalier
+	12 Rainbowfish
+	12 Assistant Librarian
+	12 Bouncing Bomb
+	12 Hidden Pathways
+	6 Gleaming Lantern
+	6 Gruff Grenadier
+	12 Hexplosive Minefield
+	12 Trinket Trade
+	12 Purpleberry Shake
+	6 Conchologist
+	12 Benemone
+	12 Quick Quill
+	6 Electro Harpoon
+	6 Treasured Trash
+	6 Gust Monk
+	12 Tornado Warrior
+	6 Lecturing Yordle
+	2 Ava Achiever
+	2 The Arsenal
+	12 Inventive Chemist
+	12 Junkyard Squeaker
+	6 Bilgerat Rascal
+	12 Arena Promoter
+	12 Masa, Crashing Thunder
+	6 Stilted Robemaker
+	12 Darkbulb Acolyte
+	12 Twisted Catalyzer
+	6 Tenor of Terror
+	12 Wizened Wizard
+	12 Minion
+	2 Mirror Mage
+	6 Swole Scout
+	12 Puffcap Pup
+	12 Primal Strength
+	6 Bandle Gunners
+	12 Grumbleslug
+	12 Yordle Explorer
+	12 Scholarly Climber
+	6 Yordles in Arms
+	12 Blastcone Seedling
+	2 Bandle City Mayor
+	12 Yordle Captain
+	12 Yordle Newbie
+	2 Rissu, The Silent Storm
+	12 Arena Kingpin
+	12 Hothead
+	12 Buster Shot
+	12 Junkyard
+	12 Fix-Em-Uppers
+	2 Poro Sled
+	12 Heroic Refrain
+	12 Yordle Squire
+	12 Bandle Painter
+	12 Furious Faefolk
+	12 Aloof Travelers
+	6 Ember Monk
+	12 Proto Poro
+	6 Chief Nakotak
+	12 Poison Dart
+	12 Pokey Stick
+	12 Bandle Commando
+	6 Friendship!
+	12 Prowling Projectile
+	2 Papercraft Dragon
+	2 Yordle Ranger
+	12 Ninjas Quickness
+	12 Cloud Stance
+	12 Lightning Rush
+	6 Grandfather Fae
+	12 Babbling Balladeers
+	6 Shell Game
+	2 Curious Shellfolk
+	6 Loping Telescope
+	2 Arena Mechacaster
+	6 Keeper's Verdict
+	12 Bomber Twins
+	2 The Bandle Tree
+	12 Group Shot
+	12 Yordle Portal
+	12 Event Horizon
+	6 Heroic Charge
+	12 Stress Defense
+	12 Flamespitter
+	6 Safety Inspector
+	12 Gnar's Wallop
+	6 Mega Inferno Bomb
+	12 Yordle Contraption
+	6 Fae Sprout
+	6 Fae Aid
+	6 Mushroom Ring
+	6 Entrapment
+	6 Ninjas Transposition
+	12 Spirit Portal
+	12 Yordle Smith
+	6 Lil Dipper
+	6 Smash & Dash
+	6 Bouncer & Bolt
+	2 Yordle Earthshaker
+	6 Trumpetecher
+	6 Shadowtech Walker
+	6 Furyhorn Crasher
+	6 Geode Mechaforcer
+	6 Professor Von Mech
+	6 Salty Spinner
+	6 Dunehopper Mech
+	12 Double Tap
+	2 Savannah
+	2 Temple Garden
+	2 Sungrass Prairie
+	6 Selesnya Sanctuary
+	2 Might of the Vanguard
+	1 Pantheon, The Spear of Targon
+	6 Endless Devout
+	1 Xerath, Archmage
+	1 Caitlyn, Piltover's Finest
+	1 Jayce Talis
+	1 Sion, Resurrected
+	2 Liminal Guardian
+	1 Ahri, The Nine-Tailed Fox
+	12 Murkwolf Shaman
+	6 Mammoth Shaman
+	1 Udyr, Monk
+	1 Galio, The Colossus
+	1 Nami
+	12 Teenydactyl
+	12 Bitsy Lizard
+	2 Minitee
+	1 Yuumi, Norra's Familiar
+	1 Poppy, Keeper of the Hammer
+	1 Rumble, The Scrapheap King
+	1 Master Kennen
+	1 Veigar, Master of Boleham Tower
+	1 Ziggs, The Hexplosives Expert
+	1 Tristana
+	1 Gnar, The Missing Link
+	6 Spotted Toad
+[wildcard(1)]
+	15 We Stand Together
+	7 Camphor, the Doubt
+	6 Saga Seeker
+	15 Wounded Whiteflame
+	15 Shield Vault
+	6 Battle Bonds
+	6 Blinded Mystic
+	7 Against the Odds
+	6 Freed Colossus
+	6 Iula, The Scorned
+	6 Celestial Wonder
+	6 Waste Walker
+	6 Obelisk of Power
+	6 Unleashed Energy
+	15 Rite of the Arcane
+	7 Risen Altar
+	7 Sandseer
+	6 Ruinous Acolyte
+	15 Herald of the Magus
+	7 Servitude of Desolation
+	6 Construct of Desolation
+	6 Desert Duel
+	6 Piercing Darkness
+	15 Watcher on the Isles
+	15 Ixtali Sentinel
+	7 Dess and Ada
+	6 Burgeoning Sentinel
+	6 Solari Sentinel
+	15 Mistkeepers
+	7 Catalogue of Regrets
+	6 Buhru Sentinel
+	6 Dawning Shadow
+	6 Insider Knowledge
+	15 Officer Squad
+	15 Station Archivist
+	15 Coup de Grace
+	6 Sump Fumes
+	7 Most Wanted
+	6 Enforcers Ambush
+	15 The Forge Of Tomorrow
+	6 Ferros Financier
+	6 Forge Chief
+	6 Assembly Line
+	15 Shock Blast
+	6 Ferros Skycruiser
+	15 Hextech Handler
+	15 Hextech Anomaly
+	7 Albus Ferros
+	15 Stinky Whump
+	6 Rocket Barrage
+	6 Sting Officer
+	6 Advanced Intel
+	6 Piltover Peacemaker
+	7 Corina, Mastermind
+	7 Justice Rider
+	6 Noble Rebel
+	15 Salt And Stitches
+	6 Grave Physician
+	15 Ancient Warmonger
+	6 Reborn Grenadier
+	7 Lost Soul
+	6 Roar of the Slayer
+	6 Fallen Rider
+	6 Weapons of the Lost
+	15 Fallen Reckoner
+	7 The Lady of Blood
+	15 For Glory!
+	6 Memory's Cloak
+	6 Pathless Ancient
+	7 Sai'nen, Thousand-Tailed
+	6 Windsinger
+	15 God-Willow Seedling
+	6 Charm
+	7 Children of the Forest
+	15 Tail-Cloak Matriarch
+	15 The Mourned
+	6 Vulpine Wanderer
+	6 Bone Scryer
+	6 Tusk Speaker
+	15 Hyara Allseer
+	7 Wrath of the Freljord
+	15 Spirits Unleashed
+	6 Shaman's Call
+	6 Inner Beast
+	7 Gorlith the Unscalable
+	6 Durand Sculptor
+	15 Petricite Broadwing
+	6 Durand Protege
+	7 Mountain Drake
+	15 Winds of War
+	6 Petricite Hound
+	15 Shield of Durand
+	15 Durand Architect
+	7 Petricite Stag
+	15 Marai Warden
+	6 Journeying Sandhopper
+	15 Colossal Wave
+	7 Avatar of the Tides
+	6 Ebb and Flow
+	6 Abyssal Guard
+	6 Marai Greatmother
+	7 Fleet Admiral Shelly
+	15 Marai Songstress
+	15 Minimorph
+	15 Kelp Maidens
+	6 Otterpus
+	6 Stone Stackers
+	15 Shark Trainer
+	6 Tricksy Tentacles
+	15 Pompous Cavalier
+	6 Rainbowfish
+	6 Assistant Librarian
+	6 Bouncing Bomb
+	6 Hidden Pathways
+	15 Gleaming Lantern
+	15 Gruff Grenadier
+	6 Hexplosive Minefield
+	6 Trinket Trade
+	6 Purpleberry Shake
+	15 Conchologist
+	6 Benemone
+	6 Quick Quill
+	15 Electro Harpoon
+	15 Treasured Trash
+	15 Gust Monk
+	6 Tornado Warrior
+	15 Lecturing Yordle
+	7 Ava Achiever
+	7 The Arsenal
+	6 Inventive Chemist
+	6 Junkyard Squeaker
+	15 Bilgerat Rascal
+	6 Arena Promoter
+	6 Masa, Crashing Thunder
+	15 Stilted Robemaker
+	6 Darkbulb Acolyte
+	6 Twisted Catalyzer
+	15 Tenor of Terror
+	6 Wizened Wizard
+	6 Minion
+	7 Mirror Mage
+	15 Swole Scout
+	6 Puffcap Pup
+	6 Primal Strength
+	15 Bandle Gunners
+	6 Grumbleslug
+	6 Yordle Explorer
+	6 Scholarly Climber
+	15 Yordles in Arms
+	6 Blastcone Seedling
+	7 Bandle City Mayor
+	6 Yordle Captain
+	6 Yordle Newbie
+	7 Rissu, The Silent Storm
+	6 Arena Kingpin
+	6 Hothead
+	6 Buster Shot
+	6 Junkyard
+	6 Fix-Em-Uppers
+	7 Poro Sled
+	6 Heroic Refrain
+	6 Yordle Squire
+	6 Bandle Painter
+	6 Furious Faefolk
+	6 Aloof Travelers
+	15 Ember Monk
+	6 Proto Poro
+	15 Chief Nakotak
+	6 Poison Dart
+	6 Pokey Stick
+	6 Bandle Commando
+	15 Friendship!
+	6 Prowling Projectile
+	7 Papercraft Dragon
+	7 Yordle Ranger
+	6 Ninjas Quickness
+	6 Cloud Stance
+	6 Lightning Rush
+	15 Grandfather Fae
+	6 Babbling Balladeers
+	15 Shell Game
+	7 Curious Shellfolk
+	15 Loping Telescope
+	7 Arena Mechacaster
+	15 Keeper's Verdict
+	6 Bomber Twins
+	7 The Bandle Tree
+	6 Group Shot
+	6 Yordle Portal
+	6 Event Horizon
+	15 Heroic Charge
+	6 Stress Defense
+	6 Flamespitter
+	15 Safety Inspector
+	6 Gnar's Wallop
+	15 Mega Inferno Bomb
+	6 Yordle Contraption
+	15 Fae Sprout
+	15 Fae Aid
+	15 Mushroom Ring
+	15 Entrapment
+	15 Ninjas Transposition
+	6 Spirit Portal
+	6 Yordle Smith
+	15 Lil Dipper
+	15 Smash & Dash
+	15 Bouncer & Bolt
+	7 Yordle Earthshaker
+	15 Trumpetecher
+	15 Shadowtech Walker
+	15 Furyhorn Crasher
+	15 Geode Mechaforcer
+	15 Professor Von Mech
+	15 Salty Spinner
+	15 Dunehopper Mech
+	6 Double Tap
+	7 Savannah
+	7 Temple Garden
+	7 Sungrass Prairie
+	15 Selesnya Sanctuary
+	7 Might of the Vanguard
+	4 Pantheon, The Spear of Targon
+	15 Endless Devout
+	4 Xerath, Archmage
+	4 Caitlyn, Piltover's Finest
+	4 Jayce Talis
+	4 Sion, Resurrected
+	7 Liminal Guardian
+	4 Ahri, The Nine-Tailed Fox
+	6 Murkwolf Shaman
+	15 Mammoth Shaman
+	4 Udyr, Monk
+	4 Galio, The Colossus
+	4 Nami
+	6 Teenydactyl
+	6 Bitsy Lizard
+	7 Minitee
+	4 Yuumi, Norra's Familiar
+	4 Poppy, Keeper of the Hammer
+	4 Rumble, The Scrapheap King
+	4 Master Kennen
+	4 Veigar, Master of Boleham Tower
+	4 Ziggs, The Hexplosives Expert
+	4 Tristana
+	4 Gnar, The Missing Link
+	15 Spotted Toad

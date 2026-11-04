@@ -1,4 +1,266 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Ferocious Fluffs
+rules_text: Afflict 1 [i](Whenever this creature becomes blocked, defending player loses 1 life.)[/i]
+Ferocious Fluffs enters with a number of additional +1/+1 counters and afflict 1 counters for each other creature you control for each creature type that creature has. => Afflict 1 [i](Whenever this creature becomes blocked, defending player loses 1 life.)[/i]
+When Ferocious Fluffs enters, put a number of +1/+1 counters and afflict 1 counters on each other creature you control for each creature type that creature has.
+
+Father Fury
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+[i]Plunder[/i] — If an opponent was dealt damage this turn, when Father Fury enters, reveal cards from the top of your library until you reveal an instant or sorcery with mana value 1 or less, add it to your hand, add one mana of any type, then shuffle all other revealed cards into your library. => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+[i]Plunder[/i] — If an opponent was dealt damage this turn, when Father Fury enters, reveal cards from the top of your library until you reveal an instant or sorcery with mana value 1 or less, add it to your hand and add one mana of any type, then shuffle all other revealed cards into your library.
+
+The King's Court
+rules_text: Attune {C} [i](When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)[/i]
+Brash [i](Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)[/i]
+When The King's Court enters, search your library and/or graveyard for a card named Jack, Crime Boss, reveal it, and put it into your hand. If you search your library this way, shuffle.
+Whenever a creature you control enters, you may pay {BR}, if you do, that creature and target creature an opponent controls fight. If the creature you control wins the fight, put a brash counter on it. [i](Each deals damage equal to its power to the other.)[/i] => Attune {C} [i](When this creature enters, add {C}. This mana can only be used to cast instants and sorceries.)[/i]
+Brash [i](Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)[/i]
+When The King's Court enters, search your library and/or graveyard for a card named Jack, Crime Boss, reveal it, and put it into your hand. If you search your library this way, shuffle.
+Whenever a creature you control enters, you may pay {BR}, if you do, that creature and target creature an opponent controls fight. If the creature you control wins the fight, put a brash counter on it.
+
+Perfidious Promoter
+rules_text: Whenever you tap one or more permanents for mana, reveal cards from the top of your library until you reveal a creature card with mana value X or less where X is equal to the amount of mana in your mana pool, add it to your hand, then shuffle all other revealed cards into your library. => Whenever you tap one or more nonland permanents for mana, reveal cards from the top of your library until you reveal a creature card with mana value X or less where X is equal to the amount of mana in your mana pool, add it to your hand, then shuffle all other revealed cards into your library.
+
+Siren Song
+rules_text: Reveal cards from the top of your library until you reveal a husk creature card, put it onto the battlefield, then put a +1/+1 counter on each creature you control with mana value 1, shuffle all other revealed cards into your library. => Reveal cards from the top of your library until you reveal a husk creature card, put it onto the battlefield and shuffle all other revealed cards into your library, then put a +1/+1 counter on each creature you control with mana value 1.
+
+Nukkle
+
+Deck Hunter
+
+Search Warrant
+
+Form Up!
+
+Altar to Unity
+
+Mageseeker Junior
+
+Scrutinizing Sergeant
+rules_text: When Scrutinizing Sergeant enters, reveal the top five cards of your library, you may choose a creature with mana value 3 or less from among them, if you do, put that creature onto the battlefield. Shuffle all other revealed cards into your library. => When Scrutinizing Sergeant enters, reveal the top five cards of your library, you may choose a creature with mana value 3 or less from among them, if you do, put that creature onto the battlefield, then shuffle all other revealed cards into your library.
+
+Crested Lionhawk
+
+Balen the Benevolent
+
+Thrall Bulwark
+
+Innovative Blacksmith
+rules_text: When Innovative Blacksmith enters, reveal cards from the top of your library until you reveal two equipment cards, choose one and put it onto the battlefield, attach it to Innovative Blacksmith, then shuffle all other revealed cards into your library.
+The first time each turn you trigger a forge ability you control or attach an equipment to a creature you control, you gain 1 life. [i](Target equipment gets “Equipped creature has +1/+1”.)[/i] => When Innovative Blacksmith enters, reveal cards from the top of your library until you reveal two equipment cards, choose one and put it onto the battlefield, attach it to Innovative Blacksmith, then shuffle all other revealed cards into your library.
+The first time each turn you trigger a forge ability you control or attach an equipment to a creature you control, you gain 1 life.
+
+Snowy Razorclaw
+
+Temple to True Ice
+
+Ingvar the Younger
+
+Glacial Saurian
+
+Crystalline Stormraptor
+
+Facebreaker
+
+Attentive Accountant
+
+Bout Security
+rules_text: When Bout Security enters, create an exiled copy of Bout Security. For as long as it remains exiled, it has “You may cast this card from exile”.
+When Bout Security enters, put a +1/+1 counter on each other creature you control named Bout Security.
+Empowered 5: First strike [i](While this creature has power 5 or greater, it has First strike.)[/i] => When Bout Security enters, create an exiled copy of Bout Security. For as long as it remains exiled, it has “You may cast this card from exile”.
+When Bout Security enters, put a +1/+1 counter on each other creature you control named Bout Security.
+Empowered 5: first strike [i](While this creature has power 5 or greater, it has first strike.)[/i]
+
+Pit Professional
+
+Master Bingwen, the Sieve
+
+Place Your Bets
+
+Smooth Mixologist
+
+The Old Timer
+
+Rejuvenating Breeze
+
+All-Seeing Oracle
+
+Royal Shimmerwing
+
+Beguiling Cobra
+
+Airis
+
+Falling Star
+
+Cosmic Youngling
+
+Star-Crossed Lovers
+
+Sacrificial Scholar
+
+Age of Dragons
+rules_text: Reveal the top nine cards from the top of your library, exile each dragon creature card from among them. Cards exiled this way have “You may cast this card from exile without paying its mana cost”. Shuffle all other revealed cards into your library. => Reveal the top nine cards from the top of your library, exile each dragon creature card from among them, then shuffle all other revealed cards into your library. Cards exiled this way have “You may cast this card from exile without paying its mana cost”.
+
+Daring Demolisher
+
+All Out
+
+Adroit Artificer
+
+Captain Indari
+rules_text: When Captain Indari enters, reveal cards from the top of your library until you reveal two equipment cards, choose one and put it onto the battlefield, attach it to Captain Indari, then shuffle all other revealed cards into your library.
+[i]Plunder[/i] — If an opponent was dealt damage this turn, when Captain Indari enters, forge each equipment you control. [i](Target equipment gets “Equipped creature has +1/+1”.)[/i] => When Captain Indari enters, reveal cards from the top of your library until you reveal two equipment cards, choose one and put it onto the battlefield, attach it to Captain Indari, then shuffle all other revealed cards into your library.
+[i]Plunder[/i] — If an opponent was dealt damage this turn, when Captain Indari enters, put a forge counter on each equipment you control. [i](Each forge counter on an Equipment grants +1/+1 to equipped creature.)[/i]
+
+Dashing Dandy
+
+Elegant Edge
+
+Stylish Shot
+
+Pirouette
+
+Dame the Despoiler
+
+Captain Kalrix
+
+Ravenborn Tome
+
+Bonehide Tri-tail
+
+Crimson Banquet Hall
+
+Blowback
+
+Augmented Clockling
+
+Sump Monument
+rules_text: Whenever you're dealt damage by sources controlled by opponents, create that many Puffcap tokens instead. => Whenever you're dealt damage by sources opponents control, create that many Puffcap tokens instead.
+
+Epic Scraptraption
+
+Flashbomb Peddler
+
+Chemtech Catermobile
+
+Anura & Froop
+rules_text: Creature spells you control that doesn't share a creature type withe other creatures you control costs {1} less to cast. => Creature spells you control that doesn't share a creature type with other creatures you control costs {1} less to cast.
+
+Divine Draft
+
+Proliferating Darkwraith
+
+Tufted Webspinner
+rules_text: Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Tufted Webspinner enters, if one or more creatures you control does not share a creature type with Tufted Webspinner, target creature opponent controls gets -2/-0 until end of turn. => Fearsome [i](Creatures with Fearsome cannot be blocked by creatures with power 2 or less.)[/i]
+When Tufted Webspinner enters, if one or more creatures you control doesn't share a creature type with Tufted Webspinner, target creature opponent controls gets -2/-0 until end of turn.
+
+Necrotic Arachnoid
+
+Grave Companion
+
+Sacred Shears
+
+Soul Harvest
+rules_text: As an additional cost to cast this spell, you may sacrifice a creature you control or pay {2}.
+Destroy target nonlegendary creature with power 3 or less. If additional mana was spent to cast this spell, destroy target creature with power 3 or less instead. => As an additional cost to cast this spell, you may pay {2}.
+Destroy target nonlegendary creature with power 3 or less. If additional mana was spent to cast this spell, destroy target creature with power 3 or less instead.
+
+Eradication
+
+Blimp-Pack Poacher
+
+Prowl
+
+Big Game Tycoon
+
+Pack Attack
+
+Avenging Vastaya
+
+Bushwhack Trap
+rules_text: When Bushwhack Trap enters, put a vulnerable counter on a creature with the lowest power among creatures opponents control. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+The first time each turn a creature you control is turned face up, put a vulnerable counter on a creature with the lowest power among creatures opponents control. => When Bushwhack Trap enters, put a vulnerable counter on a creature with the lowest power among creatures opponents control. [i](When declaring an attack you may choose creatures with Vulnerable controlled by the defending player to block an attacking creature you control.)[/i]
+The first time each turn a creature you control is turned face up, put a vulnerable counter on a creature with the lowest power among creatures opponents control that does not have a vulnerable counter.
+
+Shurimun Secret Keeper
+
+Fallen Sands General
+
+Pakaa Cub
+
+All-Terrain Trooper
+
+Bristlehog
+
+Facecheck
+
+Towering Pairofant
+
+Aurora Hallunatis
+
+Valley of Imitation
+
+Jack, Crime Boss
+rules_text: Brash [i](Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)[/i]
+Whenever Jack deals combat damage, create a Gold token.
+Whenever you sacrifice a Gold token, remove 1 damage from Jack.
+At the beginning of your end phase, if you have spent twelve or mana this turn, transform Jack.
+Partner [i](You can have two commanders if both have partner.)[/i] => Brash [i](Creatures with Brash cannot be blocked by creatures with toughness 2 or less.)[/i]
+Whenever Jack deals combat damage, create a Gold token.
+Whenever you sacrifice a Gold token, remove 1 damage from Jack.
+At the beginning of your end phase, if you have spent twelve or more mana this turn, transform Jack.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Mako
+
+Bull
+
+Frostcoat Cub
+
+Sett, The Boss
+
+Show Stopper
+
+Tag Out!
+
+Cosmic Call
+
+Samira
+
+Runaway Scraptrap
+
+Neeko
+rules_text: [i]Rulebreaker[/i] — A deck with this commander can have any number of Bird, Cat, Dog, Elnuk, Faerie, Reptile, and Spider creatures of any colour not in this commander's colour identity and any basic land.
+Disguise {GU} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+Whenever Neeko and one or more other creatures you control attacks, if there are six or more unique nonchangeling creature types among them, at the beginning of your first post-combat main phase, transform Neeko.
+Partner [i](You can have two commanders if both have partner.)[/i] => [i][i]Rulebreaker[/i][/i] — A deck with this commander can have any number of Bird, Cat, Dog, Elnuk, Faerie, Reptile, and Spider creatures of any colour and any basic land.
+Disguise {GU} [i](You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)[/i]
+Whenever Neeko and one or more other creatures you control attacks, if there are six or more creature types among them, at the beginning of your first post-combat main phase, transform Neeko. [i](Changeling creatures count as one creature type.)[/i]
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Ingvar's Plushie
+rules_text: [i]Rulebreaker[/i] — A deck with this commander can have any number of Poro creatures of any colour not in this commander's colour identity and any basic land.
+The first time each turn a poro creature you control enters, you may pay {3}, if you do, put a +1/+1 counter on each poro creature you control.
+Whenever you cast a poro creature, put a Story counter on Ingvar's Plushie. At the end of any phase on your turn, if Ingvar's Plushie has six or Story counters, remove all Story counters from Ingvar's Plushie, then transform him.
+Partner [i](You can have two commanders if both have partner.)[/i] => [i][i]Rulebreaker[/i][/i] — A deck with this commander can have any number of Poro creatures of any colour and any basic land.
+The first time each turn a poro creature you control enters, you may pay {3}, if you do, put a +1/+1 counter on each poro creature you control.
+Whenever you cast a poro creature, put a Story counter on Ingvar's Plushie. At the end of any phase on your turn, if Ingvar's Plushie has six or more Story counters, remove all Story counters from Ingvar's Plushie, then transform it.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Necrotic Nestling
+
+Nidalee, Queen of the Jungle
+
+Pakaa Protector
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

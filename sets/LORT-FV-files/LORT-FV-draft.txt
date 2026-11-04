@@ -7,7 +7,1077 @@
 			"type": "Creature — Frog Noble",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/0.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/0.png"
+			}
+		},
+		{
+			"name": "Portia the Peculiar",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}{W}",
+			"type": "Creature — Faerie Dragon",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/1.png"
+			}
+		},
+		{
+			"name": "Bursting Backpack",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/2.png"
+			}
+		},
+		{
+			"name": "Portal Pioneer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{G/W}",
+			"type": "Creature — Yordle Scout",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/3.png"
+			}
+		},
+		{
+			"name": "Sugary Snare",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G/W}{G/W}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/4.png"
+			}
+		},
+		{
+			"name": "Early Bird",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/5.png"
+			}
+		},
+		{
+			"name": "Sneaky Swap",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/6.png"
+			}
+		},
+		{
+			"name": "Formless Blade",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/7.png"
+			}
+		},
+		{
+			"name": "Wizened Helmsman",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{R}",
+			"type": "Creature — Elephant Mercenary Spellshaper",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/8.png"
+			}
+		},
+		{
+			"name": "Ashlesh's Deluge",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Artifact",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/9.png"
+			}
+		},
+		{
+			"name": "The Tidedancer",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Artifact Creature — Vehicle",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/10.png"
+			}
+		},
+		{
+			"name": "Vikrash the Exuberant",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Mercenary Spellshaper",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/11.png"
+			}
+		},
+		{
+			"name": "Master Lookout",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Monkey Fish Mercenary",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/12.png"
+			}
+		},
+		{
+			"name": "Dedicant of the Challenge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Monkey Mercenary Monk",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/13.png"
+			}
+		},
+		{
+			"name": "Octo Adventurer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}{B/R}",
+			"type": "Creature — Octopus Scout",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/14.png"
+			}
+		},
+		{
+			"name": "Sefirsa, Scourge of the Deep",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{R}",
+			"type": "Legendary Creature — Leviathan Dragon",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/15.png"
+			}
+		},
+		{
+			"name": "Joy Unending",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/16.png"
+			}
+		},
+		{
+			"name": "Marai Reef Spire",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/17.png"
+			}
+		},
+		{
+			"name": "Honest Croupier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Lizard Rogue",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/18.png"
+			}
+		},
+		{
+			"name": "Chakram Dancer",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Human Performer",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/19.png"
+			}
+		},
+		{
+			"name": "Scholarly Pioneer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/20.png"
+			}
+		},
+		{
+			"name": "Gentlemen's Duel",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/21.png"
+			}
+		},
+		{
+			"name": "Dragon Allegiant",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/22.png"
+			}
+		},
+		{
+			"name": "Mageseeker Inquisitor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Inquisitor",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/23.png"
+			}
+		},
+		{
+			"name": "Magical Fettering",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/24.png"
+			}
+		},
+		{
+			"name": "The Kingfisher",
+			"rarity": "rare",
+			"mana_cost": "{6}{W}{W}{W}",
+			"type": "Artifact Creature — Vehicle",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/25.png"
+			}
+		},
+		{
+			"name": "Cloud Drake",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/26.png"
+			}
+		},
+		{
+			"name": "Alatis the Gallant",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/27.png"
+			}
+		},
+		{
+			"name": "Taloned Strike",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/28.png"
+			}
+		},
+		{
+			"name": "Valhir's Prophet",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/29.png"
+			}
+		},
+		{
+			"name": "Berserker Ursine",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Bear Berserker",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/30.png"
+			}
+		},
+		{
+			"name": "Stormbringer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/31.png"
+			}
+		},
+		{
+			"name": "Flamecaller Caprine",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/32.png"
+			}
+		},
+		{
+			"name": "Invocation Of Thunder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/33.png"
+			}
+		},
+		{
+			"name": "Rhond, the Magma Serpent",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Serpent",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/34.png"
+			}
+		},
+		{
+			"name": "Clash of Giants",
+			"rarity": "rare",
+			"mana_cost": "{13}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/35.png"
+			}
+		},
+		{
+			"name": "Sky Splitter",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/36.png"
+			}
+		},
+		{
+			"name": "Yadulski Snowdog",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Dog",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/37.png"
+			}
+		},
+		{
+			"name": "Handy Harness",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/38.png"
+			}
+		},
+		{
+			"name": "Boadir of Blackened Ice",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/39.png"
+			}
+		},
+		{
+			"name": "Bladebound Berserker",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/40.png"
+			}
+		},
+		{
+			"name": "Conjured Capsizing",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/41.png"
+			}
+		},
+		{
+			"name": "Ocean Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/42.png"
+			}
+		},
+		{
+			"name": "Heisho, Shell of the World",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Creature — Giant Turtle",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/43.png"
+			}
+		},
+		{
+			"name": "Trusty Adnere",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Vastaya Advisor",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/44.png"
+			}
+		},
+		{
+			"name": "Empyrean Dance",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/45.png"
+			}
+		},
+		{
+			"name": "Prancing Sea Spirits",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Serpent Spirit",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/46.png"
+			}
+		},
+		{
+			"name": "Mihira, Aspect Ascendant",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Creature — Angel Avatar",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/47.png"
+			}
+		},
+		{
+			"name": "Black Shield",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/48.png"
+			}
+		},
+		{
+			"name": "Veiled Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Elk Wolf Spirit",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/49.png"
+			}
+		},
+		{
+			"name": "Lisa and Dolly",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Child Sorcerer",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/50.png"
+			}
+		},
+		{
+			"name": "Dark Binding",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/51.png"
+			}
+		},
+		{
+			"name": "Ruby-Eyed Conjurer",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/52.png"
+			}
+		},
+		{
+			"name": "Seismic Shard",
+			"rarity": "common",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/53.png"
+			}
+		},
+		{
+			"name": "Herald of Celestial Convergence",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/54.png"
+			}
+		},
+		{
+			"name": "Gentle Gemdragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/55.png"
+			}
+		},
+		{
+			"name": "Ottrani Dragon-Worshiper",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Vastaya Mystic",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/56.png"
+			}
+		},
+		{
+			"name": "Sinner's Vise",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Artifact",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/57.png"
+			}
+		},
+		{
+			"name": "Chained Caster",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/58.png"
+			}
+		},
+		{
+			"name": "Enraged Firespitter",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/59.png"
+			}
+		},
+		{
+			"name": "Lord Mallat",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/60.png"
+			}
+		},
+		{
+			"name": "Annie's Wildfire",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/61.png"
+			}
+		},
+		{
+			"name": "Armed Acquisitioner",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{U/B}",
+			"type": "Creature — Yordle Scout",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/62.png"
+			}
+		},
+		{
+			"name": "Headmistress Telsi",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/63.png"
+			}
+		},
+		{
+			"name": "Red-Barbed Razormace",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/64.png"
+			}
+		},
+		{
+			"name": "Iron Legionary",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Artifact Creature — Wraith Construct",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/65.png"
+			}
+		},
+		{
+			"name": "Bladepierced Revenant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Wraith Construct",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/66.png"
+			}
+		},
+		{
+			"name": "Indestructible",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/67.png"
+			}
+		},
+		{
+			"name": "Kashuri Swipe",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/68.png"
+			}
+		},
+		{
+			"name": "Howling Gale",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/69.png"
+			}
+		},
+		{
+			"name": "Eye Of The Storm",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/70.png"
+			}
+		},
+		{
+			"name": "Iascylla, Figurehead of the Deep",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{R}{R}",
+			"type": "Creature — Leviathan Kraken",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/71.png"
+			}
+		},
+		{
+			"name": "Galesong Flock",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/72.png"
+			}
+		},
+		{
+			"name": "Maryam, Temple Caretaker",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/73.png"
+			}
+		},
+		{
+			"name": "Sunken Temple",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/74.png"
+			}
+		},
+		{
+			"name": "Windborne Mariner",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/75.png"
+			}
+		},
+		{
+			"name": "Divine Whirlwind",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/76.png"
+			}
+		},
+		{
+			"name": "Exalted Cloudwinder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Bird Serpent",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/77.png"
+			}
+		},
+		{
+			"name": "Charlatan Fishmonger",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/78.png"
+			}
+		},
+		{
+			"name": "Prototype Porobot",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact Creature — Poro Construct",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/79.png"
+			}
+		},
+		{
+			"name": "Galesong Call",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/80.png"
+			}
+		},
+		{
+			"name": "Chemtech Drake",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Creature — Mutant Dragon",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/81.png"
+			}
+		},
+		{
+			"name": "Shady Spectacles",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/82.png"
+			}
+		},
+		{
+			"name": "Mountainous Vigor",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Instant — Dragon Boon",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/83.png"
+			}
+		},
+		{
+			"name": "Chemtech Blight",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Instant — Dragon Boon",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/84.png"
+			}
+		},
+		{
+			"name": "Hextech Prowess",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Instant — Dragon Boon",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/85.png"
+			}
+		},
+		{
+			"name": "Infernal Might",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Instant — Dragon Boon",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/86.png"
+			}
+		},
+		{
+			"name": "Oceanic Will",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant — Dragon Boon",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/87.png"
+			}
+		},
+		{
+			"name": "Cloudbringer's Grace",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Instant — Dragon Boon",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/88.png"
+			}
+		},
+		{
+			"name": "Primordial Roar",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}{B}{R}{G}",
+			"type": "Instant",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/89.png"
+			}
+		},
+		{
+			"name": "Dune Swallower",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Giant Voidling",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/90.png"
+			}
+		},
+		{
+			"name": "General of the Dunes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Soldier Advisor",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/91.png"
+			}
+		},
+		{
+			"name": "Defenders of the Sun Disc",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/92.png"
+			}
+		},
+		{
+			"name": "Ancient Malediction",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/93.png"
+			}
+		},
+		{
+			"name": "Tomb-Raider Barbara",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Lizard Rogue",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/94.png"
+			}
+		},
+		{
+			"name": "Horned Swarmcaller",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Creature — Insect Dragon",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/95.png"
+			}
+		},
+		{
+			"name": "Shackled Ghasts",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Wraith Construct",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/96.png"
+			}
+		},
+		{
+			"name": "Realm of Death",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/97.png"
+			}
+		},
+		{
+			"name": "Legion of the Severed",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact Creature — Wraith Construct",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/98.png"
+			}
+		},
+		{
+			"name": "Amalgamation Of Vile Rites",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Wraith Construct Horror",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/99.png"
+			}
+		},
+		{
+			"name": "Spectral Surveyor",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{W/U}",
+			"type": "Creature — Human Mystic Scout",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/100.png"
+			}
+		},
+		{
+			"name": "Lonely Chimeslime",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Slug",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/101.png"
+			}
+		},
+		{
+			"name": "Deathgrasp Cultist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/102.png"
+			}
+		},
+		{
+			"name": "Watery Grave",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/103.png"
+			}
+		},
+		{
+			"name": "Threshold of the Grey",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Landmark",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/104.png"
+			}
+		},
+		{
+			"name": "Spectral Ironhound",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Artifact Creature — Wraith Construct",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/105.png"
+			}
+		},
+		{
+			"name": "Erastin, the Disgraced",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Dragon Zombie",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/106.png"
+			}
+		},
+		{
+			"name": "Death's Grasp",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/107.png"
 			}
 		},
 		{
@@ -20,241 +1090,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/1_back.png"
+					"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/108_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/1_front.png"
-			}
-		},
-		{
-			"name": "Portia the Peculiar",
-			"rarity": "rare",
-			"mana_cost": "{7}{G}{W}",
-			"type": "Creature — Faerie Dragon",
-			"collector_number": "87",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/2.png"
-			}
-		},
-		{
-			"name": "Bursting Backpack",
-			"rarity": "uncommon",
-			"mana_cost": "{G/W}",
-			"type": "Instant",
-			"collector_number": "104",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/3.png"
-			}
-		},
-		{
-			"name": "Portal Pioneer",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{G/W}",
-			"type": "Creature — Yordle Scout",
-			"collector_number": "110",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/4.png"
-			}
-		},
-		{
-			"name": "Sugary Snare",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{G/W}{G/W}",
-			"type": "Sorcery",
-			"collector_number": "113",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/5.png"
-			}
-		},
-		{
-			"name": "Early Bird",
-			"rarity": "common",
-			"mana_cost": "{G}{W}",
-			"type": "Sorcery",
-			"collector_number": "65",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/6.png"
-			}
-		},
-		{
-			"name": "Sneaky Swap",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
-			"type": "Instant",
-			"collector_number": "96",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/7.png"
-			}
-		},
-		{
-			"name": "Formless Blade",
-			"rarity": "common",
-			"mana_cost": "{B/R}",
-			"type": "Instant",
-			"collector_number": "105",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/8.png"
-			}
-		},
-		{
-			"name": "Wizened Helmsman",
-			"rarity": "uncommon",
-			"mana_cost": "{5}{B}{R}",
-			"type": "Creature — Elephant Mercenary Spellshaper",
-			"collector_number": "102",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/9.png"
-			}
-		},
-		{
-			"name": "Ashlesh's Deluge",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Artifact",
-			"collector_number": "53",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/10.png"
-			}
-		},
-		{
-			"name": "The Tidedancer",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}{R}",
-			"type": "Artifact Creature — Vehicle",
-			"collector_number": "98",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/11.png"
-			}
-		},
-		{
-			"name": "Vikrash the Exuberant",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Human Mercenary Spellshaper",
-			"collector_number": "101",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/12.png"
-			}
-		},
-		{
-			"name": "Master Lookout",
-			"rarity": "uncommon",
-			"mana_cost": "{B/R}",
-			"type": "Creature — Monkey Fish Mercenary",
-			"collector_number": "108",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/13.png"
-			}
-		},
-		{
-			"name": "Dedicant of the Challenge",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Monkey Mercenary Monk",
-			"collector_number": "61",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/14.png"
-			}
-		},
-		{
-			"name": "Octo Adventurer",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{R}{B/R}",
-			"type": "Creature — Octopus Scout",
-			"collector_number": "109",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/15.png"
-			}
-		},
-		{
-			"name": "Sefirsa, Scourge of the Deep",
-			"rarity": "rare",
-			"mana_cost": "{6}{B}{R}",
-			"type": "Legendary Creature — Leviathan Dragon",
-			"collector_number": "91",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/16.png"
-			}
-		},
-		{
-			"name": "Joy Unending",
-			"rarity": "common",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Instant",
-			"collector_number": "78",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/17.png"
-			}
-		},
-		{
-			"name": "Marai Reef Spire",
-			"rarity": "common",
-			"mana_cost": "{B}{R}",
-			"type": "Enchantment — Landmark",
-			"collector_number": "80",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/18.png"
-			}
-		},
-		{
-			"name": "Honest Croupier",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Lizard Rogue",
-			"collector_number": "74",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/19.png"
-			}
-		},
-		{
-			"name": "Chakram Dancer",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}{R}",
-			"type": "Creature — Human Performer",
-			"collector_number": "56",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/20.png"
-			}
-		},
-		{
-			"name": "Scholarly Pioneer",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
-			"type": "Creature — Human Scout",
-			"collector_number": "90",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/21.png"
-			}
-		},
-		{
-			"name": "Gentlemen's Duel",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Instant",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/22.png"
-			}
-		},
-		{
-			"name": "Dragon Allegiant",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/23.png"
-			}
-		},
-		{
-			"name": "Mageseeker Inquisitor",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Inquisitor",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/24.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/108_front.png"
 			}
 		},
 		{
@@ -264,7 +1104,7 @@
 			"type": "Token Enchantment — Curse",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/25.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/110.png"
 			}
 		},
 		{
@@ -274,7 +1114,7 @@
 			"type": "Token Enchantment — Curse",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/26.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/111.png"
 			}
 		},
 		{
@@ -284,7 +1124,7 @@
 			"type": "Token Enchantment — Aura Curse",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/27.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/112.png"
 			}
 		},
 		{
@@ -294,57 +1134,7 @@
 			"type": "Token Enchantment — Aura Curse",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/28.png"
-			}
-		},
-		{
-			"name": "Magical Fettering",
-			"rarity": "common",
-			"mana_cost": "{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/29.png"
-			}
-		},
-		{
-			"name": "The Kingfisher",
-			"rarity": "rare",
-			"mana_cost": "{6}{W}{W}{W}",
-			"type": "Artifact Creature — Vehicle",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/30.png"
-			}
-		},
-		{
-			"name": "Cloud Drake",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Dragon",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/31.png"
-			}
-		},
-		{
-			"name": "Alatis the Gallant",
-			"rarity": "rare",
-			"mana_cost": "{5}{W}{W}",
-			"type": "Creature — Dragon",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/32.png"
-			}
-		},
-		{
-			"name": "Taloned Strike",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/33.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/113.png"
 			}
 		},
 		{
@@ -357,21 +1147,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/34_back.png"
+					"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/114_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/34_front.png"
-			}
-		},
-		{
-			"name": "Valhir's Prophet",
-			"rarity": "common",
-			"mana_cost": "{1}{G}{G}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "49",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/35.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/114_front.png"
 			}
 		},
 		{
@@ -381,157 +1161,7 @@
 			"type": "Token Enchantment — Landmark",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/36.png"
-			}
-		},
-		{
-			"name": "Berserker Ursine",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Human Bear Berserker",
-			"collector_number": "39",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/37.png"
-			}
-		},
-		{
-			"name": "Stormbringer",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Sorcery",
-			"collector_number": "48",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/38.png"
-			}
-		},
-		{
-			"name": "Flamecaller Caprine",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "43",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/39.png"
-			}
-		},
-		{
-			"name": "Invocation Of Thunder",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{G}",
-			"type": "Sorcery",
-			"collector_number": "45",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/40.png"
-			}
-		},
-		{
-			"name": "Rhond, the Magma Serpent",
-			"rarity": "rare",
-			"mana_cost": "{5}{G}{G}",
-			"type": "Creature — Serpent",
-			"collector_number": "46",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/41.png"
-			}
-		},
-		{
-			"name": "Clash of Giants",
-			"rarity": "rare",
-			"mana_cost": "{13}{G}{G}{G}",
-			"type": "Sorcery",
-			"collector_number": "42",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/42.png"
-			}
-		},
-		{
-			"name": "Sky Splitter",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "47",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/43.png"
-			}
-		},
-		{
-			"name": "Yadulski Snowdog",
-			"rarity": "common",
-			"mana_cost": "{G}{G}",
-			"type": "Creature — Dog",
-			"collector_number": "51",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/44.png"
-			}
-		},
-		{
-			"name": "Handy Harness",
-			"rarity": "rare",
-			"mana_cost": "{G}{G}",
-			"type": "Artifact — Equipment",
-			"collector_number": "44",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/45.png"
-			}
-		},
-		{
-			"name": "Boadir of Blackened Ice",
-			"rarity": "rare",
-			"mana_cost": "{6}{G}{G}",
-			"type": "Creature — Dragon",
-			"collector_number": "41",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/46.png"
-			}
-		},
-		{
-			"name": "Bladebound Berserker",
-			"rarity": "common",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/47.png"
-			}
-		},
-		{
-			"name": "Conjured Capsizing",
-			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Sorcery",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/48.png"
-			}
-		},
-		{
-			"name": "Ocean Drake",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Dragon",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/49.png"
-			}
-		},
-		{
-			"name": "Heisho, Shell of the World",
-			"rarity": "rare",
-			"mana_cost": "{5}{U}{U}{U}",
-			"type": "Creature — Giant Turtle",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/50.png"
-			}
-		},
-		{
-			"name": "Trusty Adnere",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Vastaya Advisor",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/51.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/116.png"
 			}
 		},
 		{
@@ -541,27 +1171,7 @@
 			"type": "Token Creature — Vastaya Child",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/52.png"
-			}
-		},
-		{
-			"name": "Empyrean Dance",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{U}{U}",
-			"type": "Instant",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/53.png"
-			}
-		},
-		{
-			"name": "Prancing Sea Spirits",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Serpent Spirit",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/54.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/117.png"
 			}
 		},
 		{
@@ -574,231 +1184,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/55_back.png"
+					"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/118_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/55_front.png"
-			}
-		},
-		{
-			"name": "Mihira, Aspect Ascendant",
-			"rarity": "rare",
-			"mana_cost": "{5}{W}{U}",
-			"type": "Creature — Angel Avatar",
-			"collector_number": "82",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/56.png"
-			}
-		},
-		{
-			"name": "Black Shield",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
-			"type": "Instant",
-			"collector_number": "54",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/57.png"
-			}
-		},
-		{
-			"name": "Veiled Protector",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Creature — Elk Wolf Spirit",
-			"collector_number": "100",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/58.png"
-			}
-		},
-		{
-			"name": "Lisa and Dolly",
-			"rarity": "common",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Human Child Sorcerer",
-			"collector_number": "79",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/59.png"
-			}
-		},
-		{
-			"name": "Dark Binding",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
-			"type": "Sorcery",
-			"collector_number": "60",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/60.png"
-			}
-		},
-		{
-			"name": "Ruby-Eyed Conjurer",
-			"rarity": "common",
-			"mana_cost": "{1}{W/U}",
-			"type": "Creature — Human Sorcerer",
-			"collector_number": "111",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/61.png"
-			}
-		},
-		{
-			"name": "Seismic Shard",
-			"rarity": "common",
-			"mana_cost": "{5}{W}{U}",
-			"type": "Sorcery",
-			"collector_number": "92",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/62.png"
-			}
-		},
-		{
-			"name": "Herald of Celestial Convergence",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}{U}",
-			"type": "Creature — Bird",
-			"collector_number": "72",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/63.png"
-			}
-		},
-		{
-			"name": "Gentle Gemdragon",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{W}{U}",
-			"type": "Creature — Dragon",
-			"collector_number": "71",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/64.png"
-			}
-		},
-		{
-			"name": "Ottrani Dragon-Worshiper",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Creature — Vastaya Mystic",
-			"collector_number": "86",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/65.png"
-			}
-		},
-		{
-			"name": "Sinner's Vise",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Artifact",
-			"collector_number": "94",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/66.png"
-			}
-		},
-		{
-			"name": "Chained Caster",
-			"rarity": "uncommon",
-			"mana_cost": "{0}",
-			"type": "Creature — Human Sorcerer",
-			"collector_number": "55",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/67.png"
-			}
-		},
-		{
-			"name": "Enraged Firespitter",
-			"rarity": "rare",
-			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Dragon",
-			"collector_number": "31",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/68.png"
-			}
-		},
-		{
-			"name": "Lord Mallat",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Human Advisor",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/69.png"
-			}
-		},
-		{
-			"name": "Annie's Wildfire",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Sorcery",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/70.png"
-			}
-		},
-		{
-			"name": "Armed Acquisitioner",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{U/B}",
-			"type": "Creature — Yordle Scout",
-			"collector_number": "103",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/71.png"
-			}
-		},
-		{
-			"name": "Headmistress Telsi",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Human Advisor",
-			"collector_number": "32",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/72.png"
-			}
-		},
-		{
-			"name": "Red-Barbed Razormace",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Lizard",
-			"collector_number": "38",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/73.png"
-			}
-		},
-		{
-			"name": "Iron Legionary",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{R}",
-			"type": "Artifact Creature — Wraith Construct",
-			"collector_number": "35",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/74.png"
-			}
-		},
-		{
-			"name": "Bladepierced Revenant",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Artifact Creature — Wraith Construct",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/75.png"
-			}
-		},
-		{
-			"name": "Indestructible",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Instant",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/76.png"
-			}
-		},
-		{
-			"name": "Kashuri Swipe",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "36",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/77.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/118_front.png"
 			}
 		},
 		{
@@ -811,51 +1201,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/78_back.png"
+					"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/120_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/78_front.png"
-			}
-		},
-		{
-			"name": "Howling Gale",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{R}{U/R}",
-			"type": "Sorcery",
-			"collector_number": "107",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/79.png"
-			}
-		},
-		{
-			"name": "Eye Of The Storm",
-			"rarity": "common",
-			"mana_cost": "{2}{U}{R}",
-			"type": "Instant",
-			"collector_number": "68",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/80.png"
-			}
-		},
-		{
-			"name": "Iascylla, Figurehead of the Deep",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}{U}{R}{R}",
-			"type": "Creature — Leviathan Kraken",
-			"collector_number": "76",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/81.png"
-			}
-		},
-		{
-			"name": "Galesong Flock",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{R}",
-			"type": "Sorcery",
-			"collector_number": "69",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/82.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/120_front.png"
 			}
 		},
 		{
@@ -865,354 +1215,24 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/83.png"
-			}
-		},
-		{
-			"name": "Maryam, Temple Caretaker",
-			"rarity": "rare",
-			"mana_cost": "{U}{R}",
-			"type": "Creature — Human Cleric",
-			"collector_number": "81",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/84.png"
-			}
-		},
-		{
-			"name": "Sunken Temple",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}{R}",
-			"type": "Enchantment — Landmark",
-			"collector_number": "97",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/85.png"
-			}
-		},
-		{
-			"name": "Windborne Mariner",
-			"rarity": "common",
-			"mana_cost": "{1}{U/R}",
-			"type": "Creature — Human Citizen",
-			"collector_number": "114",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/86.png"
-			}
-		},
-		{
-			"name": "Divine Whirlwind",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{U}{R}",
-			"type": "Instant",
-			"collector_number": "63",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/87.png"
-			}
-		},
-		{
-			"name": "Exalted Cloudwinder",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{R}",
-			"type": "Creature — Bird Serpent",
-			"collector_number": "67",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/88.png"
-			}
-		},
-		{
-			"name": "Charlatan Fishmonger",
-			"rarity": "common",
-			"mana_cost": "{2}{U}{R}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "57",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/89.png"
-			}
-		},
-		{
-			"name": "Prototype Porobot",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{R}",
-			"type": "Artifact Creature — Poro Construct",
-			"collector_number": "89",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/90.png"
-			}
-		},
-		{
-			"name": "Galesong Call",
-			"rarity": "common",
-			"mana_cost": "{U/R}",
-			"type": "Sorcery",
-			"collector_number": "106",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/91.png"
-			}
-		},
-		{
-			"name": "Chemtech Drake",
-			"rarity": "rare",
-			"mana_cost": "{5}{U}{R}",
-			"type": "Creature — Mutant Dragon",
-			"collector_number": "58",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/92.png"
-			}
-		},
-		{
-			"name": "Shady Spectacles",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{U}{R}",
-			"type": "Artifact — Equipment",
-			"collector_number": "93",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/93.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/122.png"
 			}
 		},
 		{
 			"name": "Elder Dragon",
 			"rarity": "mythic",
 			"mana_cost": "{6}{W}{U}{B}{R}{G}",
-			"type": "Legendary Creature — Dragon Elder",
+			"type": "Legendary Creature — Elder Dragon",
 			"collector_number": "66",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/94_back.png"
+					"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/123_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/94_front.png"
-			}
-		},
-		{
-			"name": "Mountainous Vigor",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{W}",
-			"type": "Instant — Dragon Boon",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/95.png"
-			}
-		},
-		{
-			"name": "Chemtech Blight",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{B}",
-			"type": "Instant — Dragon Boon",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/96.png"
-			}
-		},
-		{
-			"name": "Hextech Prowess",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{R}",
-			"type": "Instant — Dragon Boon",
-			"collector_number": "73",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/97.png"
-			}
-		},
-		{
-			"name": "Infernal Might",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{R}",
-			"type": "Instant — Dragon Boon",
-			"collector_number": "34",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/98.png"
-			}
-		},
-		{
-			"name": "Oceanic Will",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{U}",
-			"type": "Instant — Dragon Boon",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/99.png"
-			}
-		},
-		{
-			"name": "Cloudbringer's Grace",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
-			"type": "Instant — Dragon Boon",
-			"collector_number": "59",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/100.png"
-			}
-		},
-		{
-			"name": "Primordial Roar",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}{U}{B}{R}{G}",
-			"type": "Instant",
-			"collector_number": "88",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/101.png"
-			}
-		},
-		{
-			"name": "Dune Swallower",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}{B}",
-			"type": "Creature — Giant Voidling",
-			"collector_number": "64",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/102.png"
-			}
-		},
-		{
-			"name": "General of the Dunes",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{B}",
-			"type": "Creature — Human Soldier Advisor",
-			"collector_number": "70",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/103.png"
-			}
-		},
-		{
-			"name": "Defenders of the Sun Disc",
-			"rarity": "common",
-			"mana_cost": "{U}{B}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "62",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/104.png"
-			}
-		},
-		{
-			"name": "Ancient Malediction",
-			"rarity": "common",
-			"mana_cost": "{U}{B}",
-			"type": "Instant",
-			"collector_number": "52",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/105.png"
-			}
-		},
-		{
-			"name": "Tomb-Raider Barbara",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{B}",
-			"type": "Creature — Lizard Rogue",
-			"collector_number": "99",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/106.png"
-			}
-		},
-		{
-			"name": "Horned Swarmcaller",
-			"rarity": "common",
-			"mana_cost": "{5}{U}{B}",
-			"type": "Creature — Insect Dragon",
-			"collector_number": "75",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/107.png"
-			}
-		},
-		{
-			"name": "Shackled Ghasts",
-			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "Artifact Creature — Wraith Construct",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/108.png"
-			}
-		},
-		{
-			"name": "Realm of Death",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}{B}{B}",
-			"type": "Sorcery",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/109.png"
-			}
-		},
-		{
-			"name": "Legion of the Severed",
-			"rarity": "common",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Artifact Creature — Wraith Construct",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/110.png"
-			}
-		},
-		{
-			"name": "Amalgamation Of Vile Rites",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}",
-			"type": "Artifact Creature — Wraith Construct Horror",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/111.png"
-			}
-		},
-		{
-			"name": "Spectral Surveyor",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{W/U}",
-			"type": "Creature — Human Mystic Scout",
-			"collector_number": "112",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/112.png"
-			}
-		},
-		{
-			"name": "Lonely Chimeslime",
-			"rarity": "common",
-			"mana_cost": "{B}{B}",
-			"type": "Creature — Slug",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/113.png"
-			}
-		},
-		{
-			"name": "Deathgrasp Cultist",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Human Warlock",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/114.png"
-			}
-		},
-		{
-			"name": "Watery Grave",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Sorcery",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/115.png"
-			}
-		},
-		{
-			"name": "Threshold of the Grey",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Enchantment — Landmark",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/116.png"
-			}
-		},
-		{
-			"name": "Spectral Ironhound",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Artifact Creature — Wraith Construct",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/117.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/123_front.png"
 			}
 		},
 		{
@@ -1222,27 +1242,7 @@
 			"type": "Token Creature — Serpent Wraith",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/118.png"
-			}
-		},
-		{
-			"name": "Erastin, the Disgraced",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Dragon Zombie",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/119.png"
-			}
-		},
-		{
-			"name": "Death's Grasp",
-			"rarity": "common",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Instant",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/120.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/125.png"
 			}
 		},
 		{
@@ -1255,11 +1255,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/121_back.png"
+					"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/126_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/121_front.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/126_front.png"
 			}
 		},
 		{
@@ -1269,14 +1269,13 @@
 			"type": "Emblem — Mordekaiser",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Novawolf4000.github.io/sets/LORT-FV-files/img/122.png"
+				"en": "https://novawolf4000.github.io/sets/LORT-FV-files/img/128.png"
 			}
 		}
 	]
 
 [rare(1)]
 	2 Skip, King of the Reef
-	1 Nilah
 	2 Portia the Peculiar
 	2 Ashlesh's Deluge
 	2 The Tidedancer
@@ -1286,31 +1285,32 @@
 	2 The Kingfisher
 	2 Cloud Drake
 	2 Alatis the Gallant
-	1 Volibear, The Thunder's Roar
 	2 Rhond, the Magma Serpent
 	2 Clash of Giants
 	2 Handy Harness
 	2 Boadir of Blackened Ice
 	2 Heisho, Shell of the World
-	1 Morgana, The Veiled Lady
 	2 Mihira, Aspect Ascendant
 	2 Herald of Celestial Convergence
 	2 Ottrani Dragon-Worshiper
 	2 Enraged Firespitter
 	2 Headmistress Telsi
 	2 Kashuri Swipe
-	1 Janna, Blue Bird of the Sea
 	2 Iascylla, Figurehead of the Deep
 	2 Maryam, Temple Caretaker
 	2 Sunken Temple
 	2 Chemtech Drake
-	1 Elder Dragon
 	2 Primordial Roar
 	2 Dune Swallower
 	2 Realm of Death
 	2 Amalgamation Of Vile Rites
 	2 Watery Grave
 	2 Erastin, the Disgraced
+	1 Nilah
+	1 Volibear, The Thunder's Roar
+	1 Morgana, The Veiled Lady
+	1 Janna, Blue Bird of the Sea
+	1 Elder Dragon
 	1 Mordekaiser, The Iron Revenant
 [uncommon(3)]
 	4 Bursting Backpack
@@ -1424,7 +1424,6 @@
 	8 Death's Grasp
 [foil(1)]
 	2 Skip, King of the Reef
-	1 Nilah
 	2 Portia the Peculiar
 	6 Bursting Backpack
 	6 Portal Pioneer
@@ -1453,7 +1452,6 @@
 	2 Cloud Drake
 	2 Alatis the Gallant
 	6 Taloned Strike
-	1 Volibear, The Thunder's Roar
 	12 Valhir's Prophet
 	6 Berserker Ursine
 	6 Stormbringer
@@ -1472,7 +1470,6 @@
 	6 Trusty Adnere
 	6 Empyrean Dance
 	12 Prancing Sea Spirits
-	1 Morgana, The Veiled Lady
 	2 Mihira, Aspect Ascendant
 	6 Black Shield
 	6 Veiled Protector
@@ -1495,7 +1492,6 @@
 	6 Bladepierced Revenant
 	12 Indestructible
 	2 Kashuri Swipe
-	1 Janna, Blue Bird of the Sea
 	6 Howling Gale
 	12 Eye Of The Storm
 	2 Iascylla, Figurehead of the Deep
@@ -1510,7 +1506,6 @@
 	12 Galesong Call
 	2 Chemtech Drake
 	6 Shady Spectacles
-	1 Elder Dragon
 	6 Mountainous Vigor
 	6 Chemtech Blight
 	6 Hextech Prowess
@@ -1536,10 +1531,14 @@
 	6 Spectral Ironhound
 	2 Erastin, the Disgraced
 	12 Death's Grasp
+	1 Nilah
+	1 Volibear, The Thunder's Roar
+	1 Morgana, The Veiled Lady
+	1 Janna, Blue Bird of the Sea
+	1 Elder Dragon
 	1 Mordekaiser, The Iron Revenant
 [wildcard(1)]
 	7 Skip, King of the Reef
-	4 Nilah
 	7 Portia the Peculiar
 	15 Bursting Backpack
 	15 Portal Pioneer
@@ -1568,7 +1567,6 @@
 	7 Cloud Drake
 	7 Alatis the Gallant
 	15 Taloned Strike
-	4 Volibear, The Thunder's Roar
 	6 Valhir's Prophet
 	15 Berserker Ursine
 	15 Stormbringer
@@ -1587,7 +1585,6 @@
 	15 Trusty Adnere
 	15 Empyrean Dance
 	6 Prancing Sea Spirits
-	4 Morgana, The Veiled Lady
 	7 Mihira, Aspect Ascendant
 	15 Black Shield
 	15 Veiled Protector
@@ -1610,7 +1607,6 @@
 	15 Bladepierced Revenant
 	6 Indestructible
 	7 Kashuri Swipe
-	4 Janna, Blue Bird of the Sea
 	15 Howling Gale
 	6 Eye Of The Storm
 	7 Iascylla, Figurehead of the Deep
@@ -1625,7 +1621,6 @@
 	6 Galesong Call
 	7 Chemtech Drake
 	15 Shady Spectacles
-	4 Elder Dragon
 	15 Mountainous Vigor
 	15 Chemtech Blight
 	15 Hextech Prowess
@@ -1651,4 +1646,9 @@
 	15 Spectral Ironhound
 	7 Erastin, the Disgraced
 	6 Death's Grasp
+	4 Nilah
+	4 Volibear, The Thunder's Roar
+	4 Morgana, The Veiled Lady
+	4 Janna, Blue Bird of the Sea
+	4 Elder Dragon
 	4 Mordekaiser, The Iron Revenant
